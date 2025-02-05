@@ -1,0 +1,2 @@
+# smug-cli
+Smugmug cli
