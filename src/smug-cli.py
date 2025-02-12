@@ -97,7 +97,8 @@ def filter_output( orig_list, filter_keys ):
 @cli.command()
 @click.option('--raw', is_flag=True, help='Raw json',default=False)
 @click.pass_context
-def listalbums(ctx, raw ):
+@command_wrapper
+def list_albums(ctx, raw ):
     """List albums
     """
 
@@ -109,7 +110,8 @@ def listalbums(ctx, raw ):
         listobj=helper.request('GET', url, params=params )
         album_list.extend( listobj['Response']['Album'] )
         if ('NextPage' in listobj['Response']['Pages']):
-            # seems to be a bug in the rqeuests lib, need to pass query params as options
+            # seems to be a bug in the rqeuests lib, need to pass query params as options, the 
+            # nextpage URL isn't working
             params={'count': 100, 
                     'start': listobj['Response']['Pages']['Start'] + listobj['Response']['Pages']['Count']}
         else:
@@ -194,20 +196,22 @@ def create_rename_list(ctx):
 
 @cli.command()
 @click.pass_context
+@command_wrapper
 def bulk_rename(ctx):
     """Given a list from create_rename_list, rename the albums
     """
     helper=ApiHelper( ctx.obj.smugmug )
     inobj=json.load( sys.stdin )
     for album in inobj['RenamedAlbums']:
-        updateobj={}
-        updateobj['UrlName']=album['UrlName']
-        updateobj['Name']=album['Name']
-        helper.request(
-            'PATCH',
-            f"/api/v2/album/{album['AlbumKey']}",
-            data=updateobj)
-  
+        if not "Error" in album:
+            updateobj={}
+            updateobj['UrlName']=album['UrlName']
+            updateobj['Name']=album['Name']
+            helper.request(
+                'PATCH',
+                f"/api/v2/album/{album['AlbumKey']}",
+                data=updateobj)
+    
 
         
         
