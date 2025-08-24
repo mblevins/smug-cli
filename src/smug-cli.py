@@ -68,7 +68,7 @@ def command_wrapper(func):
 def cli(ctx, debug ):
     # todo: turn on root DEBUG
     root = logging.getLogger()
-    root.setLevel(logging.DEBUG)
+    root.setLevel(logging.WARNING)
     if (debug):
         log.setLevel(logging.DEBUG)
     try:
@@ -97,30 +97,33 @@ def filter_output( orig_list, filter_keys ):
 @cli.command()
 @click.option('--raw', is_flag=True, help='Raw json',default=False)
 @click.pass_context
-@command_wrapper
 def list_albums(ctx, raw ):
     """List albums
     """
 
-    helper=ApiHelper( ctx.obj.smugmug )
-    url=f"/api/v2/user/{helper.get_user()}!albums"
-    album_list=[]
-    params={'count': 100, 'start': 1 }
-    while url:
-        listobj=helper.request('GET', url, params=params )
-        album_list.extend( listobj['Response']['Album'] )
-        if ('NextPage' in listobj['Response']['Pages']):
-            # seems to be a bug in the rqeuests lib, need to pass query params as options, the 
-            # nextpage URL isn't working
-            params={'count': 100, 
-                    'start': listobj['Response']['Pages']['Start'] + listobj['Response']['Pages']['Count']}
+    try:
+        helper=ApiHelper( ctx.obj.smugmug )
+        url=f"/api/v2/user/{helper.get_user()}!albums"
+        album_list=[]
+        params={'count': 100, 'start': 1 }
+        while url:
+            listobj=helper.request('GET', url, params=params )
+            album_list.extend( listobj['Response']['Album'] )
+            if ('NextPage' in listobj['Response']['Pages']):
+                # seems to be a bug in the rqeuests lib, need to pass query params as options, the 
+                # nextpage URL isn't working
+                params={'count': 100, 
+                        'start': listobj['Response']['Pages']['Start'] + listobj['Response']['Pages']['Count']}
+            else:
+                url=None
+        if raw:
+            print(json.dumps( {'Album': album_list}, indent=2))
         else:
-            url=None
-    if raw:
-         print(json.dumps( {'Album': album_list}, indent=2))
-    else:
-        filter_keys=['UrlName', 'Name', 'AlbumKey', 'NodeID', 'Date']
-        print(json.dumps( {'Album': filter_output( album_list, filter_keys)}, indent=2))
+            filter_keys=['UrlName', 'Name', 'AlbumKey', 'NodeID', 'Date']
+            print(json.dumps( {'Album': filter_output( album_list, filter_keys)}, indent=2))
+    except SmugmugServiceException as e:
+        log.error(f"Error during smugmug service setup {e}")
+        log.debug(traceback.format_exc())
 
 
 def rename_helper( album, date ):
@@ -196,24 +199,32 @@ def create_rename_list(ctx):
 
 @cli.command()
 @click.pass_context
-@command_wrapper
 def bulk_rename(ctx):
     """Given a list from create_rename_list, rename the albums
     """
-    helper=ApiHelper( ctx.obj.smugmug )
-    inobj=json.load( sys.stdin )
-    for album in inobj['RenamedAlbums']:
-        if not "Error" in album:
-            updateobj={}
-            updateobj['UrlName']=album['UrlName']
-            updateobj['Name']=album['Name']
-            helper.request(
-                'PATCH',
-                f"/api/v2/album/{album['AlbumKey']}",
-                data=updateobj)
-    
+    try:
+        helper=ApiHelper( ctx.obj.smugmug )
+        inobj=json.load( sys.stdin )
+        for album in inobj['RenamedAlbums']:
+            if not "Error" in album:
+                updateobj={}
+                updateobj['UrlName']=album['UrlName']
+                updateobj['Name']=album['Name']
+                helper.request(
+                    'PATCH',
+                    f"/api/v2/album/{album['AlbumKey']}",
+                    data=updateobj)
+    except SmugmugServiceException as e:
+        log.error(f"Error during smugmug service setup {e}")
+        log.debug(traceback.format_exc())
 
-        
+    
+@cli.command()
+@click.option('--album', is_flag=True, help='Smugmyg album page',default=False)
+@click.pass_context
+def create_photo_md(ctx, album):
+    """Create a markdown page with photos
+    """
         
 
 if __name__ == '__main__':
