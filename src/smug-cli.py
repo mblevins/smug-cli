@@ -86,43 +86,59 @@ def authorize(ctx):
     try:
         ctx.obj.smugmug.create_access_token()
     except SmugmugServiceException as e:
-        log.error(f"Error during smugmug service setup {e}")
+        log.error(f"Error during smugmug service  {e}")
+        log.debug(traceback.format_exc())
+
+@cli.command()
+@click.pass_context
+def get_user(ctx):
+    try:
+        helper=ApiHelper( ctx.obj.smugmug )
+        print(helper.get_user())
+    except SmugmugServiceException as e:
+        log.error(f"Error during smugmug service  {e}")
         log.debug(traceback.format_exc())
 
 
-def filter_output( orig_list, filter_keys ):
+def filter_list_output( orig_list, filter_keys ):
     return( [{k:v for (k,v) in l.items() if k in filter_keys} for l in orig_list] )
+
+def filter_object_output( obj, filter_keys ):
+    return{k: obj.get(k, None) for k in filter_keys}
+
+def list_albums_helper(helper):
+    url=f"/api/v2/user/{helper.get_user()}!albums"
+    album_list=[]
+    params={'count': 100, 'start': 1 }
+    while url:
+        listobj=helper.request('GET', url, params=params )
+        album_list.extend( listobj['Response']['Album'] )
+        if ('NextPage' in listobj['Response']['Pages']):
+            # seems to be a bug in the rqeuests lib, need to pass query params as options, the 
+            # nextpage URL isn't working
+            params={'count': 100, 
+                    'start': listobj['Response']['Pages']['Start'] + listobj['Response']['Pages']['Count']}
+        else:
+            url=None
+    return album_list
 
 
 @cli.command()
-@click.option('--raw', is_flag=True, help='Raw json',default=False)
+@click.option('--all', is_flag=True, help='Return all fields',default=False)
 @click.pass_context
-def list_albums(ctx, raw ):
+def get_albums(ctx, all ):
     """List albums
     """
-
     try:
         helper=ApiHelper( ctx.obj.smugmug )
-        url=f"/api/v2/user/{helper.get_user()}!albums"
-        album_list=[]
-        params={'count': 100, 'start': 1 }
-        while url:
-            listobj=helper.request('GET', url, params=params )
-            album_list.extend( listobj['Response']['Album'] )
-            if ('NextPage' in listobj['Response']['Pages']):
-                # seems to be a bug in the rqeuests lib, need to pass query params as options, the 
-                # nextpage URL isn't working
-                params={'count': 100, 
-                        'start': listobj['Response']['Pages']['Start'] + listobj['Response']['Pages']['Count']}
-            else:
-                url=None
-        if raw:
+        album_list=list_albums_helper( helper )
+        if all:
             print(json.dumps( {'Album': album_list}, indent=2))
         else:
-            filter_keys=['UrlName', 'Name', 'AlbumKey', 'NodeID', 'Date']
-            print(json.dumps( {'Album': filter_output( album_list, filter_keys)}, indent=2))
+            filter_keys=['UrlName', 'Name', 'Uri', 'Date', 'WebUri']
+            print(json.dumps( {'Album': filter_list_output( album_list, filter_keys)}, indent=2))
     except SmugmugServiceException as e:
-        log.error(f"Error during smugmug service setup {e}")
+        log.error(f"Error during smugmug service  {e}")
         log.debug(traceback.format_exc())
 
 
@@ -197,6 +213,8 @@ def create_rename_list(ctx):
                 outobj['RenamedAlbums'].append( new_album )    
     json.dump( outobj, sys.stdout, indent=2)
 
+
+
 @cli.command()
 @click.pass_context
 def bulk_rename(ctx):
@@ -215,17 +233,65 @@ def bulk_rename(ctx):
                     f"/api/v2/album/{album['AlbumKey']}",
                     data=updateobj)
     except SmugmugServiceException as e:
-        log.error(f"Error during smugmug service setup {e}")
+        log.error(f"Error during smugmug service {e}")
+        log.debug(traceback.format_exc())
+    
+@cli.command()
+@click.option('--url', help='url', required=True)
+@click.pass_context
+def request(ctx, url ):
+    """Return raw_json for a URL (mostly for dev/debugging)
+    """
+    try:
+        helper=ApiHelper( ctx.obj.smugmug )
+        obj=helper.request('GET', url )
+        print(json.dumps( obj, indent=2 ))
+    except SmugmugServiceException as e:
+        log.error(f"Error during smugmug service  {e}")
         log.debug(traceback.format_exc())
 
     
 @cli.command()
-@click.option('--album', is_flag=True, help='Smugmyg album page',default=False)
+@click.option('--album_uri', help='Smugmug album uri', required=True)
+@click.option('--all', is_flag=True, help='All fields',default=False)
 @click.pass_context
-def create_photo_md(ctx, album):
-    """Create a markdown page with photos
+def get_album_images(ctx, album_uri, all ):
+    """Create a json file for an album with image links
     """
+    album={}
+    try:
+        helper=ApiHelper( ctx.obj.smugmug )
+        album_data=helper.request('GET', album_uri )['Response']['Album']  
+        if all:
+            album=album_data
+        else:
+            filter_keys=['UrlName', 'Name', 'Uri', 'Date', 'WebUri']
+            album=filter_object_output( album_data, filter_keys)
+
+        images_url=album_data['Uris']['AlbumImages']['Uri']
+        images_data=helper.request('GET', images_url )['Response']['AlbumImage']
+        album_images=[]
+        for image_data in images_data:
+            image={}
+            if all:
+                image=image_data
+            else:
+                filter_keys=['Latitude', 'Longitude', 'FileName', 'Date', 'Uri']
+                image=filter_object_output( image_data, filter_keys)
+
+            image_detail_url=image_data['Uris']['ImageSizeDetails']['Uri']
+            image_size_details=helper.request('GET', image_detail_url )['Response']['ImageSizeDetails']
+            image['ImageSizeDetails']=image_size_details
+            album_images.append( image )
+        album['Images'] = album_images
         
+    except SmugmugServiceException as e:
+        log.error(f"Error during smugmug service  {e}")
+        log.debug(traceback.format_exc())
+     
+    print(json.dumps( album, indent=2))
+
+
 
 if __name__ == '__main__':
     cli()

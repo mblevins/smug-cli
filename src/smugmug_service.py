@@ -58,9 +58,9 @@ class SmugmugService:
             session=OAuth1Session(self.api_key, client_secret=self.api_secret, callback_uri="oob")
             response=session.fetch_request_token(self.REQUEST_TOKEN_URL)
  
+            step="get auth code"
             # Second, we need to give the user the web URL where they can authorize our
             # application.
-            step="get auth code"
             auth_url = session.authorization_url(self.AUTHORIZE_URL, Access='Full', Permissions='Modify')
             print(f'Go to {auth_url} in a web browser.')
 
@@ -72,22 +72,21 @@ class SmugmugService:
             sys.stdout.flush()
             verifier = sys.stdin.readline().strip()
 
+            step="get access token"
             # Finally, we can use the verifier code, along with the request token and
             # secret, to sign a request for an access token.
-            step="get access token"
             response=session.fetch_access_token(self.ACCESS_TOKEN_URL,verifier=verifier)
             at=response.get("oauth_token")
             ats=response.get("oauth_token_secret")
 
-            # Validate the session
             step="validate access token"
-            #print(session.get(
-            #    self.API_ORIGIN + '/api/v2!authuser',
-            #    headers={'Accept': 'application/json'}).text)
+            # Validate the session
+            response=session.get(
+                self.API_ORIGIN + '/api/v2!authuser',
+                headers={'Accept': 'application/json'})
             
-            # The access token we have received is valid forever, unless the user
-            # revokes it, store it.
             step="store access token"
+            # Store the access token for subsequence requests
             accessobj={ 'access_token': at, 'access_token_secret': ats}
             with open( self.get_accessfilename(), "w") as fp:
                   json.dump( accessobj, fp )

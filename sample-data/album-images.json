@@ -1,0 +1,3619 @@
+{
+  "UrlName": "2023-Port-Angelas",
+  "Name": "2023-Port-Angelas",
+  "Uri": "/api/v2/album/bjvfsZ",
+  "Date": "2025-08-24T00:33:00+00:00",
+  "WebUri": "https://lmblevins.smugmug.com/Travel/2023-Port-Angelas",
+  "Images": [
+    {
+      "Latitude": "46.190761111111",
+      "Longitude": "-123.84947222222",
+      "FileName": "L_IMG_4280.jpg",
+      "Date": "2025-08-24T00:34:06+00:00",
+      "Uri": "/api/v2/album/bjvfsZ/image/wbHX9Wp-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-wbHX9Wp/0/#size#/L_IMG_4280-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-wbHX9Wp/0/MLKhMh834Sv52dfpLzNSL5SPnSzZcNmdbzPm5d7Nm/Ti/L_IMG_4280-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-wbHX9Wp/0/LTXCzwgsp7cHRjD35sGVrjHhGQ2hsC9ChXJ7pNVTs/Th/L_IMG_4280-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-wbHX9Wp/0/NTXLbjsSN4bbkK5XFBWFMbPcnc3bLFPxNdx8BZ4hS/S/L_IMG_4280-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Size": 48298,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-wbHX9Wp/0/MGmcDxJr3MW5TNGHPjpknMHfWBJXtbCQ7qQkff3rZ/M/L_IMG_4280-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Size": 85285,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-wbHX9Wp/0/NNkDq5K46dCZP6t2mpxxbn7rjp2rSQJcVvgqWp3kV/L/L_IMG_4280-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Size": 131470,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-wbHX9Wp/0/LZg6gWXThnS4FbDp3th8CjXhxZD5r2CBfMm2BR98T/XL/L_IMG_4280-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 192808,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-wbHX9Wp/0/NggD2S9z22pLmLmRXxPNCCCdQGXqJRj894S58F7k2/X2/L_IMG_4280-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-wbHX9Wp/0/MK9sskXPc4gngJR35G6Dr4G2C5zfPhbmGs7k5sczS/X3/L_IMG_4280-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-wbHX9Wp/0/NMqSTMgrH5GWZXQ67Wtn33WgwGPJsJ8Dc8SKLPMrt/X4/L_IMG_4280-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-wbHX9Wp/0/MZJgr297rG8bg8w5Gw44bh3zBT3VXRcS5np6FKNHJ/X5/L_IMG_4280-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-wbHX9Wp/0/LNJsS2GbcpdJ9FvkcQvsLBFwxVTG3vNNMFr5V2Jf5/4K/L_IMG_4280-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-wbHX9Wp/0/K4rJX4tLbL3KjXvCTLhtSPfJMHTgb9w92ZFvXWmDC/O/L_IMG_4280.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 3925552,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/wbHX9Wp-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/wbHX9Wp-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "46.306441666667",
+      "Longitude": "-124.03750555556",
+      "FileName": "L_IMG_4284.jpg",
+      "Date": "2025-08-24T00:34:09+00:00",
+      "Uri": "/api/v2/album/bjvfsZ/image/2m5PwgN-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-2m5PwgN/0/#size#/L_IMG_4284-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-2m5PwgN/0/Kh4qQSSjmt8W85ZGv2jkGmfBPLkfHcQHJ6QH2RGfz/Ti/L_IMG_4284-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-2m5PwgN/0/MX7Ngd7bck77xrMcRnnhHBkJgmfzpT9tkPSnwj6FZ/Th/L_IMG_4284-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-2m5PwgN/0/LzNcsH39DBnKfzF8p26zZj97PpxG2XBwLD2mHfT99/S/L_IMG_4284-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Size": 35347,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-2m5PwgN/0/NhG585ktTRjqZt39PLh5ZC4p6V95mC4jfVkr6sc8G/M/L_IMG_4284-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Size": 61520,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-2m5PwgN/0/KHG8cMWDhZC4WKmVVmMd3DqNXNLJZKntt67cRsLCD/L/L_IMG_4284-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Size": 95013,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-2m5PwgN/0/LPWfjtcQhpmCq6ZwMQJdGpkNkSvD27m9zGzQ35Cmg/XL/L_IMG_4284-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 140734,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-2m5PwgN/0/MFP8PZ8D8BnbjQGCR2Tc75PxDbvn6WkTXMcsJd2kn/X2/L_IMG_4284-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-2m5PwgN/0/M9Q2KKsKqvWJZXp7GLKGThsMJrjWskWMzmmZVxsN5/X3/L_IMG_4284-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-2m5PwgN/0/Mn62m757J6nLF7BZv7j6TDjb4BhDzdTzqSZj4rfJ5/X4/L_IMG_4284-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-2m5PwgN/0/KRrF7xjkwPth4Kbpx47GvqWMSPjB2skCLq3ZNP4Rv/X5/L_IMG_4284-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-2m5PwgN/0/MPCTPZ5WvffzCNVC6n2r8WzpN5fbPzwFQWDBVCPPr/4K/L_IMG_4284-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-2m5PwgN/0/KVc5h697znXPpW7qx72TQvdpF5W2f99ckjC95h5f6/O/L_IMG_4284.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 3330865,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/2m5PwgN-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/2m5PwgN-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_1335.jpg",
+      "Date": "2025-08-24T00:34:09+00:00",
+      "Uri": "/api/v2/album/bjvfsZ/image/Gpnhhtp-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Gpnhhtp/0/#size#/M_IMG_1335-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Gpnhhtp/0/M2C2Q5C3wxQgD4LhR2fWDMKLqJVbXmmjzDwCHSZcG/Ti/M_IMG_1335-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Gpnhhtp/0/MMkxHXPGMwRTdZ3psJCmpS6qQnqBnSMZpSSWQjZ5m/Th/M_IMG_1335-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Gpnhhtp/0/LKJRmBt3FVJXZ3tWcD56cXjLnq2C4MR7P3GRqqG5L/S/M_IMG_1335-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Size": 52225,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Gpnhhtp/0/NTT7QxX3t783RGjBwHPkT3CsLPkLTpM8b4DtjLnfv/M/M_IMG_1335-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Size": 96682,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Gpnhhtp/0/KZtx65TZxLgk5kFQDvF8QvjPXSRPVXG7R6CZTPDvC/L/M_IMG_1335-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Size": 153521,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Gpnhhtp/0/NCG2Sjs5T6XCZ9qN6xZq6j5XzLZjVvbLQx7GXv44W/XL/M_IMG_1335-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 234294,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Gpnhhtp/0/LLpgCLzLX62ZNhhT6qgHGfcNPjQqgTfGgxkTLGj8k/X2/M_IMG_1335-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Gpnhhtp/0/LnV9nsBhF4PB2CLnNwPzXfH93nwFTStnb2xq3sbgF/X3/M_IMG_1335-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Gpnhhtp/0/LpfRJ7z9k83sN2wDVtGnrGx2kjK5gQXjqFGT4J35L/X4/M_IMG_1335-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Gpnhhtp/0/Kvtvr4R3vHPknv3KBHjQm84MpHHmmZrCF2c68kzGT/X5/M_IMG_1335-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Gpnhhtp/0/LGZb5xxTX7LSmwDhmbZjJs64SrzQ95ff3dQvkhHFk/4K/M_IMG_1335-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Gpnhhtp/0/Nh7fqhnvb8hHhn2SL8LzFnDMkpJxcV4rvJTGS7PsS/O/M_IMG_1335.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 5197040,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Gpnhhtp-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Gpnhhtp-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_1336.jpg",
+      "Date": "2025-08-24T00:34:03+00:00",
+      "Uri": "/api/v2/album/bjvfsZ/image/FW9fqcV-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-FW9fqcV/0/#size#/M_IMG_1336-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-FW9fqcV/0/KnXx4jJq5RwcgMk9JTQJpXFdCK9BCbr5Q84z6scPb/Ti/M_IMG_1336-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-FW9fqcV/0/L6LXK9tfsztfRQ9Kw7BDKkXdnkSdn9t5qd6sfh2Km/Th/M_IMG_1336-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-FW9fqcV/0/MgdpmtmJzfsLxXgtm3W5t64TpvCxtv78W5QRbLVBk/S/M_IMG_1336-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Size": 51625,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-FW9fqcV/0/NT64XFkpDqjZkKBD4qqZRJbZPCd7WqS8WKhvL9Gff/M/M_IMG_1336-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Size": 96782,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-FW9fqcV/0/MsM3LnPJK8Vnk46FJGjV5zCB3rq52LhqmcFpZ5zcc/L/M_IMG_1336-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Size": 154363,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-FW9fqcV/0/NhNCFndDCFJjTf2B6w5QTrgL4HHD7SFvL6jDR2DNF/XL/M_IMG_1336-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 236891,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-FW9fqcV/0/KbrbjFSd2SNbJZGz72CLDTZNSkTpKt6K6cfShdzfv/X2/M_IMG_1336-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-FW9fqcV/0/KwprpQrvZkTFZVhDcVqqsS7CkP6m4CfRWV7RWmFHt/X3/M_IMG_1336-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-FW9fqcV/0/LkTPrkknX8NFcKs6c4kRSWpQxsCNzPgVfbMjJw26W/X4/M_IMG_1336-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-FW9fqcV/0/K6SKJgW6pGxBg4zGprJ6nJ445mMtjJGZPB7JmRFhR/X5/M_IMG_1336-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-FW9fqcV/0/MQsTtMSLKLvFrCS8nsHPG6TVBp6XsN55wqpkgSGbn/4K/M_IMG_1336-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-FW9fqcV/0/K5SDhvQkk5ZhJkPBfw5LTK3rwJ3v7G9KbQZVpwgSJ/O/M_IMG_1336.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 5373375,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/FW9fqcV-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/FW9fqcV-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "46.306263888889",
+      "Longitude": "-124.03743611111",
+      "FileName": "L_IMG_4291.jpg",
+      "Date": "2025-08-24T00:34:02+00:00",
+      "Uri": "/api/v2/album/bjvfsZ/image/Z73vFT3-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Z73vFT3/0/#size#/L_IMG_4291-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Z73vFT3/0/MD8h2sWBNLpN9gS56w5z2CNmGxDwtpkFCd8HXtwdR/Ti/L_IMG_4291-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Z73vFT3/0/Lx5C32LLpFhRrcc7sK6hwNBThwpDv87PmM786pMHn/Th/L_IMG_4291-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Z73vFT3/0/KcDp9GFZgWrnJ6fpvT86w6t6KvbpVzcfQZn3XSW8M/S/L_IMG_4291-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Size": 35717,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Z73vFT3/0/K8PKk7FGBRpP2VWPg8B5fpW6DkZrBpbhBLXn6qGvc/M/L_IMG_4291-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Size": 66081,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Z73vFT3/0/NZsmcW7c5ZcvJW9nk7QwtVZ7QDMWwJk8vS972qvRM/L/L_IMG_4291-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Size": 107192,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Z73vFT3/0/KVpd7j5QGQKxZ7p6cWDKfbGRmLWLNrwnBQ3b3hHqN/XL/L_IMG_4291-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 165312,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Z73vFT3/0/K9P9JPPR4VZf8HhN6RVZbJd5MKzdM8FS8vkPpVpGS/X2/L_IMG_4291-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Z73vFT3/0/NZhrKJDLbd9cdKcHsbrPgZZ957NPLqXztST6Fdrhz/X3/L_IMG_4291-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Z73vFT3/0/Lm7nwkvVjNjHWkXm5qxCVJB8SxBjc6SnCfHtrrwhq/X4/L_IMG_4291-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Z73vFT3/0/NNRj97Sfvcd9RGghGDDzgvMWK9SvbB9pmM5zsVdSL/X5/L_IMG_4291-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Z73vFT3/0/Mw7MjCmQrWL4NKHvXcjttwLNXBSQDCLC5c9WvLcv9/4K/L_IMG_4291-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Z73vFT3/0/M456S8pTZBsmGFSssnvpPZGZTvLsMHG5zxrHJgkcg/O/L_IMG_4291.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 4243232,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Z73vFT3-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Z73vFT3-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "46.304508333333",
+      "Longitude": "-124.03460555556",
+      "FileName": "L_IMG_4298.jpg",
+      "Date": "2025-08-24T00:34:01+00:00",
+      "Uri": "/api/v2/album/bjvfsZ/image/zvsMBRH-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-zvsMBRH/0/#size#/L_IMG_4298-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-zvsMBRH/0/MrJFS6MFs7kjsZrZ9fcv7qCvMszDtwkp6csS6F87P/Ti/L_IMG_4298-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-zvsMBRH/0/K2N2hZnzjXVLJkSQhDSvFnSLPZqLRg2XGXkd6D2cZ/Th/L_IMG_4298-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-zvsMBRH/0/KJ44FGpGvdkZD2vnqSB9bgshgNgSmPXnmq9GvxBP6/S/L_IMG_4298-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 49444,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-zvsMBRH/0/NPWXJGMxvdZjcBzvD6QsjBcBkhwZH33mPW5KvfkQW/M/L_IMG_4298-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 96481,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-zvsMBRH/0/M4BvCDK3v7TBzNTrWM7c5wFQnTb3fBjnF82mD3hzr/L/L_IMG_4298-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 158849,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-zvsMBRH/0/LqLbfZScG8RPfhhRtxCHhqQVjbGXWTgLz4MHjwrJH/XL/L_IMG_4298-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 252296,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-zvsMBRH/0/M54Ws5Z23ct5nKsBMsHzfBR7f42RBdjDpZ8QxWDVk/X2/L_IMG_4298-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-zvsMBRH/0/K3BMVPTxZF3kcZRMt8sTpWTrxwVG3RHFQRvK7zjXm/X3/L_IMG_4298-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-zvsMBRH/0/L45rhrPhBgkcKKvNrf5G6JLVfXLjS4RQL2pggKkDB/X4/L_IMG_4298-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-zvsMBRH/0/Mbt3GKwswG3gGT2xCHqNX5qQwdpbLzzvCXp8fxxXm/X5/L_IMG_4298-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-zvsMBRH/0/L2Nbb5PVHgTN4J6hB7hBqtp4rFjjBqxhSZHtzbhc7/4K/L_IMG_4298-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-zvsMBRH/0/LJPNJNBCmkG7GwK27S3kSm2w9fR7TVfDQ9KzLK9SB/O/L_IMG_4298.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 3967286,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/zvsMBRH-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/zvsMBRH-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "46.305027777778",
+      "Longitude": "-124.03339444444",
+      "FileName": "L_IMG_4308.jpg",
+      "Date": "2025-08-24T00:34:01+00:00",
+      "Uri": "/api/v2/album/bjvfsZ/image/bVXcw7F-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-bVXcw7F/0/#size#/L_IMG_4308-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-bVXcw7F/0/NNJkwrPJMmd57jkJjj7zHgcznRhfHqV3ttLj4D74L/Ti/L_IMG_4308-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-bVXcw7F/0/Mr84smCL93p7CXFwSKz4rsbQDqtdSK2qPqVPsX8Qn/Th/L_IMG_4308-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-bVXcw7F/0/LKpNDZxfTqtd8JHXdMJqhjjnST4CbLTh4NcGqXZzP/S/L_IMG_4308-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 33783,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-bVXcw7F/0/MskJrbWv7fhh5S6tvFGZJ3xgDTDx883p9KMgqrn4W/M/L_IMG_4308-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 63792,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-bVXcw7F/0/LqgXPgPhrtVQBwWQZDzXHrNbGnr6Txb85DnP55vSR/L/L_IMG_4308-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 104487,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-bVXcw7F/0/MWr235NQH2pqWpHP4hmRvnVHWXPpdsq7Ws8zmrp4n/XL/L_IMG_4308-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 160681,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-bVXcw7F/0/LQ2QKzNrGN44tvc3VkMNvNZgtnfJBP3fCh62SW5bZ/X2/L_IMG_4308-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-bVXcw7F/0/KwBdpJzrFDZxqT4XFr2g6RD2qz3MSBgbfSwfv8mZm/X3/L_IMG_4308-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-bVXcw7F/0/KTMRWvbRn6gHfQp8F6kgnZ52mMsHDwWchQPDpXvQh/X4/L_IMG_4308-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-bVXcw7F/0/MBxvvGcqkJfBH324VT4W4Tq3LHtMbVH6wCp8RPSkg/X5/L_IMG_4308-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-bVXcw7F/0/KpwTVQvS5Nntg7GMgm5Dp58wsGSBT8rsXQnmPRs7F/4K/L_IMG_4308-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-bVXcw7F/0/KHNrN8HFjTghwKBjShSbQ3zNbNkHnT92Jz26WsLHQ/O/L_IMG_4308.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 2968980,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/bVXcw7F-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/bVXcw7F-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "46.976444444444",
+      "Longitude": "-123.806975",
+      "FileName": "L_IMG_4311.jpg",
+      "Date": "2025-08-24T00:34:01+00:00",
+      "Uri": "/api/v2/album/bjvfsZ/image/FhCdHD4-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-FhCdHD4/0/#size#/L_IMG_4311-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-FhCdHD4/0/KRMnN9ttNCvrL7JvfMbwTQgTmvcsrGPWDV2THKb9S/Ti/L_IMG_4311-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-FhCdHD4/0/KGVBrNxZX8W3fn5sMJXCXvG3N7r25gkKMJGsPXFsh/Th/L_IMG_4311-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-FhCdHD4/0/M9bRVqxH7LBRDTFhkr78rSsztKVQ35SKzn6XDdkvJ/S/L_IMG_4311-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 51388,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-FhCdHD4/0/LqH55pz3tXnm9NJWfKDbWkzGvGbxHjk2FGCMhSfNN/M/L_IMG_4311-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 102886,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-FhCdHD4/0/K7JKNFH8nLT2DfCHRHBkTtCftmkhgfhXVzdPT3Gnz/L/L_IMG_4311-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 171506,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-FhCdHD4/0/Nhgkj6fj9MtL6kgkWLhX7mVV3PKdsKsP7436pwcGH/XL/L_IMG_4311-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 272164,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-FhCdHD4/0/NfGVWZ9bL9hddNbh6NssQzhvLj6QzcpHqd46KPt9m/X2/L_IMG_4311-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-FhCdHD4/0/KFz92vw6Vw7ww3MBcdD5sFfFRrbs92WS7fgvCKDdG/X3/L_IMG_4311-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-FhCdHD4/0/MZ4fqgmRs2W9PzK768GCKwvJssxScdxbTNjZjXxVZ/X4/L_IMG_4311-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-FhCdHD4/0/MsxQ46zg4Z8CrWTtJ2Sdws323PgDBjvpNQqkngc66/X5/L_IMG_4311-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-FhCdHD4/0/K8z5Xj8x2NzfsmVfZbkzW3HNrhKQKhPKnwpvDhTcp/4K/L_IMG_4311-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-FhCdHD4/0/MzMBCQmTrgzNN2gx3X98LX7RHq7BsvC3d7CntgCT8/O/L_IMG_4311.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 4176270,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/FhCdHD4-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/FhCdHD4-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "48.118611111111",
+      "Longitude": "-123.43393611111",
+      "FileName": "L_IMG_4316.jpg",
+      "Date": "2025-08-24T00:33:59+00:00",
+      "Uri": "/api/v2/album/bjvfsZ/image/xdn5kJm-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-xdn5kJm/0/#size#/L_IMG_4316-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-xdn5kJm/0/K4BjwNTb6fv98RHqMN4hBmmCvZTR2sPQWWQqBsg3z/Ti/L_IMG_4316-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-xdn5kJm/0/MX63zTrrVmFfnwSvTpcfrW3gRbDtLPHKccvwvSBw8/Th/L_IMG_4316-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-xdn5kJm/0/KQdGSbPXBhjD2gq85tSQL8X82kLJMGNksJBw7ZG2V/S/L_IMG_4316-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Size": 48400,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-xdn5kJm/0/MPxsdHN5CqGQxbt6QSFDQ9GRCsT82hSp6chBSPSbz/M/L_IMG_4316-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Size": 95250,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-xdn5kJm/0/MFb73CPxcgk9ZVBMpxnv8wKc2nBpRxjzgVm8hRMJv/L/L_IMG_4316-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Size": 157033,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-xdn5kJm/0/NgrsZqDgXbzwkTttwgJjvXV7VpHrnx68w6dxwGdmp/XL/L_IMG_4316-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 250388,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-xdn5kJm/0/NGChq2tnkQ5qqWJ2d855RGGscv8cnd2zWk6fQgv4C/X2/L_IMG_4316-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-xdn5kJm/0/KRzWjVFRkdVt9DtCLCRdCHfD3HGwHDbnnkTMSrG6C/X3/L_IMG_4316-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-xdn5kJm/0/MBXckNLbXwr5MDTMZnpJNbSmNrn6FQ9ZHJrMkF7vL/X4/L_IMG_4316-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-xdn5kJm/0/NVD6ZfJdVppxs6NG9LxThR8SmX2z4FnVzgN2djtDr/X5/L_IMG_4316-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-xdn5kJm/0/LdTH3Jcp4bjp3wp8SJCtWXPjqPn3tkMGGP6372tZb/4K/L_IMG_4316-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-xdn5kJm/0/KTG9pQstxk4f2JpnX4dqHJcpPDrBLmW9FH7SJhwSF/O/L_IMG_4316.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 5991583,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/xdn5kJm-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/xdn5kJm-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_1342.jpg",
+      "Date": "2025-08-24T00:33:59+00:00",
+      "Uri": "/api/v2/album/bjvfsZ/image/RbQK7sd-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-RbQK7sd/0/#size#/M_IMG_1342-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-RbQK7sd/0/M7mHC4TRMc6zZsdT6qqg2L3T9bRWSr4CcQvLrrW49/Ti/M_IMG_1342-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-RbQK7sd/0/MHWsdmSM5wMrFKqtCHpSqTS4FqLtpqPVNDfKSpV8M/Th/M_IMG_1342-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-RbQK7sd/0/MjCMHcq4dQrKmxm5RK3gBDbpZjkBQJcnZQDbZmP2w/S/M_IMG_1342-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 66881,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-RbQK7sd/0/LDPgFSq9vh9RLJtCzTbFXWpqc8TnBXgvFR9ZDBwDb/M/M_IMG_1342-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 137216,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-RbQK7sd/0/LVjHmbwbJp3wRvfHbkhJBj7N6VRLwqC99P2QCWzz9/L/M_IMG_1342-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 231150,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-RbQK7sd/0/MRG2vXFmz4DCLjGG3T87cBtQXPpc5kzqRcfkbbJRK/XL/M_IMG_1342-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 369897,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-RbQK7sd/0/MKpJSfMQsRwS5c8d9vg4XnBTQCf2fZjFvw7ZkT7PQ/X2/M_IMG_1342-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-RbQK7sd/0/K7qPXB58bBHBHpt434dZm3dBQmxh3mBfPH5xtq7RP/X3/M_IMG_1342-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-RbQK7sd/0/LWrr5LQx6wkGtshFMzdxLxJ5QcpmtHVHBRdnjPwZm/X4/M_IMG_1342-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-RbQK7sd/0/M8jRgnGFFq5ZKkdsdhBfCzWnMN3VpdFd8n2CTsJrm/X5/M_IMG_1342-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-RbQK7sd/0/MvWkng2S78x2gSQPT34gWxtPLHq3TKqBZnGB3NS7h/4K/M_IMG_1342-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-RbQK7sd/0/M74TF5RCvLftszpWj5ht9TCsTLQkVB3BHQmMKbXbm/O/M_IMG_1342.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 4909052,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/RbQK7sd-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/RbQK7sd-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "48.119052777778",
+      "Longitude": "-123.43336388889",
+      "FileName": "L_IMG_4324.jpg",
+      "Date": "2025-08-24T00:33:56+00:00",
+      "Uri": "/api/v2/album/bjvfsZ/image/drZzRJg-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-drZzRJg/0/#size#/L_IMG_4324-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-drZzRJg/0/NhRxDF2XGHLrzjPsqXcjg25hB2jrzK5qN3Dtb8HwQ/Ti/L_IMG_4324-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-drZzRJg/0/NdQ45r9Tm9sMhzcpVdxL5KcjL2P5d6xgsXqzZLnSW/Th/L_IMG_4324-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-drZzRJg/0/MprQLC8KmWsNtrRCFsSbJ8skQ38fd3cj6sP3PWWvK/S/L_IMG_4324-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 76937,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-drZzRJg/0/LtmGqNFQ5NfH7CTpjm3qKzs4MRfcBSBFKZBHQD8q5/M/L_IMG_4324-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 158804,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-drZzRJg/0/KD7FNVqDgnTSpDst9zLVdZKrwHnjkZmRV9tb85Kd6/L/L_IMG_4324-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 269216,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-drZzRJg/0/LV7QgX46kP5c6Qkf6HQZ58DWqG6dXZLBqF7SHwJVn/XL/L_IMG_4324-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 437884,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-drZzRJg/0/MbXHgvqXtWmfXHdPLLZZ2LpDJ8dfJ7XQLqjCt34Dp/X2/L_IMG_4324-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-drZzRJg/0/KpCpMcnNz9G3NprfmLLzjbL3zGRZrkP4nt9Nb9rRg/X3/L_IMG_4324-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-drZzRJg/0/MHbgtwDdGP93gqgZD7Vw9Z396CjqtKsjQCz6GhjtP/X4/L_IMG_4324-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-drZzRJg/0/Mqd8vRLwgvhsFL7g26cRNs3dkGXD9fsKmpg2NHqsV/X5/L_IMG_4324-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-drZzRJg/0/LKdqHnqsJNPm2Shcnp8ZDRK2XhXMLcwmzQLRSSt69/4K/L_IMG_4324-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-drZzRJg/0/MbbfV9gT4DmWpFgTWPN9nnwWL2bMQ2Wm5mf5x3pTJ/O/L_IMG_4324.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 5911168,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/drZzRJg-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/drZzRJg-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "48.118788888889",
+      "Longitude": "-123.43377777778",
+      "FileName": "L_IMG_4325.jpg",
+      "Date": "2025-08-24T00:33:51+00:00",
+      "Uri": "/api/v2/album/bjvfsZ/image/TWHPNMJ-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-TWHPNMJ/0/#size#/L_IMG_4325-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-TWHPNMJ/0/NTgf79hv2mvFqNxVQDSXzZqxWqRgnXvQs5qCPmDqb/Ti/L_IMG_4325-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-TWHPNMJ/0/NXTxKvNx3Rhrn8hLS3xsp5d78MdbWNkQjsSnSHDqr/Th/L_IMG_4325-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-TWHPNMJ/0/KrbWRjtbMqqpz5g6GCPpxRxpWrvW2jk88s2GmqXWD/S/L_IMG_4325-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 51366,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-TWHPNMJ/0/LLVJskHvP88QnMBvhVDr3q3zBfsfp96gV63D8vCqN/M/L_IMG_4325-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 95721,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-TWHPNMJ/0/LFmVMBMcz5MTVjH5Bx6s9P4fZjcBPx6HJWGc3Th96/L/L_IMG_4325-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 153090,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-TWHPNMJ/0/LJRvHpsZQ7KPCt2m6LWbrtwkfcQt72msgtGP4wGcf/XL/L_IMG_4325-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 233889,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-TWHPNMJ/0/L7mXptPJcNFVf36mTdjgHVwNThzSNhqn78sqwfSXG/X2/L_IMG_4325-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-TWHPNMJ/0/LLp7V9TND8K4BxmzgxPKXNSTszKmwvqXg2pr552hf/X3/L_IMG_4325-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-TWHPNMJ/0/NdCtPDHJbcH5NzQR9WZhQmHCd6N2mnmZNjZ7JfF7Q/X4/L_IMG_4325-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-TWHPNMJ/0/LbtDxZkBWXbftmGTQzX6JpFjVF5Md5ShL5XFzHXZp/X5/L_IMG_4325-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-TWHPNMJ/0/KS77b5MhQr45Mx79dP9Wzwz8VWsstqZmMJwSbfPDG/4K/L_IMG_4325-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-TWHPNMJ/0/Mc9tcxt8JbmNkpTPwTzXPtMMxrp9KVcrBx5CfKkm4/O/L_IMG_4325.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 3437916,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/TWHPNMJ-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/TWHPNMJ-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "48.025122222222",
+      "Longitude": "-122.99588055556",
+      "FileName": "L_IMG_4328.jpg",
+      "Date": "2025-08-24T00:33:56+00:00",
+      "Uri": "/api/v2/album/bjvfsZ/image/hcnckGm-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-hcnckGm/0/#size#/L_IMG_4328-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-hcnckGm/0/M58tPVGZqhxkBtzxZPmvh5V4Ktfj27npzhk5vrNqq/Ti/L_IMG_4328-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-hcnckGm/0/KbcJntSfmgb762jfKtr9b5MGpDStCpKBHHGKWJ2bJ/Th/L_IMG_4328-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-hcnckGm/0/MbH3pm2r8kR2fMhtNnLfb6pPMQrPGzGhLjpQwgbFr/S/L_IMG_4328-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Size": 46460,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-hcnckGm/0/KMHC6FWBsHhckWVC5bH8bGrpxBgkHtvLRS5XCgVvw/M/L_IMG_4328-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Size": 94318,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-hcnckGm/0/NNhwBbPbrrV3DWVLXVKdwtzMCW9smDNqPhgm4SQWK/L/L_IMG_4328-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Size": 160672,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-hcnckGm/0/L8Nw7XjqGbfZ9RHtTLNGTvdzp7mMG7wsQmSKvX9md/XL/L_IMG_4328-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 264061,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-hcnckGm/0/MdvmpsR3M4F5B8CKtxjTXwQM9ScDZZH8qJv57hV9L/X2/L_IMG_4328-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-hcnckGm/0/LM3bqr6rTSk2FxwGDG4M65VxB9bSCV2ZKM6FP94TL/X3/L_IMG_4328-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-hcnckGm/0/KZJGCMjmWLk2GDCWJ4vQxBsJ33NNCsvg4FSMhH7Fz/X4/L_IMG_4328-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-hcnckGm/0/MmZ9bg7JpFmgTXtdPxfdjS536F35nLPkPPXcWd35w/X5/L_IMG_4328-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-hcnckGm/0/MHs4TZf3TpGB8B4DpgTNr34XqLDsN9tMKbCHKsB4Z/4K/L_IMG_4328-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-hcnckGm/0/NHgDpcqtpZ788pBk4khrjzG2Xx84vfwvJNjxPrt69/O/L_IMG_4328.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 7200341,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/hcnckGm-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/hcnckGm-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "48.025058333333",
+      "Longitude": "-122.99596388889",
+      "FileName": "L_IMG_4329.jpg",
+      "Date": "2025-08-24T00:33:49+00:00",
+      "Uri": "/api/v2/album/bjvfsZ/image/F5H7wqr-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-F5H7wqr/0/#size#/L_IMG_4329-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-F5H7wqr/0/LDwJf77vB8t7bQrkK9qv6kmcDWxctF5rpc2xrfptR/Ti/L_IMG_4329-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-F5H7wqr/0/KTrXXsVXc5XZTdR7RnHL3rC8DBzrpMgcKbbFMJwg5/Th/L_IMG_4329-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-F5H7wqr/0/L6Vtg5S378R4qMc3hVRrHSt8rBQXs3tbzJQgJ4q6g/S/L_IMG_4329-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Size": 29765,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-F5H7wqr/0/L3ssS3VRPtHzqjHt6tFr99mMt7z4TLMn56Ck4drqq/M/L_IMG_4329-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Size": 52110,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-F5H7wqr/0/KjRnnHrLhFb64ZbGvKfXmVMPrsXGnjbK5zGJZSrzX/L/L_IMG_4329-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Size": 81573,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-F5H7wqr/0/Lz8L6f9RxvdM2gwJx2tMPM8WgGkVJZLmb8VWHG4Mj/XL/L_IMG_4329-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 122184,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-F5H7wqr/0/KHrZWX3HgFSjJsfJxDF2Nm3NF8hs7MWg7rrHQxQ9v/X2/L_IMG_4329-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-F5H7wqr/0/KwPz88RRt9zGT4GFMDJqF4NCvdMfHtWCsHs6SX6kR/X3/L_IMG_4329-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-F5H7wqr/0/MpQqxL83NsvLTMPzhc8b3DQwXGWbzpXxK6grnsZB3/X4/L_IMG_4329-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-F5H7wqr/0/LQkX3stkw5WGcHpbZCT42Qbm6R8jcMSf3Ls7J8jrR/X5/L_IMG_4329-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-F5H7wqr/0/MSh298H3s3G8f6WjCLGG6m9D9jWRkhwQr8TsGqfLJ/4K/L_IMG_4329-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-F5H7wqr/0/KdfR2m6N3tQkTvtVKHkdMqc7zdPSr4n9wmsdBJxCB/O/L_IMG_4329.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 2940981,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/F5H7wqr-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/F5H7wqr-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_1343.jpg",
+      "Date": "2025-08-24T00:33:46+00:00",
+      "Uri": "/api/v2/album/bjvfsZ/image/6fzCRQc-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-6fzCRQc/0/#size#/M_IMG_1343-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-6fzCRQc/0/L3MgTpPLFHTzzvgGN8jjLRhrVDjxGSMwLknWK4hRf/Ti/M_IMG_1343-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-6fzCRQc/0/LGMcKjQCDqKbKpRvBRGzdCrg3tr7NQt7XVDjt3gTh/Th/M_IMG_1343-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-6fzCRQc/0/NQ7H6wNLFczq6vJVKdCvCwSGH4kxrhhF9rpVKxzLg/S/M_IMG_1343-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 70946,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-6fzCRQc/0/MptqDHR5rt9Fp5fXmDsmCK9sdXBKdN2j6hX2ktGGk/M/M_IMG_1343-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 132656,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-6fzCRQc/0/M39gq7mr5Ss3x2czGWJzCP4g44FpXxjsPSKfzsZDB/L/M_IMG_1343-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 206939,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-6fzCRQc/0/MCs4L9v7NrqqNr49VbFpdp9h7gr5fhWczk9GZK2Tp/XL/M_IMG_1343-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 305373,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-6fzCRQc/0/MsNpk5MdwsNJnxz2ZGKgFCQwZD3DMPNZJNx9srGF7/X2/M_IMG_1343-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-6fzCRQc/0/LWPtS3J4VWtx9DBspHhmcCGPQTqthHzS4wxvVpNMx/X3/M_IMG_1343-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-6fzCRQc/0/KppXd65sgrx6TnkzsMpnsDcLgK6c8mDjv2dp5VgP5/X4/M_IMG_1343-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-6fzCRQc/0/K5xf88SJR6ff5SwN7BvCTsp2gQGLCVJpD6SNDrdw9/X5/M_IMG_1343-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-6fzCRQc/0/Mj2dnFgKSbtdrjLcGM7wdHr5PJm6wNMpsdnpT4MFs/4K/M_IMG_1343-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-6fzCRQc/0/KK5Mh2qggFGwcJwgQ9ntCn2VzzBtTSWDgT8Kbhw8n/O/M_IMG_1343.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 4258142,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/6fzCRQc-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/6fzCRQc-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "48.023175",
+      "Longitude": "-122.99756666667",
+      "FileName": "L_IMG_4330.jpg",
+      "Date": "2025-08-24T00:33:46+00:00",
+      "Uri": "/api/v2/album/bjvfsZ/image/qsPhhG5-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-qsPhhG5/0/#size#/L_IMG_4330-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-qsPhhG5/0/MVTGPS5cLR5MFxt8fG56HhRGJCq9pP2Bs5szFf4xp/Ti/L_IMG_4330-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-qsPhhG5/0/MvNN537JVwnxvZjp32Z8csRJnRNkFsv4fhT3bxKGj/Th/L_IMG_4330-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-qsPhhG5/0/NGWDwm2hwKRFqPw6BjgvtBc5kdJZCmD6pv7M48v3G/S/L_IMG_4330-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Size": 46344,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-qsPhhG5/0/MGtP6VXhWPXQdrM26TRvmSKj9R5Hb4FmW64vdgdHd/M/L_IMG_4330-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Size": 90049,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-qsPhhG5/0/MVjLSSH3nch2jKL2FL2PK2CtxkkcK5QbQgvxCGxJG/L/L_IMG_4330-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-qsPhhG5/0/KJPn4H7k4sKPvnPWkWDtCV22Lb2T8CSPgwbgDn3G3/XL/L_IMG_4330-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 229176,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-qsPhhG5/0/MXqrMDDvCcB5XR6wvkKwWkJxhpRpq84KkFDXBkBTn/X2/L_IMG_4330-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-qsPhhG5/0/K2zttWBsHv6xQ3WzbZG9gszfhq3cWdG5gQxbVqrn3/X3/L_IMG_4330-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-qsPhhG5/0/KnPGLZxXCpX6FfrBwNB7HVCMBP8Kg263j6mRMjDbb/X4/L_IMG_4330-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-qsPhhG5/0/NVH3MWGBc34vjQMChB8cKcxSRsnPSjpGW5k7mB2M5/X5/L_IMG_4330-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-qsPhhG5/0/MfQZFnww4ZNVVqFVgcGZ2MJMZd28xL2ddpXwPdhdv/4K/L_IMG_4330-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-qsPhhG5/0/MfMFCrCbwpGxwZMjW3XPv6wFgKBLLmk97xMzzQzGS/O/L_IMG_4330.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 5286727,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/qsPhhG5-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/qsPhhG5-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "48.030436111111",
+      "Longitude": "-122.99275833333",
+      "FileName": "L_IMG_4331.jpg",
+      "Date": "2025-08-24T00:33:49+00:00",
+      "Uri": "/api/v2/album/bjvfsZ/image/XsS7nMs-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-XsS7nMs/0/#size#/L_IMG_4331-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-XsS7nMs/0/KjFxXJBSzbkhCQ6zbZWknx9K3pR3Snw5pmTBJGZs7/Ti/L_IMG_4331-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-XsS7nMs/0/KcdfbcQpTmFSXgH24htmsmGmxvC9zhWBMZRgjF9jT/Th/L_IMG_4331-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-XsS7nMs/0/KLFrbvDsLskLBjfCccb2wh6KVsvJ6gZvZgTKKvb47/S/L_IMG_4331-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-XsS7nMs/0/MSZH8xCbsZZXkF98XXrXM4vCXZCffsNqqmnhHfq5s/M/L_IMG_4331-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-XsS7nMs/0/MLDkj8JfsdTzpZ52KgGs74SH2CTJDd8rJkscj7Bpj/L/L_IMG_4331-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-XsS7nMs/0/Kd3DXS4qPdV7CNpG2jMdbZLt6P265cbMF8kSDSt4V/XL/L_IMG_4331-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 305769,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-XsS7nMs/0/MnwT376kD6ShvmGbdrXk23BrD2Bmnww8WpCK3s7sT/X2/L_IMG_4331-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-XsS7nMs/0/MdZr4v3R9p8WNtf49F4CVWnFDZPfnFMWRJSwP48MS/X3/L_IMG_4331-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-XsS7nMs/0/NPfmvVzdp8qSpvRckwrZWDZJVzHtcbwJT6nSx2d37/X4/L_IMG_4331-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-XsS7nMs/0/KKVV75WkmxfCpGTVxvnZkkbD2fsw3KDLqBWtd9Qzn/X5/L_IMG_4331-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-XsS7nMs/0/NBv7jP2rgbv2pgXDPSGgPGhtMcH9SGLbg68FWTtsp/4K/L_IMG_4331-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-XsS7nMs/0/MFcTrcw8LwfFp3b9D4RWQRTwjNkts4QLxLBsNjnxt/O/L_IMG_4331.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 8262251,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/XsS7nMs-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/XsS7nMs-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "48.12025",
+      "Longitude": "-123.42923055556",
+      "FileName": "L_IMG_4334.jpg",
+      "Date": "2025-08-24T00:33:45+00:00",
+      "Uri": "/api/v2/album/bjvfsZ/image/3pCHSNh-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-3pCHSNh/0/#size#/L_IMG_4334-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-3pCHSNh/0/MZNDPJhm6SgwRj6W6DH62nWRk8s7Tbh7csfvzn5CJ/Ti/L_IMG_4334-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-3pCHSNh/0/MwWmSNvSXvqXbLZc3n3pKgp8K9G3kXfJssRqdHBc7/Th/L_IMG_4334-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-3pCHSNh/0/MVxVgXrmtw8H6VNsx4Grr3FL7R6kzDP9FhtqDFLbs/S/L_IMG_4334-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Size": 50938,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-3pCHSNh/0/MsHhs3cp4qxKxXDJKfkh7fzmrF9LzzXjSVDThjSHP/M/L_IMG_4334-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Size": 99100,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-3pCHSNh/0/LHx7fJc2GTjfp46n4KndrZQcTnLKFVtB4P799jDDK/L/L_IMG_4334-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-3pCHSNh/0/MWxgKr2kwZHFnMpHmNMQZhZvG5X7zN2L3FVLDzVdT/XL/L_IMG_4334-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 258414,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-3pCHSNh/0/LhqvtNKRS8grcSCF6jP4sVdwMnrZpxHsFgVxVPB7m/X2/L_IMG_4334-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-3pCHSNh/0/MbV2S8v5qBKKn743Jpkt55M8sHx6cGsCfHZh39VCS/X3/L_IMG_4334-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-3pCHSNh/0/NJDNS3TMWzVNXFSP8rSgL3V22sSprRZXxVgkJrgx3/X4/L_IMG_4334-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-3pCHSNh/0/NN6sX3NR6fRS3bDVDfxxsXZKmVXckv5ddB55bnwb8/X5/L_IMG_4334-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-3pCHSNh/0/M6TD448TqJcrtTq9wQcPS8wGTW5KZK2Q6ScPQ5tNw/4K/L_IMG_4334-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-3pCHSNh/0/MjvtjrnpqrwZ6nk45d6QrjZDdsH93s8X4L7RmLpF4/O/L_IMG_4334.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 6428477,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/3pCHSNh-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/3pCHSNh-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "48.420833333333",
+      "Longitude": "-123.36995",
+      "FileName": "L_IMG_4347.jpg",
+      "Date": "2025-08-24T00:33:36+00:00",
+      "Uri": "/api/v2/album/bjvfsZ/image/pLmr2HJ-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-pLmr2HJ/0/#size#/L_IMG_4347-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-pLmr2HJ/0/LvcchBfDbB28nXj4jTKtBchcr46FTQdJtTgxDFSSj/Ti/L_IMG_4347-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-pLmr2HJ/0/LwSxVG3zbFJkwCwPrHHJRGLhrPqMMThMS8rp8ShSN/Th/L_IMG_4347-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-pLmr2HJ/0/NQJKjS97MP3gggHFZXTfV4bfDmLXxSCb4Bg8r5KvX/S/L_IMG_4347-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Size": 40924,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-pLmr2HJ/0/NFPj95wb3LPLFBjMLtJTxBXb9KZ8mfWprWdWP2TPx/M/L_IMG_4347-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Size": 75535,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-pLmr2HJ/0/NWd96szhtF2pdSz4PxnKQKcwG77sTLZRmTZg6t3ZK/L/L_IMG_4347-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-pLmr2HJ/0/KKkG5QWbHjkgG4xjq77rnMvDsJ88HNwcZp57CqdP4/XL/L_IMG_4347-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 185687,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-pLmr2HJ/0/MTr7VpQ5jvXM8n69QZQFQ7Qzr8nBxXJCtbjgbQZ3B/X2/L_IMG_4347-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-pLmr2HJ/0/MPbztWMZ9TSVgRwQVpRWKJSMbztXbBQ26RNZnCVb2/X3/L_IMG_4347-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-pLmr2HJ/0/NCzxVm2djHB8d6hVxN8mvzZcTm3Rpc664DtG3zDFC/X4/L_IMG_4347-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-pLmr2HJ/0/NcvmWRFXBTfp6J64ngVtkRnMZgd5vk2kvWX7frxv7/X5/L_IMG_4347-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-pLmr2HJ/0/MXZjGPJb6Zdq43gJj3TqWwvJpMsvSNQvN2n62hfWN/4K/L_IMG_4347-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-pLmr2HJ/0/L4DXCN4n27fng9XsDk7wrZM4fsR3XrfKxsgQcGNTW/O/L_IMG_4347.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 3994104,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/pLmr2HJ-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/pLmr2HJ-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "48.420841666667",
+      "Longitude": "-123.37056666667",
+      "FileName": "L_IMG_4348.jpg",
+      "Date": "2025-08-24T00:33:44+00:00",
+      "Uri": "/api/v2/album/bjvfsZ/image/K7npKJX-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-K7npKJX/0/#size#/L_IMG_4348-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-K7npKJX/0/MNLNkL3PtWXrtRLbg4JJzCPKrm6MghSbh3T5PBP6g/Ti/L_IMG_4348-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-K7npKJX/0/MkzzHxHvqhsbznsqh63pBvTp3MShq2wgTgtgsWwQ8/Th/L_IMG_4348-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-K7npKJX/0/KZQr4h5hb8Sqb5kdv6NjmTZc5WGsK6gFBm3xK58fT/S/L_IMG_4348-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Size": 49875,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-K7npKJX/0/NNT8VtR3rcLsJQxJgpWXvrZX7N6CBqzqDpGwSdW5B/M/L_IMG_4348-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Size": 95576,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-K7npKJX/0/M5ckdMtZZ2dWz5GwksKHZXJRTh4Nzrcksbtm6wCrQ/L/L_IMG_4348-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-K7npKJX/0/M7NZ2WhMtgNkvccQv6XTV6wzCXV2GTgXM37sN7jxJ/XL/L_IMG_4348-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 239120,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-K7npKJX/0/Km5hfjWDjqmwvSBrh5QtDKsZmHcQ3nMDf9Dz9dGgD/X2/L_IMG_4348-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-K7npKJX/0/MMc5mrVdfLrvmvFCcrNt2KS7bM4R5N85ShRG7TQsM/X3/L_IMG_4348-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-K7npKJX/0/Kmv4jzSBqzhvXDhr5VCcfqw76PpSR95q537dbN4mT/X4/L_IMG_4348-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-K7npKJX/0/K26FNhQFwzt2fv5rbTMJFZhh8qJLR7MjMJkT4x32m/X5/L_IMG_4348-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-K7npKJX/0/LXzGn7cMx7kbDzPZBDZh6DCdWGGvmVSvd8KRWPmQR/4K/L_IMG_4348-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-K7npKJX/0/MXtPQwsvj6qcHKzdrGS6tkvWWBQhfFsTH32d54MWW/O/L_IMG_4348.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 3808572,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/K7npKJX-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/K7npKJX-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "48.420641666667",
+      "Longitude": "-123.37113888889",
+      "FileName": "L_IMG_4351.jpg",
+      "Date": "2025-08-24T00:33:34+00:00",
+      "Uri": "/api/v2/album/bjvfsZ/image/Fc3QLH7-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Fc3QLH7/0/#size#/L_IMG_4351-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Fc3QLH7/0/MRH5S7n4XGj3rkhjzqxB88pRZ2VkL7Z4jKRRCprVF/Ti/L_IMG_4351-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Fc3QLH7/0/KwHXDzg2KR4sJdK7BZ9M7wDdPhz4tCwQRTdJrzfQX/Th/L_IMG_4351-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Fc3QLH7/0/KhrW72d66NdqFR63D5k5hdptgggVbFP5z6ZNbsbnD/S/L_IMG_4351-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 62889,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Fc3QLH7/0/KLtTKrFQrJbw5zctg8g48PkpXsD5rkSCF4WhztZbL/M/L_IMG_4351-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Fc3QLH7/0/MfLPPhLzt44CTMLGwXKQvrfLMv8gXqqr9JVnqWjmT/L/L_IMG_4351-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Fc3QLH7/0/LkmWSxZ3LWf2Wjf349bqSQbdpBDQZqq5TdHgLFBDS/XL/L_IMG_4351-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 297313,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Fc3QLH7/0/KhTKWTRh9j5FcBgvfzhgPvZ4wvnfCbkGfwRwLhw67/X2/L_IMG_4351-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Fc3QLH7/0/MmRcsHZxfckqktL7kNmDmRJtPzFxVqDnhTrDkjHFk/X3/L_IMG_4351-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Fc3QLH7/0/NBQNXrXjtG2wkcdXCNMGfWCh2hjKkV9FdKxgw4nZK/X4/L_IMG_4351-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Fc3QLH7/0/LJzsqP33dmvrZ7tVvJKbx7mKHbMjPrp8Pg3wz2dHx/X5/L_IMG_4351-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Fc3QLH7/0/LTpWxW67nVHF7r7DfjZqBjv9sS58knfQmJkR54h7w/4K/L_IMG_4351-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Fc3QLH7/0/NCk7vWdrXbf4pcRzR9nNfLpFMNhg4qdQkPnp9RmSr/O/L_IMG_4351.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 4419712,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Fc3QLH7-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Fc3QLH7-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "48.415919444444",
+      "Longitude": "-123.37358888889",
+      "FileName": "L_IMG_4356.jpg",
+      "Date": "2025-08-24T00:33:33+00:00",
+      "Uri": "/api/v2/album/bjvfsZ/image/46CjsVZ-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-46CjsVZ/0/#size#/L_IMG_4356-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-46CjsVZ/0/NKfb5VHmkkgHqZCbZPVdw5gxLdM29GWTrQqBNcfBF/Ti/L_IMG_4356-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-46CjsVZ/0/MCTS7jKng4FB9whbzGpbr3q7JXDmv5QgdLRdm24j2/Th/L_IMG_4356-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-46CjsVZ/0/NNTfhBLCjHmQ8vGdBptvhCRjpqLcctjGMRGb5vr7Z/S/L_IMG_4356-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Size": 42602,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-46CjsVZ/0/Mx5RX6rWvNPBZfSqrHN26TFDBBFvxrPXD7MwtKNcC/M/L_IMG_4356-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Size": 81331,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-46CjsVZ/0/K7k5mZXK9n9qgGT5dqsr46VP7STg8LHFmg7LNkBS9/L/L_IMG_4356-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-46CjsVZ/0/LfRqPnC75dGW5ncncHBVXm4nGwdNDKfXZFwq2wQNm/XL/L_IMG_4356-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 209452,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-46CjsVZ/0/NT776gprWNCDZmrxLGDVJvvMHNCMsqHK2pB9zMmPn/X2/L_IMG_4356-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-46CjsVZ/0/KmJ55S3pmmf2ZRxZ7SwzbbgCVB3M39SmZqbfsZw3S/X3/L_IMG_4356-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-46CjsVZ/0/MbwT3bX3nvWhNhKFhBNW3Q9kbC5z63Ghp9frzDgXj/X4/L_IMG_4356-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-46CjsVZ/0/Kgc6cM9nvSbJXFLnzkSvwh8wmL8mNh7vzx9t7q5wp/X5/L_IMG_4356-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-46CjsVZ/0/LKHkMq522LcZh9xj6zct3w3pSbj4g5dZxvKQFvk5V/4K/L_IMG_4356-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-46CjsVZ/0/M43R3vkFKh9xt7xsnJRjCP3kc8jnXgzNx9L5gzV93/O/L_IMG_4356.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 5695690,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/46CjsVZ-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/46CjsVZ-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "48.420352777778",
+      "Longitude": "-123.37129166667",
+      "FileName": "L_IMG_4360.jpg",
+      "Date": "2025-08-24T00:33:35+00:00",
+      "Uri": "/api/v2/album/bjvfsZ/image/tTMqLc6-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-tTMqLc6/0/#size#/L_IMG_4360-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-tTMqLc6/0/L9T54dsLTqgR36hg6dNnVKfD64GkBK8FBX34hSmW4/Ti/L_IMG_4360-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-tTMqLc6/0/KJZz3mNT59hHBZSN3BvTwCd5Dg6WnrrmspwDzJgWV/Th/L_IMG_4360-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-tTMqLc6/0/Lc7mmM435STtkhr7L7LzHSNNCvg6hZ42T2Q8WKnpP/S/L_IMG_4360-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Size": 50038,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-tTMqLc6/0/MRv2gFrmp5QJkQd2pfzxLfM63PXvhn3PDKX9s3DSN/M/L_IMG_4360-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Size": 96776,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-tTMqLc6/0/LwNvr4nNJLKj856qmKfBqgkTjMmjwKnWgLbXMpFQX/L/L_IMG_4360-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-tTMqLc6/0/MQgQbQW4ThghgXrspr4b2Q3HRVmj5Bs7Sqg7MPVVf/XL/L_IMG_4360-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 247718,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-tTMqLc6/0/L8rV44qLStcd46RqPRG4JwpzF86KCJQgPXLz6vrzJ/X2/L_IMG_4360-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-tTMqLc6/0/KDk4ksXzQHChL3pvZwRGJqCHnbDMSGwPmGBjCHRNQ/X3/L_IMG_4360-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-tTMqLc6/0/MCCVHTSxZfnFhCZ4ZvStJ7QcHkHqz8vcDd9WJjcHS/X4/L_IMG_4360-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-tTMqLc6/0/NKwmRnxHSTcRXxCxMqh5D6HHNW6NMjDwKkNTnBPRh/X5/L_IMG_4360-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-tTMqLc6/0/MD9p9XM8XCjWJ4HSL8s636j6bgVJ7Zvp6PCD6HFp2/4K/L_IMG_4360-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-tTMqLc6/0/NXsGVFSFgXp6pcMmjL6MPLGGxmfWWWqwXqbWTnwqK/O/L_IMG_4360.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 6309704,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/tTMqLc6-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/tTMqLc6-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "48.422194444444",
+      "Longitude": "-123.38136944444",
+      "FileName": "L_IMG_4365.jpg",
+      "Date": "2025-08-24T00:33:31+00:00",
+      "Uri": "/api/v2/album/bjvfsZ/image/KxdbJSF-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-KxdbJSF/0/#size#/L_IMG_4365-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-KxdbJSF/0/NJFm6jWtLTBn8jr8KS9LdzTz5HK3Fwf5D4BsgQwgw/Ti/L_IMG_4365-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-KxdbJSF/0/KQDFXL3mFB5L8xGkGPkbbzmj3nMvLgZzHJKCZ72k5/Th/L_IMG_4365-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-KxdbJSF/0/KRvMQ5rnKdnNtvDnWwZMzrsfWnCp6Hrr8Ps6J3FWk/S/L_IMG_4365-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 62231,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-KxdbJSF/0/NfSKkcKH4Qzw4Lh57zbpWqChqxkjDKnDRxFZmhp9J/M/L_IMG_4365-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-KxdbJSF/0/L7xQfVr5CJDkQG8CcZpfQzSJz2fvzjxjcSV5NmjCD/L/L_IMG_4365-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-KxdbJSF/0/Kqtn5D2LS8tjgkTRrfdHMSMHD2qcCfxgXSbTm8ts9/XL/L_IMG_4365-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 324838,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-KxdbJSF/0/MxCdXHWVC3zH2gt7xCW97cSpR5sL2W9Sm5V9TBHWd/X2/L_IMG_4365-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-KxdbJSF/0/Kpz88nVr6qLjmXVSrp4Sm49gXSd5rbFVXmk9dHCsn/X3/L_IMG_4365-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-KxdbJSF/0/KcnZnK84zJVWHmJBB4Jx8QTQ9ZwrbmTgzhSTrSrVD/X4/L_IMG_4365-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-KxdbJSF/0/LRFTMsKKJCh6gcKV92ZTJDH2Lr8Kk2kxwxDqCnN73/X5/L_IMG_4365-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-KxdbJSF/0/Lv9bRZRTFkn72M3NWxBrMm8X2GDfKVdRdRKfqcCK6/4K/L_IMG_4365-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-KxdbJSF/0/NSQW8P58kXPfZ3Bsthc2ZxZV3FW66VPZX7G3px3zD/O/L_IMG_4365.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 4627021,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/KxdbJSF-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/KxdbJSF-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_1345.jpg",
+      "Date": "2025-08-24T00:33:29+00:00",
+      "Uri": "/api/v2/album/bjvfsZ/image/Kfrh8TT-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Kfrh8TT/0/#size#/M_IMG_1345-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Kfrh8TT/0/NNfF8TQM3WPRhZxf7ssPXr3VsFk7NG7b4QSVHGxTP/Ti/M_IMG_1345-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Kfrh8TT/0/MhPshSKrDTx2vtLk9fz2Qr3FC8LmXJVZTFxnJXR3K/Th/M_IMG_1345-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Kfrh8TT/0/KKqQJPR9Bk9jMSKSmX53JKHDWkFb567VTnLFc75Xz/S/M_IMG_1345-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 67092,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Kfrh8TT/0/Lxt6Kw7HTpRsH2gKwMfXn6DVz3sC8wLLpGHBB46nW/M/M_IMG_1345-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 128521,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Kfrh8TT/0/LxpncmF6GHBCfSgZT4tsTR6D73hpgS8LpjqMgWXLb/L/M_IMG_1345-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 206427,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Kfrh8TT/0/MCDxS2TPMWWGhM2hQn482h3TBzxRNJJWPGKq2DDtc/XL/M_IMG_1345-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 313750,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Kfrh8TT/0/KgKBVMpS52q6KnF5m6Wm3bX9t8d5vWn6NxhQVcvJc/X2/M_IMG_1345-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Kfrh8TT/0/Md3R7ZB99H9b75FFW45p7xjHgmGRH5xkDbG6mjxVg/X3/M_IMG_1345-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Kfrh8TT/0/M9gTBbSQs3tNvMVnbWK2kbtz5WqKQJSC4vqrBkcJf/X4/M_IMG_1345-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Kfrh8TT/0/K939sPzRftZd9VKcVzGrSjjWTf5vSn88ff8qMWfbd/X5/M_IMG_1345-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Kfrh8TT/0/L42dM95JNrXZ6B7h9wQ5PW5FQqztzkxgfZKRdfPSV/4K/M_IMG_1345-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-Kfrh8TT/0/McghGrbm9FP3rXXMKfcjhf3SzV3mds79vWHbvmNC3/O/M_IMG_1345.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 3967488,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Kfrh8TT-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Kfrh8TT-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "48.422816666667",
+      "Longitude": "-123.38304166667",
+      "FileName": "L_IMG_4366.jpg",
+      "Date": "2025-08-24T00:33:26+00:00",
+      "Uri": "/api/v2/album/bjvfsZ/image/WhqkRqj-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-WhqkRqj/0/#size#/L_IMG_4366-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-WhqkRqj/0/LBhZ3JQSJVHPsz2wnFjX4ShNd9rFwzkVVG7LhTMSF/Ti/L_IMG_4366-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-WhqkRqj/0/Mv4DrMNPVJPPfkSVXkMsTLjSmTjSpQ5sCjLqvHxqm/Th/L_IMG_4366-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 22164,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-WhqkRqj/0/NJVzqGgP55gwV4pqV5bxxMBdM6ghH9Sn4tT999LD7/S/L_IMG_4366-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Size": 39895,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-WhqkRqj/0/LcLVL9FhRSjhKCqvJNfX8bkdwpNWS2MmfVVbrszWv/M/L_IMG_4366-M.jpg",
+          "Ext": "jpg",
+          "Height": 449,
+          "Width": 337,
+          "Size": 70329,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-WhqkRqj/0/LRJbqwsLv5HGmrzW2RFvGXw32hGThSpwgSzgTpfG3/L/L_IMG_4366-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Size": 109624,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-WhqkRqj/0/M8b8qLksww5x7wV4mDMfZpBMdpdzfxF39R4v8x27s/XL/L_IMG_4366-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 162168,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-WhqkRqj/0/KrZgsGWCN3vRS7PmmDfdHwnKrVTg4tQpbzNbktwhn/X2/L_IMG_4366-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-WhqkRqj/0/LZ2XmZdtKn7Lm7tSzT6N4XX7Jwj9jjNtxqQszzxhV/X3/L_IMG_4366-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-WhqkRqj/0/Mjk4ZTDBGMZkSkNC6HdwhkZXQHCrqvxQhXq55m3pw/X4/L_IMG_4366-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-WhqkRqj/0/K5GV6hFmtBVC5wmDf98fPDjSnsKKG8NgJVzv5DmGF/X5/L_IMG_4366-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-WhqkRqj/0/LPF9QH8Gb2rBQGsd6dDVPDHghGSHqZXDwRzt9LCM5/4K/L_IMG_4366-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-WhqkRqj/0/LkXrMNfNWsRH62F9Gg86Jj7jVs4GbRv37KwLPskCb/O/L_IMG_4366.jpg",
+          "Ext": "jpg",
+          "Height": 4023,
+          "Width": 3017,
+          "Size": 3616433,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/WhqkRqj-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/WhqkRqj-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_1347.jpg",
+      "Date": "2025-08-24T00:33:28+00:00",
+      "Uri": "/api/v2/album/bjvfsZ/image/tc8HwJb-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-tc8HwJb/0/#size#/M_IMG_1347-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-tc8HwJb/0/NCRrBKrkNntmGVvpMj9s2DRXCkHDqTkwXKhHLnJN3/Ti/M_IMG_1347-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-tc8HwJb/0/Mh4TPdg8ZgHFFG5dBfMRNDdS8dnTw7ng7m5rmD9Ls/Th/M_IMG_1347-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-tc8HwJb/0/Mq672fhDDJwcRDTmfg59M634SzqWck2CMK4739xF5/S/M_IMG_1347-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 63755,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-tc8HwJb/0/KW62mMKmf63DXTp92bVsdJVdnt35mrdBVXqjvKHJ5/M/M_IMG_1347-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-tc8HwJb/0/KQ9WhRG7vWgp89SSf62gNDGp83CPj3XP87ZhBb8Z4/L/M_IMG_1347-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 206309,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-tc8HwJb/0/L6bQtLtF2R3dxdzs4qtRtwTJTckqwM49SJ6t5wTvs/XL/M_IMG_1347-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 325083,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-tc8HwJb/0/MzVjxtCLWvc4WDz3qJHT4NcXb5Cxm6Pr2VGBzjgrT/X2/M_IMG_1347-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-tc8HwJb/0/Mb9PbRTfwS6WdVtW93mQsbr9z9SNkXmxkCBKQDG6z/X3/M_IMG_1347-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-tc8HwJb/0/K9pjDVpvsN83CPVFF7MRJdxN7WjCb4hM3Ntp3rCBz/X4/M_IMG_1347-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-tc8HwJb/0/LGpPKfpjzdmBM8VLnfFJBBXfC4Vz9mSjbpPQjx7GM/X5/M_IMG_1347-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-tc8HwJb/0/NgVCGL36mcxdprHnXsn6M6KHs5LxCcqKBWfgMBcsn/4K/M_IMG_1347-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-tc8HwJb/0/KHNW9S8psVN4tPjgS7J5cbDfJXnxxK93kqvR4BLxq/O/M_IMG_1347.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 4597152,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/tc8HwJb-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/tc8HwJb-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "48.422394444444",
+      "Longitude": "-123.37128333333",
+      "FileName": "L_IMG_4367.jpg",
+      "Date": "2025-08-24T00:33:27+00:00",
+      "Uri": "/api/v2/album/bjvfsZ/image/bPJNqtV-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-bPJNqtV/0/#size#/L_IMG_4367-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-bPJNqtV/0/Lh5gkH7WG6TCkNPMNcp5tBW3cR3HGNSSMqQsQZGnv/Ti/L_IMG_4367-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-bPJNqtV/0/Lx5kpTgnMD95Khn4BxCSPjWsSJQCHm33LjQnvLrCc/Th/L_IMG_4367-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-bPJNqtV/0/MzzJvtKCS5SV3HRTd8LxJJzFxW9h8v2frzPs5VZQ2/S/L_IMG_4367-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 55376,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-bPJNqtV/0/Ndw79z3cWCNXPC2NSvkxMQT2DNFPcmvnz3BkjBstJ/M/L_IMG_4367-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-bPJNqtV/0/KMqmJ3jKn8Pz234J6bvGqj4bH7MW36z7cXXQMJL9w/L/L_IMG_4367-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 178427,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-bPJNqtV/0/MxwQ5dzRxzfVjcT3rf5fQpF5dg9mSvXmgXqVN6Qg6/XL/L_IMG_4367-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 277937,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-bPJNqtV/0/MF8MKN7jXjsMndGgF4DzmxWXJswNTFh9LbQWgxnWS/X2/L_IMG_4367-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-bPJNqtV/0/Lnr32KqFXdZcVKdZJxcrD8nFM546CSqW8nqzgvstD/X3/L_IMG_4367-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-bPJNqtV/0/MKsKDS9j73HLrDwb3FdK3H8qJRBTG3dhh48QHBFST/X4/L_IMG_4367-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-bPJNqtV/0/K2xVtZV8djvCfDTCCL2HMT2tpKPbSmbwsXP4GWCbN/X5/L_IMG_4367-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-bPJNqtV/0/M7gDpP6bzkbkphhcRfjz43hgj82Gvc9wLr8cC2szh/4K/L_IMG_4367-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-bPJNqtV/0/MrwnrWJ679rWn5jx6t6pq8tFjdW9LPj5PLKV53hCq/O/L_IMG_4367.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 4745074,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/bPJNqtV-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/bPJNqtV-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "48.103905555556",
+      "Longitude": "-123.26786944444",
+      "FileName": "L_IMG_4373.jpg",
+      "Date": "2025-08-24T00:33:32+00:00",
+      "Uri": "/api/v2/album/bjvfsZ/image/9LwxZ3d-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-9LwxZ3d/0/#size#/L_IMG_4373-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-9LwxZ3d/0/KSFP3H5LB475HFgZVJpcWLW9Gh8T6Rv3pdTc4RVbS/Ti/L_IMG_4373-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-9LwxZ3d/0/KFPVjsWsCQ826C4XDPQ6t6sJrqRF4c6DB4BJx49Vf/Th/L_IMG_4373-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-9LwxZ3d/0/NbG9M7mR9M3bLVVc5QpZNHRmh5jT3cMn8NpgdRKJQ/S/L_IMG_4373-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 58110,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-9LwxZ3d/0/Kw3RzcjpJNSZSCDbsjpsnFWBcmGv35cmWFRGHscHp/M/L_IMG_4373-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-9LwxZ3d/0/K3ghbgfSXVznVPb7vB5Fj8Fn5xTBv4whCLx29NRW7/L/L_IMG_4373-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 182894,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-9LwxZ3d/0/Ltfrgbvq3F6FMZjRN2B4KV56rsKt7nKR4KKtg6hVH/XL/L_IMG_4373-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 287339,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-9LwxZ3d/0/KWSPMFQ8bNcSkdRbws9WDd4VzLkJRhLnPWrpTZ4Lz/X2/L_IMG_4373-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-9LwxZ3d/0/Lqn2cGVtkdPmL4HBNHtq85C5Ssdkgf8Mg8MD7ZngX/X3/L_IMG_4373-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-9LwxZ3d/0/LTsD8FVrQKBtf4r3VZnNWVZ8rgJmMGPDXxxDVFjTx/X4/L_IMG_4373-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-9LwxZ3d/0/M3MZ2SZxqhpD78tz2sVFnts2KT9t89q9zpp8LWDjB/X5/L_IMG_4373-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-9LwxZ3d/0/K6T8bMGTLg5vvXq6dB7vvKkWKzXFGhzDgWdzBVbLq/4K/L_IMG_4373-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2023-Port-Angelas/i-9LwxZ3d/0/LMfxv5z5gVDMS3v2HTw9836dQXkBCjtq8kpFXC5Mb/O/L_IMG_4373.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 4918748,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/9LwxZ3d-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/9LwxZ3d-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    }
+  ]
+}

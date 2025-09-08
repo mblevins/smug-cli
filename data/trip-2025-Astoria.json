@@ -1,0 +1,1786 @@
+{
+  "UrlName": "2025-Astoria",
+  "Name": "2025-Astoria",
+  "Uri": "/api/v2/album/fk9KWW",
+  "Date": "2025-08-18T00:19:40+00:00",
+  "WebUri": "https://lmblevins.smugmug.com/Travel/2025-Astoria",
+  "Images": [
+    {
+      "Latitude": "46.190991666667",
+      "Longitude": "-123.85300555556",
+      "FileName": "L_IMG_6458.jpg",
+      "Date": "2025-08-18T00:20:32+00:00",
+      "Uri": "/api/v2/album/fk9KWW/image/Fkq4z3F-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Astoria/i-Fkq4z3F/0/#size#/L_IMG_6458-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-Fkq4z3F/0/M42sFBP5dJBTZJNjfTmsptG8CwJCqDKX7XQBTgh7C/Ti/L_IMG_6458-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 13932,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-Fkq4z3F/0/MTk6mwq4tmkHN9B4sw6LJ2K8f3QZPrRbKDSSh5g9B/Th/L_IMG_6458-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 17867,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-Fkq4z3F/0/M74wTZKTHg4xHvvp8BZFjsLsVdzgNbH9KFNHRBgzJ/S/L_IMG_6458-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 50776,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-Fkq4z3F/0/KPB59fDQsbqGqMDbsDVzksDsvD2sNCch83d4Rd7kB/M/L_IMG_6458-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 99958,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-Fkq4z3F/0/NPqkhC8dPHLXQ4mh7wD2dC3cRwjPBbHvXrRHLLnZ2/L/L_IMG_6458-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 164413,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-Fkq4z3F/0/M5GzGPgTHb5BqFS8sLxgN72PqjfcBbVjXbBmpGWnQ/XL/L_IMG_6458-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 254429,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-Fkq4z3F/0/LJ8hPRRxqLk7tjKWvMdM3HX5j2vQrtVdd4R4X8PkS/X2/L_IMG_6458-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 651873,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-Fkq4z3F/0/NRHcBHW7NXRtpskHkZfsNzwWbxH3tRZNQRd23G494/X3/L_IMG_6458-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-Fkq4z3F/0/Kjpgx86dFtvCbvCNDZDPvBthtZwGDDbjNXRGgRNR6/X4/L_IMG_6458-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-Fkq4z3F/0/L6pMq9GkKFb8H9RvrfWDcFZdpcnV37jSf7VPrDjsc/X5/L_IMG_6458-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-Fkq4z3F/0/KrRh8xn2g5GTXhN5GnkGp2FBfvk8jxsdDGXPBL4NK/4K/L_IMG_6458-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-Fkq4z3F/0/MFmfMsZsd2NQGQ2CNnrS5rxFs8ccnGRHpzXsWmCGr/O/L_IMG_6458.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 4080174,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Fkq4z3F-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Fkq4z3F-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "46.190991666667",
+      "Longitude": "-123.85294444444",
+      "FileName": "L_IMG_6461.jpg",
+      "Date": "2025-08-18T00:20:32+00:00",
+      "Uri": "/api/v2/album/fk9KWW/image/MG4SSx4-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Astoria/i-MG4SSx4/0/#size#/L_IMG_6461-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-MG4SSx4/0/Ksw7Hf7kQSVH7kxpkx4h4hm89fW6gdSqrDRWHRmX4/Ti/L_IMG_6461-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 15144,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-MG4SSx4/0/NMBmnJ8vgKsJRmtzHqhMbV3ZvCNmWGNpKMfr7N6vt/Th/L_IMG_6461-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 19507,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-MG4SSx4/0/KWtBcjThPwjWdvXnnzC9NvBSgxHNvTDrZM4sDKXgF/S/L_IMG_6461-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 49459,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-MG4SSx4/0/LgpvtNjMjt7jJJQS2JwT9xd5hFdHTDJkdps74tmcC/M/L_IMG_6461-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 91397,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-MG4SSx4/0/K8Cs6mFZBzHXZxLrVCnfVhXLtZ9d5tkP5vXjdXBkm/L/L_IMG_6461-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 146629,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-MG4SSx4/0/Mb5kSPDWDHVn8fQvxnSPJVHJPGXwMWm9464KKdx2w/XL/L_IMG_6461-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 229061,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-MG4SSx4/0/KjGDc2R6wKFQS7wPKTLCvcpjKXQkVPh2WrRdQMnpw/X2/L_IMG_6461-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 619603,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-MG4SSx4/0/MnPNTp4szmkC26jMHB7hpVcvcHPsLWM72TMjZc8R5/X3/L_IMG_6461-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-MG4SSx4/0/LMx8k2pHDsTqvJRJ4CFtf48nDXMz9zvbNsNcrrVmd/X4/L_IMG_6461-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-MG4SSx4/0/KZHrwHTRXCRVfxggh3rtjz7M9L5v4bQqr8VQPfQpL/X5/L_IMG_6461-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-MG4SSx4/0/LMJH2c454wWWgkGW7FCPp3h3n9zFL7WNsbxRfZQwW/4K/L_IMG_6461-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-MG4SSx4/0/K2gF8qKf9GBNX2zdmgsQ2GfPrCFn5mBtXNpn7Dpn8/O/L_IMG_6461.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 4106703,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/MG4SSx4-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/MG4SSx4-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "46.190783333333",
+      "Longitude": "-123.85274444444",
+      "FileName": "L_IMG_6462.jpg",
+      "Date": "2025-08-18T00:20:32+00:00",
+      "Uri": "/api/v2/album/fk9KWW/image/pdd4bTg-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Astoria/i-pdd4bTg/0/#size#/L_IMG_6462-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-pdd4bTg/0/MNhcTNMLVgZpqPQDsX2c6LqrD7fZrGBKRd3DjcLfK/Ti/L_IMG_6462-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-pdd4bTg/0/K4v6rS9CrVnWwvNMX3GJZ5HsKcd2GdBCwgvB8xrSb/Th/L_IMG_6462-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 16653,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-pdd4bTg/0/KzfWwgbbz75wPgLpXf5XK7VWkhXLKd93nBhn7fVLM/S/L_IMG_6462-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 42852,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-pdd4bTg/0/NQzWmXtzSn7NW5C5DMhw5Dq7x9D82B7KPwpLKk2DZ/M/L_IMG_6462-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 93198,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-pdd4bTg/0/NLJJ2m6gmbHSrhHNsCN65LQPP5N4qx9Z8MXLMczXW/L/L_IMG_6462-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 165548,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-pdd4bTg/0/MtsFjtG5XjTRjdqFQS5WVNGVSbGj82X6wxQSFcRWt/XL/L_IMG_6462-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 270447,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-pdd4bTg/0/Lb5mwSc855HsgCmskFgHk85Zp7P73L9qrf8GhmNgM/X2/L_IMG_6462-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 720837,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-pdd4bTg/0/LwCzBgRG7335JwLLDmHJ5SpWRcWJqGv284LGsX6zC/X3/L_IMG_6462-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-pdd4bTg/0/Mt5m6dNrQ6Mh9mjfss9hS7F4hwmrjpGwS4vH6ntCw/X4/L_IMG_6462-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-pdd4bTg/0/Lvb495r9DzXghjj2DWV2HjhtcSZRQZ5WmM7kwb3HV/X5/L_IMG_6462-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-pdd4bTg/0/KqDrXhswZjgszhmqPtxvvhpHq73NHQnqNt6vLz6qD/4K/L_IMG_6462-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-pdd4bTg/0/K5ggqHhTDDx3tzmn3Q87cP7VsVz9grrDBLNLksQ7g/O/L_IMG_6462.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 4574061,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/pdd4bTg-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/pdd4bTg-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "46.189530555556",
+      "Longitude": "-123.85221111111",
+      "FileName": "L_IMG_6464.jpg",
+      "Date": "2025-08-18T00:20:26+00:00",
+      "Uri": "/api/v2/album/fk9KWW/image/c2kCxDx-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Astoria/i-c2kCxDx/0/#size#/L_IMG_6464-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-c2kCxDx/0/LpCpBR8sk8zgPJ3j58frzvMjSmtmTXFz2qkTzdHjL/Ti/L_IMG_6464-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-c2kCxDx/0/LNGgTpG7sCdbG7ZWkKtnjQM9bCkdvxJRpb9BJqQ5w/Th/L_IMG_6464-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 21507,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-c2kCxDx/0/KWPTtBdZv6ZDvKRsXFFh8BQKLfp8WrvGpn6qkXxVf/S/L_IMG_6464-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Size": 39056,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-c2kCxDx/0/MtPkhQtZfZjDxxnqBMK8JLV6qTstHfn9MwrZhmstM/M/L_IMG_6464-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Size": 70012,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-c2kCxDx/0/K2hnbNrN57LjcxrKVCnjZvvhFgjGzdQ77nT6KCGCf/L/L_IMG_6464-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Size": 109269,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-c2kCxDx/0/KNks3q3gR7rrjCgnkVxXBp4q2WQQs976vPXGNg7MF/XL/L_IMG_6464-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 164606,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-c2kCxDx/0/Kjn3P6NXJJ2s8f35xK5t2cRZgsKLsTWDnDsmBgv7b/X2/L_IMG_6464-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-c2kCxDx/0/L6LSQg725HSwk9DGSGgmd2pPBtCh6rtkTDQhWJ34f/X3/L_IMG_6464-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-c2kCxDx/0/KN8vskrtPxDTB3Zmm2dBgZ4m6Dc6qbWXprVTgnHFq/X4/L_IMG_6464-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-c2kCxDx/0/NFtbXH3hxQXdnLN48zDCwpMxwZfgHrF7czvXnNN4Q/X5/L_IMG_6464-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-c2kCxDx/0/L2HpS4ZVtq273H42jztBPXhRHS3HDQ6Rw4S47Svdb/4K/L_IMG_6464-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-c2kCxDx/0/LfxtcBf5zKNfLz46pk6b5sqcLG89b66xHGxf4F57Z/O/L_IMG_6464.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 3238443,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/c2kCxDx-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/c2kCxDx-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "46.181611111111",
+      "Longitude": "-123.81748888889",
+      "FileName": "L_IMG_6465.jpg",
+      "Date": "2025-08-18T00:20:25+00:00",
+      "Uri": "/api/v2/album/fk9KWW/image/JKKLwGR-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Astoria/i-JKKLwGR/0/#size#/L_IMG_6465-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-JKKLwGR/0/MwPvLXJT379M2B8N3NBhFmKwxnmJw6qKZPqmj6hhc/Ti/L_IMG_6465-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-JKKLwGR/0/MWcR5V63xw7q4Dc5NHSs7kPRc7h2bnTh4KCCpjKVT/Th/L_IMG_6465-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 15458,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-JKKLwGR/0/Khxnn9D6zJpR8h9D5786sVTBDg4w3pxcJC2bdddHC/S/L_IMG_6465-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Size": 24421,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-JKKLwGR/0/NVMSSPRpZSqZgNmkgzL74RqzbWJtg4r95tVgv3MLp/M/L_IMG_6465-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Size": 39439,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-JKKLwGR/0/LmSDXSFRkNdMTgM5BDp6d9D2tJzn4Gw6crCt24vp6/L/L_IMG_6465-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Size": 59044,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-JKKLwGR/0/LB3F3cJXZRFS8nDNhjVdh7NRTLGGdtDthhTNNXbCg/XL/L_IMG_6465-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 85740,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-JKKLwGR/0/LjPCRd7DkG97KjLNCz6FPVV8ggV9SZm8VTPXvCXkJ/X2/L_IMG_6465-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-JKKLwGR/0/K3TJ7Qvfj5n9QmbgrrMVWmd3tJWzSjctw8X8QWLMh/X3/L_IMG_6465-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-JKKLwGR/0/KLxJ2KLdJRTsDmpRdMj4czDfm5Tc85hnSwGdjP3bd/X4/L_IMG_6465-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-JKKLwGR/0/Lrk8vvTbsT6TDS4SmwBCw6887mQ485R2pdFgFjGKn/X5/L_IMG_6465-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-JKKLwGR/0/Nb2jZ2W88cMtPqhB2d5ZkpjkctZGjPKk5SfH2nfGD/4K/L_IMG_6465-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-JKKLwGR/0/LMd2TVVdtkm2sqhvFHssLGBJdV6kdcFWXDBcFwZb4/O/L_IMG_6465.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 1921009,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/JKKLwGR-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/JKKLwGR-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "46.181552777778",
+      "Longitude": "-123.81777222222",
+      "FileName": "L_IMG_6467.jpg",
+      "Date": "2025-08-18T00:20:26+00:00",
+      "Uri": "/api/v2/album/fk9KWW/image/K2XWCTF-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Astoria/i-K2XWCTF/0/#size#/L_IMG_6467-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-K2XWCTF/0/Kvj3B6qwdvNcfMCV552vCp8TmT83qF6MFQz95v8ZL/Ti/L_IMG_6467-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-K2XWCTF/0/L3mwLsdPB96cGfH96fVB2fCf2P8PZGCcgbMhxBrL9/Th/L_IMG_6467-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 18455,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-K2XWCTF/0/NRmW4hm62fSb8gKD87zLc7DvCCDQNrFKnTHdFJXdH/S/L_IMG_6467-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 52628,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-K2XWCTF/0/KS7ZrgphNTjL5h2FwHH5pP7S4VbncwSQPmdvfb6n9/M/L_IMG_6467-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 102071,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-K2XWCTF/0/LXNc2HWJBpCpfLGwwBGTWzvGsmKJzq8LVST6GHGvB/L/L_IMG_6467-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 161413,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-K2XWCTF/0/NFN2mbCDqLnJKbs5r6vfSrr6xSVPgD2536mWdfd34/XL/L_IMG_6467-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 243025,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-K2XWCTF/0/KN7qzndVKfx5MJrwPpptdFLFf5ZrM2RBPpdmHpgdg/X2/L_IMG_6467-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-K2XWCTF/0/MHbCzzBrMmS9xXDcZCdNPjdcCt3G9gdJKBbSVTvM2/X3/L_IMG_6467-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-K2XWCTF/0/LmmLdw2xXdWnW68JK5Bzh8ZSJtPRkk3S3f6hmkFCJ/X4/L_IMG_6467-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-K2XWCTF/0/MmCcTFDk7khLfmDMHTCjknpBVcP9VWWbBmHHFFQP2/X5/L_IMG_6467-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-K2XWCTF/0/LtJZwfqzGz65FLkhCjDndhCZqgPWgsffKXmWXmHvq/4K/L_IMG_6467-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-K2XWCTF/0/LJmb2PMLZ2mzD22GxStD54bBdgbSNcWQRZ3WzmTJV/O/L_IMG_6467.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 2516516,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/K2XWCTF-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/K2XWCTF-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "46.181480555556",
+      "Longitude": "-123.81804722222",
+      "FileName": "L_IMG_6471.jpg",
+      "Date": "2025-08-18T00:20:27+00:00",
+      "Uri": "/api/v2/album/fk9KWW/image/WjvLfWC-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Astoria/i-WjvLfWC/0/#size#/L_IMG_6471-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-WjvLfWC/0/MVmfnhbXzm9rsj9dsZdkJVcLphwF5Z63JDX2dzsBP/Ti/L_IMG_6471-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-WjvLfWC/0/KnftkJr33XTt6ND7dPMG5F8bs248qtkc8wcFKsNjj/Th/L_IMG_6471-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 18175,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-WjvLfWC/0/LmPRrfrKN2Nv4pkQH555RFLwDm8wrtW9cmHSd4Phq/S/L_IMG_6471-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 50228,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-WjvLfWC/0/Mz9gZRfGKGJfKwWCQFDv9cRZ4bvkB72Jxn64kKwjf/M/L_IMG_6471-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 101262,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-WjvLfWC/0/NTw3rTs3wn8FSrpgRMBj5KsVtdLS3DbSNcNGp2XCX/L/L_IMG_6471-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 170418,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-WjvLfWC/0/MN723MwK6sShNRTWz7BT9BQvW7KmVMpHNdQR3zvgT/XL/L_IMG_6471-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 275900,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-WjvLfWC/0/L6r835vKJFL9z6PMvN2xCgwGv7PtLjSxb2ShRfwV8/X2/L_IMG_6471-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-WjvLfWC/0/MfF4XZMz5xc5fLCFwt5qgJJvh5Kn8kDXc9wWsJWvz/X3/L_IMG_6471-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-WjvLfWC/0/MVtgVGdKZLRvctf4C25JS4NNbgCfhZ7cHQn2Tgdfn/X4/L_IMG_6471-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-WjvLfWC/0/L56HKNRZDTVvt3HRGbHMK5JvKWS4hrTgrmR62nXBJ/X5/L_IMG_6471-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-WjvLfWC/0/LRN74dT52hTSCDrmCxqTWjN2PtpNPDnGpTz6RMMJV/4K/L_IMG_6471-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-WjvLfWC/0/M5N8jTf9W7GcvJnTkLsSCbx54LSqHWF3nqSf67vK8/O/L_IMG_6471.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 3939912,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/WjvLfWC-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/WjvLfWC-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_2547.jpg",
+      "Date": "2025-08-18T00:20:27+00:00",
+      "Uri": "/api/v2/album/fk9KWW/image/Lb8dZg7-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Astoria/i-Lb8dZg7/0/#size#/M_IMG_2547-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-Lb8dZg7/0/Kj4w7855dXkC26bsXqbSrc37FDC4cJksnjZddxZqg/Ti/M_IMG_2547-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-Lb8dZg7/0/MS3N74qhtDLXhfjmjNNVks26bg5hH86snd4MrzCZC/Th/M_IMG_2547-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 18568,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-Lb8dZg7/0/NHCjXtFBrN5434KWFC3gJDBWwm4x6B9qsq8vcS3j4/S/M_IMG_2547-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 49598,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-Lb8dZg7/0/LWJmNJDSsxVCb2PRFgBSMF8cJVN4CxFrfHqS96GdF/M/M_IMG_2547-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 95728,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-Lb8dZg7/0/KMgpS2rfvSmBNXFKqNT5rHcT59qFk2pfVBJMmWFZr/L/M_IMG_2547-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 155733,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-Lb8dZg7/0/KS8bzdCsMwnfqsS8jGbpBDn88GmWWtW9jd5ppr5mM/XL/M_IMG_2547-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 243668,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-Lb8dZg7/0/NJwcvznX5pCmVKLjf6NVhHwpkc5tnxNSbtftNJ9vC/X2/M_IMG_2547-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-Lb8dZg7/0/L8KJTs2bpCc7kCjvvZp9VZgdgL2fXsZPZbj59dTwX/X3/M_IMG_2547-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-Lb8dZg7/0/KwXkN73SxhZznd9F7DsWcMjSnmmdNtHB9fgKqbRzm/X4/M_IMG_2547-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-Lb8dZg7/0/Lzrx9nNKxmCkL6kR8QhK5Gvp42tqBPwmBZmsQgCK5/X5/M_IMG_2547-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-Lb8dZg7/0/MHTPFN622gqs2hFNz2sj76pRRn6qx5m2HdzXBZxGV/4K/M_IMG_2547-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-Lb8dZg7/0/MFNL9fxg6CKZ4d4m9TXLwszLjh486C7LZbFzXHht7/O/M_IMG_2547.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 3596699,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Lb8dZg7-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Lb8dZg7-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "46.181038888889",
+      "Longitude": "-123.81793333333",
+      "FileName": "L_IMG_6476.jpg",
+      "Date": "2025-08-18T00:20:20+00:00",
+      "Uri": "/api/v2/album/fk9KWW/image/gvvJLXx-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Astoria/i-gvvJLXx/0/#size#/L_IMG_6476-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-gvvJLXx/0/MNFG8jX74rZCXPr29Hd78dT5hCts6VX8HbKtDDRML/Ti/L_IMG_6476-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-gvvJLXx/0/Kzw63cmsB7dVNFK9kr54vDsK838RxwLcv3WLFMFs4/Th/L_IMG_6476-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 15234,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-gvvJLXx/0/KrXm9SRXPZHXjWSQ2np2qvfdGxtwWXXdRLJSbTvRH/S/L_IMG_6476-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Size": 22712,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-gvvJLXx/0/MBtF2Zm85NKBLhs6JQKKmJWmfq2V3PJmWX8xLcbz4/M/L_IMG_6476-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Size": 36087,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-gvvJLXx/0/K9C5PFGs8CztFsrBVbtM8vL7Fshfc7Ks3DhHp5bk3/L/L_IMG_6476-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Size": 52995,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-gvvJLXx/0/KQZfN3Pg37MjkZ3g5nT4KsqR6pfjtGHsRwFvFvkRF/XL/L_IMG_6476-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 75537,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-gvvJLXx/0/KqCqzVzVNwjnvnLnx5ZdLJH8Scc7VPv45hfH73n7S/X2/L_IMG_6476-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-gvvJLXx/0/MsRLRhggBq9HRtjkWjtcHGrmzhrZPPqmJCkqR85d4/X3/L_IMG_6476-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-gvvJLXx/0/KPgGFFKJXnzkbBMQS3Rjn8zhJ9ZnX2QGHjxB5vPHM/X4/L_IMG_6476-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-gvvJLXx/0/MqxC3V3DrH668fKPHXPb2Jr4SbTzvkNDXPmfmbDHS/X5/L_IMG_6476-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-gvvJLXx/0/K82HvctP9XRNT4rHcKddhR4WkwdvVjh46jkrxtqBF/4K/L_IMG_6476-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-gvvJLXx/0/KFktsb29HgqFgJGmpCsbrwPMTWGMK2bb4wBJF8rM4/O/L_IMG_6476.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 1426349,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/gvvJLXx-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/gvvJLXx-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_2549.jpg",
+      "Date": "2025-08-18T00:20:18+00:00",
+      "Uri": "/api/v2/album/fk9KWW/image/5Hcn3XT-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Astoria/i-5Hcn3XT/0/#size#/M_IMG_2549-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-5Hcn3XT/0/MnZzDTJNv34jSpmhRfpL9vFpPQ5rbNRQcfCgn7W3k/Ti/M_IMG_2549-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-5Hcn3XT/0/L7MHw52qdVdv53DXbgzwKJs3S4jDBV49z9DCKGdpq/Th/M_IMG_2549-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 22659,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-5Hcn3XT/0/L7crNWn4Vqs8mQMJkSFKSpg94dbxMT43PfB7vPBTV/S/M_IMG_2549-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 68091,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-5Hcn3XT/0/M6SSCWM8BZWcjPtcht39Pwc7QBQm2h3NRRCTnPnTN/M/M_IMG_2549-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 136945,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-5Hcn3XT/0/MpbDGWMGNb4ScW9GvfBPLjHBt47cjxbj2qSZCB6QT/L/M_IMG_2549-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 229475,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-5Hcn3XT/0/M52P5BJdZDVVW2fKQR4sjJ47gLpXv5Zgh6vgf6GQW/XL/M_IMG_2549-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 368650,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-5Hcn3XT/0/L3ZcmDdTbBcL2TK8vBKjx4QPTxBg9ZPnVDBMBQ3x3/X2/M_IMG_2549-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-5Hcn3XT/0/Mkm9SPdzt9H9s5kBKJqSbt28NJJqCj2GhwfjSQ5MJ/X3/M_IMG_2549-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-5Hcn3XT/0/MVRSKtZFQrSmq7MmQ9pbRNKrhtcfjDRW8nBQ8Vd4s/X4/M_IMG_2549-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-5Hcn3XT/0/KJsvtFs6M9nxtnZ366Q9f2ZPVZhzMfjx55r9ct7HG/X5/M_IMG_2549-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-5Hcn3XT/0/KLtKL6S2QHSqgHLsc3w4s4v7XFPsBkS2sWbNJ9Lw5/4K/M_IMG_2549-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-5Hcn3XT/0/MfGRcfN5BKdD9WxqWWwBhLtx5Cd4T7V5JbWDH9WNB/O/M_IMG_2549.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 5469389,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/5Hcn3XT-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/5Hcn3XT-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_2550.jpg",
+      "Date": "2025-08-18T00:20:18+00:00",
+      "Uri": "/api/v2/album/fk9KWW/image/TjGnvZL-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Astoria/i-TjGnvZL/0/#size#/M_IMG_2550-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSize5K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-TjGnvZL/0/L7d77VDzx559MLD2GnjNfRcdFnthB8LRkwjvv7xZ6/Ti/M_IMG_2550-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-TjGnvZL/0/MSZJhrQGZQGx8H4qLQf6C9n7j3NS298TWxHTZKGzN/Th/M_IMG_2550-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 15885,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-TjGnvZL/0/KxsDtWB6NJmwQCvVKrFmjFBwXGd37XVHB446dm3zD/S/M_IMG_2550-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 37243,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-TjGnvZL/0/MMQmWn3M59pgBm2zmWT5v6KtvjdwJZkXvkr65nf8W/M/M_IMG_2550-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 68755,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-TjGnvZL/0/K6wskc4x6tJ34HFK9MCTKLd38P9sPWD4Mwn8vLR54/L/M_IMG_2550-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 111269,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-TjGnvZL/0/M5GG6M426D2HNDKZFFKn32rPG4ZGRhBgbKLGT5vNG/XL/M_IMG_2550-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 173352,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-TjGnvZL/0/KFzCVZwQrFbHwVFrQ5wjZz5Gtjr2N3pCqWv6djvx9/X2/M_IMG_2550-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-TjGnvZL/0/NKN7vwQWx5mBcQkCSWjT4jfRxgD7s8ShK8R5nVNXm/X3/M_IMG_2550-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-TjGnvZL/0/MBX8jsszwZQ8GkrzRSs3ZS4cHjMRPVxjt2TSRg9Fx/X4/M_IMG_2550-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-TjGnvZL/0/MjwWSQqXFM54sjWwz4M3Tq4DD4g82pCdskfGMWdDf/X5/M_IMG_2550-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-TjGnvZL/0/LmjDkWKBqZqQWkffQpRjmTtCT5B4kB3VpcTt8St5X/4K/M_IMG_2550-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSize5K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-TjGnvZL/0/KcmVp4wwqJpf3Ct6pvmjD8x8PjVfNG3F2wFPNhkQn/5K/M_IMG_2550-5K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 5120,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-TjGnvZL/0/KwJ7Dq7WBkx3KQRMx4nrmQN5wh6khqd6cQVnk8cCp/O/M_IMG_2550.jpg",
+          "Ext": "jpg",
+          "Height": 4284,
+          "Width": 5712,
+          "Size": 5856438,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/TjGnvZL-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/TjGnvZL-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "46.180891666667",
+      "Longitude": "-123.81878611111",
+      "FileName": "L_IMG_6477.jpg",
+      "Date": "2025-08-18T00:20:19+00:00",
+      "Uri": "/api/v2/album/fk9KWW/image/WpxvmkX-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Astoria/i-WpxvmkX/0/#size#/L_IMG_6477-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-WpxvmkX/0/LNc339t5RCkT5SPmk9382XT5GWDvDnsj2vJ8fh3MC/Ti/L_IMG_6477-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-WpxvmkX/0/MMq2fkPzMNHCKMVpJjzs5P978PCLW5Tq7mGvN4DDK/Th/L_IMG_6477-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 19071,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-WpxvmkX/0/MBfKTjKPWDk5W6hrrqCmjrMmr564hMR3p3zVwShx8/S/L_IMG_6477-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 56111,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-WpxvmkX/0/LQvLNcH23jBMgtCSDDVjJzG92mmfvPCC7Lshcdd4Z/M/L_IMG_6477-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 115860,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-WpxvmkX/0/LtvmtKQGBMLgLFjTSwj2C3Djj6PCHbrMW7GbDmpMJ/L/L_IMG_6477-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 198365,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-WpxvmkX/0/NZdqPPGZ2G9S4RhFp4wNzwxGVgmFFjdVkQtVF3BCn/XL/L_IMG_6477-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 325773,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-WpxvmkX/0/MsfvZm5wxg3xZS52696mVKM93j659LPg4WG8hVSw3/X2/L_IMG_6477-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-WpxvmkX/0/KSx6DNHtTwcjZkwkWCvb8cQBL3tbfNzRWChnDdMfW/X3/L_IMG_6477-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-WpxvmkX/0/Mcthc6zB8r3fj4pFH7DFfQN3JVDfpr4pzMC8BLPDb/X4/L_IMG_6477-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-WpxvmkX/0/MZ7Fh42wgwpRHPrPxbkDH9XV2bCHqJtvs8SbW2zXK/X5/L_IMG_6477-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-WpxvmkX/0/MgW52SM7hxgVV5pmhD8FKfrdT9mPvSv6LkPvDvrDb/4K/L_IMG_6477-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-WpxvmkX/0/MCmX3ZLQ7fZn6VmrxBm9jz5Z99SRB4jKzQrr4hqHN/O/L_IMG_6477.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 5435213,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/WpxvmkX-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/WpxvmkX-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_2553.jpg",
+      "Date": "2025-08-18T00:20:18+00:00",
+      "Uri": "/api/v2/album/fk9KWW/image/NtJ9CHS-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Astoria/i-NtJ9CHS/0/#size#/M_IMG_2553-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-NtJ9CHS/0/NcpfztNQbfbXGSVhNfpWqj69ZSpFCGpGw6X65CksH/Ti/M_IMG_2553-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-NtJ9CHS/0/KHk8Jm2Rt7bvMx9KwMVSq2fRsM7bPGTxWpsX5x232/Th/M_IMG_2553-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 21387,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-NtJ9CHS/0/MR7kjbkqppg9wvxrKXFF5ffGKzLp4tNjxr53hXNbg/S/M_IMG_2553-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Size": 44070,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-NtJ9CHS/0/MnPsbRdZL5z8cmVcCJCCTzDcJrsWw6dVt2wfnJtcB/M/M_IMG_2553-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Size": 85358,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-NtJ9CHS/0/LMqS3MhpttTfB4MPR2nBrHQVdXVFbCwQrzbhFXdgc/L/M_IMG_2553-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Size": 139923,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-NtJ9CHS/0/L3XkHqFfgfb4sdHPHQ87QJnxjW7WXQfPdwtwGFgdB/XL/M_IMG_2553-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 220948,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-NtJ9CHS/0/LvHBjQk5NJggGzPsfXqF3Rrtgzgf8jTqJZKtHrf55/X2/M_IMG_2553-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-NtJ9CHS/0/Nf8CRSHRCZvbHqbjc6zfDszmGSz2Wkh5hT5gCKq2R/X3/M_IMG_2553-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-NtJ9CHS/0/LmGTw5pFPKHrRNWrrS3thgVBSbtfvRC2fTcRqp7mC/X4/M_IMG_2553-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-NtJ9CHS/0/K6CmKRtz83KQx4Dw5mw7kbN9hXnFJPjJpr4kBcTbN/X5/M_IMG_2553-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-NtJ9CHS/0/LGXwMgCb2sHDprpT48r7g69683GPwC3snfWdZmxjr/4K/M_IMG_2553-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-NtJ9CHS/0/M5cMzTfDsLq6McmTXRLVQ27scQ38ZZb6kcMdwVWm6/O/M_IMG_2553.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 4837142,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/NtJ9CHS-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/NtJ9CHS-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "46.131438888889",
+      "Longitude": "-123.87850277778",
+      "FileName": "L_IMG_6480.jpg",
+      "Date": "2025-08-18T00:20:18+00:00",
+      "Uri": "/api/v2/album/fk9KWW/image/gcSDVqG-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Astoria/i-gcSDVqG/0/#size#/L_IMG_6480-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-gcSDVqG/0/LCM4kDwTF7j4HvNfftxtcq6LctjBH4JNRsFmjjFKN/Ti/L_IMG_6480-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-gcSDVqG/0/M3knpG4cpw58CbkWBVmDmphfSLW2KXpQNpNf43GBn/Th/L_IMG_6480-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 22298,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-gcSDVqG/0/L4hhZ2ZGMnCSssWdMNMXnJ86vgjLCtjWgXHbxJFwn/S/L_IMG_6480-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 72842,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-gcSDVqG/0/MwwXzmCQdJ5N54c4RnW2ZNS879Pv8KNkKLrW3RFnb/M/L_IMG_6480-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 153496,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-gcSDVqG/0/MTWTJsJcRXQbLGJf9DhLsc8rBccwX8dkdpZKJHwL8/L/L_IMG_6480-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 262145,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-gcSDVqG/0/MzN8wR5DsvqN7pzTNLr79qx5zXnz8gNrxpBfzH8f9/XL/L_IMG_6480-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 429445,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-gcSDVqG/0/NS839xJn3HSTd79c7LtwXBxTFtXswrRsRzmzzZcgm/X2/L_IMG_6480-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-gcSDVqG/0/Kw9rTmPGPLdhzTRRHx8Fnvdmq9kWHtGTWRcRz4bbn/X3/L_IMG_6480-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-gcSDVqG/0/M7tsK9DXKHs9jmF5dKkBfPRgF9c74Pv42jKt222HM/X4/L_IMG_6480-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-gcSDVqG/0/K77ctQ2sXzhJWrL78xfXF2bKp3Vvj8sm3p3zpQdS6/X5/L_IMG_6480-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-gcSDVqG/0/Ng4mwDjKr5KjBFZn9TZ3nNK3TRwzk7TH5dTq8m2Gd/4K/L_IMG_6480-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Astoria/i-gcSDVqG/0/MCq83rKHLhpNHSTbPdn8r6WVfHMTX32gmDTsKNrTp/O/L_IMG_6480.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 6423935,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/gcSDVqG-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/gcSDVqG-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    }
+  ]
+}
