@@ -106,13 +106,18 @@ def filter_list_output( orig_list, filter_keys ):
 def filter_object_output( obj, filter_keys ):
     return{k: obj.get(k, None) for k in filter_keys}
 
-def list_albums_helper(helper):
+def list_albums_helper(helper, pathprefix):
     url=f"/api/v2/user/{helper.get_user()}!albums"
     album_list=[]
     params={'count': 100, 'start': 1 }
     while url:
         listobj=helper.request('GET', url, params=params )
-        album_list.extend( listobj['Response']['Album'] )
+        if (pathprefix):
+            for a in listobj['Response']['Album']:
+                if a['UrlPath'].startswith(pathprefix):
+                    album_list.append( a )       
+        else:
+            album_list.extend( listobj['Response']['Album'] )
         if ('NextPage' in listobj['Response']['Pages']):
             # seems to be a bug in the rqeuests lib, need to pass query params as options, the 
             # nextpage URL isn't working
@@ -125,13 +130,14 @@ def list_albums_helper(helper):
 
 @cli.command()
 @click.option('--all', is_flag=True, help='Return all fields',default=False)
+@click.option('--pathPrefix', help="match against path prefix")
 @click.pass_context
-def get_albums(ctx, all ):
+def get_albums(ctx, all, pathprefix):
     """List albums
     """
     try:
         helper=ApiHelper( ctx.obj.smugmug )
-        album_list=list_albums_helper( helper )
+        album_list=list_albums_helper( helper, pathprefix )
         if all:
             print(json.dumps( {'Album': album_list}, indent=2))
         else:

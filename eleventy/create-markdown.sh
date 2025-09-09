@@ -7,7 +7,7 @@ if [ ! -d $inputdir ]; then
     echo "no $inputdir, nothing to do"
 fi
 
-trips_dir=data/trips
+trips_dir=/trip-data
 if [ ! -d $trips_dir ]; then  
     echo "no $tripsdir, nothing to do"
 fi

@@ -1,0 +1,3 @@
+[submodule "trip-data"]
+	path = trip-data
+	url = https://github.com/mblevins/trip-data.git
