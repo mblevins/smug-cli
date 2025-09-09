@@ -28,8 +28,7 @@ for image in images['Images']:
     m=image['ImageSizeDetails'].get('ImageSizeMedium')
     if not m:
         m=image['ImageSizeDetails']['ImageSizeOriginal']
-    l=image['ImageSizeDetails'].get('ImageSizeX3Large')
-    if not l:
-        l=image['ImageSizeDetails']['ImageSizeOriginal']
+
+    l=image['ImageSizeDetails']['ImageSizeOriginal']
     print(f"{{% fig \"{image['FileName']}\", \"{m['Url']}\", \"{l['Url']}\", {m['Height']}, {m['Width']}, \"{image['FileName']}\" %}}")
     print("<p>")
