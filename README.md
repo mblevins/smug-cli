@@ -45,8 +45,12 @@ bash eleventy/create-markdown.sh
 cp -n eleventy/content/*.md <eleventy-repo>/content/blog
 ```
 
-There's a trips json file needed for this (todo: link to other project), there will be a lot of warnings it can't find a matching weburi, this is normal, just means the trip hasn't been filled out yet
+There's a trips json file needed for this (see next section), there will be a lot of warnings it can't find a matching weburi, this is normal, just means the trip hasn't been filled out yet
 
+
+## trip-data
+
+"trip-data" is a required directory, see [here](https://github.com/mblevins/trip-data). If cloning this directory from scratch, then do a "git clone", otherwise do a "git fetch" if finishing up a darktable session with a new trip. If anything changes, commit the changes.  It should probably be a submodule, but I can never remember git submodule commands.
 
 
 
