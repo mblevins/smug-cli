@@ -1,0 +1,1795 @@
+{
+  "UrlName": "2006-HongKongLayover",
+  "Name": "2006-Hong Kong Layover",
+  "Uri": "/api/v2/album/x54wVf",
+  "Date": "2008-04-12T18:27:20+00:00",
+  "WebUri": "https://lmblevins.smugmug.com/Travel/2006-HongKongLayover",
+  "Images": [
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1884.jpg",
+      "Date": "2008-04-12T18:27:27+00:00",
+      "Uri": "/api/v2/album/x54wVf/image/pwH5b49-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-pwH5b49/0/#size#/IMG_1884-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-pwH5b49/0/MdDqz22RWRjDjmTkL4DKs9S69vVFfWfbh73DW9zVj/Ti/IMG_1884-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-pwH5b49/0/KDjMLp4W6Fk7cZ46NCfBthgppgddxFbd4zh6gspL5/Th/IMG_1884-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 8548
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-pwH5b49/0/KbT58MKQttRMd7FcM677brZrm7rsJgzW3XWpd3255/S/IMG_1884-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 40837
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-pwH5b49/0/KbnDtn8TjrNbFt6z9WMZNNFV53MrXkdTVsMxchScB/M/IMG_1884-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 79158
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-pwH5b49/0/KjWTR3XKr3MVjX9Nd265GkHWcc363QvWLLdhQ2PKF/L/IMG_1884-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 127975
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-pwH5b49/0/NdT3tLsFFVWvT6FHcTD9TQ6xkKCZ2Pmg5bKGWHvks/XL/IMG_1884-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 310461
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-pwH5b49/0/MqtJLDSmrW2DLbFD5pc9K8f7d8bQwsDvSKBJTzCmF/X2/IMG_1884-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 459776
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-pwH5b49/0/NBjttJdMTG6CWpxqHZLjqs8MSQL5kXtqS3Nn3wh7w/X3/IMG_1884-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-pwH5b49/0/KVc4xCMj2GX8SR4Qh68fKqFrF6L7TLcff82H5Jrjb/O/IMG_1884.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 310139,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/pwH5b49-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/pwH5b49-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1883.jpg",
+      "Date": "2008-04-12T18:27:27+00:00",
+      "Uri": "/api/v2/album/x54wVf/image/WTTt8RW-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-WTTt8RW/0/#size#/IMG_1883-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-WTTt8RW/0/NTQfxkcXLvc5V4ZxcXvT7cb6HNTTrm8Gpv8d2dbpn/Ti/IMG_1883-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-WTTt8RW/0/M4kJ7kRJdzTTQZsBqwbsBCKpvNsQMrCQ4rZZQvXt4/Th/IMG_1883-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 10288
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-WTTt8RW/0/LLQQtmj88GqWCzCsSnfK43tDLSvTR8ZQVwLK5Jh3b/S/IMG_1883-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 33726
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-WTTt8RW/0/LGSRr3q2XHpZrZxzMTvrnfPpwjSnKFGWP8wgQRmzF/M/IMG_1883-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 68883
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-WTTt8RW/0/NQZWZvkrrFkXkz3HFXKLxjGNjGvZz58KVh7z5qhJ5/L/IMG_1883-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 115565
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-WTTt8RW/0/M8TQfrPZwBdqcVBbx7DNLjknrQnw6wFnHvdvJtdGw/XL/IMG_1883-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 182306
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-WTTt8RW/0/NgR7SDLFfH5Fgsgk5KQMhzQ3GgpQ63c8WkRxdz9QK/X2/IMG_1883-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 447854
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-WTTt8RW/0/KTFBtG2fg3r6f8Rk6gcVRDdqdHk6K7Lvrnxf7gLXd/X3/IMG_1883-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-WTTt8RW/0/L9BDW6Kr4jLzjhS4jsJwJmVpd62JxqkWn2svG6kRs/O/IMG_1883.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 302345,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/WTTt8RW-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/WTTt8RW-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1887.jpg",
+      "Date": "2008-04-12T18:27:31+00:00",
+      "Uri": "/api/v2/album/x54wVf/image/k6SsVRP-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-k6SsVRP/0/#size#/IMG_1887-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-k6SsVRP/0/LtQRH789cg3qvKK7pCq9CkR2fXP8FWpLR4kLdpVcZ/Ti/IMG_1887-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-k6SsVRP/0/K6mX2ffCMgHbN3brK3jptvS69Qcp9b3pj577wwvm3/Th/IMG_1887-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-k6SsVRP/0/MtT9Nn3H4RJftvdvZQBhrgBCZZpSbhv4TKFQGth8p/S/IMG_1887-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 53434
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-k6SsVRP/0/KkztvpjdqX7FsTDkVPw4DthDjQGjZLTcRpGSpfPBS/M/IMG_1887-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 116074
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-k6SsVRP/0/KWZ4LcPzt2pVSD5dvDt6hb9McgqRZz3NWrn63PDwM/L/IMG_1887-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 225153
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-k6SsVRP/0/KHmr5FmcthwnQrL2gDxFtwBm2MZSLhwJkHfB6qSrS/XL/IMG_1887-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 518872
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-k6SsVRP/0/MqdGx3tRP7P6R8MPRxPm6QzjwqzR5ZZx8dgTtNFbw/X2/IMG_1887-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 766980
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-k6SsVRP/0/NcLGXLwfdLt2KctH6WpZQzz4CtGwQbJ3HJ4cpzHWh/X3/IMG_1887-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-k6SsVRP/0/NZgSxDmphQpVbZn5fkD75NbdJ3FkfdGxwQK7BN5r8/O/IMG_1887.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 607532,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/k6SsVRP-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/k6SsVRP-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1885.jpg",
+      "Date": "2008-04-12T18:27:31+00:00",
+      "Uri": "/api/v2/album/x54wVf/image/X5Vtxvm-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-X5Vtxvm/0/#size#/IMG_1885-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-X5Vtxvm/0/K3ng8qSLdqpxWXF6SDbNmnNFZTzZJmCJX4VWpTvv4/Ti/IMG_1885-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-X5Vtxvm/0/KfQVW3xf8hzJKVnLxMsZhRWXHFgPxc2j9pgffktQW/Th/IMG_1885-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-X5Vtxvm/0/MSCmFHw44HNbggMgFzg4cHfhkBb7FrKBRWSg73Xkg/S/IMG_1885-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 43162
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-X5Vtxvm/0/KsmZk2RrwRkn9qnf4qpfj9GmjK59Mw84k8h4cmM7g/M/IMG_1885-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 111140
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-X5Vtxvm/0/LfmRBF4TJ2rxjHBH6g4VRwWWQss4bdzkqdxNCG5SV/L/IMG_1885-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 183327
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-X5Vtxvm/0/K2gBsBzDzghWnHDFHn3jn4b6jWM88TtJDm4z7hSgq/XL/IMG_1885-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 431055
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-X5Vtxvm/0/KxzksXDh4wFgMQs6C97BK3nqjdQGkM7kxhnRLzC2n/X2/IMG_1885-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 636831
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-X5Vtxvm/0/NPJhxhCLxCxPkD8qPz3RD4kmthX8zbMSDnkcKg7cx/X3/IMG_1885-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-X5Vtxvm/0/MLb6xwLdtknz23Pbfm3DLNjpb9T5tr44Q6MKWgK6F/O/IMG_1885.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 487990,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/X5Vtxvm-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/X5Vtxvm-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1889b.jpg",
+      "Date": "2008-04-12T18:27:34+00:00",
+      "Uri": "/api/v2/album/x54wVf/image/VRmLBQ4-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-VRmLBQ4/0/#size#/IMG_1889b-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-VRmLBQ4/0/M3C84pGV9qd2dQddp83kvccr2KsbhfZVXV3tDF8dT/Ti/IMG_1889b-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-VRmLBQ4/0/LXNFWGmm7D6DWV6bBb7BQwvRm2cwvrxtgxKK964rd/Th/IMG_1889b-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-VRmLBQ4/0/LHdsmnVzbgkSSrjShPFkTNTH3nDRd7X5nffLxXrCg/S/IMG_1889b-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 48537
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-VRmLBQ4/0/KP9GcPxXSwdmj5G6nxRkSr4qXFttWCJjsJ3L6KvSg/M/IMG_1889b-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 91976
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-VRmLBQ4/0/Lk4NWBJxPbkd89k6XkPk8V3jT4jmXhw2mZ24jQSmP/L/IMG_1889b-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 170141
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-VRmLBQ4/0/MTf8Jbh8Q7DVNFM8KgGVnWxz4557GS5vRjsCmhK47/XL/IMG_1889b-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-VRmLBQ4/0/KZjqPT7DDkvfpRVkqGxfhJv8v9PkDvwkRjdWCf85B/X2/IMG_1889b-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 535383
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-VRmLBQ4/0/LFNNMJ5qGwTvTzW8ZgBZmXcmqw75BKSsP8kx6QpR2/X3/IMG_1889b-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-VRmLBQ4/0/LFv3cpTKMQz9VjjzVdQZX8d2HCDw7csHkWvLF2tPT/O/IMG_1889b.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 371451,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/VRmLBQ4-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/VRmLBQ4-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1889a.jpg",
+      "Date": "2008-04-12T18:27:34+00:00",
+      "Uri": "/api/v2/album/x54wVf/image/Fm27zt6-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-Fm27zt6/0/#size#/IMG_1889a-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-Fm27zt6/0/LZ6NrQWrxmzRfRh9TMVRvQCxtJ8DV4w5Ccp73WvN7/Ti/IMG_1889a-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-Fm27zt6/0/LpM8fM28Pb4ZjqH6Nff7HjBTzvjXmtV6dJR9spRz6/Th/IMG_1889a-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-Fm27zt6/0/MCZ4vdHp9sBBMC8PGrBqnKcHWHrJhGmmRF5p9Dndf/S/IMG_1889a-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 34697
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-Fm27zt6/0/NB585KLjs3k35jBjTj4hR8GWmJjQN2LknZ8NSTKjk/M/IMG_1889a-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 81742
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-Fm27zt6/0/KmWchWRjns3xjXCZnrkK6vJz4cxxRCfMkHdz3xhNJ/L/IMG_1889a-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 128249
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-Fm27zt6/0/K323bc6JDk8PqPBNShRGkvwxBG4SqRt9kn2TxXbrq/XL/IMG_1889a-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 294442
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-Fm27zt6/0/LGkwBTHdrdrrmT569PJVVskbS6HK4GNDFk2Tz5ptz/X2/IMG_1889a-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 423828
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-Fm27zt6/0/KWJPGWMqkCtPsfN3vXGvjCcW6pwbbswWqDwnzSvpN/X3/IMG_1889a-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-Fm27zt6/0/MpPrzSkBJff7Pqj4PGNdM9SmfXB3x2H67NzwgcCFb/O/IMG_1889a.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 294571,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Fm27zt6-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Fm27zt6-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1889e.jpg",
+      "Date": "2008-04-12T18:27:38+00:00",
+      "Uri": "/api/v2/album/x54wVf/image/JffcHxs-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-JffcHxs/0/#size#/IMG_1889e-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-JffcHxs/0/K4cBpfkcn27BxN5qCMzDSFCcCFXDCDJ8VLwqNSX4C/Ti/IMG_1889e-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-JffcHxs/0/LMWkBgsnMsXDGmJDVcfHRdD5fH5TWWr8GJQdj2vLL/Th/IMG_1889e-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-JffcHxs/0/LWv5wGxckZPsRSvhbscRBGJ9LpBkTRK5w8Ld69zmz/S/IMG_1889e-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 41104
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-JffcHxs/0/MrTcMrtcrLp3nBbtDTGcDpXkc83GxWcrjJD4JHfxT/M/IMG_1889e-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 90307
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-JffcHxs/0/M9ZLnv5DLfZwRwGGFmVKbXQxqNHMKCmXJWrCbQPgs/L/IMG_1889e-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 178621
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-JffcHxs/0/MRWPm8SX8v3q9t7RkGBRWmFxdWtLmHWtRv9SZhPvz/XL/IMG_1889e-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 438303
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-JffcHxs/0/Kkb8pKbGMwZTFwDLtFdd5f2sdxs4sx75b4rtk69mH/X2/IMG_1889e-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 649767
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-JffcHxs/0/NgCwmJpv6NTFfGv48RV6QrB278ksPVdqgpmZ84R2k/X3/IMG_1889e-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-JffcHxs/0/M52HLG2ZKB3mJT4CPJRr7JwKFbh7KZSL2dDgn2rF9/O/IMG_1889e.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 476966,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/JffcHxs-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/JffcHxs-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1889d.jpg",
+      "Date": "2008-04-12T18:27:37+00:00",
+      "Uri": "/api/v2/album/x54wVf/image/FVnsmt8-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-FVnsmt8/0/#size#/IMG_1889d-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-FVnsmt8/0/LWQ6Tpm9GFgjGkjLNgH5m64Lsxr57FdmV4gXGxkc7/Ti/IMG_1889d-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-FVnsmt8/0/LtrnczKTRRTpRjrq9ms6TvbRmZCtQNqLgkQGWGMWN/Th/IMG_1889d-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-FVnsmt8/0/L6w4KfgqwqkJzRvh9qfN993NpZHw2MRgBgGGVLszR/S/IMG_1889d-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 45193
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-FVnsmt8/0/NRSnWMCBMhVz9MZwScF5cPt9NgpxZWT2TQzdDdzL7/M/IMG_1889d-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 86485
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-FVnsmt8/0/L25xbKcq6DSX4RP885D7Vm82b57vCQSDkWMwxTZc7/L/IMG_1889d-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 159252
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-FVnsmt8/0/KSfCMhFSQFvRTtwNBwzgJRhvCP47tNxGLC8hssjtC/XL/IMG_1889d-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 352885
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-FVnsmt8/0/NcKPpmLb8MtcbHf8MLs76NjRpqTMtLLHvzGcRXLHC/X2/IMG_1889d-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 504419
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-FVnsmt8/0/KTfp9XRNGmvMdFhXkDgTZ9svvQGQ7bdhwxhLHZftM/X3/IMG_1889d-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-FVnsmt8/0/MxqQHCVMLsn728bQLRPFvTvzCCdxQTKpfc2J729Lg/O/IMG_1889d.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 356597,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/FVnsmt8-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/FVnsmt8-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1891.jpg",
+      "Date": "2008-04-12T18:27:42+00:00",
+      "Uri": "/api/v2/album/x54wVf/image/zMdbhpS-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-zMdbhpS/0/#size#/IMG_1891-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-zMdbhpS/0/LbvF62PZJGR3vWtJLfjhV2ZVKN2ZWzSvnV9fkpdNV/Ti/IMG_1891-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-zMdbhpS/0/L5HXmhRrd2HKZ93kNNCXhpz4jWKdWCd9hg7gztwQN/Th/IMG_1891-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-zMdbhpS/0/KdbpCwtChsHT3WpDTBddqctjVmG9WGDhTQ7p8r8sc/S/IMG_1891-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 43085
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-zMdbhpS/0/LKF7t4k6Mk3XH3vSbH44DkBg2P7wrmmnQgJbR8x7J/M/IMG_1891-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 111925
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-zMdbhpS/0/MCkk8rM4CbPcLjqrxG7TLQCLQfsfvZCCSVgLMHDjF/L/IMG_1891-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 184521
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-zMdbhpS/0/M6pfdn2RjjBfPznnrT2FMGzrQGqxRGjLcdZmWrM6H/XL/IMG_1891-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 429071
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-zMdbhpS/0/MvGqDwXJtKZgCZgKgD83DpcVb5W76sTzqfgLDcmV5/X2/IMG_1891-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 630831
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-zMdbhpS/0/MsGs82Zsg6qP2v5vNtDD2ZmHQZwfXkGHTs3n9zLTN/X3/IMG_1891-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-zMdbhpS/0/K2CMqZJLqVrBtpH59NsGfgbsk3dMPQx8QjH5dBnkr/O/IMG_1891.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 480133,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/zMdbhpS-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/zMdbhpS-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1889f.jpg",
+      "Date": "2008-04-12T18:27:41+00:00",
+      "Uri": "/api/v2/album/x54wVf/image/NPFqc9K-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-NPFqc9K/0/#size#/IMG_1889f-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-NPFqc9K/0/LRpH3XZvjJSZVXCQT6gp8mzCMgztMVTgPXgxph3hP/Ti/IMG_1889f-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-NPFqc9K/0/KDRZg4X3B6NpDfzjP3g622mzkSpcQGC9pTDzP8V8S/Th/IMG_1889f-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-NPFqc9K/0/NhCvRnWwVc9CXtZLXzVmHzc8dKVVsMQL3dWJWbfwX/S/IMG_1889f-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 39699
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-NPFqc9K/0/Kqv7Bx579Xq4NhtvpRFNGKJGBsgDjPknn8zxhZHws/M/IMG_1889f-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 78744
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-NPFqc9K/0/NccmT7zZ7fk2mX5s8gTTCwxLHKTgwwXCW4LKTxL7z/L/IMG_1889f-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 148347
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-NPFqc9K/0/Kq92k35WzbTsMrfTSJ275d2xZ7pDjXJcjXPncN53j/XL/IMG_1889f-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 343634
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-NPFqc9K/0/KGnMWnp85sHKMX3dv9wSJ8L4rgNR7Z8bHr6twF9WJ/X2/IMG_1889f-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 497215
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-NPFqc9K/0/Mv2SnbNJ57GLD2XsTS2qctzfWMkWfnhJSmkR6qzPP/X3/IMG_1889f-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-NPFqc9K/0/LFJ3sskRsK54MKbTvS42vhZb6JNjZFvrHdkVWDnbs/O/IMG_1889f.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 342514,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/NPFqc9K-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/NPFqc9K-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1894.jpg",
+      "Date": "2008-04-12T18:27:45+00:00",
+      "Uri": "/api/v2/album/x54wVf/image/D2PVsN7-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-D2PVsN7/0/#size#/IMG_1894-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-D2PVsN7/0/MRV4fJJLXKMdMQ997PpfRC38bHknhczpG2v4QdPLW/Ti/IMG_1894-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-D2PVsN7/0/MVpJfNfxB4BpBwVGZ94nh5TPgJVzCqqP3KdMfWfVs/Th/IMG_1894-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-D2PVsN7/0/NLHs3vqm4MdQLzCJpxFTm9qCbLgdbwkdrpP7hTMdf/S/IMG_1894-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 24741
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-D2PVsN7/0/MbmhTTFbdP4s3F3csK2cq54MFP4PhvS43PtnXhDv7/M/IMG_1894-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 65967
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-D2PVsN7/0/NfjDH5Hbpr5vc74s6pqh9nFm3HDwJm2CqCkMt2xnk/L/IMG_1894-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 108283
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-D2PVsN7/0/K5Dd3xcnvxpC4GSbzr4dhF6fTv4ZnxHTkfTz43tkr/XL/IMG_1894-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 269880
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-D2PVsN7/0/NLVg7Q6qRb8qmPVBPwN54c4Xh8DCtFmvH9dbwMHGr/X2/IMG_1894-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 398885
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-D2PVsN7/0/MBCkW89v64F6rbvFF5dJktDsND9qcSVSLtGG3H6zv/X3/IMG_1894-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-D2PVsN7/0/LJP6xLVQDJ7GD6JqpXJsThtH33x4vjjmTJ39ZC4W5/O/IMG_1894.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 268405,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/D2PVsN7-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/D2PVsN7-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1893.jpg",
+      "Date": "2008-04-12T18:27:45+00:00",
+      "Uri": "/api/v2/album/x54wVf/image/JrnBpq3-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-JrnBpq3/0/#size#/IMG_1893-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-JrnBpq3/0/KSvxztJT2Md35zmtTTXLnsgcfQTJ5tPztCbfJdrq6/Ti/IMG_1893-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-JrnBpq3/0/Mv2sBkp8Ph34PdQvLHLFdz3rQBM3hFwWthcLqGchj/Th/IMG_1893-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-JrnBpq3/0/LsKj5TrWPnqBNp9WrXBBVTjRrz8hkW8QLtBNWpc2H/S/IMG_1893-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 30931
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-JrnBpq3/0/LgvX7ghHwTLMXNGsJZSXmLwFhsF5nzD86PBpqt7kH/M/IMG_1893-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 75266
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-JrnBpq3/0/LLm2hK5TsQk7ctHZ3VTBf5z48v4KsPcsksZSt2rvJ/L/IMG_1893-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 119128
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-JrnBpq3/0/LxLpFtQ75z8cMGcdtPRGQZwMDLNd2kkFSjS8Z9HM4/XL/IMG_1893-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 285369
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-JrnBpq3/0/NGbm9FDZbhnVGGFw4kn337xKgTCjsfKVrKL26nZxC/X2/IMG_1893-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 417685
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-JrnBpq3/0/LqhmQ57vn78jJvVPtpdrcKgFvngD6GGHnSd3vdwW6/X3/IMG_1893-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-JrnBpq3/0/KNwjf4kHJMwDxPzh6kCtP23NqcMCpMx5ZmJLLg55t/O/IMG_1893.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 289343,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/JrnBpq3-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/JrnBpq3-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1896.jpg",
+      "Date": "2008-04-12T18:27:49+00:00",
+      "Uri": "/api/v2/album/x54wVf/image/DNFXFGq-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-DNFXFGq/0/#size#/IMG_1896-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-DNFXFGq/0/LnmbpCGCSRjgrgkWgtgLnGtcwrBkwgV6ZLrBxxmwj/Ti/IMG_1896-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-DNFXFGq/0/LRT5HDFdgVFRgMMtsdfbqGh3T7sq9xFkGJ9kQsgss/Th/IMG_1896-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-DNFXFGq/0/Kt7CVF8zJvNJpmZMnStj4SjsGndHQ9x8nTfvZwTzK/S/IMG_1896-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 33277
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-DNFXFGq/0/NMD6Bgmbtr6WTJMZwF9P6Rvsk6XmQCXczWTXKtX9v/M/IMG_1896-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 87067
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-DNFXFGq/0/KhcNGXNVC6sRCfTs6cZDmwmhbtPPMVzbmpX73ksTM/L/IMG_1896-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 141806
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-DNFXFGq/0/MKCnjGzgCsp4xWQc4dWkFSCPwwBhVBffPkJPT7dz4/XL/IMG_1896-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 339999
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-DNFXFGq/0/LRm4cQ9NVCWKd6SwBqSrgSGHTXbb6kSNtnjB4GBhr/X2/IMG_1896-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 499809
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-DNFXFGq/0/Krmj96sR5SzssCQGmh5bzp4cnCmv7RwCvqvrPRRb7/X3/IMG_1896-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-DNFXFGq/0/Mn92KXqsjqbkdbSRGQXVwPGJzJx6KSfCnd5bvq72d/O/IMG_1896.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 352758,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/DNFXFGq-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/DNFXFGq-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1895.jpg",
+      "Date": "2008-04-12T18:27:49+00:00",
+      "Uri": "/api/v2/album/x54wVf/image/hNhJGxC-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-hNhJGxC/0/#size#/IMG_1895-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-hNhJGxC/0/LCXRZBfR3qpT6FWgvHkD7zZhrxbVRFFBXWnkVjLm7/Ti/IMG_1895-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-hNhJGxC/0/LPKBqnNrmzkRqZKMHDzZ3bmWhmhXqpvmMLxVwSVQG/Th/IMG_1895-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-hNhJGxC/0/KFLvwqDLvwXTnjtTBzktQM2B8TLkfNjtSX2DmpCQ6/S/IMG_1895-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 41357
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-hNhJGxC/0/L7vD7N3FKBF4KV5CT3wCKGJ8LfTz9tm66tW5D6TCn/M/IMG_1895-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 91381
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-hNhJGxC/0/Mhh44JVR5F5rJHgdqcq2n4jzWNLW6VdJHG8pQ7KXj/L/IMG_1895-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 179692
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-hNhJGxC/0/KTzWq9ZG23BMHX9t5S9QzHZDXLQjbKCL5gzM93bRZ/XL/IMG_1895-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 425421
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-hNhJGxC/0/MX5WCgp395W3TpwV3q8Hqdjn4SzRMxqW5fsd6FXZz/X2/IMG_1895-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 634109
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-hNhJGxC/0/MFD9hVkHxNMZLNjhdL83cnptrFF9TxMF4tbQ9tjgp/X3/IMG_1895-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-hNhJGxC/0/NHFzkTxQ7c9wBn22Qts4HJVft2DQGfkVKT2n9Jwn2/O/IMG_1895.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 502432,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/hNhJGxC-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/hNhJGxC-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1904.jpg",
+      "Date": "2008-04-12T18:27:52+00:00",
+      "Uri": "/api/v2/album/x54wVf/image/C6tBHGF-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-C6tBHGF/0/#size#/IMG_1904-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-C6tBHGF/0/NGB6QMQXxF5tzbCz3Hpjt2zcL9j86JMLBxPMr85b6/Ti/IMG_1904-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-C6tBHGF/0/NSjcBVGHH8rWtXPfDKm3TKFT5pBDVVDrWVGR3MMSW/Th/IMG_1904-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-C6tBHGF/0/LwR98gfpcPWSJnpSDbMG4z9sHSf9XFWn4B88j5dDS/S/IMG_1904-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 26230
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-C6tBHGF/0/LTkNJCjPCXMgdp675mFt9PcjTmnpPGKm69ck6Sq26/M/IMG_1904-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 64189
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-C6tBHGF/0/M4NNWsLfpgZGzvvnf99pH2nt5rxHcSpDvK7mkmK6f/L/IMG_1904-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 102548
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-C6tBHGF/0/Nh365rPJT3fLDjrHhVtM8CpdkGTjh4HPGnNC2hDv4/XL/IMG_1904-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 259444
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-C6tBHGF/0/MSFsH9dghhtRqNG98bHNSpVPkTrRTqrk2q9WCvR3B/X2/IMG_1904-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 383585
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-C6tBHGF/0/L2RHvQZNXhdWLs7fsZ7Nn47LwwDSN3TSHZMwQgRpm/X3/IMG_1904-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-C6tBHGF/0/MMPFLsJWJnBQBZ7zBQRWtdg94ZdZFnpKH5GdjKDvj/O/IMG_1904.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 245025,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/C6tBHGF-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/C6tBHGF-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1902.jpg",
+      "Date": "2008-04-12T18:27:52+00:00",
+      "Uri": "/api/v2/album/x54wVf/image/XMnf2nF-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-XMnf2nF/0/#size#/IMG_1902-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-XMnf2nF/0/NFgMdZBnPCjM6tRgVksNdjNxbJ4zjszHxhkSJWJm3/Ti/IMG_1902-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-XMnf2nF/0/NDwrSmvXkBX4mVMfJQSfMWnk5kXFcV4kThVhZ25bx/Th/IMG_1902-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-XMnf2nF/0/LT9jV7kwxWTNnP5KQw7ws2wBpGNsg8NpJz2kBW52Q/S/IMG_1902-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 22743
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-XMnf2nF/0/MvnCRXHqjmTqs3PKMFzGBWsVfwxkfptHSxx8MZk56/M/IMG_1902-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 60976
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-XMnf2nF/0/LpRbD594422QqQm99XHW27CMVRfqjxfqPqQBjmkTs/L/IMG_1902-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 101853
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-XMnf2nF/0/NBD7xzfHRbBHx4jQ65bqS6MX3C5rGg5N7cv99Jgvf/XL/IMG_1902-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 265691
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-XMnf2nF/0/LZmHXRx9dM4bbfhHdVKQT7rrbpxF9f3XDbCQZh5bW/X2/IMG_1902-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 395104
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-XMnf2nF/0/KwvTJm2dW42vt8kdGSvCgtk2fmZwLw8DbnSFN8Pzz/X3/IMG_1902-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-XMnf2nF/0/KqsHgV65SMPNN7gBXrCdrWRpw57hhhmLSqtGdwkDz/O/IMG_1902.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 254405,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/XMnf2nF-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/XMnf2nF-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1905.jpg",
+      "Date": "2008-04-12T18:27:55+00:00",
+      "Uri": "/api/v2/album/x54wVf/image/wnKXtLX-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-wnKXtLX/0/#size#/IMG_1905-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-wnKXtLX/0/NTfJ98qXdWRqGjmtGZKsMXsQwjBQTKz6BZhvGskBp/Ti/IMG_1905-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-wnKXtLX/0/Kw9fdw5CdVfddxZzNp4tBN9kF4nw3dHgLpr2dRz2j/Th/IMG_1905-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-wnKXtLX/0/KkCcnvcRDGtd66q47mBpDT7MQKP8pRpscwfg7hBhN/S/IMG_1905-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 40400
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-wnKXtLX/0/M9B9PTJ7748fkxkjJj5RBmFDsKwS3VtmDGsQJ8qFp/M/IMG_1905-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 106739
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-wnKXtLX/0/LgVKLkd8VtQsvVjbTk4dm2hbxLsndBVLZrqmMJ9pR/L/IMG_1905-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 177726
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-wnKXtLX/0/Kvp8rVvXRxbMvd2ZdWkJNRSzzLzNRJ66bLWMsKc7G/XL/IMG_1905-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 429890
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-wnKXtLX/0/M95r9RVqrTJT6Xb5bhpVZK3vVLgw5Fw8tS3zGdBWF/X2/IMG_1905-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 639894
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-wnKXtLX/0/MkhV7v83WdzH97cr6XZC38KfSW54QkM5QfvNLGHC4/X3/IMG_1905-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-wnKXtLX/0/MTrvb645ZgwfBM3r9csBJF8bbSJWPnvbQRbfbz4Rd/O/IMG_1905.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 484891,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/wnKXtLX-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/wnKXtLX-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1907.jpg",
+      "Date": "2008-04-12T18:27:57+00:00",
+      "Uri": "/api/v2/album/x54wVf/image/c3cTpms-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-c3cTpms/0/#size#/IMG_1907-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-c3cTpms/0/MQMZg6DkZhztvmmgMwWdkqZK7mN9XgWDMHbmLWqrJ/Ti/IMG_1907-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-c3cTpms/0/KZRKRShZw5jdRfZG7HGFFDVMpZDJ7vQs9HGbwn2Bv/Th/IMG_1907-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-c3cTpms/0/NCrHDDRSRcTrqNQNk9hRBVj8j64FcF7b4k3GGMJbG/S/IMG_1907-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 28051
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-c3cTpms/0/LJRFzNKcMnVP2wtcGGDLf6SN69c3NCsq67p9PnJLH/M/IMG_1907-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 58689
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-c3cTpms/0/Mr9hD5d8ms3GQQL9zdMVtsKBz4sckjf3DQdZvxxwc/L/IMG_1907-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 116669
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-c3cTpms/0/LRjJ883k5kQ293LQZ99ZTxFdG2XtPHQjLd7ShhKFz/XL/IMG_1907-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 295875
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-c3cTpms/0/NGNDzwgqbvGMt2Jwcnd6QVR3j8QP3G6g7JMBW2T94/X2/IMG_1907-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 439590
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-c3cTpms/0/MnSQM5JNPPBsMkHDzVRtdDRgGTh59rKtbNxXvZZxZ/X3/IMG_1907-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-c3cTpms/0/M8WCBj2jb8r7SD5d55SwfFMKNfqQqMgWs8drQsHr2/O/IMG_1907.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 288065,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/c3cTpms-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/c3cTpms-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1935.jpg",
+      "Date": "2008-04-12T18:28:00+00:00",
+      "Uri": "/api/v2/album/x54wVf/image/BCHgQ2D-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-BCHgQ2D/0/#size#/IMG_1935-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-BCHgQ2D/0/LDM46gnm8j5gMPDqBKGLD738jTkShPRWvrHCbv8tQ/Ti/IMG_1935-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-BCHgQ2D/0/KbwZP9mkNHG3dxwSRw5PJg65FTcqtHpTCVgd5rdnq/Th/IMG_1935-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-BCHgQ2D/0/L5D62WxSJGk36vqQJH2crvXMJ6jGPKDhVRd5JP9jz/S/IMG_1935-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 38013
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-BCHgQ2D/0/NF2zxVX7fQrGK48bNdLQWWbJ7xXLTP4P47GRf8wmS/M/IMG_1935-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 93448
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-BCHgQ2D/0/LtsbTJzHPMFsZb8k6Jh46MT7trGGD2tZtzQt6FNzV/L/IMG_1935-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 149808
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-BCHgQ2D/0/Lz9w5Snxk9R6z5T29rV7QzV75Lbgm84qKZ9bDwcLv/XL/IMG_1935-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 354402
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-BCHgQ2D/0/MmHvQnVpT2bkz2mxF584sCs4Q2WBqJL2JQwswxHdq/X2/IMG_1935-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-BCHgQ2D/0/MsFSv422hQX4b39x6zZNXfv4b8tDvZTMZVjhR3w8N/X3/IMG_1935-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-HongKongLayover/i-BCHgQ2D/0/KPFsZkGCxb8bQg5d6vJ8nZDSMM2nPJz9K4vnm2FtG/O/IMG_1935.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 367296,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/BCHgQ2D-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/BCHgQ2D-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    }
+  ]
+}

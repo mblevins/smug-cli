@@ -1,0 +1,2057 @@
+{
+  "UrlName": "2013-UKLondon",
+  "Name": "2013-UK London",
+  "Uri": "/api/v2/album/G5Rr2q",
+  "Date": "2013-08-24T19:35:45+00:00",
+  "WebUri": "https://lmblevins.smugmug.com/Travel/2013-UKLondon",
+  "Images": [
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8040001.jpg",
+      "Date": "2013-08-24T21:10:06+00:00",
+      "Uri": "/api/v2/album/G5Rr2q/image/j66wnG7-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKLondon/i-j66wnG7/0/#size#/P8040001-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-j66wnG7/0/L8Tp2CX8tj4hHGffPjmbMGRLVmhs93bdNCjr7hh9W/Ti/P8040001-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-j66wnG7/0/KsZ5bB93bFbKVxbnsx6ZLLPsqvGK6FRCZr2NZBvfn/Th/P8040001-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 17634
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-j66wnG7/0/L9xb2NMS4RkxB947mNPN4m7MK5KJTxM8BXsPLPgXM/S/P8040001-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 62232
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-j66wnG7/0/NSGZwc7c6Lv7XG5V4WzZ3WMqDVv6WFCK8rMVNpS9B/M/P8040001-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 117436
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-j66wnG7/0/LpGrDGmTX2GdM2hkZQpdBdsJTdpqMV3GG3tMMfchm/L/P8040001-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 182762
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-j66wnG7/0/LCmxfpf2bVXfcs6dmJs9Z4Kg3nRFSMntrgd6FwNGV/XL/P8040001-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 283998
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-j66wnG7/0/NdJ7KvMBGbqQmpqCqMw6C2LPtQZfxhxmz97RLvWZR/X2/P8040001-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 414628
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-j66wnG7/0/NWFQ2CtCg6T8RK96NLh5RSRV24JH3x2CBTNFnNrrK/X3/P8040001-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-j66wnG7/0/Lt23gfhw3Gn2VLcCHgXwdqhX4CLVF3CfzDt9BTwpD/X4/P8040001-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-j66wnG7/0/Ktnb5NjJxvFSf4jMbK84LNnBfxFXQ3Pf8Whtn8ShD/X5/P8040001-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-j66wnG7/0/NB3dpBSdGr8gMkwkzfjh33BdDnmSGL6Bc7f4KDTfV/4K/P8040001-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-j66wnG7/0/MZjJdRVbZHSXNzwN76jJkXLjj59N8kGc5F8hL97xG/O/P8040001.jpg",
+          "Ext": "jpg",
+          "Height": 2908,
+          "Width": 3877,
+          "Size": 4655852,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/j66wnG7-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/j66wnG7-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8050020.jpg",
+      "Date": "2013-08-24T21:11:49+00:00",
+      "Uri": "/api/v2/album/G5Rr2q/image/Nt7XWLV-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKLondon/i-Nt7XWLV/0/#size#/P8050020-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-Nt7XWLV/0/L42dtdZS4mFS9qHszWwmdCqfrsxRRB98ZMwZsQ3CW/Ti/P8050020-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-Nt7XWLV/0/LRnvHKFZLNp5Lxg2NBSNT2CJvdKN2GHmBp6G3P6hX/Th/P8050020-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-Nt7XWLV/0/Lqcjztjc4DjJGhb4W45TMNLjFQKzHPVCjVzRmSLKj/S/P8050020-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 91209
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-Nt7XWLV/0/LRctKv8J5qccTZ27CN3gs35hhDhb9xG5pwN2rzRvd/M/P8050020-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 143535
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-Nt7XWLV/0/KwrXpmhNKvJ2LxKTxLSdxVm7hjpXWmt93CkBZ2jhC/L/P8050020-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 163326
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-Nt7XWLV/0/NGKTTFcczfqwFF2KhD7x2ckQxkkswKM4wPt2G9w9M/XL/P8050020-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 519923
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-Nt7XWLV/0/MhsxJ5WjGwBsMQFwD7H7qRKScbbq5tMp8tMKTTrqq/X2/P8050020-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 760689
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-Nt7XWLV/0/LJjVtjttg2mGHNwpjCSgzSmpNVbC5wSt3RT3WMxcn/X3/P8050020-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-Nt7XWLV/0/MGsHJXq82xKv4Bqw7SVkrzPNd5Nj56r6BHn8HTHws/X4/P8050020-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-Nt7XWLV/0/NRg87PDLz5SJGFWdctVRJFF6Sv4jWLtdvR6brsGcs/X5/P8050020-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-Nt7XWLV/0/NXVpxVhV9wLRnHxLrt7n638rKCHZzHRCVNp2JRpxd/4K/P8050020-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-Nt7XWLV/0/MxJ6vGqwJJ26WBnQzpgvf7mCWb39KDR9B5TmCgr7R/O/P8050020.jpg",
+          "Ext": "jpg",
+          "Height": 3456,
+          "Width": 4608,
+          "Size": 6565159,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Nt7XWLV-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Nt7XWLV-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8050040.jpg",
+      "Date": "2013-08-24T21:13:08+00:00",
+      "Uri": "/api/v2/album/G5Rr2q/image/C2cbwX8-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKLondon/i-C2cbwX8/0/#size#/P8050040-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-C2cbwX8/0/KtDXPQJ8PB3WRF58J2JDdpgJtGtmj8CRr9jPsFXnW/Ti/P8050040-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-C2cbwX8/0/LzxhQvQk4j8RPJMM3BcBDtRNwFq6FJS6qFFwTV4D5/Th/P8050040-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-C2cbwX8/0/MZ3dvffs4z7htR7Dbfd2HjXSgGskdGqH7DhsB8XC6/S/P8050040-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 131436
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-C2cbwX8/0/MJNcbWj2S8MVRBmvhWz5LJTxPWs2xdFJ8PPRnXfB5/M/P8050040-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 182678
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-C2cbwX8/0/LDWNrJfBxPVpGqvXZrG9c3tkZKdFLGjrWVDkrz7j6/L/P8050040-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 161768
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-C2cbwX8/0/LmfNZfTk3q8fzk5dtGQMzpfr8Dh2Vfk8t4DDNpsJS/XL/P8050040-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 526295
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-C2cbwX8/0/LnGjTFqcCJsZf6NQ2fhLRzpRjdNZBV5fDGNFMtX3p/X2/P8050040-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 450646
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-C2cbwX8/0/NfGDRWWMsGWxWxbXQBC9zzS95HwXZrvsRRntCQPRD/X3/P8050040-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-C2cbwX8/0/KT5F5Mr9VtngWmftCRQCD3bgxsMcQwrnm58ZpW5Kd/X4/P8050040-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-C2cbwX8/0/LNHBZk3PvSmZDbqgz9CVQ9xLprmrP96NL8mvGNK3g/X5/P8050040-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-C2cbwX8/0/LntZhCDt7Xjj2S2wzbgHfSZ5mSJjGVMkx36xtS46P/4K/P8050040-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-C2cbwX8/0/MdCgph7ndB3x94bbm5CgBF7kHLP543M4qtjZdTkGZ/O/P8050040.jpg",
+          "Ext": "jpg",
+          "Height": 3263,
+          "Width": 4351,
+          "Size": 5070399,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/C2cbwX8-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/C2cbwX8-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8050049.jpg",
+      "Date": "2013-08-24T21:14:20+00:00",
+      "Uri": "/api/v2/album/G5Rr2q/image/tVKnvCZ-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKLondon/i-tVKnvCZ/0/#size#/P8050049-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-tVKnvCZ/0/M6HLDxrZPC8d9DGmNfjtkNTtxCKH4qfgr6K8h8NjF/Ti/P8050049-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-tVKnvCZ/0/K29qngQ3VjcZ3qQqCmnNPNbqW6tKzjrshbXRTwDs9/Th/P8050049-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-tVKnvCZ/0/MMD9hTw9WvLDCFjkfbvJsM58kCHB7QHdpFhS2SzLr/S/P8050049-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 45580
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-tVKnvCZ/0/KvR9Gsjgx5sBBw6W7tDTN2dVWt5ZCfZ3zDR5Gxg53/M/P8050049-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 90961
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-tVKnvCZ/0/K5Jx2PL9dL6sd8xKNMNfpXmkq3wwj6wZLDnwFDsDx/L/P8050049-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 143245
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-tVKnvCZ/0/KfZNCZqrTNQbZJnQLLGMPvpBKL2Tc9ZPn4Q6gQVd4/XL/P8050049-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-tVKnvCZ/0/LWpzprP9F3dRwqNDbPQGWLr2R8Zgzs3Zx45tCDf2T/X2/P8050049-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 351539
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-tVKnvCZ/0/KSDc2SwdDffsgK6DckBF2nggTXZpMDB2SMcNsFL8m/X3/P8050049-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-tVKnvCZ/0/KbShj6gmfzFtJSj5zC2FpFRTGpSTqSbpkCjxxDTbB/X4/P8050049-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-tVKnvCZ/0/Mn49rhKMN2mDZbZBJvWF3pxfXcjHxT2tDQvfpxNzt/X5/P8050049-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-tVKnvCZ/0/NS2QDVxspD6NTLwC3MjBr4GHW67P53Pjcjvz4HBVN/4K/P8050049-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-tVKnvCZ/0/LL5g7VXFpxnXxdcqtKgxXn9nSDWhfXcMdbqQsPNVj/O/P8050049.jpg",
+          "Ext": "jpg",
+          "Height": 2972,
+          "Width": 3963,
+          "Size": 4655425,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/tVKnvCZ-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/tVKnvCZ-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8060063.jpg",
+      "Date": "2013-08-24T21:16:14+00:00",
+      "Uri": "/api/v2/album/G5Rr2q/image/39b4nJ4-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKLondon/i-39b4nJ4/0/#size#/P8060063-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-39b4nJ4/0/LMhhHZH3nBJRrBm8VVZcGwg9cm76VfzNFdj58HTJP/Ti/P8060063-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-39b4nJ4/0/KTT7gZVRJ74b5qTSBcQ6jzqFM7dmsWdtSd6Zztdrn/Th/P8060063-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-39b4nJ4/0/Lz4hGmWNpDfQvbgKRBwMVp7mdnXJLPCDrnW8Sv3jT/S/P8060063-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 55928
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-39b4nJ4/0/Lgxrf3B6RJnbSH62TtTCF49kv5qZXCrQbSLJ9Xp8T/M/P8060063-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-39b4nJ4/0/KF9BDjqdFWCNkDZgr9ZWFFxBfDhptSCnZBvMdWGCN/L/P8060063-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 185790
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-39b4nJ4/0/K2WW7qF6snW28zq6kVVJ5kwjp3QpCDNBJZj5WspQN/XL/P8060063-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 311760
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-39b4nJ4/0/K2Zdr8vPjq55pCHh8Sg6qBWkQ3PsQ5KW273bSRNp7/X2/P8060063-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 456928
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-39b4nJ4/0/LCXW8t5HHjPh82Kj48hdkqjnb6RLR9xjbnF7C78Tp/X3/P8060063-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-39b4nJ4/0/NQQDxMSPdRt5Tg9gv7DtNTPBm9HBxRcQb49HRMhMG/X4/P8060063-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-39b4nJ4/0/L4pMckXDtcCpVwFx5KTvhgzsHLkgnmbH8CGF7hhr5/X5/P8060063-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-39b4nJ4/0/NZwfJVVHTQDxGKbw9SK2p3WxFLLqhhcsT4h7mrvwJ/4K/P8060063-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-39b4nJ4/0/M9trC6D2xS3XPP9kDkb7VpwGX658dTPjsXp4q6C2B/O/P8060063.jpg",
+          "Ext": "jpg",
+          "Height": 3456,
+          "Width": 4608,
+          "Size": 7449512,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/39b4nJ4-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/39b4nJ4-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8060068.jpg",
+      "Date": "2013-08-24T21:17:31+00:00",
+      "Uri": "/api/v2/album/G5Rr2q/image/Nv5GjsC-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKLondon/i-Nv5GjsC/0/#size#/P8060068-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-Nv5GjsC/0/M9M7kWtbK9bdKNRg8TWBZHSsd2kqdJwtXs3jHSwhN/Ti/P8060068-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-Nv5GjsC/0/Kc3fR4t7QMh2vtP8kHG9q8QjmFhzpL6wXp8r4KJF5/Th/P8060068-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-Nv5GjsC/0/L998mXStg24BDf8WrrnXBD2CPPckgP6L5cm3tsmk6/S/P8060068-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 52108
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-Nv5GjsC/0/K9NQbJN2cs8QJL7B7Jb7LB6dmTBdnxtxZ6xLHkd5w/M/P8060068-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-Nv5GjsC/0/MJQbZvmLbvgs96rx8RfNbKmhz46ckvkhJfBtDFjKn/L/P8060068-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 152441
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-Nv5GjsC/0/NccMzTrh7BGGmSZKjtcTGjQ5GwF5f7zwHgv5Ns3zB/XL/P8060068-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 241015
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-Nv5GjsC/0/NKxgGXt59Dzz95ChV9GtxFmr2wPhMkHvSpJCQVgFK/X2/P8060068-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 341795
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-Nv5GjsC/0/KnPjk7mCJLVsQjrPXg7x9RjdSMC6TbgQWvWcpXf9f/X3/P8060068-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-Nv5GjsC/0/KbS5GHkpZDDSq58rw86jSXjD6zJrFND8zV7kpWfHc/X4/P8060068-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-Nv5GjsC/0/L3h2p9dZNxCZvwjcfc5kbcWbMZCkhfp4pHgTbPRN7/X5/P8060068-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-Nv5GjsC/0/LLgFNV8QNGFZT3c7cJ84MHFZPBdt3qfp3Vf3wPBKQ/4K/P8060068-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-Nv5GjsC/0/MVpNprTPLRmk3dBr7rSBjRqsRZBMFjvn6Jqfzj5zr/O/P8060068.jpg",
+          "Ext": "jpg",
+          "Height": 3287,
+          "Width": 4383,
+          "Size": 4975700,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Nv5GjsC-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Nv5GjsC-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8060077.jpg",
+      "Date": "2013-08-24T21:18:48+00:00",
+      "Uri": "/api/v2/album/G5Rr2q/image/JG9BpGH-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKLondon/i-JG9BpGH/0/#size#/P8060077-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-JG9BpGH/0/Nb8GnhJkn83QPvbmzMhGdpmgMv6fh2JGGsGtxpKPn/Ti/P8060077-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-JG9BpGH/0/Kh9TpXVDZPx364CdSRP5hSZTwNP2n8q8N9C7Bz2Pk/Th/P8060077-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-JG9BpGH/0/LQXq6L4QFTpmFSWhgZwjwTCCpDGkNFPFk4DGPCRWc/S/P8060077-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 49857
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-JG9BpGH/0/K3cSc8jTvD8N5dvLbtwb92bFwW7jpgVPSss5X7x7p/M/P8060077-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-JG9BpGH/0/KhghSS9HQ9PtzBLhLVJnrwQqJWC4pzS8N5gGKVvqZ/L/P8060077-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 144614
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-JG9BpGH/0/MTq7R3cSBVBN82Gf6z5dvvVfjjrHSVdcqB5HchH8P/XL/P8060077-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 227099
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-JG9BpGH/0/L2BZxQhn9RJ3vGqrbg3Pt9wqVcfPDpBPjGK77d7Qn/X2/P8060077-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 318848
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-JG9BpGH/0/NS9hDnK3s7Gp6czMRHSLvDS75wJvWFnwpg5RR2NQn/X3/P8060077-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-JG9BpGH/0/Mf7S8TL4qtf5x9KfJTN4pvHwmVvJbpZsZLcSDh8b9/X4/P8060077-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-JG9BpGH/0/NcwhhTmm8SJ7MDdTrddphZ99gNHfdWPdW5WRhrFwp/X5/P8060077-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-JG9BpGH/0/LqZ5x86KVN9SSwkfSBGJ8cCMxfXHrPpWJZWBF7D9J/4K/P8060077-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-JG9BpGH/0/K2Zqdbn2ZF5V7KDDzj4DPtW4wvmj22DCNrXsXrLxg/O/P8060077.jpg",
+          "Ext": "jpg",
+          "Height": 3456,
+          "Width": 4608,
+          "Size": 5014394,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/JG9BpGH-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/JG9BpGH-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8060081.jpg",
+      "Date": "2013-08-24T21:19:59+00:00",
+      "Uri": "/api/v2/album/G5Rr2q/image/prrs3xz-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKLondon/i-prrs3xz/0/#size#/P8060081-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-prrs3xz/0/L3bwXw5bwM9ctjcXFBXJW7FdwWhFB8BghQqDPTNxg/Ti/P8060081-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-prrs3xz/0/MhHWdHhKLp95rr32hpXNS3LH52xp6QtWnJWgf8Kz4/Th/P8060081-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-prrs3xz/0/MM2PZmVXHdx4Qnh8Dw7HBSSsKf6MV9s62skmwmVCJ/S/P8060081-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 53846
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-prrs3xz/0/NDD4GNbLvQf5QQ5JwXsVJ7pgjTRrjpHbMNtJ3k4R5/M/P8060081-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-prrs3xz/0/MfzMVTs8FrmBsXXNcg6dVLgRdDLVQvGrDBkF6S9FZ/L/P8060081-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 167451
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-prrs3xz/0/MJp7NwHPpjhJ2Qx3LZpdgzx3GtPp9StRpK3PJsk2x/XL/P8060081-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 273818
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-prrs3xz/0/MBtn4mNZC8zdBNPSSKkJ99RSb5DPvphZ6CcnLKWqH/X2/P8060081-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 393234
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-prrs3xz/0/Kfv5zWnjbn5BRGj6K9MZnr7QVtxLVD2mHWxhLfSPq/X3/P8060081-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-prrs3xz/0/NPXp3v67tjxkrTKBKvQrXX3ntRcjc668bBvPz5gsZ/X4/P8060081-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-prrs3xz/0/L7FpwWkPk8RVffxZrvbh74Sf8Fxj7MVJk27qgcj26/X5/P8060081-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-prrs3xz/0/L8Rzzvk7wfZp6FjqD8N3TTTrNHnDzpcQ4tdRzBzwv/4K/P8060081-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-prrs3xz/0/LnNBVb66PgcMwCM9XVmPxzT5Rq4L9tDXSCbF2X2cR/O/P8060081.jpg",
+          "Ext": "jpg",
+          "Height": 2915,
+          "Width": 3887,
+          "Size": 4591322,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/prrs3xz-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/prrs3xz-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8070095.jpg",
+      "Date": "2013-08-24T21:21:42+00:00",
+      "Uri": "/api/v2/album/G5Rr2q/image/gfkKNdQ-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKLondon/i-gfkKNdQ/0/#size#/P8070095-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-gfkKNdQ/0/KDwgmDHGPKKBjjXRLgxdMrDdmXVFd3g5fTBNGrMTk/Ti/P8070095-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-gfkKNdQ/0/MtMZRvVKTBd8hm2k3Xc9vQ5r7D5Wt6mrQ2bk3h5vz/Th/P8070095-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-gfkKNdQ/0/LfP5Fb36nC6wsPC3MMTgNBqzbWwcntF3JbVVVSmTf/S/P8070095-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 44631
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-gfkKNdQ/0/KGdDCQLmkNv9bffVcwLcjPkktxP2qb5Gjgc3VBqgq/M/P8070095-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-gfkKNdQ/0/KXFmw63mGjTqFKLr2bf2MtJM2LRfTkzf5vppDm8SN/L/P8070095-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 138850
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-gfkKNdQ/0/LhZQHNfdvDZxMQwnPwDbWwKdx5z3sG6mVfCgKw9dK/XL/P8070095-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 230482
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-gfkKNdQ/0/LdT7NHf67f6GJ2Zk9JK9RVdz9b9j4fFTM99SBdCHL/X2/P8070095-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 333856
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-gfkKNdQ/0/MMjBPmkQR3HVc2D5d6RX7KfGKJz2dCQkf9dxJHjQP/X3/P8070095-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-gfkKNdQ/0/NZg8HLq94B8KPJsH3wjWcJthd5wvfSLxDZS9wH3xH/X4/P8070095-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-gfkKNdQ/0/M8rfwjtNWThwh4kGssT4TW3nHszWhTBZ5QP2p6Btx/X5/P8070095-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-gfkKNdQ/0/Kt3MFvbLhLNRwSCKqDBFvwbKgtQ4t82SCKzpKCZXq/4K/P8070095-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-gfkKNdQ/0/MCC4KknDzvMHhgmKnKczb5wQ2KgFgjrVKK3WKMkc3/O/P8070095.jpg",
+          "Ext": "jpg",
+          "Height": 3456,
+          "Width": 4608,
+          "Size": 6715098,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/gfkKNdQ-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/gfkKNdQ-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8070101.jpg",
+      "Date": "2013-08-24T21:24:05+00:00",
+      "Uri": "/api/v2/album/G5Rr2q/image/35NcWwW-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKLondon/i-35NcWwW/0/#size#/P8070101-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-35NcWwW/0/KHpKZxzskgRxTFrx4ZKZZ9KGXVBGtssDTdpjQkhxj/Ti/P8070101-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-35NcWwW/0/LzpjWv4WCSzG3tthRTd8cCtkKsZStnXWgQGQpGwMn/Th/P8070101-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-35NcWwW/0/KZzrWCrg7MS4WMQw7vdmwdgzhvXk85h3KVtBXPqSB/S/P8070101-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 94382
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-35NcWwW/0/Krs4GbtdRDc83r595bNxQ86hHbx2J65h3n27ZNRcw/M/P8070101-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-35NcWwW/0/LqXBzPRtpTPjMD4J8cnhxSnRGrdzNTzVKx2r5BNhm/L/P8070101-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 320412
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-35NcWwW/0/LVSQsZNfJmJhrcLGbJ38QxWHvdhphDkJnx9grnj4g/XL/P8070101-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 529174
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-35NcWwW/0/NRvzPsxfrXnDkJ3gbNWkgHd5ct6ZdpCVSgSsPvn33/X2/P8070101-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 754215
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-35NcWwW/0/Mx7ThKzVtDDSRt5wLhkF6w5K9hKzkbVhGPnQBh9QC/X3/P8070101-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-35NcWwW/0/L4sWmV4MkHTTgvwQgcpZbwxWHFZhxjqTJx8nSQwZj/X4/P8070101-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-35NcWwW/0/MhwS9TBfrtxvgdn8qdGVHs6vNZBLz3VLPWRWrv4SC/X5/P8070101-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-35NcWwW/0/NGNNbCXdhQZrVWCgZ9ZfwW48nCckDzmjnszL65RPR/4K/P8070101-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-35NcWwW/0/MD7hwmwswtHLrSd8jk9H2BwmsQn3QKD5TcbbtjHkR/O/P8070101.jpg",
+          "Ext": "jpg",
+          "Height": 3456,
+          "Width": 4608,
+          "Size": 9412359,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/35NcWwW-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/35NcWwW-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8070106.jpg",
+      "Date": "2013-08-24T21:25:48+00:00",
+      "Uri": "/api/v2/album/G5Rr2q/image/JMMhmVP-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKLondon/i-JMMhmVP/0/#size#/P8070106-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-JMMhmVP/0/KQWK5FBzRSddhHTJ87Lxpq23Jw825dCMtmHcjq4C2/Ti/P8070106-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-JMMhmVP/0/LSrskWbmpwrgRPdv256gDh7LNVMB5LxbDhq8WNfHN/Th/P8070106-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-JMMhmVP/0/L6xCKb2RH8VHSGWbLztmtw5jbRpxDNjH5zZb5J7Lr/S/P8070106-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 56939
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-JMMhmVP/0/LsdfwKxtPPXzWXhC4jPRRvfMgWGpFnz98J3RZfSvq/M/P8070106-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-JMMhmVP/0/L6cBmgh3tbqrWpQFJVp34zqZLVkr3g4GV8BPGmshp/L/P8070106-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 184431
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-JMMhmVP/0/K69t2XLrh2GD33kfn9LqLwqZv2Sfzg3wBhSJChTx8/XL/P8070106-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 307922
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-JMMhmVP/0/KZBV78K7gCPCLk2WDxck89QqNZ9hVbKz6g7SjvFR6/X2/P8070106-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 447785
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-JMMhmVP/0/LM9HvKpLjwdJDrVxQT9TDbFm8ttL93ZB4SvjK3Nvh/X3/P8070106-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-JMMhmVP/0/KtqFmMtb5zxWV39JvZjZtdHm6Wzm56ZXMw3rbzCrw/X4/P8070106-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-JMMhmVP/0/L9FqqTNs2cnmjsZV7PZc9pKdXQ5VSxM9mxPTh644K/X5/P8070106-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-JMMhmVP/0/KvqCjjWn8cK846vBFDczss6cPRjkjmp6Sf3rqBqjm/4K/P8070106-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-JMMhmVP/0/NL8jcTbm5RvWXM97rgXJc4c2mR9wsS5v2gXH6xhv6/O/P8070106.jpg",
+          "Ext": "jpg",
+          "Height": 3343,
+          "Width": 4457,
+          "Size": 6693709,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/JMMhmVP-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/JMMhmVP-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8070112.jpg",
+      "Date": "2013-08-24T21:26:57+00:00",
+      "Uri": "/api/v2/album/G5Rr2q/image/dzJktRW-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKLondon/i-dzJktRW/0/#size#/P8070112-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-dzJktRW/0/L5HdfCqmJNPGF4923gSNMPcW2tMn4jg4HsS5GqXM4/Ti/P8070112-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-dzJktRW/0/M7XxmSF3CvHg7RcN37SZNJTv9f2NtC7QQDMpmCHmf/Th/P8070112-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-dzJktRW/0/MqMDZGDWcDb695cxjKZH4PmNTCGrVMJ7Z7tKQFx4j/S/P8070112-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 58309
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-dzJktRW/0/Lh9qnj3dmwgjqFBpHH2dmrffg8v2JsktRVKdCChrN/M/P8070112-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-dzJktRW/0/MWW4hcX7B8s7tKwXmH5sgjqLTWq7vccfnvxTgsFMs/L/P8070112-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 179838
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-dzJktRW/0/MSdz38HhLMwVhSHf4ZhpXncc8g9b89pW9zmVz5Nbz/XL/P8070112-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 295339
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-dzJktRW/0/KHD27595ggNHFg4L9nM3wWNLJpzj9CnpzxLJbrXtC/X2/P8070112-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 424238
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-dzJktRW/0/K7PgPMvW9wwpWzzdsZQqd4M8fVhfJV4KK5PpzNxjn/X3/P8070112-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-dzJktRW/0/Kq63qtJRNtVsMwPQh78L558FsrdXXZP5HPLsJbkQs/X4/P8070112-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-dzJktRW/0/KbWHMmzQbm9TCxFFSBVCwR4dCLtgmQtjFMsXLfD6h/X5/P8070112-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-dzJktRW/0/LgdP2rqGbqJMbCxSSgwBhDrbZ4qHbk8xHKPhz5c2S/4K/P8070112-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-dzJktRW/0/MQN5ZLxVNqM6X6MpCXjkm8XFFrkv6t5zDxWcmM6t4/O/P8070112.jpg",
+          "Ext": "jpg",
+          "Height": 2898,
+          "Width": 3864,
+          "Size": 4471279,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/dzJktRW-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/dzJktRW-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8160236.jpg",
+      "Date": "2013-08-24T21:28:37+00:00",
+      "Uri": "/api/v2/album/G5Rr2q/image/7tThBfj-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKLondon/i-7tThBfj/0/#size#/P8160236-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-7tThBfj/0/ML8vDVLJB4CrVZLsxWtFFhfLRfzNrWNwkLPQvtB26/Ti/P8160236-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-7tThBfj/0/LcMRtpthp3bK4BChPm4dDRqgnSzB76f9CCjnxhHP2/Th/P8160236-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-7tThBfj/0/M9bM23J86gHtKf2r9cqVVdvwcmmDwtqSV5xBkNQBP/S/P8160236-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 68939
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-7tThBfj/0/LvSk5VW28RcJXqpkH3x6Nc9rL9hQcrJfWHsLFNT2c/M/P8160236-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 136019
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-7tThBfj/0/MHp8HDwz4XmjJQM5pSMn7Q3vfgvXdbBsBJtGdSCsQ/L/P8160236-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 210817
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-7tThBfj/0/MNmTLJXXv3JMrStz3PvWxmDXgj2S6p25ZzNGhqWrJ/XL/P8160236-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-7tThBfj/0/LGnnfjCjjx8cfMKS6HvxVs5hj573G8FTNP94zBkCx/X2/P8160236-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 465248
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-7tThBfj/0/MNvb2mqqMQCzNNWXDrLPmBsVknt8vn4DzhtcfPzz4/X3/P8160236-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-7tThBfj/0/LVR3rPP9Rmx5SmvR3k4TWDVV9DFmqXgLLn3VF9zZB/X4/P8160236-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-7tThBfj/0/NfQFKmTrrNNDdxt3PZPmPcs2MTJmJ4kv5394R3BV6/X5/P8160236-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-7tThBfj/0/MMwD9q9f8rT93QLk3XjKLc5HGtvW4wQHWpsGHBfdf/4K/P8160236-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-7tThBfj/0/LfVsL4TcSjHZ43Gx6KbwQKQXQHKXpjSKtnZNjZ2KW/O/P8160236.jpg",
+          "Ext": "jpg",
+          "Height": 3456,
+          "Width": 4608,
+          "Size": 6562060,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/7tThBfj-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/7tThBfj-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8160239.jpg",
+      "Date": "2013-08-24T21:30:23+00:00",
+      "Uri": "/api/v2/album/G5Rr2q/image/M8dxKmB-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKLondon/i-M8dxKmB/0/#size#/P8160239-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-M8dxKmB/0/KTFXNVT9MXZ47Ls6PX2tk6Zfw6CSPkkxNX9H7PGDB/Ti/P8160239-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-M8dxKmB/0/LpTJVb4zQhcB8wW7bGzG65hCDPWVkTFZ53snzwvGx/Th/P8160239-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-M8dxKmB/0/L6RTjPRtxctL2jwXjW4xQVzBPNLK7vLMwgVcNFqfh/S/P8160239-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 66409
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-M8dxKmB/0/NFWSQzSGGrnHRppVbT8sVjShCv4QgKB6XbJQpd4tb/M/P8160239-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 131589
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-M8dxKmB/0/LwcqQzbCtkWXsxMLrGHQNsZDr8zPhf66MPFQhLT38/L/P8160239-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 205027
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-M8dxKmB/0/MNcqMqk9sp8DH87Hg79HwHfTFwhMD3mktvvt7s9qd/XL/P8160239-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-M8dxKmB/0/K9xTBV34Mp7QV5Hr8LBWxVsQ7LsHFh84v53zb5kvr/X2/P8160239-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 460459
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-M8dxKmB/0/KMmnhCjq8qwcnXQfrZVHqbXzfDtgWsqHRTDRFvmKQ/X3/P8160239-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-M8dxKmB/0/L4Pgg374nG7368gwxDTrrQpWKXf2FdKb36gSM92F5/X4/P8160239-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-M8dxKmB/0/MBnpnbBnbZ436XHRZ59Ws9N4fGGXqGfW7WWRdgHtR/X5/P8160239-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-M8dxKmB/0/MkxRFM4xGTF9m8hFR4qKSmVxsNq3PpPXVjGZdmK5w/4K/P8160239-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-M8dxKmB/0/MgCTwVL47pvPXzzkwvSX34RzPT4dwhHps8ChWB34c/O/P8160239.jpg",
+          "Ext": "jpg",
+          "Height": 3456,
+          "Width": 4608,
+          "Size": 6977807,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/M8dxKmB-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/M8dxKmB-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8160248.jpg",
+      "Date": "2013-08-24T21:32:08+00:00",
+      "Uri": "/api/v2/album/G5Rr2q/image/cGdPg9g-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKLondon/i-cGdPg9g/0/#size#/P8160248-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-cGdPg9g/0/MjgG7cL3z3DwcKfRWNP7KW5VkrRWVw8n8gZSw3sK2/Ti/P8160248-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-cGdPg9g/0/LNW8dSd67DsHqWMdxB74p4HbZ3VbSQcQgrCSZ4q3S/Th/P8160248-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-cGdPg9g/0/MjPq9STbBzcKk9jHW5qGwjfQRDtP7CdDfSbVkgwcg/S/P8160248-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 79577
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-cGdPg9g/0/LhnCzgbnTXwcnZr6JxPw83THpBGHv7tQfTqwbM3G4/M/P8160248-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 162652
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-cGdPg9g/0/NBc8T7Nc29w3SQFQcnKtmmZJVR6QzZrKc2hQWVLCf/L/P8160248-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 257276
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-cGdPg9g/0/LShNkJFhzndCVZ5cnhLXjr4MF9RmPD2VDkfQjvJtg/XL/P8160248-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-cGdPg9g/0/LRJbNpmJnFwBTbpLncktBx7fvRX5Q2rRDCJQ7g4k3/X2/P8160248-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 595031
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-cGdPg9g/0/MxzFDfSCzv83kbtNK7MkBFDBwMPpzfPfPn5QFQRJv/X3/P8160248-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-cGdPg9g/0/KzsLB9C5rfz5kk4vp8tCm8zdVXNxhPHQLr6HwgpdX/X4/P8160248-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-cGdPg9g/0/KDKJGk99nckNcKQP7BPBpXZdmwQHrNKjVGc7RtQ5J/X5/P8160248-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-cGdPg9g/0/Nffgdztzx6FbFK64JMfmHnFp5HnCVR7RXgGkhhXHR/4K/P8160248-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-cGdPg9g/0/Lrt2ZVgTf7xvzBkdmQRcqgt4NQ4wD9qssN8MGW9Cp/O/P8160248.jpg",
+          "Ext": "jpg",
+          "Height": 3309,
+          "Width": 4412,
+          "Size": 6800617,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/cGdPg9g-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/cGdPg9g-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8160270.jpg",
+      "Date": "2013-08-24T21:33:06+00:00",
+      "Uri": "/api/v2/album/G5Rr2q/image/BdbSbcN-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKLondon/i-BdbSbcN/0/#size#/P8160270-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-BdbSbcN/0/Lm9dMWVb9dkGBdTm22Lx5FJRGtWqW7jZ9XFjrvkGs/Ti/P8160270-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-BdbSbcN/0/L6xphzDmSxV8Vk5SCRm9kMmrZ3kWrsbm9Vsz2XQQP/Th/P8160270-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-BdbSbcN/0/NKhB8zNBMQkNJh77Lv8PbgQ8dxCJrrb9RMFCVggTB/S/P8160270-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 61991
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-BdbSbcN/0/KjQTPBXK6k9NpxXMh83NVPzHD7hH24fVBMP7kVngx/M/P8160270-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 116158
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-BdbSbcN/0/M4hDQkCJZBjfD5tZZQ5Ls9tdx3TsjsFxT49VnDfqp/L/P8160270-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 176007
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-BdbSbcN/0/LDwmPSdzX3FTrktFrS5ZpBMrzmjCNxhN38qwHQSWL/XL/P8160270-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-BdbSbcN/0/LTk45d6KhtDjmsN7ntCRnjLSHxM3smD7xbV6LBQFw/X2/P8160270-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 377421
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-BdbSbcN/0/K3pN35HbxKHgkKZPKxzQ7Cbq6q5S46bHMtvdXmNK3/X3/P8160270-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-BdbSbcN/0/MkWqk6WxRJGRNKchSm7sMMqB57k8NxGvKfrbXFxwW/X4/P8160270-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-BdbSbcN/0/LBCXWk5JNtnwqCwJ6m23vMFrdRDtvqJj3smZM9QDx/X5/P8160270-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-BdbSbcN/0/Kjg8xmgFPMrTbJGSMXdwK2ZbcqJQG4pDGWR4rZDGv/O/P8160270.jpg",
+          "Ext": "jpg",
+          "Height": 2552,
+          "Width": 3402,
+          "Size": 3762916,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/BdbSbcN-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/BdbSbcN-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8160312.jpg",
+      "Date": "2013-08-24T21:34:52+00:00",
+      "Uri": "/api/v2/album/G5Rr2q/image/vJSxFNN-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKLondon/i-vJSxFNN/0/#size#/P8160312-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-vJSxFNN/0/NJJHK6shpPWHhkpTwc6vdcz7Djk5JJvShTHDSwL3x/Ti/P8160312-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-vJSxFNN/0/MjN7GJ3VbbvQxpKSSPwnQQsX4785bsMWP7s3FDcS4/Th/P8160312-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-vJSxFNN/0/KRKvWvdTtB3JJxS6KN7hmpMwxx7Jwj8bvX8jj2jp2/S/P8160312-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 75559
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-vJSxFNN/0/KMWmpp7xrnnVHrWzSrQn3VnLzHMkLXqj6GqxxZbfp/M/P8160312-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 148262
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-vJSxFNN/0/MK3sNzD9znKd8jw4d2s28wxH2jjQhF9j3Cz9qzvng/L/P8160312-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 227513
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-vJSxFNN/0/LrwNpZNkdkMjdsk8qWVFhT8FTcdPnxqJmp3b93VmP/XL/P8160312-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-vJSxFNN/0/K6dQKtfkHRzRcfdwWmLBsbDwvXfxvnshH4WhrSGWW/X2/P8160312-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 497592
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-vJSxFNN/0/LtpjLjL7jDsxHsgdBSSgWZ4ZRpWTHPkKCKczVm86W/X3/P8160312-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-vJSxFNN/0/KSGpMXZ9mVW8xFWHGQn4wSDHGGf2t49fRPC5pcNt2/X4/P8160312-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-vJSxFNN/0/LJNB4CrjDsjZMQFDcKKjjBmF7g94shZCkV33kD5N4/X5/P8160312-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-vJSxFNN/0/MG8Pvn9F6Kzdcb2mWx9Jz8CsbMMbw9kKx2HNgGDn4/4K/P8160312-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-vJSxFNN/0/K4rtV4ZXb4FNdLCx94Pbr6pjwJwz6hd2c78xZq8Nz/O/P8160312.jpg",
+          "Ext": "jpg",
+          "Height": 3456,
+          "Width": 4608,
+          "Size": 6969318,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/vJSxFNN-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/vJSxFNN-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8170405.jpg",
+      "Date": "2013-08-24T21:36:54+00:00",
+      "Uri": "/api/v2/album/G5Rr2q/image/tStw7hg-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKLondon/i-tStw7hg/0/#size#/P8170405-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-tStw7hg/0/NKSQ4k2TmxfkHRwF7KM4qm4rzF6V4Pt7WRS83V7jg/Ti/P8170405-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-tStw7hg/0/KSZwqSqTL2DgZpWxL9K7P5jFn8Wk84FrLnMvBn2Sn/Th/P8170405-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-tStw7hg/0/NhnWnFpFXN4hk6Mb22h5b8K6KjQsCJv6XJnfGQb3L/S/P8170405-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 69986
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-tStw7hg/0/LJz6h7Wstp859hGK4z8wncMGCXD7RC3P9v2LDNFCt/M/P8170405-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-tStw7hg/0/Kw2sFCqfzWJNx4sG3ZpDn7jGBTXN4dkD7CjFCwKrq/L/P8170405-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 232163
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-tStw7hg/0/L9TJFRH3PcXBB7Xznpns97mZvjc4w3sGLZXTJCW5D/XL/P8170405-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-tStw7hg/0/MzSQR5DNHwW2NpxQZX44LW3kPv4D8cJzQfTD5f3Fb/X2/P8170405-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 550899
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-tStw7hg/0/Mt9tWp83mVfd7DsZqFhTKZG3xcRMF6BMTQsrvRpNB/X3/P8170405-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-tStw7hg/0/KwV5bH9CCT4MQk4DGHqHCdvvMzvM3vmRfMXQK8GHd/X4/P8170405-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-tStw7hg/0/Ls5z5Xg9K5DX4Mpp98JQ63zRsnDqBB8nn93Gsf52L/X5/P8170405-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-tStw7hg/0/LGMhmDV2GfHVb9PpMSZgCxTrRRRZ3mMRrMR53fkTg/4K/P8170405-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKLondon/i-tStw7hg/0/Nfj3WKRT7hPZdDjtDQ2C8qv3rJrw5jCgnkm9KLGZm/O/P8170405.jpg",
+          "Ext": "jpg",
+          "Height": 3456,
+          "Width": 4608,
+          "Size": 8028545,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/tStw7hg-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/tStw7hg-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,3778 @@
+{
+  "UrlName": "2014-Hawaii",
+  "Name": "2014-Hawaii",
+  "Uri": "/api/v2/album/dg5xBC",
+  "Date": "2014-06-21T21:38:23+00:00",
+  "WebUri": "https://lmblevins.smugmug.com/Travel/2014-Hawaii",
+  "Images": [
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1745.jpg",
+      "Date": "2015-07-12T22:32:12+00:00",
+      "Uri": "/api/v2/album/dg5xBC/image/Hp8rBFS-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-Hawaii/i-Hp8rBFS/0/#size#/IMG_1745-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-Hp8rBFS/0/K586D8ZWzKDL9rDgTXxkg2xZ4zdrkVzCwhwQcpvd3/Ti/IMG_1745-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 9714,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-Hp8rBFS/0/L2RChmFDzWTRn8QWJTVF3VWfXwzKDCsLGrqBQGNz8/Th/IMG_1745-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 14938,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-Hp8rBFS/0/KHG3CMQ4Jr29mNLJ4jGwzcJKnd3shQcV9JNZNT7Db/S/IMG_1745-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 50796,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-Hp8rBFS/0/L87k55SXR2N9Sv6M5ZSz8R9QcB5KdtsGMdXvJ8RKN/M/IMG_1745-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 102259,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-Hp8rBFS/0/K6qQtXsc7TZdj5XWf4ZsGGjSLNjzmcSKwMVNRs4XV/L/IMG_1745-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 168218,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-Hp8rBFS/0/KNMwmfHr6t4Gc2Lxg9bRDWcc2wXgFQSCDcFxQmhjw/XL/IMG_1745-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 274973,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-Hp8rBFS/0/NLzpGf2b6kfJGjXpGZxTchSQMnff2GFHTcML2RLNK/X2/IMG_1745-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 421599,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-Hp8rBFS/0/KwRVwGxdrj6G8qQ5Grg7Kz4SBmHXmwQWPzzWGKQTQ/X3/IMG_1745-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-Hp8rBFS/0/LPg7Mxx8KpctrZSSvpKp5DTRVPL7T5z46pS6kHW8r/X4/IMG_1745-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-Hp8rBFS/0/MfMpP96h9NTwthQgM9krRnRMM92MRGtsg9Pv2G4Lf/X5/IMG_1745-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-Hp8rBFS/0/LGgLpM37xKxdLxhcWQRcNmmcMz2GSxDMVJ9nkJvjD/O/IMG_1745.jpg",
+          "Ext": "jpg",
+          "Height": 1987,
+          "Width": 2649,
+          "Size": 2469696,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Hp8rBFS-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Hp8rBFS-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P6160232.jpg",
+      "Date": "2015-07-12T22:33:42+00:00",
+      "Uri": "/api/v2/album/dg5xBC/image/mmgsC5t-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-Hawaii/i-mmgsC5t/0/#size#/P6160232-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-mmgsC5t/0/MZqpQt3p7bSHHKfdhmQsHSbMXhjwRSJthdvRWBmTh/Ti/P6160232-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 11843,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-mmgsC5t/0/LfN9Wbz6zhXbNw68gHB52cLhdZVB3PwpdLbt2rKVc/Th/P6160232-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 19276,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-mmgsC5t/0/Mznr8jGth9WN9qFFRPBFPQG9NBQxh7P6ZVZL4KMFH/S/P6160232-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 68686,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-mmgsC5t/0/KzK7MXzgPDsDznHcWgtqnCXF2xx4FQJ5LJpWSLd7d/M/P6160232-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 140175,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-mmgsC5t/0/LTQ9tNNN9SGSk7Tk8tV5vx9wbF8JRSt34GKkFjkGw/L/P6160232-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 228099,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-mmgsC5t/0/NhSZwhTmXZdL4xgjZrvpFWQbVvgWrLHd4PZ6V2VH2/XL/P6160232-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-mmgsC5t/0/K3nMDMfLwbDVnJ8RVPpn9TTQmNMbGPmM7qCXfmCcP/X2/P6160232-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 542640,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-mmgsC5t/0/KXsnH6672KNnXq4SkbVW74jLWXLGD9KSHGwPkhsRT/X3/P6160232-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-mmgsC5t/0/NKsHjhvHMvm8RVjz2br3qVxnTcv6XSvbFTnNdKghx/X4/P6160232-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-mmgsC5t/0/NBPmZrvxqCp6CKVP6BJpGM4ZbhJZ2HtskRbnLrNn7/X5/P6160232-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-mmgsC5t/0/LbHHvswFhpqKxQv2qkw2vQtSTD5HwQ3RvvBDsFr2Q/4K/P6160232-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-mmgsC5t/0/MFVcjHfhJcqt9FLkNGM2XW8T5FF5QH7F87tMzTcGx/O/P6160232.jpg",
+          "Ext": "jpg",
+          "Height": 3390,
+          "Width": 4520,
+          "Size": 8123470,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/mmgsC5t-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/mmgsC5t-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P6160236.jpg",
+      "Date": "2015-07-12T22:34:58+00:00",
+      "Uri": "/api/v2/album/dg5xBC/image/BFXq2sC-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-Hawaii/i-BFXq2sC/0/#size#/P6160236-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-BFXq2sC/0/MGxGgRqqVXn5qkn9T37jrknP9P96hWGFJjgmtSR2b/Ti/P6160236-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 11455,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-BFXq2sC/0/KN4zWQDDpqpQNkfDLsjsXtBqrzNhz5c2FqVdZhv5z/Th/P6160236-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 18324,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-BFXq2sC/0/MxQPG7TWk2Sn7C22pKmXsbHTZ8bnWw3hsR4NP2dmK/S/P6160236-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 64578,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-BFXq2sC/0/NLLnNhQwT7f7KQfTDZRSvzwrJc7ffM7TmRS8LgKCt/M/P6160236-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 132375,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-BFXq2sC/0/LCFNps99v4H8K727MRn85PTPpbNw3XL5xxwXQgxj4/L/P6160236-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 216472,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-BFXq2sC/0/K9FgqtmBbtHmjH77GhFqDWKWBFh4N9VxnrvvVCpvc/XL/P6160236-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-BFXq2sC/0/KPJXr7Dqdtw4zjkWmSc2DDzmLMfvWNhwrz5h4QRwK/X2/P6160236-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 524730,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-BFXq2sC/0/MvkSf6QbfbVSLDww2nxN8SPmVFBTks4WGG5HcnJSM/X3/P6160236-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-BFXq2sC/0/MHHR39vQqq2gzqrJRNFVWTsHcXRT8HjbVVcZNNNff/X4/P6160236-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-BFXq2sC/0/NHMGJMmG22nrCKPgRkqdPXBD4tqbtcRRdZTkWwdZp/X5/P6160236-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-BFXq2sC/0/Kd544kBpPtXN7JzbRGGzQj8QFHQgKhR7PMzkSQJ64/4K/P6160236-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-BFXq2sC/0/M7w328Pn6w7hGPJw2fZtx6HpZHCrkpqSsP88LmB5d/O/P6160236.jpg",
+          "Ext": "jpg",
+          "Height": 3269,
+          "Width": 4358,
+          "Size": 7083995,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/BFXq2sC-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/BFXq2sC-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P6160265.jpg",
+      "Date": "2015-07-12T22:36:36+00:00",
+      "Uri": "/api/v2/album/dg5xBC/image/bddBgQ6-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-Hawaii/i-bddBgQ6/0/#size#/P6160265-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-bddBgQ6/0/KF8cGR7pcbPPsBPFXrVmZccrxMxS9Hz6QLH8HPmFN/Ti/P6160265-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 10442,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-bddBgQ6/0/MRqFmKSBsBhFtq9B5cvK59FMtqVPmJkCTLtjBJdkz/Th/P6160265-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 16274,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-bddBgQ6/0/KzJK3RhqWRFPbbLGRbNHkJkkJB6ppq6vW7Lv7sXrM/S/P6160265-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 61455,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-bddBgQ6/0/KGD22t3D3D4V4T5LtMWrZ4Lzj99VK8rd6gtdtBZp4/M/P6160265-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 128584,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-bddBgQ6/0/MMfZhLwTG37bBsFFPNjGDnCrFpN6h6qfDpMvf3FjR/L/P6160265-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 211405,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-bddBgQ6/0/KLQWLr4k6qrPfw6p4WgnFJstC3FtTKd3wbJmkQTdq/XL/P6160265-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 356673,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-bddBgQ6/0/KVvGNPtWRrXPVnkPDVHpKw9jKSGhSJQg5rVTJRmCK/X2/P6160265-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 528417,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-bddBgQ6/0/M9nQhkXSqBzVgBJPckKwBRDp4rCSdp9X9WfgPHWhm/X3/P6160265-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-bddBgQ6/0/LmGtM3scLKpbpXHxbVDtNVKrDNbq5D8fV69fhrGG3/X4/P6160265-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-bddBgQ6/0/LZp665trqrBZ8mHKkpZKQJX5wnk8nqDpzHq59RHvm/X5/P6160265-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-bddBgQ6/0/MpFn7HdqS9WDJXqBNCB7n6BmpKgWkwhP9LbtVHDn3/4K/P6160265-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-bddBgQ6/0/MWLMQhtBWLdxTC3zTBZmBZNgwb2LbZCxJ35kMcfX9/O/P6160265.jpg",
+          "Ext": "jpg",
+          "Height": 3456,
+          "Width": 4608,
+          "Size": 9344027,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/bddBgQ6-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/bddBgQ6-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P6160336.jpg",
+      "Date": "2015-07-12T22:37:49+00:00",
+      "Uri": "/api/v2/album/dg5xBC/image/hbQGfcB-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-Hawaii/i-hbQGfcB/0/#size#/P6160336-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-hbQGfcB/0/LCDhsf5fgTsJHKSJMVxHvvwF2N622PTrPVgLcs3Kh/Ti/P6160336-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 11139,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-hbQGfcB/0/NcV6XvtRcrQFXVFC72dQjDGrh5NJX8N2VgkBbjBXM/Th/P6160336-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 18169,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-hbQGfcB/0/LXcbVFbtTL9pFZ3HnPDtxgqQNkK3KCwtpCxJNRpvR/S/P6160336-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 72735,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-hbQGfcB/0/Mh59kW2XZmdL3W5mpDWVFVZtK6KW8X7g2stcMQ6L5/M/P6160336-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 157920,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-hbQGfcB/0/M5Gw96tFz9BdPK2LSrrbFs8c55btFNgrBDXdQLkQ9/L/P6160336-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 264678,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-hbQGfcB/0/Kzf6JJv75L65SVrGZMhmwNC782NjWMjptmssrtkCM/XL/P6160336-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 447227,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-hbQGfcB/0/KjXQFHt3fQ6zcXXBsQFFpLSdbvqXVbtnVxfdfZV3Q/X2/P6160336-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 660060,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-hbQGfcB/0/LQ5v7RK46DrqKrqLVrJbL2GN2R9mqj8bMkhsSZ6z7/X3/P6160336-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-hbQGfcB/0/NXs5qfZV2p3C6XxtfCqz3ss9KTS4C4t2v78stHPsM/X4/P6160336-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-hbQGfcB/0/K9bk3dJx87PctsGNGHZZBkSrvRqpWh6MsFWPQwh5J/X5/P6160336-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-hbQGfcB/0/Ljhx3NBwPP5TvhDNrJ5KpvzRN2q2kz3PT93fgRTL2/4K/P6160336-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-hbQGfcB/0/LPxv3WjK5mf3RS6Lt3kGVJf343cnxD4qxHsKSCNNG/O/P6160336.jpg",
+          "Ext": "jpg",
+          "Height": 2897,
+          "Width": 3863,
+          "Size": 6786709,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/hbQGfcB-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/hbQGfcB-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1746.jpg",
+      "Date": "2015-07-12T22:38:22+00:00",
+      "Uri": "/api/v2/album/dg5xBC/image/gTzwNnd-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-Hawaii/i-gTzwNnd/0/#size#/IMG_1746-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-gTzwNnd/0/KRDWfKRXfqTwzTPfSXwLWXkPh6LNf96NZpK42ssKx/Ti/IMG_1746-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 10505,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-gTzwNnd/0/Kx5V6N7VqSr47p7kqLKv8MxCL94dQzHXZB7hk2DmH/Th/IMG_1746-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 16592,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-gTzwNnd/0/MtggpkMgTnHSSrf8F69X2dpbft6X9CLBxRNcpWPtT/S/IMG_1746-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 58109,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-gTzwNnd/0/MkQPHNJHqf7bJNjDsQDXjJk7gdJN9K4M8wQJ4LLnN/M/IMG_1746-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 116673,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-gTzwNnd/0/LFkFxQC4SN8kNggchMJvgCfNd6F3Gx4JWVfrPftpT/L/IMG_1746-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 186566,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-gTzwNnd/0/NJBZwWwVW8NfsrrQtfmHd82bcZZ5whqSFtz2jCLnW/XL/IMG_1746-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 305060,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-gTzwNnd/0/LRKpQGT3bwB5QVRtjGjbD48RTrD4nn9jHZQBrXg2t/X2/IMG_1746-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 442619,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-gTzwNnd/0/K8GNk7ZQZDBGwmpN2C3RTMVfVwJGTWr8cMdH4GxJb/X3/IMG_1746-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Size": 640136,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-gTzwNnd/0/LcWrKxkKJM8k2nVCBZX3FXNqPKMh8LPFvkDVBZmWr/X4/IMG_1746-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-gTzwNnd/0/Kk9LBt7RBBTbQGhXm3QwrJ4TLw3QW8hnMRx8KjHBR/X5/IMG_1746-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-gTzwNnd/0/MVkwwH928P4jdMZTgJQZZnqmpfPQW4m8CWx8BsNvG/O/IMG_1746.jpg",
+          "Ext": "jpg",
+          "Height": 2246,
+          "Width": 2994,
+          "Size": 2799711,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/gTzwNnd-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/gTzwNnd-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1748.jpg",
+      "Date": "2015-07-12T22:39:00+00:00",
+      "Uri": "/api/v2/album/dg5xBC/image/9GxJK6K-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-Hawaii/i-9GxJK6K/0/#size#/IMG_1748-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-9GxJK6K/0/LhD8tH9zpnScD22K5xdnp7sP2xH3hKdzfqrTjVrBP/Ti/IMG_1748-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 10802,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-9GxJK6K/0/LDsmdVSsNnSRPSpkQG8RFw4CqLHMTFXwNQF7j7m9M/Th/IMG_1748-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 16706,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-9GxJK6K/0/MbcJ9qL77tzR6npnpmxzXQwdkFKKvhd5C9j5PgVwK/S/IMG_1748-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 56654,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-9GxJK6K/0/L99WNvFHVz5fp3fH7pGTkFPnLFLSbZprkjZNgDpzJ/M/IMG_1748-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 109085,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-9GxJK6K/0/MtcZksMWVgc8rLctv837pGmdMxGwBVXgfvZ6b2hXs/L/IMG_1748-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 171573,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-9GxJK6K/0/LsgKJ2gzxPC9BLFrZhWD9HVwccTcmT2HCqWJJkRxF/XL/IMG_1748-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 274699,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-9GxJK6K/0/MX6Rc4FSntb2tMcKXQDkShg43PZxGrsjwpKMGhd4f/X2/IMG_1748-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 394184,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-9GxJK6K/0/MKzsqdX3LCgVN2hfVh4rWR2bnTKzq3rqF5MwJp8kV/X3/IMG_1748-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-9GxJK6K/0/L28GVskdBtfdLS3scT2GDnR8Xzcb8tNwKbwrXfKRJ/X4/IMG_1748-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-9GxJK6K/0/M2THDvDxDF5QbNZZthn5Dv7WQLRctfxD6RsBfq8WT/X5/IMG_1748-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-9GxJK6K/0/MJ47XS3LVkqxCj4Z4zjJS78JdHHhpWPz9qsJkV4Zr/O/IMG_1748.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 3347673,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/9GxJK6K-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/9GxJK6K-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1750.jpg",
+      "Date": "2015-07-12T22:39:25+00:00",
+      "Uri": "/api/v2/album/dg5xBC/image/cq2ZH8k-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-Hawaii/i-cq2ZH8k/0/#size#/IMG_1750-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-cq2ZH8k/0/KZP73MggLC9t5VFcVZgPJcchn6vXZDd4V3pdcNrbX/Ti/IMG_1750-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 10444,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-cq2ZH8k/0/Nf2488rw82qJFwNzfDphKVWFRjtWFc43mvN6qNjZR/Th/IMG_1750-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 16079,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-cq2ZH8k/0/KcFstLZKMn9z9QVvwG88VD6R6SL8cm4f2LD3K5gdg/S/IMG_1750-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 54215,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-cq2ZH8k/0/LqLwT76Nff6RH2j4kDLNVWTNhKvx8rq9KZ5DcZW7V/M/IMG_1750-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 110415,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-cq2ZH8k/0/MzxwqdvwBjnL57Zg9ZvxX4rnHNfGgq9DGWkjxLDQN/L/IMG_1750-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 179211,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-cq2ZH8k/0/Km3sZKrqw2F9XBTgb5wcmhZVDnw3BCVHVcR4jpKrv/XL/IMG_1750-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 294645,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-cq2ZH8k/0/MwHsb54NH3pxTdbzVZN9CBxjDSSb7DMDM8wxVNpnD/X2/IMG_1750-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 429921,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-cq2ZH8k/0/KzmVkGrzTTX94Qtx9qsqtGdbNJPCc9KJT8VdVKCP9/X3/IMG_1750-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-cq2ZH8k/0/Mv8cmmWt48TrCrmqWRDnT6pBNPpFq6v3z8Zp4SqWc/X4/IMG_1750-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-cq2ZH8k/0/NCZ4LXP96n5vmd33hx9m3cQgRqS5BgdLpsLgv2ZpD/X5/IMG_1750-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-cq2ZH8k/0/KK2bbnLzjhR26CCnZ6n3Dm56V4ZdqPsrVkt2c9BWn/O/IMG_1750.jpg",
+          "Ext": "jpg",
+          "Height": 1931,
+          "Width": 2575,
+          "Size": 2155654,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/cq2ZH8k-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/cq2ZH8k-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1766.jpg",
+      "Date": "2015-07-12T22:39:53+00:00",
+      "Uri": "/api/v2/album/dg5xBC/image/Rdqv7H8-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-Hawaii/i-Rdqv7H8/0/#size#/IMG_1766-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-Rdqv7H8/0/K6ZzxQKhMVt8VBR2Z5sb745ZBX8rTJ6kfdTwsGWFd/Ti/IMG_1766-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 8730,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-Rdqv7H8/0/Ln5rGtLST6FQhtbFx7zs8wJ2D4wTLBZbtJRDNgJLg/Th/IMG_1766-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 12443,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-Rdqv7H8/0/K7MVfLxn8JPc7sSQzc4H6qVr7FbQLDHXpHt6n66hm/S/IMG_1766-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 37169,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-Rdqv7H8/0/MFfj3m3tH2dncqvLPx7QqxtmBMdSKpjfRDN4bxM2q/M/IMG_1766-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 69177,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-Rdqv7H8/0/L9DZbNvSZ8VdCPvrznfPVp8XwqSzknCWBmfBSgK9F/L/IMG_1766-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 105758,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-Rdqv7H8/0/LbKFTfXt5wSBdTt2b87RWHks2fSNWGbQjfnbXZ6fp/XL/IMG_1766-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 163672,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-Rdqv7H8/0/MFX4P87GRtHtJDQMWqFpCgWGHvQDQz4xFbMkN9KTG/X2/IMG_1766-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 231924,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-Rdqv7H8/0/LjLzDkpPqjmTbbjGcTTKQbnRX35d3czpszf6SvzSD/X3/IMG_1766-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Size": 332613,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-Rdqv7H8/0/MNXqQ5SFwTRF2HpGcXMxjJnXKqG4dQpBwxhxX3g4t/X4/IMG_1766-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-Rdqv7H8/0/KbZfrdbQRs6FHdwHCJNPCr77nbtTzgwrbXz9k68Vx/X5/IMG_1766-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-Rdqv7H8/0/K8ncmn3qb5JRnWp5dkbQCSpw49tg24CNgMFkztVRS/O/IMG_1766.jpg",
+          "Ext": "jpg",
+          "Height": 2624,
+          "Width": 3499,
+          "Size": 2322619,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Rdqv7H8-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Rdqv7H8-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1771.jpg",
+      "Date": "2015-07-12T22:40:06+00:00",
+      "Uri": "/api/v2/album/dg5xBC/image/GwpbCgD-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-Hawaii/i-GwpbCgD/0/#size#/IMG_1771-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-GwpbCgD/0/K7Lqk34RX8TbmJZGFLq53Cn4WLxW4q9gJMdRmRhKh/Ti/IMG_1771-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 9737,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-GwpbCgD/0/LN9vs2CTw8C2kpHhSZddj5njdb98CG3NM7HfJcBcC/Th/IMG_1771-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 14494,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-GwpbCgD/0/K6PHqb2vfTJTxx3tjLSHQ8BwsHBPknftQ4sDTXvpf/S/IMG_1771-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 45873,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-GwpbCgD/0/KPcJVF69C6frfqkvSJMFd7DF83KdHCHp53NKTSSbM/M/IMG_1771-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 88287,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-GwpbCgD/0/L3Q7TwKr42L3h5d3qrcWtJhzsmqmQCSZLL5hzrbqZ/L/IMG_1771-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 138349,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-GwpbCgD/0/LFQhjKq43ghdkQFrqDfptdFQQ9JZb8WxNP2Z25PFr/XL/IMG_1771-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 220899,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-GwpbCgD/0/MhCBS5bmfbkvthktdffNbFLzpjVrVcPtNnfsvQMbC/X2/IMG_1771-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 315411,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-GwpbCgD/0/Mr8c2RK6Bbn4BBKP9LDGGTKRvsshQMcbZS4qFrxww/X3/IMG_1771-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-GwpbCgD/0/NRFSDsWWhmXF654vhNL9L6xbVbwNDxdPvK5WvrCHM/O/IMG_1771.jpg",
+          "Ext": "jpg",
+          "Height": 1291,
+          "Width": 1722,
+          "Size": 977573,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/GwpbCgD-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/GwpbCgD-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1772.jpg",
+      "Date": "2015-07-12T22:40:35+00:00",
+      "Uri": "/api/v2/album/dg5xBC/image/nnwMDZx-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-Hawaii/i-nnwMDZx/0/#size#/IMG_1772-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-nnwMDZx/0/LPThg6gQqZFRwmrZ4DQvDt7dqRVC5Bv3FXSfbBcCZ/Ti/IMG_1772-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 10173,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-nnwMDZx/0/Kt6bjjt2Hf8F3sKFrnLBKnMCWkm9WDskgVSkpnPKs/Th/IMG_1772-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 15511,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-nnwMDZx/0/LdxdndLWSNvCXWpx6DXGfgpHcJz5k8RhX9cSPbszf/S/IMG_1772-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 52772,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-nnwMDZx/0/NGgzv4LHt3t3sFbvsRpcWNwTp7ZS5Ls9p3MffnFrn/M/IMG_1772-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 99623,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-nnwMDZx/0/KqVNtKCszh6ngBfz8Lv2Gt9VQS7VMJJ4LxdHWVNdt/L/IMG_1772-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 153487,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-nnwMDZx/0/LsmS62qVh2qsM5GgCvxzxC3rccKHbN8whdkpcLMKq/XL/IMG_1772-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 238322,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-nnwMDZx/0/MtXzrBzxH67vDw3SJCPFfkKF2C97Vs8mf2KkHBpfv/X2/IMG_1772-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 337785,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-nnwMDZx/0/KFqLVP5MKrtRj7rmL7Dbjpr7qVTmT4VWnsbFfvk3j/X3/IMG_1772-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-nnwMDZx/0/K5T5pH5K5dDdHwbPCWzvmvd2GRRvFHvXcLNkWjhQs/X4/IMG_1772-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-nnwMDZx/0/LMQD85Q8txrwG8JqpL2gtpVSQ5WtMdsM7CcWrrHSr/X5/IMG_1772-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-nnwMDZx/0/LWvLjB2WNmC4kPGJ6h3j55CQXZN9LdwM3npstPzmF/O/IMG_1772.jpg",
+          "Ext": "jpg",
+          "Height": 2552,
+          "Width": 3402,
+          "Size": 2598754,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/nnwMDZx-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/nnwMDZx-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1773.jpg",
+      "Date": "2015-07-12T22:41:06+00:00",
+      "Uri": "/api/v2/album/dg5xBC/image/zq4FfgZ-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-Hawaii/i-zq4FfgZ/0/#size#/IMG_1773-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-zq4FfgZ/0/KHWcmV3fw2x7LhSbgcMGTqJtsxXqNJ2pRbqh5cHqB/Ti/IMG_1773-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 10840,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-zq4FfgZ/0/LDG5Xp4Cd8s5s25JZMbmsvcN5NDzpCs65cT9Jdkd9/Th/IMG_1773-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 16891,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-zq4FfgZ/0/NdVnS543wwvddgKGd5XQZTRXsSwfPcXvBk88NWktn/S/IMG_1773-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 58092,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-zq4FfgZ/0/KdQFBs4kc2TFFhDdjhZQRXNLqB4mtBD6FW72WpcnX/M/IMG_1773-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 109573,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-zq4FfgZ/0/NThHNn9j3R9qBsVj36MCZ4H2n9j3bzWSHgS9BsmfR/L/IMG_1773-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 169109,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-zq4FfgZ/0/MB6JPzSHN4sfpPmszjwxmGXMc2RC9rXFnp97X2LSR/XL/IMG_1773-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 262626,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-zq4FfgZ/0/MvchxXbrTpGgZGMDpq395nv46XDHJMJLWPQBMznNW/X2/IMG_1773-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 371233,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-zq4FfgZ/0/MPQ54BGqT8pRsS6CVHxhmCrMj4fGfnwtX5CJBNnNh/X3/IMG_1773-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-zq4FfgZ/0/KLbNpRd6pbdDvCC9XqCF2RBrLcWQQm9PM9jJgdwwh/X4/IMG_1773-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-zq4FfgZ/0/Lrp3zgg4qmZgjxWhR5rcj46zJ6jg5pdgnsqhzTM7L/X5/IMG_1773-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-zq4FfgZ/0/KF7RL5dRnTMFRxgTbwNXrJt3gLPgJWXB9ZbfnswHH/O/IMG_1773.jpg",
+          "Ext": "jpg",
+          "Height": 2261,
+          "Width": 3014,
+          "Size": 2531586,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/zq4FfgZ-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/zq4FfgZ-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1789.jpg",
+      "Date": "2015-07-12T22:41:39+00:00",
+      "Uri": "/api/v2/album/dg5xBC/image/NcSJcBk-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-Hawaii/i-NcSJcBk/0/#size#/IMG_1789-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-NcSJcBk/0/NRzTzB3hkSBwSvGnvKxTq3GkXzLfHb539gLdzd7Xr/Ti/IMG_1789-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 9343,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-NcSJcBk/0/NPRSqhRnHkSZ467JzQRTB6KGCCvwnN6PpR84h7Vn7/Th/IMG_1789-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 14289,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-NcSJcBk/0/NMHFRPQkfZS67wXT6BqJDP3n4xV9LPqP5XZrvXtKX/S/IMG_1789-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 45208,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-NcSJcBk/0/Mq79M39GFRbQKZkPTMTFGbDVngvCQDZLssvJmvTpT/M/IMG_1789-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 85703,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-NcSJcBk/0/KtKZxsr6nzvtV7htTtgd8nzt3czFkZG3mRbwwx8qK/L/IMG_1789-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 133081,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-NcSJcBk/0/NMtS8SCXVr9WjQ5XcfwdGk7SbW957zN7dXCC554S3/XL/IMG_1789-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-NcSJcBk/0/Lfs7xR7HXDVbC2DmMjGkWpdHH52PhtHMNqq3M83Qg/X2/IMG_1789-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 294033,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-NcSJcBk/0/KLSGqMD2pKSSSR6T4zC2ZMLZX5qHF4V5tM8tmRrMt/X3/IMG_1789-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-NcSJcBk/0/KSMVq8H9Z9dJR6XjbSTTkZD3pJTjgwBfNStsXVNqd/X4/IMG_1789-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-NcSJcBk/0/LwWsT4gxqTDWZcjw2tSXpBvdX4kkKZK7zqKGH4gVC/X5/IMG_1789-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-NcSJcBk/0/M7NCzxFMgDWrKHgzVxjQ9BZK9dmQxvT2CftCfWRxM/O/IMG_1789.jpg",
+          "Ext": "jpg",
+          "Height": 2659,
+          "Width": 3545,
+          "Size": 3037621,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/NcSJcBk-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/NcSJcBk-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1806.jpg",
+      "Date": "2015-07-12T22:42:18+00:00",
+      "Uri": "/api/v2/album/dg5xBC/image/cPtpXt9-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-Hawaii/i-cPtpXt9/0/#size#/IMG_1806-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-cPtpXt9/0/MBtVv5VJNFSKxfj5RR79JCTJXp5wxDHRXTVcbFCKs/Ti/IMG_1806-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 8945,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-cPtpXt9/0/MGzMQpJBz5cBzC82QgzSXrdRtSwpfnr9X5vtVzhKs/Th/IMG_1806-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 12847,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-cPtpXt9/0/KrX8p3H8jZT4FpzRcnwSLTksvQKVVR8Mrkg5XrJs5/S/IMG_1806-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 34669,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-cPtpXt9/0/MjKjWdgt3gwF5nSFCfNbpH9btcNfGTDHVVgBrWRP9/M/IMG_1806-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 63045,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-cPtpXt9/0/K95JGFHthv9d63bCQxCqbc6TXGHcfM2fhRnntwtKQ/L/IMG_1806-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 95208,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-cPtpXt9/0/MjjZsvVhLfkTntqxdM5NnZpzhhMPCm4ztMDfchszT/XL/IMG_1806-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-cPtpXt9/0/NZWQXfCPCwGVks2mS6C5XVBsn3R8MQMrChqGHgrTv/X2/IMG_1806-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 220938,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-cPtpXt9/0/K9gGCbgRtWbTsKNpBWWrJK4SqLP9kkSQdQH7LJVC7/X3/IMG_1806-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-cPtpXt9/0/K24M9fK9ZmGSz5zWFdgLVd4WTHw7f9NfKDrb5kLMx/X4/IMG_1806-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-cPtpXt9/0/KGSJMmzNVxBR4sm3gRZ7DsHzqxfFFbpWQkwLxBRPq/X5/IMG_1806-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-cPtpXt9/0/LdsLSST5j9t5t7vWCqDVxjxqNxnp3rL5hgzNB2zbq/O/IMG_1806.jpg",
+          "Ext": "jpg",
+          "Height": 2506,
+          "Width": 3341,
+          "Size": 3422737,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/cPtpXt9-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/cPtpXt9-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1808.jpg",
+      "Date": "2015-07-12T22:42:45+00:00",
+      "Uri": "/api/v2/album/dg5xBC/image/FKQJHcf-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-Hawaii/i-FKQJHcf/0/#size#/IMG_1808-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-FKQJHcf/0/NPBrfCv6P2xZxZsBwCttLBDpcHJbFLM87cQQKLxFk/Ti/IMG_1808-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 10239,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-FKQJHcf/0/NMcQPKjwVLZC6vnFT88qh3dgTzCG6M52wK7BvWnvg/Th/IMG_1808-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 15236,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-FKQJHcf/0/KFjKn5dN9LC9VZPdK2PgvhPxD4s6MMv99Wjn3QQx3/S/IMG_1808-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 41638,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-FKQJHcf/0/KLGsTBk28bVW56B8HhHDJKZCPpn4QvZXBMTM2RzVf/M/IMG_1808-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 72404,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-FKQJHcf/0/L5h7bhs2VpSsK2N76PGFL9ZCHzrwWT2qkL8ZkPXT6/L/IMG_1808-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 107344,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-FKQJHcf/0/LjwbLVDqFTkbdvPHCXQZKzqs9TkNG79ctqRgdLF2Z/XL/IMG_1808-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-FKQJHcf/0/NLTqhXTHxhMhCh7QLz8qnx6wnMZLQLZqkHVRVKrJQ/X2/IMG_1808-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 220856,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-FKQJHcf/0/MJ5RRfj79JgS36XLX88Sd5V4JDMQ28kN5gW9SPZWD/X3/IMG_1808-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Size": 312206,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-FKQJHcf/0/Kmv9bcrQvcMRtC9g9gHFmcZ7MFc3SHn44DKh8kPDG/X4/IMG_1808-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-FKQJHcf/0/Lbq237G5MkJZXCPkhLBSgVB9pxRHFrhFnsbh9qT6m/X5/IMG_1808-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-FKQJHcf/0/LBvXk9PZxCpXpC4VZXXgt3Mtq9HXn2tGTSpwV7c8b/O/IMG_1808.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 2432189,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/FKQJHcf-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/FKQJHcf-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1827.jpg",
+      "Date": "2015-07-12T22:43:22+00:00",
+      "Uri": "/api/v2/album/dg5xBC/image/gSKZzfX-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-Hawaii/i-gSKZzfX/0/#size#/IMG_1827-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-gSKZzfX/0/MgWtdMBKT8zcfN4fM8Lgns5QtQjxhVP5v7NhhKJCZ/Ti/IMG_1827-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 9179,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-gSKZzfX/0/KKLjqGWrXxF9423crhcpkpRLwsCcFbqmVjxc45vB6/Th/IMG_1827-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 13167,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-gSKZzfX/0/M7ZdK3cLgBBC64Vfb7tMHR4jn7nj5WD3ZbvG2LD6z/S/IMG_1827-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 38505,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-gSKZzfX/0/L5JRvqfztmVsPHHNvrN7xXxCNTS94K2CjqrVLwx6q/M/IMG_1827-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 70359,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-gSKZzfX/0/L9VX44DPRPBhW49qNFWrrHt9FgzW26vFNZBHfwQ4q/L/IMG_1827-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 109169,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-gSKZzfX/0/M9nFFtNVwXFQpt93g2wSvjTv2PS5GfL6VXdWfz4Kq/XL/IMG_1827-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-gSKZzfX/0/L2T5hxMZHz5LLBMvjTw9gCd9RjLw3fK2CtVc53H7M/X2/IMG_1827-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 251543,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-gSKZzfX/0/M4sSP5RNnQwFNf6hwKgCcC9VH5s6phTpfhRWMt2f5/X3/IMG_1827-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-gSKZzfX/0/KSfCHbbn3NLR5SpRC7tS87C649qLB4c2dPRDTt8F6/X4/IMG_1827-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-gSKZzfX/0/KJfCK3p6DqqzxKZ4SBVhDCJ6VbQzQRr8fn2QDvh5W/X5/IMG_1827-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-gSKZzfX/0/LPKJZMKBpQTp4xjX8fmqD8g6sPHmhHVDg86BSbPz8/O/IMG_1827.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 3184512,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/gSKZzfX-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/gSKZzfX-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1829.jpg",
+      "Date": "2015-07-12T22:43:54+00:00",
+      "Uri": "/api/v2/album/dg5xBC/image/6WDmbZ7-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-Hawaii/i-6WDmbZ7/0/#size#/IMG_1829-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-6WDmbZ7/0/KSPWfkgS5M4vPwHLqqtwr87wbfsX6dBd5kZmRgnRq/Ti/IMG_1829-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 10531,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-6WDmbZ7/0/K4RdQ3XDqNQsCB9kCGGj7bJwd8XgzVb8sz77zDFbp/Th/IMG_1829-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 15794,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-6WDmbZ7/0/NdsRnwbSGScXvRHdpTcdWdkDCXbmTbjHppvQWrkC3/S/IMG_1829-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 46146,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-6WDmbZ7/0/Mv6LGjFjFBXgmT9LQ9s9s4rjXd43jWjHLH9hN6wv5/M/IMG_1829-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 81140,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-6WDmbZ7/0/LLP24Z6GQqsBD9wW9hk3HLZjKtCsWNzqv2Jx85Jtd/L/IMG_1829-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 121231,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-6WDmbZ7/0/NTNWttm84LP7bKbGVRddP7V5P5vmV9tdLDxRXrWsb/XL/IMG_1829-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 179918,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-6WDmbZ7/0/LbgMdCj5jHLPzd6BzLWG4XNcGLVJDBnR2LNvv4hr8/X2/IMG_1829-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 253693,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-6WDmbZ7/0/Kk6FfFtPrdX9d6cgdTWFKxqQzjsZFBS9Sfx3tsqvR/X3/IMG_1829-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-6WDmbZ7/0/NF8nHHQrLpzhf8sqw94dpxMRqKpMxLzR4fWVnwh7F/X4/IMG_1829-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-6WDmbZ7/0/MLfpL4bD45LD3TJJgdFr2RJzBCCdR3762sTsjLr8g/X5/IMG_1829-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-6WDmbZ7/0/LfVBhkTDpwQJkrSMZNXN4TMNBZfcZFZd72bFzbRxm/O/IMG_1829.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 2843259,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/6WDmbZ7-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/6WDmbZ7-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1832.jpg",
+      "Date": "2015-07-12T22:44:26+00:00",
+      "Uri": "/api/v2/album/dg5xBC/image/HTdCWpn-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-Hawaii/i-HTdCWpn/0/#size#/IMG_1832-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-HTdCWpn/0/Lssjw9hP5MgWQP92MfLDrVddZfp6Gw2ChV5sfmFfM/Ti/IMG_1832-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 9560,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-HTdCWpn/0/LWqcK3cmZfscJVDcx8rV9C9LrbtbzPX5Tb444nRZt/Th/IMG_1832-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 14392,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-HTdCWpn/0/KJrwBW9kf3XzWSHxzBQqNHFMptBhFVGMxPwMbHnz5/S/IMG_1832-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 49408,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-HTdCWpn/0/LTHgZSkSN9MtBGQjwvr5P4Hz4HQSZppxZjMZVTQ4p/M/IMG_1832-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 97832,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-HTdCWpn/0/KJpJgctMf88fdC2mdG8dZTkjbJCX2xTFhdLZdt8v4/L/IMG_1832-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 155765,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-HTdCWpn/0/NK2JsTSrxXxqkM2WjP5bSp3SNVzK4NG9NpZfnDcPF/XL/IMG_1832-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 250380,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-HTdCWpn/0/MbQ43WwT8nfjxhSVFKHfpfCXnskBN8ftJz9HxL39S/X2/IMG_1832-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 359200,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-HTdCWpn/0/MVmrTQ5Z5Xnb3wwDNd7Cp52L7dzT64ZKT5zXMKjHv/X3/IMG_1832-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-HTdCWpn/0/KfMHNwL2KxBMsCKqtBJF2HSSkrmG82zdn2W3PSfmX/X4/IMG_1832-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-HTdCWpn/0/MFQPMQzc3SZT9GXhmRWv5CmBpqgQSXDSrXxgPXJkj/X5/IMG_1832-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-HTdCWpn/0/NPN6nfvTgKNZkbDvCZ5c3Xj2QGfW9HKrdrVP3X9gq/O/IMG_1832.jpg",
+          "Ext": "jpg",
+          "Height": 2594,
+          "Width": 3459,
+          "Size": 2844008,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/HTdCWpn-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/HTdCWpn-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1838.jpg",
+      "Date": "2015-07-12T22:44:51+00:00",
+      "Uri": "/api/v2/album/dg5xBC/image/jmvpB72-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-Hawaii/i-jmvpB72/0/#size#/IMG_1838-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-jmvpB72/0/LBXV27hGJsS5rcvMpcvcVbBkbf5cgZPJRfxrsj6cJ/Ti/IMG_1838-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 9622,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-jmvpB72/0/K4zVgLCFW5tdtLQnqKTTqrQH9tDXsh3HVN4tsjmRZ/Th/IMG_1838-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 13828,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-jmvpB72/0/MvxXHvZQkhGfLPs2kTvZKzXx7bn3V39mg77Vt8G7R/S/IMG_1838-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 38889,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-jmvpB72/0/Mcjwxds8gZWnsnq3Fkt2PxgC4RPHjd922SPmsTMh2/M/IMG_1838-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 68860,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-jmvpB72/0/M4QrhGbcgztQcQSRcrFkdcwBBxjZ4ZvJVZ7B4ZF32/L/IMG_1838-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 103622,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-jmvpB72/0/NQ8zkDgMcNHZKqLsBJ7CjmKd7WwfPXdfC2RLGfNPq/XL/IMG_1838-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-jmvpB72/0/KF3b56xS2Q8b3hmnQtf7VfgpPpjPKXQHvCbDMkMF3/X2/IMG_1838-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 223872,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-jmvpB72/0/L2Fks85r4Hcn5kkpbJCK4nNbRTbNmDWLgM2cJ4mxQ/X3/IMG_1838-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-jmvpB72/0/Kr2JcZMPGLCzdFgWN8XSfNxQTN54s6mQJFKxQ3nTt/X4/IMG_1838-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-jmvpB72/0/LqBXGWSczBqv5tJNhmTgT4pQk4DQhBbGPpvK6Ftjj/X5/IMG_1838-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-jmvpB72/0/MhqNHctjbFxqKTFBZNMwRCjt2F77KqpqJdgHrRnZm/O/IMG_1838.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 1991567,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/jmvpB72-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/jmvpB72-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1856.jpg",
+      "Date": "2015-07-12T22:45:19+00:00",
+      "Uri": "/api/v2/album/dg5xBC/image/4jb3ktL-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-Hawaii/i-4jb3ktL/0/#size#/IMG_1856-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-4jb3ktL/0/LJpmMzwzDRHJDGwTFjBrjtRZRLhRj75bvkmjMrmkW/Ti/IMG_1856-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 8777,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-4jb3ktL/0/MhtRxfQcwmz844PkTFmqqBpVD5KVZPWHs2QWRM9d2/Th/IMG_1856-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 12648,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-4jb3ktL/0/NCDLnzQQNsQx7jNs2TQDWSjSkVzSKmVSMS9GdLfDc/S/IMG_1856-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 38224,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-4jb3ktL/0/Mcp8MtbS8fLZjZpLPpq9FT2KgQFkTc2QGk6MXLqdL/M/IMG_1856-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 71897,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-4jb3ktL/0/LPKr5rK32mg76Jf6HtddgQFTZHtSvJ8NmBHRBh5Nv/L/IMG_1856-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 112364,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-4jb3ktL/0/NZbHtt8rmCcfJwzh22tzP88HJccLhNnzb5S8QWwXH/XL/IMG_1856-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-4jb3ktL/0/KT7JV3VgsCCNjzfXxxMNmftTnP6GRdXnmDJsh4j8Q/X2/IMG_1856-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 264357,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-4jb3ktL/0/LgvvkXBgqDz94NMXSrdbLMz5mh3xx3nj7dWdKxwnc/X3/IMG_1856-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-4jb3ktL/0/LvfjrXB6vKSFQJHWrS9VkbFWVn2bTHFfcCLWX3HwJ/X4/IMG_1856-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-4jb3ktL/0/LhWJRFTVM53VrxF39Kn3dpS8ZGpdcPxZ85J6wQKJT/X5/IMG_1856-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-4jb3ktL/0/LJqwwVDZ7WHxvbmTNhsBFNm2t8pGwkQ25nS3S4Xds/O/IMG_1856.jpg",
+          "Ext": "jpg",
+          "Height": 2602,
+          "Width": 3469,
+          "Size": 2464628,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/4jb3ktL-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/4jb3ktL-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1869.jpg",
+      "Date": "2015-07-12T22:45:37+00:00",
+      "Uri": "/api/v2/album/dg5xBC/image/GWC6cN5-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-Hawaii/i-GWC6cN5/0/#size#/IMG_1869-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-GWC6cN5/0/Nb79VKvQdXQ8njxsHZ9DrvnFTxPWKhN4DpX9RHDQ7/Ti/IMG_1869-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 9487,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-GWC6cN5/0/KS4cRwhDzQ57tF8SfkcjzzGcvq7TGJRsWsKqv5KkB/Th/IMG_1869-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 13770,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-GWC6cN5/0/LPdvQPqLXXS4pLFHtBCkx4D5hzGHLM5rRmC6fFQdf/S/IMG_1869-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 39420,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-GWC6cN5/0/M8BQkcvWkzSxLfD7ngq4S4JB4prS4H2DVJF8g9jKQ/M/IMG_1869-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 69419,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-GWC6cN5/0/LCrZmnp9qdkNdWKP2zh8Dm2jhwPj3GhdWm879HXzF/L/IMG_1869-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 103349,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-GWC6cN5/0/NZqSqHwGSb3s2FHMRzDrZW5dMS4VLWRxG454JswxV/XL/IMG_1869-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-GWC6cN5/0/K9ch8rcgs8bCxgrCJ5Hwr7j9HH5PTdtB4zBr7zQpq/X2/IMG_1869-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 225469,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-GWC6cN5/0/NRVb3QFMRgTXdWDbhm6kMThDP4VTzKsj4wX9ZPsWz/X3/IMG_1869-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-GWC6cN5/0/LHK85R6wqMGr8JdJTw6xr7tfnPBj7LKkkMmfSqwDF/X4/IMG_1869-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-GWC6cN5/0/KxSmmKZrLJqvLL8bg3frvD5SkdbXvfDVHKrJM5r9N/X5/IMG_1869-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-GWC6cN5/0/KFGMscfjchpsHZZLZ5V4JTG7TnWqQccP5p8XSrdPC/O/IMG_1869.jpg",
+          "Ext": "jpg",
+          "Height": 2191,
+          "Width": 2921,
+          "Size": 1539567,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/GWC6cN5-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/GWC6cN5-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1873.jpg",
+      "Date": "2015-07-12T22:46:05+00:00",
+      "Uri": "/api/v2/album/dg5xBC/image/Jd4N4BV-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-Hawaii/i-Jd4N4BV/0/#size#/IMG_1873-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-Jd4N4BV/0/KtwZ42w8r9vRfWJ9sqkttHdhzWrm8Z9FQkBbCmhGf/Ti/IMG_1873-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 9653,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-Jd4N4BV/0/NP8vBM8NSWbqdgW2vx23SNcwvM76V7xfqGsFJN7Jj/Th/IMG_1873-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 14316,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-Jd4N4BV/0/LGMVZ6cDvQ9h6sXJJTXvx5kNXzJFmQ4SPQt8Wb94n/S/IMG_1873-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 44403,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-Jd4N4BV/0/MLLC43pvv6Jf9fjZFM9cbgcPScVvqqKqzTwcrqbrG/M/IMG_1873-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 83102,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-Jd4N4BV/0/NBqdxCB6dV9rVwc42FPKCLPq7PnDtRTtQ24TgNrGZ/L/IMG_1873-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 128058,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-Jd4N4BV/0/L6Tbf4RScT2GMX38HB82S84ZnJ8NWRkdt3q3VVsDH/XL/IMG_1873-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-Jd4N4BV/0/Mp3fXQGfDnksXg6JRX5R9jWHcGM42Hk9dzggCTBHx/X2/IMG_1873-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 286316,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-Jd4N4BV/0/MdjpwG4mqznV8kvsGJcrp4ZtTDWmPkKsMnWrPN673/X3/IMG_1873-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-Jd4N4BV/0/LXGbLjsW4zL8HKZqdZGR5TBm3wjQnS5w5TVDQFp3R/X4/IMG_1873-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-Jd4N4BV/0/K2gFfFwVx3CG5rGG5tt8zJWzhf9V5jng4qrdcqjhN/X5/IMG_1873-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-Jd4N4BV/0/K2qNdhfN5DfsqwdtqQVskM2ffC5pxdHv5rTJBTvG9/O/IMG_1873.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 2447873,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Jd4N4BV-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Jd4N4BV-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1875.jpg",
+      "Date": "2015-07-12T22:46:32+00:00",
+      "Uri": "/api/v2/album/dg5xBC/image/6wBwCGF-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-Hawaii/i-6wBwCGF/0/#size#/IMG_1875-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-6wBwCGF/0/MFD8whnpgwksHwCSBzfS6PbrCb4QSZwb2F56ZsXVf/Ti/IMG_1875-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 8099,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-6wBwCGF/0/MgGrN7n9HCfDVpWRqDtHFLvqm5kjqQ96HnkmcHDxp/Th/IMG_1875-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 11471,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-6wBwCGF/0/Mr2t4Vdv6WDmPCkm9RpJSxpDNdz9W8KbnKzN5mRSt/S/IMG_1875-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 36276,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-6wBwCGF/0/Lq4m2gT3PxRs28qcMhg27KPDqb39V7H56gT8hVPWD/M/IMG_1875-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 70353,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-6wBwCGF/0/KFHzWjT55VbvgKSK9dXf3nnvRHgDG2kZq8MDDwBHD/L/IMG_1875-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 110489,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-6wBwCGF/0/LjghkTr4HQkhR3zwwp68DFqHK8wvZVC8wQhHrqtbp/XL/IMG_1875-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 177139,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-6wBwCGF/0/KfXWrxMtQ8cXrbLLnTjftcNFf2kzGtGbCqpV4rMzj/X2/IMG_1875-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 253602,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-6wBwCGF/0/KLJh5RF8XNXNfg7hs822rkqpJQqzMfZQJGfQcr5zX/X3/IMG_1875-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-6wBwCGF/0/Mbwcm7pHfgps9BkrWjKXbj2fm69KvxBnhhqrWcnvh/X4/IMG_1875-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-6wBwCGF/0/KRM3q8NLxwDXfgpWjh6FtDGbJjLdQbnCFDJFC9tNz/X5/IMG_1875-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-6wBwCGF/0/LBLh7B5qdXLgxBZxRq7sswbks9rBSJC4jtrmRZ4Sj/O/IMG_1875.jpg",
+          "Ext": "jpg",
+          "Height": 2645,
+          "Width": 3526,
+          "Size": 2368903,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/6wBwCGF-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/6wBwCGF-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P6180339.jpg",
+      "Date": "2015-07-12T22:47:23+00:00",
+      "Uri": "/api/v2/album/dg5xBC/image/M6kFSWf-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-Hawaii/i-M6kFSWf/0/#size#/P6180339-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-M6kFSWf/0/NGrM2kvWj9krfF8fpZs528rBfkd33r8nsJM3m8nQt/Ti/P6180339-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 10269,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-M6kFSWf/0/M3f2BBCchfGBBjvFTtPQpdmVh2pF7WhN6FwtF9Mrs/Th/P6180339-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 15705,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-M6kFSWf/0/KwgH437fztm3TZ7Q5VTjr2QFXZdFFQPXRLfcH8SgV/S/P6180339-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 53839,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-M6kFSWf/0/KHftHgN7BS5p4GfksVzRd4WZHsrVsQh4VD93dWPbw/M/P6180339-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 107884,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-M6kFSWf/0/NRbvgX7nwzqzfQjKLNjvCQtZ4NcVSX6fZbGM85D9z/L/P6180339-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 172250,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-M6kFSWf/0/M5jTpXGfJSVj2Gn3sMBsNTgwPcX8DDbG7GJK6znMV/XL/P6180339-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 276704,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-M6kFSWf/0/KwXwmgpw99mj42Zwz3PB5n2F2VKC5Zg78f65ZCFN7/X2/P6180339-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 397738,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-M6kFSWf/0/LwLZM3Hpk6H9z8w68PmmthGhCkcMMSQb5dXz3xnFf/X3/P6180339-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-M6kFSWf/0/LhXq88WwM92DZVp2BTgdFVjLSpTqCCr2QDdC4sNpz/X4/P6180339-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-M6kFSWf/0/LQLcrZdNFZ4Xfjjf3TTHQhF5c9qQQCkgtB82bVwpD/X5/P6180339-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-M6kFSWf/0/NKrL2HFfLvCcG5dGr8PV82Z4jmW5DwS3Tn782hpnJ/4K/P6180339-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-M6kFSWf/0/LWvFXHctH7sGzwGtjc3jP8cQGWv9kdcSdSKVNCvWP/O/P6180339.jpg",
+          "Ext": "jpg",
+          "Height": 3008,
+          "Width": 4011,
+          "Size": 4597844,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/M6kFSWf-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/M6kFSWf-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P6180346.jpg",
+      "Date": "2015-07-12T22:48:09+00:00",
+      "Uri": "/api/v2/album/dg5xBC/image/b34Fmsn-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-Hawaii/i-b34Fmsn/0/#size#/P6180346-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-b34Fmsn/0/KMRPf2wzGXqD2FDHCgdF34mpLQ75xJ3vpLWbkJRVf/Ti/P6180346-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 9817,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-b34Fmsn/0/LKmB8rMPBsxhJj9PGWwHfhkVLfVgzbBJ7wshvrf2V/Th/P6180346-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 14580,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-b34Fmsn/0/Nhg3KpZjcLmKV79HjPW9ngtQKPD2Tjp5ZNhxW3Pv9/S/P6180346-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 48863,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-b34Fmsn/0/Nhz5KtLxnZWRDZwMrrgM52Wj6HwHvGGdD5wVZcPGm/M/P6180346-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 98625,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-b34Fmsn/0/MPWNC6VSQgmjM6kFnBC7BxGFNHWJf4vwCp4VNhGFH/L/P6180346-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 159095,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-b34Fmsn/0/McVXmRFBgzkkFDnJmxcfpvD2VbK55Z84H3hFnLxmV/XL/P6180346-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 262540,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-b34Fmsn/0/NWXCk4wN2XRqH47TrvGFwGRRZmbz2fcqt8mf22Pb3/X2/P6180346-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 383418,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-b34Fmsn/0/MCWKqzmw2CVJzc4QXszgdRxF6V8F6p2Wc6LZTh33d/X3/P6180346-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-b34Fmsn/0/Lt6FNWTQpgPzFp2mhNFgBLrBTpJ2mKgb6dbGdtXpC/X4/P6180346-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-b34Fmsn/0/NCR9kQSP6fRprbfSr3QzCK5vjzJDrvrgjhSwrhP3v/X5/P6180346-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-b34Fmsn/0/LbQPJ273LqttTD6g4tZSwNSkC2cDVwFDX8XBmqh83/O/P6180346.jpg",
+          "Ext": "jpg",
+          "Height": 2835,
+          "Width": 3780,
+          "Size": 4186373,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/b34Fmsn-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/b34Fmsn-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P6180357.jpg",
+      "Date": "2015-07-12T22:49:00+00:00",
+      "Uri": "/api/v2/album/dg5xBC/image/NQz9hn6-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-Hawaii/i-NQz9hn6/0/#size#/P6180357-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-NQz9hn6/0/Mb2Wm6knWdQqH6hrdJ6JLPcMWsWWfNWMNNgcXcZNF/Ti/P6180357-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 8769,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-NQz9hn6/0/KWmbfVqPdkxSrGwGPtXCPMXjcG6XdqQRgJFxf89Nr/Th/P6180357-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 12477,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-NQz9hn6/0/LSqwKZVGK4mCQvBkHKkqk7fSw6JbhD7BK6mVH5m8v/S/P6180357-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 39708,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-NQz9hn6/0/Lh2x7XCqM6Vcp85mCNDzdTcCkJPDWC7wj859smLzP/M/P6180357-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 77480,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-NQz9hn6/0/L9hBdn3QPK4tzfwz6k684VrLXpvg2sGkGQFb927WF/L/P6180357-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 122647,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-NQz9hn6/0/NcpNH9gvHdGxN2zpPnDdfVWpfnzZczDs3H2G4KLHR/XL/P6180357-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 197388,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-NQz9hn6/0/NJM462vSNpGWMfr3TPx5sqQ74XkPsF3NPZ2rVj75L/X2/P6180357-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 283439,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-NQz9hn6/0/M2sPPNJvJtr3HTFSwTGN3sxjvrrKz5qGWpGqLd3bC/X3/P6180357-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-NQz9hn6/0/LTK4pL9njp5Lkj5tcfXxGqPwxrRwqKZDtPNdPMPWM/X4/P6180357-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-NQz9hn6/0/LgTPrWfqwnWgN6mddhKNj3J3HZd4fM3vBncV57Q3q/X5/P6180357-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-NQz9hn6/0/KM7mzGpcC2mWPbMkZrCppJb3C7PBdBdRKTWqmR7Px/4K/P6180357-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-NQz9hn6/0/LgvkLWrzwmNbmmndSCJHW698ZMfR5rgfZLdnJsswT/O/P6180357.jpg",
+          "Ext": "jpg",
+          "Height": 3456,
+          "Width": 4608,
+          "Size": 4802278,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/NQz9hn6-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/NQz9hn6-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P6180377.jpg",
+      "Date": "2015-07-12T22:49:43+00:00",
+      "Uri": "/api/v2/album/dg5xBC/image/5NX5bGG-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-Hawaii/i-5NX5bGG/0/#size#/P6180377-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-5NX5bGG/0/KjkG4HgnCDr2hD68cKqXSDXcB3CZPVDDQDm5VszcK/Ti/P6180377-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 13080,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-5NX5bGG/0/MF2pk7RDPkjxjLkbRG7NSsJbnvJMg83S7wxHTXcMW/Th/P6180377-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 21691,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-5NX5bGG/0/K3xDLWjSDDGGc4zp3HkwgSfrZx4KZ3xdFMHF36RfG/S/P6180377-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 85128,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-5NX5bGG/0/M9FVJZZX7mbTr8VJWSG4jLmMP32vVnbXRdPGqJx5Z/M/P6180377-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 170705,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-5NX5bGG/0/LBPRRJQKj3Fjqsb3245bLBhk53pRCF6BHJm9P73Zn/L/P6180377-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 271187,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-5NX5bGG/0/MXXFxTLW2TvNfzbD2qhpr4ZGt2T8LM6qhdCbgTv2M/XL/P6180377-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 435057,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-5NX5bGG/0/KpbVj8dqz7R5xhqKvsskTnqSp6TdMqWg5hgSqJN72/X2/P6180377-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 624693,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-5NX5bGG/0/NX5QW3ddkWD55ZbsrrgcfcgL4NtqZsvCRg3JJ49Cv/X3/P6180377-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-5NX5bGG/0/MGPLD4GMXfZvqtst2pQ5ddj5tq8RtbbXnHX44CdBG/X4/P6180377-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-5NX5bGG/0/LFjftg4VSk9H9LKQsZrHCNHFpXxkNgRq2zK7k24ds/X5/P6180377-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-5NX5bGG/0/NbsjWHSB2SDLjt8RNGvfCzbDj3gBP4m9J9qmtkDSR/O/P6180377.jpg",
+          "Ext": "jpg",
+          "Height": 2162,
+          "Width": 2883,
+          "Size": 3877089,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/5NX5bGG-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/5NX5bGG-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P6190383.jpg",
+      "Date": "2015-07-12T22:50:50+00:00",
+      "Uri": "/api/v2/album/dg5xBC/image/7btwXDM-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-Hawaii/i-7btwXDM/0/#size#/P6190383-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-7btwXDM/0/Ncv5L3dxJbmLn8wt2GnJ7LtLvbzzLgzb8gHZP6jSX/Ti/P6190383-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 10893,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-7btwXDM/0/NG9QcZSH2HGbjZKgvxrLtWNnLHG9CsLjVHdQzrF49/Th/P6190383-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 16906,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-7btwXDM/0/MnW5rgJN2FVFKTZmcCGBP23kVmJnDcLff9D2hqsxP/S/P6190383-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 59062,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-7btwXDM/0/MDJdzvmW9gkCzdm9nDFKsZRGfSS8HXg43XVXdNQp8/M/P6190383-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 118073,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-7btwXDM/0/M2BGLHL86HrxPqMmJcJn68pT6nVKtvTsrStFNqpwB/L/P6190383-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 191102,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-7btwXDM/0/MX9HND3K5nZv2hrRk4RbXjPjWknBB2bdFT6Gnc35w/XL/P6190383-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 537253,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-7btwXDM/0/LNdKdm7snqzbT6Mw8TVzmWD4LctmJrDnV9f8P864d/X2/P6190383-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 801635,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-7btwXDM/0/KdhrMGcNhdPjTRJnfJQFFxgKxBhDS2mhp8kcnhBQR/X3/P6190383-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-7btwXDM/0/NXKCG8jwgRL8nF3mVhqTCB8TMtkTPvQbknzD7wzf7/X4/P6190383-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-7btwXDM/0/LWfS22fwxD5vRSTJBrf38cQTKTkD3x6bRZckMkVVb/X5/P6190383-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-7btwXDM/0/LJXjFKGK3TF28ZdpsrSqmcXzkbbmRbXzcJS3L49j5/4K/P6190383-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-7btwXDM/0/KwbmPGf4zZ5h3RZjJkDrPk3PbGDpQ4MmRBsNWHZ5p/O/P6190383.jpg",
+          "Ext": "jpg",
+          "Height": 3370,
+          "Width": 4493,
+          "Size": 6441276,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/7btwXDM-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/7btwXDM-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P6190418.jpg",
+      "Date": "2015-07-12T22:52:00+00:00",
+      "Uri": "/api/v2/album/dg5xBC/image/jXJMBrQ-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-Hawaii/i-jXJMBrQ/0/#size#/P6190418-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-jXJMBrQ/0/KjGfDc4Z8C6g4X3P9V95fFZntxtJx8vvZH7fMcnMJ/Ti/P6190418-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 10175,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-jXJMBrQ/0/MFZFVDXTLMpHcFzG5BvVFNdV46fqGLhVc2fLdqxWx/Th/P6190418-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 15125,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-jXJMBrQ/0/L2RpjFHwPx4vvsKvLq6kjFsnnTmZ3gKhtjH2ScG3q/S/P6190418-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 51272,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-jXJMBrQ/0/Lr7crKSQcbtK4DNftHn9RrhjhPnbMjbWzdmLZn3zd/M/P6190418-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 101510,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-jXJMBrQ/0/Kd5VzQk6NpQ7B65kP2ncmqtjgJztsLRVNhhWPQCNp/L/P6190418-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 165937,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-jXJMBrQ/0/LjCGRsPh7cqwzw2rQCQWBnXqSvZfXvvWp4ctqGtMX/XL/P6190418-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 265520,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-jXJMBrQ/0/KT3jCbJcNvRv7FK4T3xvgKMW2LsFtLHGbRc2gBQmf/X2/P6190418-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 733443,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-jXJMBrQ/0/LFx3BrbWTzTfJ9nXDwf8W68Zgs6sVBT7SjNJHGNXT/X3/P6190418-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-jXJMBrQ/0/LTzrqZPwPSwHkpqmTSVp8V2D9H6c9ZhJzHpWcBd6p/X4/P6190418-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-jXJMBrQ/0/NNct5cnF2sgkvv23Bx7LQBzLk5JsTWT9CbLBm5JND/X5/P6190418-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-jXJMBrQ/0/Mk92Kb8T6X44KQDckNzxJKsw45MLT9Dx4pzP8jbqd/4K/P6190418-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-jXJMBrQ/0/LpbR5sgTxbWMZJrRPgmXJtwdkwS9QWFM27Fmzvm8b/O/P6190418.jpg",
+          "Ext": "jpg",
+          "Height": 3456,
+          "Width": 4608,
+          "Size": 6629326,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/jXJMBrQ-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/jXJMBrQ-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P6190496.jpg",
+      "Date": "2015-07-12T22:53:41+00:00",
+      "Uri": "/api/v2/album/dg5xBC/image/zZQHzGH-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-Hawaii/i-zZQHzGH/0/#size#/P6190496-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-zZQHzGH/0/LdmWsZNKSbKFXVZt59LBg3vmNKkBXM4FtJ98G2pjb/Ti/P6190496-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 10505,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-zZQHzGH/0/KMjpbn2rqZrdzqbFWh5t8gG4V6KgpSqZbWt6jV69Q/Th/P6190496-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 16149,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-zZQHzGH/0/Kt8tQ6nbnfrmQSbWDPMxKXQq5QxBgcMzfpSQkt4sx/S/P6190496-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 58120,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-zZQHzGH/0/KnFq3fsrSdkxvJs2DGrKWT9rX7vbX3FDNfkpcLCvn/M/P6190496-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 116936,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-zZQHzGH/0/MPDx6dzbL2MFj92fGTJFXjssv8SXWGcfMQnXmP4zL/L/P6190496-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 191099,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-zZQHzGH/0/K35cgwSKKcWcd7XrFDBNdFqrMmmJZL2fZGN2sPLHz/XL/P6190496-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 306078,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-zZQHzGH/0/KQx4Dsft2B2V7DnbNrzCX2kvS6H9DKNMh5jX5JP4q/X2/P6190496-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 829619,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-zZQHzGH/0/KMTRXNHgx4LMHbQQXKm3TdGM9kRbv9nHtCBsMdSvv/X3/P6190496-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-zZQHzGH/0/M7LLhKf9fKZRx9v8PGDzFfJSStfQWJdQ6kFR3Bpkh/X4/P6190496-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-zZQHzGH/0/LBgTz82J2v6tDFPpSzDkFWVt7hqqNchj2tKZxBmjx/X5/P6190496-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-zZQHzGH/0/MvFPx5dxGzsrFXK3s24rnpmMCGQwRB3wswNmbfndL/4K/P6190496-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-zZQHzGH/0/LNj763s2QcbmCssHqGZgJpJ54f5s6NWj8T58Xhkkt/O/P6190496.jpg",
+          "Ext": "jpg",
+          "Height": 3456,
+          "Width": 4608,
+          "Size": 8059135,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/zZQHzGH-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/zZQHzGH-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P6200501.jpg",
+      "Date": "2015-07-12T22:54:14+00:00",
+      "Uri": "/api/v2/album/dg5xBC/image/S5QsfTh-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-Hawaii/i-S5QsfTh/0/#size#/P6200501-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-S5QsfTh/0/LK5BF2L3mMRSntpMpqwMNfX5gtrqDZztdFtzTbTkN/Ti/P6200501-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 10921,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-S5QsfTh/0/K9g9m2xmWxJzkgJRRkWJ344FpNRZG2Kkgm79bp2Lz/Th/P6200501-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 16143,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-S5QsfTh/0/M3cwjRXDmw7gdBt5wJcDnZWMR4tT8TgRgx3HwS9JV/S/P6200501-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 46566,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-S5QsfTh/0/L6KTFLQPL5Rpdb74JDDLwb3pQ5Zv8gMNKLCPtrDcM/M/P6200501-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 83035,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-S5QsfTh/0/KZK48NsH25pL6BqNLMNV8nvWJZtDQ8W4WDfV7TLbf/L/P6200501-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 128430,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-S5QsfTh/0/LrgNmNJSshCKFQNVthrTDtJ9fsngmhXCkwgXQCFtk/XL/P6200501-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 193620,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-S5QsfTh/0/MDxPnDwHggrkhNnPHRd4PTK2bRztGxgKhrHjzg9bF/X2/P6200501-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 542130,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-S5QsfTh/0/KmFNJtKV268fDr465wTdFrsFckSSpmv2PNCZWB5rW/X3/P6200501-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-S5QsfTh/0/LHjSrcFk568GWJtLcrDNnSCsjC2GsNcPNBSBJRSg4/X4/P6200501-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-S5QsfTh/0/M5GPc6hmmv9jjjz2kSpfzJpttsMHPQ622jjntw6Sx/X5/P6200501-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-Hawaii/i-S5QsfTh/0/L4n2pTGtn2VNSrZzQPFNgwNVJcNkkKbdLLLdjqh9v/O/P6200501.jpg",
+          "Ext": "jpg",
+          "Height": 2602,
+          "Width": 3470,
+          "Size": 2843205,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/S5QsfTh-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/S5QsfTh-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    }
+  ]
+}

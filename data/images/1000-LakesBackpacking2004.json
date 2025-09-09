@@ -1,0 +1,4414 @@
+{
+  "UrlName": "1000-LakesBackpacking2004",
+  "Name": "1000-Lakes Backpacking 2004",
+  "Uri": "/api/v2/album/GqsGTT",
+  "Date": "2008-04-12T18:12:15+00:00",
+  "WebUri": "https://lmblevins.smugmug.com/Travel/1000-LakesBackpacking2004",
+  "Images": [
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "104_0465.JPG",
+      "Date": "2008-04-12T18:12:25+00:00",
+      "Uri": "/api/v2/album/GqsGTT/image/p6Kx6r9-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-p6Kx6r9/0/#size#/104_0465-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-p6Kx6r9/0/MzrFSx2FJLxxVTZ75G79FxMkbH6wf58rHBNxFdwwq/Ti/104_0465-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-p6Kx6r9/0/NNsNhd65fvFzNW4w28zfsxwsv3xTqrBX57Q4Ww8cN/Th/104_0465-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 11624
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-p6Kx6r9/0/LbL5jfJPw6QMfgmn3CHD7FK66hX4pb7z3sFJ6PfsH/S/104_0465-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 70591
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-p6Kx6r9/0/KdNtKD45BrbdmzwQ4nj35KBcw6NwgK94kfXhsGLkm/M/104_0465-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 149901
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-p6Kx6r9/0/LBwWFL4PB8TCS5g8WrhjRmQkqgP2hfCW9Jxps9Hvh/L/104_0465-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 251593
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-p6Kx6r9/0/MvWkBpwf4qmcSjqhqwMt3T9866C5KwT9ChKtsC7Ss/XL/104_0465-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 578706
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-p6Kx6r9/0/MbnPVC67GNznpbs3jj8BKzzwnqnX9HjRpdP8LwdZg/X2/104_0465-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 861317
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-p6Kx6r9/0/MsfL5mBT8RGdTvLStjnBXZCvPMh2hV77wC8bLjBCQ/X3/104_0465-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-p6Kx6r9/0/KG6PRh8gQqw9ZqWjVbh4qKpvgxbKbk9gm77Qh95S9/X4/104_0465-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-p6Kx6r9/0/MqDHBS7jq6P8PWdzrtXfCgmDrb9d7LKmXV7C4s3Bq/O/104_0465.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 1665443,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/p6Kx6r9-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/p6Kx6r9-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "104_0463.JPG",
+      "Date": "2008-04-12T18:12:24+00:00",
+      "Uri": "/api/v2/album/GqsGTT/image/ndtrRfD-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-ndtrRfD/0/#size#/104_0463-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-ndtrRfD/0/K5fqMTv7P4JvvjVb6hZ6qLQPV8dSRNfNNZ2gHJK3K/Ti/104_0463-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-ndtrRfD/0/LzP9kFrFvBnDTnGSwKwzhSg3JvDCVDMQLf2WB97vS/Th/104_0463-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 14769
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-ndtrRfD/0/K7gPrfKgvTxQ2TwncnFdWgtf3xKwmtj2HSWzmgjtR/S/104_0463-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 58506
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-ndtrRfD/0/MdkT2F7kNsBzk4zhWJsrs26gLWjghKhQk37XLGqHF/M/104_0463-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 127090
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-ndtrRfD/0/NbJsvw8HH6rkvdfFdqQZrWmmMSV8CCRSn9gBkDLxm/L/104_0463-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 215327
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-ndtrRfD/0/LmPdSxHvdRQM2RZbZmXdLGSkdkKf8PJ36kr4HcTW2/XL/104_0463-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 348817
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-ndtrRfD/0/LFgMFFkjcVr7ZZGGv5VnWmRNfzQLCW45hvFmDj8pW/X2/104_0463-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 780124
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-ndtrRfD/0/NPtmnzCfmVBSRgCxtXcZh3V8TXzDLPfRsQJTD5v9G/X3/104_0463-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-ndtrRfD/0/LjZx3NwwX26JR8VsM448Nr9tS6ktKtZj44GpRLPvS/X4/104_0463-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-ndtrRfD/0/KRm5cKCgpcVpMHW544X4bh9jDdCjzjSf4N6cHmF3r/O/104_0463.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 1497462,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/ndtrRfD-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/ndtrRfD-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "104_0467.JPG",
+      "Date": "2008-04-12T18:12:30+00:00",
+      "Uri": "/api/v2/album/GqsGTT/image/Qx9g4Tb-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-Qx9g4Tb/0/#size#/104_0467-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-Qx9g4Tb/0/LhzP9rCn48Hs59X8rRxPq4CqLSF5wnh9F272ZZBFp/Ti/104_0467-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-Qx9g4Tb/0/NJMRF7CcTbxcQxLSppxfgsHDkSMBtTd8WQR5v3NQF/Th/104_0467-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-Qx9g4Tb/0/KDfWHVLLkz4JPdKvMMvBRk4KP6FpMcBrh3jcJ53M3/S/104_0467-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 41785
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-Qx9g4Tb/0/L4rXfxkZ8Br3snkXWxDqL32VWxHXzPFrW89GHfGKX/M/104_0467-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 87463
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-Qx9g4Tb/0/KjGhkzxnwfJz3gjNkN7vnTnSmX6XgR3FjLGdxKFPr/L/104_0467-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 144292
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-Qx9g4Tb/0/L3xPLzptDMqFHfKgdKT5HKPsLR4DhZ4HnKKDfsxqx/XL/104_0467-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-Qx9g4Tb/0/LffT7LVKhP9Bb7pbKkWsVpqNnPJxGbcMCVnG9c6pW/X2/104_0467-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 559828
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-Qx9g4Tb/0/NLhZt5XZWDbWzcPhVsqrBCJPZnjzSRHh9gC3jgdQV/X3/104_0467-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-Qx9g4Tb/0/KZxSDDdDFXzSNg5bvXS9jfKp7793g6dJ6kzgVKgZL/X4/104_0467-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-Qx9g4Tb/0/K93NDCzZFvXxJbqJdCm2H9PQVnwQd9fcpmVP7VZsz/O/104_0467.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 1031096,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Qx9g4Tb-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Qx9g4Tb-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "104_0471.JPG",
+      "Date": "2008-04-12T18:12:32+00:00",
+      "Uri": "/api/v2/album/GqsGTT/image/c4xWJFx-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-c4xWJFx/0/#size#/104_0471-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-c4xWJFx/0/NL5zBhg6KpMXKzp3SCxZ57PThP8c99gvNMNdMNFXx/Ti/104_0471-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-c4xWJFx/0/MJ5VGRgf2LfFZSR9wM6CHHVcxbBMCF96DvMDfghb9/Th/104_0471-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-c4xWJFx/0/KqzZrvX6fB47R9FFZzQHRQrQzSXv6m7JKVLbBLMb9/S/104_0471-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 75597
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-c4xWJFx/0/NdKdt9zmwfMkGLdjQDKR64bRpNT2F4W4FQpJ8mMLt/M/104_0471-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 162136
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-c4xWJFx/0/KfhJDH3D2VCHkNJqbHtNZzKhXXsBq9rmTsgk9ZCcK/L/104_0471-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 266546
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-c4xWJFx/0/NGWrrgGkNBWTWbw8z3tM5MJDtpFGZ9cLLQQWzQ9R4/XL/104_0471-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-c4xWJFx/0/KhNWCkt2mkbGDPVP85PZGK6XzZwxGrkdV2WR2zM9p/X2/104_0471-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 890550
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-c4xWJFx/0/NZLdvn5BS65Rbc5qFsSVQvNfZkdXCLPpBTX7DRcRx/X3/104_0471-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-c4xWJFx/0/KQxDmsf9SKK4nNfHPsdTVQZT6PQ6sL3Th8Fm4CZZD/X4/104_0471-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-c4xWJFx/0/NjHspj4TFjpG97TTLthScsWZBmhJWzL7HpNNc9FSf/O/104_0471.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 1669177,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/c4xWJFx-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/c4xWJFx-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "104_0481.JPG",
+      "Date": "2008-04-12T18:12:36+00:00",
+      "Uri": "/api/v2/album/GqsGTT/image/WrBn4TP-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-WrBn4TP/0/#size#/104_0481-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-WrBn4TP/0/LFb3HTCWd7hkWW8F24W9NFx45QMLNzDvttq7DF3xB/Ti/104_0481-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-WrBn4TP/0/KPdw7sJ9T3wxLwxN3R7tCVbKQktrkmfsqWbjCTfjZ/Th/104_0481-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-WrBn4TP/0/Kmvxn8B5R2kF3CMLGgCp2HkLBLtJzhJ8RN6NMDJqG/S/104_0481-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 34935
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-WrBn4TP/0/NMSrc7BHqtf6q3vtDPQtkwsmJDPmJVrZDjGxqFF3K/M/104_0481-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 68999
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-WrBn4TP/0/Mcx3XjkMTLkDsBkNrwXqt2GBWprbQVN66FKxV6j5T/L/104_0481-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 110581
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-WrBn4TP/0/MbhfSmCP2XV497jQMjjkMxSzQFwWrM4CNH3RNjmT6/XL/104_0481-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-WrBn4TP/0/MRRpQVRxgQ2tTxGtJHqStw5z5MF8bXcJsbh5vf2RQ/X2/104_0481-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 445900
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-WrBn4TP/0/NBPQhMhMhGbzPgrRp7ZJTq6mSQXNhbCtZd47g5FC6/X3/104_0481-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-WrBn4TP/0/LNn2LNHQSSWdT8B9rfFtVJwBZcHtZQCVM4BDDbMjN/X4/104_0481-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-WrBn4TP/0/LSPRD7w3nMwtM36ZvCXbSMgx9zB5tdZ4HLLDdB4Tq/O/104_0481.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 805175,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/WrBn4TP-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/WrBn4TP-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "104_0480.JPG",
+      "Date": "2008-04-12T18:12:37+00:00",
+      "Uri": "/api/v2/album/GqsGTT/image/5hFQrVp-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-5hFQrVp/0/#size#/104_0480-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-5hFQrVp/0/KMDRCmPS4CgG9P2DNJD6Xdk35XvkqfQvm48dkMNxG/Ti/104_0480-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-5hFQrVp/0/KQvKxpFVHgP3xtQXZk77pCsWNkkh6G8HQXV8N5zsZ/Th/104_0480-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-5hFQrVp/0/Mfc5skrWCMQJjn7wRFCtJLjpfgqXCsJ3xSLmLq6C3/S/104_0480-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 78706
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-5hFQrVp/0/Mhtt9z7xp6MjpM5rdL6M49J8c36FNVbW4R6TKVdst/M/104_0480-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 171631
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-5hFQrVp/0/LRpdTv7bFwsfV4LR2qVk9c82RHGdVMNwZJ7BpWrbZ/L/104_0480-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 286634
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-5hFQrVp/0/KbKThxXDh7vJdszPw5hH49TZw3jZNwTVSVDRDmN9R/XL/104_0480-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-5hFQrVp/0/KNCPNtcHNzHwhzZ2GzW5rPrLh5sj5WPSb7nsHs9Nj/X2/104_0480-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 956084
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-5hFQrVp/0/NjCRppLTgq78ngMrh3NXsLWk4j5GHbsGpQDNkwSws/X3/104_0480-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-5hFQrVp/0/KjtnsdWdv9WjXgN6CxxmghwNwHx39hVKqH9fXp2DP/X4/104_0480-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-5hFQrVp/0/MHr5DxqnVZFRHdsLDQWDXZbT8L7GgFKZfxdfWJcJT/O/104_0480.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 1844884,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/5hFQrVp-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/5hFQrVp-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "104_0484.JPG",
+      "Date": "2008-04-12T18:12:42+00:00",
+      "Uri": "/api/v2/album/GqsGTT/image/Bsmtnn3-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-Bsmtnn3/0/#size#/104_0484-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-Bsmtnn3/0/NMxFgQd22RXHJf8ZQ34kWCttZTXbzdbx8gZV3kgMd/Ti/104_0484-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-Bsmtnn3/0/NXrsgWCwzX4JGhwJm2WPSjRfhZR7xGdtxkgGcZtjP/Th/104_0484-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-Bsmtnn3/0/NZ46WjrpQNQQBbBv7TGmTb6DKQrk9K5trZFhK5nwK/S/104_0484-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 77903
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-Bsmtnn3/0/Kg6KwVqpTMfCNBRHTF66b55WRmrZkkspRmJskcTdF/M/104_0484-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 165876
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-Bsmtnn3/0/NX5579KFCNpxdvWnwLhM8dQ923nnd3mkxghKnJ8fc/L/104_0484-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 272497
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-Bsmtnn3/0/MWs3w7GjfbbrDFCShpBxcGBKHH2LZshgp7wDLXZH7/XL/104_0484-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-Bsmtnn3/0/NfBZ3tBd2HTqQMwV9rQv4NqdXSKQWRXbVkXkvkcjC/X2/104_0484-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 899410
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-Bsmtnn3/0/NXZHFh9pFdS2mSbfdk9t9h6SdbSf4THG2XfqwP3z2/X3/104_0484-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-Bsmtnn3/0/MPD5SThvZnCrLJBMSqx4J6vxrZ9M8fsQX9N84Rmg5/X4/104_0484-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-Bsmtnn3/0/MjHfvjTmN6WfZdHHsXHVKh4VSzNnC292cGd5j5J79/O/104_0484.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 1698379,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Bsmtnn3-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Bsmtnn3-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "104_0485.JPG",
+      "Date": "2008-04-12T18:12:42+00:00",
+      "Uri": "/api/v2/album/GqsGTT/image/b7WPQLj-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-b7WPQLj/0/#size#/104_0485-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-b7WPQLj/0/K4WrqBK2JM4VmTdVSBbqCbkrXrt5RTvh8k6qpQgWG/Ti/104_0485-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-b7WPQLj/0/KHqbT2J6s4PszqHrD3C2ZNCPJMjrHCMngmzGxbqGB/Th/104_0485-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-b7WPQLj/0/L3j38KmBK4XvWmG3wbZxdKQV329k3Gp6b4249Gd6F/S/104_0485-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 53915
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-b7WPQLj/0/KcMWjcKgjW2z2gjpChQNpRMtrQxC7M7j3qgKLCh4c/M/104_0485-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 113120
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-b7WPQLj/0/LNvRfcqj88cwjv67fMVVtcvCbpBPrJRndDQZgxNV3/L/104_0485-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 183445
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-b7WPQLj/0/NRskdzzLtwQZGZ6T3wDR5Mvf3NhbHC4msPKRkMW6Q/XL/104_0485-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-b7WPQLj/0/LQPmBh5kjnKPw3K8RhdSB9wBsdDxf72K7LwBTcZbR/X2/104_0485-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 624039
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-b7WPQLj/0/LRS9xqZKXvQ46Rw4pw9Npmq49MBTKtK7mKCGnrWTD/X3/104_0485-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-b7WPQLj/0/LT9VKhKXqqcfTQhNB7kNtRVbSpbFQ4fRZMPjb6FcD/X4/104_0485-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-b7WPQLj/0/LCJNfTqbwKg9zQZsHWJPT7cXVQ36gw4CHjMbXsJQV/O/104_0485.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 1163242,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/b7WPQLj-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/b7WPQLj-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "104_0486.JPG",
+      "Date": "2008-04-12T18:12:47+00:00",
+      "Uri": "/api/v2/album/GqsGTT/image/6wd3dXh-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-6wd3dXh/0/#size#/104_0486-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-6wd3dXh/0/LjCjdBKXpB2jDnMq7p5DMchKVtFLXD3q2f3nbXVvn/Ti/104_0486-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-6wd3dXh/0/LZnjxSrZKVL5VrV74XFKsct2wKbwMFv5pLsjCZdwd/Th/104_0486-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-6wd3dXh/0/MkV2Z4PsXXvf2Lcgz7HgWHfGRvGNDqxLQ8MtcS8fN/S/104_0486-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 69039
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-6wd3dXh/0/MztBgWbHTq5Z4FTBckQT7dR7FfFsjDF6Z3hmqZCG5/M/104_0486-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 150286
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-6wd3dXh/0/LW6cTT3mCsQPRtmjgn5L73mVpTkc87BvLTNh4MTcC/L/104_0486-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 250640
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-6wd3dXh/0/NKQkDF38twxk54MXwrDd4PRdDgcQsMMS3WZr8C2H5/XL/104_0486-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-6wd3dXh/0/NhRBZG9KNnPpWvh6qT86p6dhtFNZFvGr5cxQNXh3D/X2/104_0486-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 865855
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-6wd3dXh/0/NhXJBgqHjgzZvrVNTxQSWpGZkw8VJ26C8nXqjDcWm/X3/104_0486-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-6wd3dXh/0/NX6vQMx7cJ3MJcTTnTcH9LsW7x52GxhkF6hb9wqcH/X4/104_0486-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-6wd3dXh/0/KQscg3XDBWxBkVXbsCqzCwZtBF9S6zFGn4Vvgd4vM/O/104_0486.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 1645354,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/6wd3dXh-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/6wd3dXh-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "104_0493.JPG",
+      "Date": "2008-04-12T18:12:47+00:00",
+      "Uri": "/api/v2/album/GqsGTT/image/2Q4x8s4-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-2Q4x8s4/0/#size#/104_0493-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-2Q4x8s4/0/MKm2wdpt2Xc9wKFR9J9GJLj8pT4cnvV9sks2KqjbW/Ti/104_0493-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-2Q4x8s4/0/L4Xsc9qfhWtGdPFfm8Mr7wXTfXqzscG58LpQsXThD/Th/104_0493-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-2Q4x8s4/0/KLsRzS6HPdtZDfLXFVZtXg5RtSZPPj5J2TtTNvdTG/S/104_0493-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 55372
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-2Q4x8s4/0/M3wBb99XrmvkkLLZhpdmMgqNwvnKb3MwL4HW7w22M/M/104_0493-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 120108
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-2Q4x8s4/0/LgKQjx7Zqhn7WkGSbjfhfGGDCfbFCQBDD88ZdFRCC/L/104_0493-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 199390
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-2Q4x8s4/0/KHHfkVqb88MKG66WkvdXhSpK8PdD9tLKw9ZbW4rDs/XL/104_0493-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-2Q4x8s4/0/KGN9sGsXsp5fMKHbqDfC7Z9PqNJ37BtSJwf57WNPh/X2/104_0493-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 692946
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-2Q4x8s4/0/LzRt6JZJDzb7pSPrN48shzj2pPkK76bSchpVbXWBr/X3/104_0493-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-2Q4x8s4/0/NXTgC2h2NTnKFRDGzcGJfmzJ6Hxn5Vz3ZRzZczKqT/X4/104_0493-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-2Q4x8s4/0/LVcdc3hKN7jJL3fvCMZHbP9k6CShJqbQZXp7mFf8K/O/104_0493.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 1322508,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/2Q4x8s4-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/2Q4x8s4-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "104_0494.JPG",
+      "Date": "2008-04-12T18:12:53+00:00",
+      "Uri": "/api/v2/album/GqsGTT/image/HR5mk4S-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-HR5mk4S/0/#size#/104_0494-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-HR5mk4S/0/KZXf3Vf6VWRFhqKW9PkbWXP5XqB725jxzpFC5PfGs/Ti/104_0494-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-HR5mk4S/0/KgmBmHWngFD8ds9ChwtjM472DWJnLkb7Q5DGxr9LS/Th/104_0494-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-HR5mk4S/0/K6kkjqVM6JKpgxPZRSW3jBhqP685Sngkn8Sd4cVPG/S/104_0494-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 69864
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-HR5mk4S/0/KfD2DMVPFwHXmzZzXwW3tGjHbcbjjQthJQxcCwPhW/M/104_0494-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 152586
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-HR5mk4S/0/MkqJCMmhq7gXXRcMKSpSJh7tv4DWsDrXm4SK2NFDt/L/104_0494-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 253299
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-HR5mk4S/0/MT6gXvppTtWXSqh2Hr2bxZncqNRhm8vSv4HD3ZrD2/XL/104_0494-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-HR5mk4S/0/MhnWKv3M6GHjNkpb2srXj2c2dHxFd6nQngtT45XZL/X2/104_0494-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 866365
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-HR5mk4S/0/Lg3JZ2qWKHxMVm8hfhRB6txtvVXm8BQwQ6xdG8WLX/X3/104_0494-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-HR5mk4S/0/M2WK3Tpc2M7fd47bvCPqKK5bRVCM8m4FxPkBwMjqG/X4/104_0494-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-HR5mk4S/0/McNtQQfsQb6xxmbw8R6CMP9p4Jz2wBGQrTKCKSndk/O/104_0494.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 1627355,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/HR5mk4S-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/HR5mk4S-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "104_0496.JPG",
+      "Date": "2008-04-12T18:12:53+00:00",
+      "Uri": "/api/v2/album/GqsGTT/image/KqwvWM4-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-KqwvWM4/0/#size#/104_0496-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-KqwvWM4/0/NFBrsjLwT9ZbZg9TH2qvWbFN6rJH9SNt6dQ6Knbch/Ti/104_0496-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-KqwvWM4/0/NNw7zS7WLV5WcCJx5C9zL7zZH74GfHcp6VkrHv5fS/Th/104_0496-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-KqwvWM4/0/LjPcMfMK7ttJ4JnR7xBd3Zc6kBNgr7vrmF6fVVh5n/S/104_0496-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 53369
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-KqwvWM4/0/LCpHpB85PnSCR56Xm5DpN2nj3ppRFqtZgj2GDJXcf/M/104_0496-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 117696
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-KqwvWM4/0/M6RfCsrpb6ZpZQzFt8zCPBS7zD7f24vWXVjM2WP3M/L/104_0496-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 202391
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-KqwvWM4/0/Kjs8J7ZcstwFmKkVzXL6R4gQgtDjvsfmbTjgzpb2d/XL/104_0496-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 544756
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-KqwvWM4/0/NQ9PrgcJ8RvSW37G7JkG6hVvCRpS6BdGpnhvPB22J/X2/104_0496-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 802257
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-KqwvWM4/0/K4ZXfXNpPLrC66WMFK7Df6sVkjRN8XHV5MtV2Jx2X/X3/104_0496-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-KqwvWM4/0/KL2G5qZWL3x5J67DwmdH7v7cG8WKL5LVsXzGkRHBP/X4/104_0496-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-KqwvWM4/0/KkBx8S7f7WfJ8f9jxddLHMcstcNcKbqqPSFBhqVwN/O/104_0496.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 1470618,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/KqwvWM4-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/KqwvWM4-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "104_0499.JPG",
+      "Date": "2008-04-12T18:12:58+00:00",
+      "Uri": "/api/v2/album/GqsGTT/image/nq2CJ7v-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-nq2CJ7v/0/#size#/104_0499-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-nq2CJ7v/0/Lvk5Nvtd6kJdz86B99LK6SF2JMZR2L7Z9wHFFP5GH/Ti/104_0499-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-nq2CJ7v/0/LW9rKBH7XfBQwCTgxvKFFGvDxgZj9MMpvNJSkMh79/Th/104_0499-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-nq2CJ7v/0/LWzzdXg5L6dRLVcT3PJTg4CSfGNkJCF66WN93zNjB/S/104_0499-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 48878
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-nq2CJ7v/0/LDX9pRfDSvZjQj3hhh97LJT8QZ7B7SrWcpsgf3GqQ/M/104_0499-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 99703
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-nq2CJ7v/0/Lcbvm9LN3hDWVBWJWB4sRFvJ9cvNB4kz7vbzZsgpr/L/104_0499-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 161733
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-nq2CJ7v/0/L7CCnZmgD74Lh9t45hsJdrQsxPKJrPLmcBWLgJDZD/XL/104_0499-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 253580
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-nq2CJ7v/0/LBXKGfbHwxZ4Wbn8fLsgCQtpJws8bJw6Fdd76JqML/X2/104_0499-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 590530
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-nq2CJ7v/0/Ldh5JfjBrJsdJGhf4q7qCfFBrnWzXchXhTQpdQZkm/X3/104_0499-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-nq2CJ7v/0/MmsdBpzPgt3NJhDqKb6WDFVTbfr8gbRmm867tk33m/X4/104_0499-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-nq2CJ7v/0/NZKJgdT6CmdQGzfNtJPZzWQV693L4C4sWB2t82dNb/O/104_0499.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 1073153,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/nq2CJ7v-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/nq2CJ7v-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "104_0500.JPG",
+      "Date": "2008-04-12T18:12:59+00:00",
+      "Uri": "/api/v2/album/GqsGTT/image/n9PDnnd-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-n9PDnnd/0/#size#/104_0500-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-n9PDnnd/0/LKgzMkn4TVXB9J67PwjjKQCtQDF3zTQ5WMSpj3wXV/Ti/104_0500-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-n9PDnnd/0/KWC4RbD6QdxbjCRmPFH539S7MQVDp2hBvWHds6FZm/Th/104_0500-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-n9PDnnd/0/KznJgPdDVD5vwZsc3Xtt3th3zXZbbbQCfjqd8P65q/S/104_0500-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 69591
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-n9PDnnd/0/NW5cBbcKH3w2pVLfMfLgQhvV5zsFmtMDnJn2cCXJQ/M/104_0500-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 148560
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-n9PDnnd/0/MFjwDBPH9g8b8MXdZ3k5dXwbLMfV5XqqXGkchWRG5/L/104_0500-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 243824
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-n9PDnnd/0/MFLWt8mPB7Zd7TVTQPqLfQchSxHRxDGsm9b8Q82sN/XL/104_0500-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-n9PDnnd/0/MVKkMXK4Kvc39ng5QKVGVJd2x2BZVQh56PcmPVdJh/X2/104_0500-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 823481
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-n9PDnnd/0/NcLG5GfC8m78jm39jNMPhBrSWD9qPxzr3fbdpn399/X3/104_0500-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-n9PDnnd/0/L6Fg9rww8vzMPHFK69b8j57rLXK9zkRbPFS8kBfzK/X4/104_0500-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-n9PDnnd/0/NdddWB4MN4S3TP9cTNM5CwhmR85ZVPQrDm7kQjzqg/O/104_0500.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 1512366,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/n9PDnnd-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/n9PDnnd-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0502.JPG",
+      "Date": "2008-04-12T18:13:04+00:00",
+      "Uri": "/api/v2/album/GqsGTT/image/sHLDSGf-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-sHLDSGf/0/#size#/105_0502-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-sHLDSGf/0/MLnFKnNgWsRzPt7hpggDJfTxx7rsdSJnrJ9X8NWzN/Ti/105_0502-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-sHLDSGf/0/MpvvfcrbxvcLKLn5BQWP5g4dWtwfRWwN2HvCLp9hR/Th/105_0502-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-sHLDSGf/0/KfJL7wq72cLjTXfcktHtsh7KdJswwGDr8K3hv2Wgr/S/105_0502-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 51002
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-sHLDSGf/0/Kd4f3wdMzm9JHRzg7HRcBBcc3pkhv9tBd7pFB99cG/M/105_0502-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 109026
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-sHLDSGf/0/MvZpsNCrpmqc22qjcmnh5gbJM75RKQwr7rVLNc36g/L/105_0502-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 180181
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-sHLDSGf/0/MFCB747GjN9vxmGtDzbv8JdsX825MVm3P3NsMXP5N/XL/105_0502-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-sHLDSGf/0/Mf4BrT5bC2LJfW2jTtSbdfTSqWCzRWq8WRbH3Rp56/X2/105_0502-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 659495
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-sHLDSGf/0/K2nwL8ZmJj3McHkwDnvpjJWD795DKvsPZMV2vbkX5/X3/105_0502-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-sHLDSGf/0/LDCfS2Vg9mvRNfBS2XwQ5LkHGNp4bHp7sGXzLWLXv/X4/105_0502-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-sHLDSGf/0/M2rSpfMQXW2jKh8S95q6p7Knq64qJXNFMhgCb4wBb/O/105_0502.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 1216599,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/sHLDSGf-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/sHLDSGf-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0504.JPG",
+      "Date": "2008-04-12T18:13:07+00:00",
+      "Uri": "/api/v2/album/GqsGTT/image/2pnCqQj-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-2pnCqQj/0/#size#/105_0504-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-2pnCqQj/0/MNDkrxxg3jNns9cQkbFz7n9FcSRX86JRzGpxndBJp/Ti/105_0504-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-2pnCqQj/0/LCLKW9GgbHdKmvPFcg6M9GFXTNQptfPNzxcNXwVP2/Th/105_0504-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-2pnCqQj/0/KSMhnJqbW5Qdt2Lc44gqN95g8sMzqp6L4Kg7vzDs5/S/105_0504-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 61359
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-2pnCqQj/0/Mx5dhhwHKXHzZhdHGd535CvRS7xmXz7cTwWSgGz7F/M/105_0504-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 132305
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-2pnCqQj/0/Lzbn2LQscVCG364SB6Pj7h2P22BwthT5SjVBb7sgP/L/105_0504-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 220726
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-2pnCqQj/0/NLM6tNphkDSQ6jKhqbTwgRSBjmQm9482BXqC36wCx/XL/105_0504-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-2pnCqQj/0/Mz9VWGLBfHxvRTjkGGLXNXfJ52nkV2GnF86FR4D6s/X2/105_0504-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 790161
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-2pnCqQj/0/KKM7dtjn3M6j9rcK4nGDRwn4nRskCrTp8QgLJz6nG/X3/105_0504-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-2pnCqQj/0/NcvmGbjdGXcKqXZGnZMGjmHh7fgtCbtb3TZLbRWsG/X4/105_0504-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-2pnCqQj/0/NDnKZ2cPLgm9fWF2gcpFcMF44pH39cBkLfnnhtSDh/O/105_0504.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 1521778,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/2pnCqQj-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/2pnCqQj-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0505.JPG",
+      "Date": "2008-04-12T18:13:10+00:00",
+      "Uri": "/api/v2/album/GqsGTT/image/jxGpsC3-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-jxGpsC3/0/#size#/105_0505-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-jxGpsC3/0/MjLPDKJKphdL6sdZMJcnSTSN6dzWpVHpjxd5WN3TP/Ti/105_0505-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-jxGpsC3/0/NBsSJ46BTgMLzVvcwnRJJDPGnwkM5TNpjtVL43Gwp/Th/105_0505-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-jxGpsC3/0/NCCjncdGQLp9S9PfVjxpzgnWqWv3SZLCK7hKDkTzc/S/105_0505-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 56514
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-jxGpsC3/0/NNqBhBg8dvQ7vc88SbkZTmx598xDpFNXvp3nvZF3w/M/105_0505-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 118860
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-jxGpsC3/0/LwSQb4ftW5dCQB9RVFj8DLZ8XZRMbN6zvnwdCqtzz/L/105_0505-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 195685
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-jxGpsC3/0/L3vQBWHtjDn4SCT2KjLHstq3Tv8Q6HqfG3ZG7PkF7/XL/105_0505-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-jxGpsC3/0/LT2Zdj76Dqd5x5bbH2VmdRQWsZ7BzjjmVgZsV6vMX/X2/105_0505-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 702756
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-jxGpsC3/0/L9WZ664SJjqdLxvZmfGv9SsPGD3vPWzBmMR56HqtM/X3/105_0505-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-jxGpsC3/0/KFNvj33Rb8vqvDXJgNbF8d2ZX7GCZkPh35GmMQZFk/X4/105_0505-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-jxGpsC3/0/KQ2FxDn86cR2x4TKj75qXKzWBzzfkTVDnhqx2X7C2/O/105_0505.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 1323062,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/jxGpsC3-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/jxGpsC3-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0506.JPG",
+      "Date": "2008-04-12T18:13:14+00:00",
+      "Uri": "/api/v2/album/GqsGTT/image/mn3MQQq-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-mn3MQQq/0/#size#/105_0506-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-mn3MQQq/0/Mcj2Jjc9TtktLFFZcDDXJVZmPgjJVH2mpTfqBr47v/Ti/105_0506-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-mn3MQQq/0/LhLZfxzqCvmCBjz9KLXgzV84LxqXcPgwb89mpgG6F/Th/105_0506-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-mn3MQQq/0/MZdD2XBJ8JnRjhK6kJK5twcGwJqh7B6qxNT7GFgd5/S/105_0506-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 67221
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-mn3MQQq/0/LMSL3cnF98NJvJCCnCWvB5MmbTQWVHdQXjWVZTKSX/M/105_0506-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 144798
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-mn3MQQq/0/K8d7GmfcLq2NksdkgtGsh5PTc72Zb5m5WtMkFDVc3/L/105_0506-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 239826
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-mn3MQQq/0/LzdSncCwdT86DjRtRXMqqzzjkqNGKfzm3DZGwBNx8/XL/105_0506-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-mn3MQQq/0/KFm3dW9gfCPDxcKn8FchxmfRRSrsW3gqLtvt9t8KQ/X2/105_0506-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 829195
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-mn3MQQq/0/MKxVv4v9m3W46wvwn2RrNPZ4jWFXL784897c2JKZN/X3/105_0506-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-mn3MQQq/0/LmQT8hC7pSxmzZCTTZ3ZNjmg73qWf46bZC9GWGPfH/X4/105_0506-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-mn3MQQq/0/KvskpXMKbctV4LpwvtTLJn2QVgMRCrBPj9Cm8ZbTF/O/105_0506.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 1582764,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/mn3MQQq-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/mn3MQQq-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0509.JPG",
+      "Date": "2008-04-12T18:13:16+00:00",
+      "Uri": "/api/v2/album/GqsGTT/image/XNGqPKM-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-XNGqPKM/0/#size#/105_0509-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-XNGqPKM/0/MGKzCRN5thGkDBZjChnxvw7vSdc3Smx4q8FPmpsJw/Ti/105_0509-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-XNGqPKM/0/NWJrXpPg937nZ2hGx68sqq7fgtVCTLsXXqB29SbNL/Th/105_0509-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-XNGqPKM/0/KHksJW4ssvcHjs7gCcRs4GvtKT46QTbgGp7MndHH9/S/105_0509-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-XNGqPKM/0/M4NPLNnrfJ8JjfxfCRGqjfmQPB5Nm2nfQGWSNZNkB/M/105_0509-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-XNGqPKM/0/K3Jb9GxsfJhf2XZbRTwbZLsgZb35pZqVMQ45JdSvc/L/105_0509-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-XNGqPKM/0/MmjWCsH9xqGhLQBTsTNF9HHSmhMFT8FTCsG73dmxK/XL/105_0509-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-XNGqPKM/0/LgdZF4XcrctXjdfLgDGjJffMTx7QG9QWXVjZkv3jQ/X2/105_0509-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-XNGqPKM/0/Lzn34fhg28MvvGL3bWWHphNFJHpBTHpK9zNRGLFfs/X3/105_0509-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-XNGqPKM/0/Kp6fCfNxKqKbPHMw3wL2t9qjdfSrKxmvPJZ63gWdc/X4/105_0509-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-XNGqPKM/0/M4d6wFz3TSdDQQj7fM6tHQrJpvrCRj7sbkfQ2g8Dh/O/105_0509.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 1232801,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/XNGqPKM-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/XNGqPKM-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0514.JPG",
+      "Date": "2008-04-12T18:13:20+00:00",
+      "Uri": "/api/v2/album/GqsGTT/image/dcF2F9X-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-dcF2F9X/0/#size#/105_0514-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-dcF2F9X/0/KbWzR8K5MQXsDLdShkvc5VDrTcFkTFjBdzKNpNrRH/Ti/105_0514-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-dcF2F9X/0/MhBL2dKh88Ks46qNH8nwxw3ZdGKVnPGzNpBMKm9Kj/Th/105_0514-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-dcF2F9X/0/M2G6sFKCLbTKk2T5B73pmNPtT6v8H5GdLWrBmF5QL/S/105_0514-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 67246
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-dcF2F9X/0/M86fg7qFspTTHG9Qgf89HsGDjksJrhzW4NWvv77DK/M/105_0514-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 147934
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-dcF2F9X/0/NVWwmnmbvzqPwkRb4ftXgKH3sFDkVLGBRbC2vvM5P/L/105_0514-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 248446
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-dcF2F9X/0/KtvrXbmczWKGzZWZXwh5JPFGcfDjczLvFJprHhThm/XL/105_0514-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-dcF2F9X/0/Kh8LzfSWrrs8FczPm38RjL4KP34dxBbcr63kQrg4g/X2/105_0514-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 961092
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-dcF2F9X/0/NBSdK83bp4WH9NCk38vkrwnqWSNg2664Rk8T8mfqq/X3/105_0514-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-dcF2F9X/0/MjhSqkVT9Pvc6MLPTNZBNQ9mtdHcRDt3LVWCWbKmC/X4/105_0514-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-dcF2F9X/0/LP6pj7sHdPxtpkbbTs65k3nGK3TVGdPN2sTx2B3Pz/O/105_0514.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 766356,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/dcF2F9X-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/dcF2F9X-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0512.JPG",
+      "Date": "2008-04-12T18:13:20+00:00",
+      "Uri": "/api/v2/album/GqsGTT/image/jFMvc5S-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-jFMvc5S/0/#size#/105_0512-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-jFMvc5S/0/LkRnTfhZmcmGVBXQ2LnMJZDwJS9TxZJnLRBsTG2NK/Ti/105_0512-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-jFMvc5S/0/MWQFdXnXB6jD5cWbw7RvrFTth5ns92wkC3LkSBks6/Th/105_0512-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-jFMvc5S/0/KDQP3LMBcgNSmSXGr8fzNXCgX2NGRgLPvwjXzqP2z/S/105_0512-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 61890
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-jFMvc5S/0/MNzd6s7SvV9MfmrhJcKCv45KmRHhzzR3G6NctwmMD/M/105_0512-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 136659
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-jFMvc5S/0/LVGj29TxwV4mVbwwqMB4gRQK8fcPmkNWCk2nB45fH/L/105_0512-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 229596
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-jFMvc5S/0/KKK6DCs6w2d3XLL8rKgtvMVR3wBKCn7k9TCjxQKSw/XL/105_0512-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-jFMvc5S/0/LmfPQRMmKVbRg76wscBhWb3Dj945PPmPPNfKLctcL/X2/105_0512-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 800483
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-jFMvc5S/0/K3w4GbhV863vSfmfqVhNNvWjpsm5VcHS8sPjqtsvc/X3/105_0512-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-jFMvc5S/0/LvRwTR6mMchmbnR9fKDhGvtvCqZxCNP4RrgPT9nsL/X4/105_0512-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-jFMvc5S/0/KqnhK54fNW4rhTCP9P5w4Lp4DcK3vCDJ4vVQzZGWb/O/105_0512.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 1576824,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/jFMvc5S-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/jFMvc5S-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0519.JPG",
+      "Date": "2008-04-12T18:13:26+00:00",
+      "Uri": "/api/v2/album/GqsGTT/image/27SbPnD-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-27SbPnD/0/#size#/105_0519-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-27SbPnD/0/M6Kpb3Tk9QzftzGHxKDcpLkFFbjp55f78WH98ZBvM/Ti/105_0519-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-27SbPnD/0/Lgk4pHCz22j5xKjN7Lc5JddXBtzkHMRtTDgW6cvpS/Th/105_0519-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-27SbPnD/0/NGddxGtLTXVLdX6sQbvqcmmLbpmDFtZsF4WXn5GN9/S/105_0519-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 57780
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-27SbPnD/0/LPxcXNVpcCqZkc89ZQk5XwjC8D9NGzMS94ZTXrFRf/M/105_0519-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 124438
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-27SbPnD/0/Mq6BsBM82PVCdhX2tnbSTSBBZqW5LNfWsxBQbBbFG/L/105_0519-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 206364
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-27SbPnD/0/KXJ32V4LcRsTsgMcS7Nw9W4BVT9Bpc2RmSGjNzcPs/XL/105_0519-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-27SbPnD/0/KqQRvcTvcqLt9Zz7bzBfPptsFtsH3vr6P8B7W5dbR/X2/105_0519-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 736306
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-27SbPnD/0/LFpGhMX6TvPQcWzQ97dLMHh5jFP5mkSnWnqNghQHL/X3/105_0519-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-27SbPnD/0/MhBBjvGTbc8LgG5SnfNxZmstsL8DZWDn69CRvv6Dx/X4/105_0519-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-27SbPnD/0/NhPrN78J4x2RwGPgLRn9bsVr2Ff6WtVVg6wTnpJJg/O/105_0519.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 1364984,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/27SbPnD-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/27SbPnD-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0517.JPG",
+      "Date": "2008-04-12T18:13:26+00:00",
+      "Uri": "/api/v2/album/GqsGTT/image/d6WbPpq-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-d6WbPpq/0/#size#/105_0517-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-d6WbPpq/0/MhZtGsDbKQfZDrjJBGdPQRNJJBKsHSHwVZvtswFcS/Ti/105_0517-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-d6WbPpq/0/NT66vvPfgcwPW2QMBhQRQQ9gfJrLNH6zp95kWGzfV/Th/105_0517-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-d6WbPpq/0/Lq7bgbXk9Pb4KTg4DfpBvgLqpjMF7287hnqcLFB3G/S/105_0517-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 55600
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-d6WbPpq/0/LtFTNQXBzRhcBHqrrnhkBxkrhr2BVk74HJ5VQVpP2/M/105_0517-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 119909
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-d6WbPpq/0/NgNQccLqXJZJJbJ4DtKWBpvnRMnGMvxCxGVh3FPgf/L/105_0517-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 200525
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-d6WbPpq/0/KRSVN2nCRVNJDCWfs353QXcj7ptj6HwGJHWbh3kqH/XL/105_0517-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-d6WbPpq/0/KM6X8tF2FGkNpwSbqq45nmghL9VRqjhndV65Z8jXR/X2/105_0517-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 740479
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-d6WbPpq/0/MJNcNCvrJTgbjKp8GgtCNpJbhZJb5J4rj8pq9nZjW/X3/105_0517-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-d6WbPpq/0/LZnqzjghQGFp5BtXmNHrdvjSr7ZkzS6sGkShJzHbb/X4/105_0517-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-d6WbPpq/0/LXQsBVpf32tJJTjjdnv5jTTdw5bBNnp75hXqFwPxC/O/105_0517.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 1433142,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/d6WbPpq-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/d6WbPpq-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0521.JPG",
+      "Date": "2008-04-12T18:13:32+00:00",
+      "Uri": "/api/v2/album/GqsGTT/image/qNLXRPp-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-qNLXRPp/0/#size#/105_0521-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-qNLXRPp/0/NPSzTtK6vp4SgWksb95GJ6wwkjsFbx9gBtZ9tBcC2/Ti/105_0521-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-qNLXRPp/0/MJtDDkqBXQDGt74RzfXKvKDjGRPJPLc9DQF6kB4P2/Th/105_0521-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-qNLXRPp/0/KvfnJDvQrSzGGWvPx8KkQTjxzhL7snmcq8VG6tMv8/S/105_0521-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 44303
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-qNLXRPp/0/Kqnm76zM62dNpqZLbtNQR9trbhvXFGv9F5H58Tffn/M/105_0521-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 92223
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-qNLXRPp/0/KfbXH89f2WkSVkgRZSvWLzSf4tWtbsnxJ7SLv9N6J/L/105_0521-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 151587
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-qNLXRPp/0/LQ48s9dvMMH9pt9RT9xKm7XdbDt6Qqqj2V7SxmNTp/XL/105_0521-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 242568
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-qNLXRPp/0/LCkpwFTJPZLmWCZXRJVzVhBdN8kxjnJnbfHv6qcH5/X2/105_0521-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 576766
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-qNLXRPp/0/Kvggfckd4mSCM6cq5hcKv8nXxSSjNm9WFrXD7X3qW/X3/105_0521-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-qNLXRPp/0/KrWpDndhV6bqMSL4pMxHxzgcwxpqBrVQw8zNdS3Kx/X4/105_0521-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-qNLXRPp/0/MFzt93QLVnxhg3DHs4HQHfRn6TDZp5XfRtv39V6Cs/O/105_0521.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 1057281,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/qNLXRPp-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/qNLXRPp-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0525.JPG",
+      "Date": "2008-04-12T18:13:32+00:00",
+      "Uri": "/api/v2/album/GqsGTT/image/rWd6jNC-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-rWd6jNC/0/#size#/105_0525-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-rWd6jNC/0/MTSTz4mcqx4ZL7fzf2VXgmV8vP6vqmmVjBbXCN5Xm/Ti/105_0525-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-rWd6jNC/0/KdV8SmqHMbHr66c8fZgjgfCFS2DSJbRWFgRNj3N2j/Th/105_0525-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-rWd6jNC/0/KMV6SJWWHH74fJ39zwbN4xmJKhwvc2ZtT4S4mV4Xd/S/105_0525-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 62864
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-rWd6jNC/0/MpBBQXSVxjBrbVS7VXWTHG35V8nzjDpMFNPK56XQK/M/105_0525-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 130609
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-rWd6jNC/0/MVJBVxK48Lghfs4ZPDMRNQZ3HFCzXKZvVfVcgDcGh/L/105_0525-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 211362
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-rWd6jNC/0/NT8rRWkkFgWGc5K5sPwbmRSZCv9hbj35Jc5rtcmD2/XL/105_0525-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-rWd6jNC/0/KptF7v9dfBqf7VhDR7BtHGkHV2QcgVs7ncg7FcNmc/X2/105_0525-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 718439
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-rWd6jNC/0/MhcKjnxZfqJ28DhwRBGPVTH4ZRBggMCz845tDw2dZ/X3/105_0525-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-rWd6jNC/0/KQcgzpmBcLSKSpzwzgkZMrV6qmWNNwLSm9RR64Pgk/X4/105_0525-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-rWd6jNC/0/L5mvbbVQnnzpMrJrxmPTdX2vRMDCB4ftMsTCMHStM/O/105_0525.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 1279882,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/rWd6jNC-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/rWd6jNC-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0531.JPG",
+      "Date": "2008-04-12T18:13:37+00:00",
+      "Uri": "/api/v2/album/GqsGTT/image/GX3QBhB-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-GX3QBhB/0/#size#/105_0531-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-GX3QBhB/0/MP9nbKbNwjSB7B8rgb92CSTZb9d8Vgb2gPS48rDkr/Ti/105_0531-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-GX3QBhB/0/NZbM2dfZnD2Pbk89ncPM4QZFhWhCwcK4SRbFqjPsB/Th/105_0531-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-GX3QBhB/0/NMKxQN4mFsTZpWdRtFV7tRmBdTX9KN5QFW9QswVZm/S/105_0531-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 57157
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-GX3QBhB/0/MVfHK6bMb6rVXzcmkQDJ5ZKFdHkFdxqs9N9LQ44jP/M/105_0531-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 115653
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-GX3QBhB/0/MbvgLGW7LbgqkMwphC29BQvDP4zQgpwWC3CWtnsSd/L/105_0531-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 184785
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-GX3QBhB/0/L4LFNvdf5R238Zk2D7zZLGqdN3BWfL8Wn7TScwMvX/XL/105_0531-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-GX3QBhB/0/MGgzT56W2mPvxv39nKRfTjjpJSBPdzrLz5Q9QBmVK/X2/105_0531-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 628767
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-GX3QBhB/0/MTNLQW5hmmGJWd3ffCDSWb2Gq9Rjxx9PF94fhQZzx/X3/105_0531-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-GX3QBhB/0/NSJKfhQR92DkBcCz9jgVxBfZrSvSNRFk6M52WrTJp/X4/105_0531-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-GX3QBhB/0/NG2nZkHFLvKFvf8kGjK3nm5WHGXt8tkwDHXtQqH9D/O/105_0531.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 1104433,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/GX3QBhB-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/GX3QBhB-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0532.JPG",
+      "Date": "2008-04-12T18:13:37+00:00",
+      "Uri": "/api/v2/album/GqsGTT/image/48LRfWG-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-48LRfWG/0/#size#/105_0532-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-48LRfWG/0/MRQbc9qF9f2VHpXttszvCtp5qv6XH22tqB4WWqVx2/Ti/105_0532-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-48LRfWG/0/KnrgqqWm6SzCcQ25H3qvV6wRKmrJfJfsq9cTJzr63/Th/105_0532-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-48LRfWG/0/M27PbSQQSsz5r4HxzKqhrtXTQDM4X8czvNMQdz7PL/S/105_0532-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 46574
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-48LRfWG/0/KP5s9nKT4cMDtm43ZR8pPV3Kqcv8Lc99pPg7mp7kX/M/105_0532-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 94310
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-48LRfWG/0/NHnzkd8wBtbtX6kqfznqPxQsHxTz33kZpBWQp8ZPQ/L/105_0532-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 152972
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-48LRfWG/0/MFXtzbgz2wF44kQzdvJp7gRhPbbL4MCjDw2k3PTH9/XL/105_0532-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-48LRfWG/0/KrkjwNT8vs7JgGKWQJSCdKTZ93DQt69kCQ7zrd2Mb/X2/105_0532-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 556603
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-48LRfWG/0/LpnBqsgBrNsVHJ7wj9MtxkhbCQfhFZxzGd663B8rB/X3/105_0532-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-48LRfWG/0/MmCdnFvpmbbv7k3BxKX8GjrxCqRSxwzpDTg4ngXkr/X4/105_0532-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-48LRfWG/0/M7B8vSdnwvbx6ZQJ9RX2gZCscTnLbZrGmLnGW2SHs/O/105_0532.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 985966,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/48LRfWG-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/48LRfWG-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0534.JPG",
+      "Date": "2008-04-12T18:13:42+00:00",
+      "Uri": "/api/v2/album/GqsGTT/image/Zv5CNzg-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-Zv5CNzg/0/#size#/105_0534-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-Zv5CNzg/0/MTbTHvp9fgxRb9gHJkGTSHngV2hsZKCcxHRdmM3Rp/Ti/105_0534-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-Zv5CNzg/0/MHjtdz7ZqBdtw2L787vwXF45qzNpqfn7WjFwjqVKQ/Th/105_0534-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-Zv5CNzg/0/MdcmCvhhdF4gbqWx85JgCxsVbjPsfvZXJbbqs2MXQ/S/105_0534-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 48626
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-Zv5CNzg/0/KtBL2H4Pthm6tMGZkZJGMN4sNKfdKwP6F4ZNnPxSZ/M/105_0534-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 99765
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-Zv5CNzg/0/KzRVCwFSCrSP84kqBP6mN4Q2PmxdM3Pz5xMzrqDW3/L/105_0534-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 161845
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-Zv5CNzg/0/NVRHK567vKnz2RFRqwxNB764HdXNKfW7Fnn8DPJTq/XL/105_0534-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 256491
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-Zv5CNzg/0/LkHx68V58cF2CTZjhgVXBNk3gtkgGtXxTQgPqPLnC/X2/105_0534-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 602305
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-Zv5CNzg/0/NjkshwNB5vLjQ85KS29WFwmg2djwQjKtKBm3HrGKm/X3/105_0534-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-Zv5CNzg/0/MDzw4Rd9GWMDvrfNSnmkmdT7TWjnNxjKXPVdh6hxn/X4/105_0534-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-Zv5CNzg/0/NBpnw2CGmNj663wCK3t9KK7hNfggpJx8cFkRH6Cq2/O/105_0534.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 1104481,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Zv5CNzg-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Zv5CNzg-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0533.JPG",
+      "Date": "2008-04-12T18:13:42+00:00",
+      "Uri": "/api/v2/album/GqsGTT/image/J6rtgJZ-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-J6rtgJZ/0/#size#/105_0533-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-J6rtgJZ/0/KzcG8C9GZCzFWHHcQzqzHgBvW26mxcJ3jvM3s7DsM/Ti/105_0533-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-J6rtgJZ/0/Kk9RxvS2n7jkPP7ZW7vzfmS2cm37C6fVkTkFZcmnD/Th/105_0533-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-J6rtgJZ/0/LXp9bSFzkjg9xgspqQDCxF9hW7ZCkXVbjdtJgSHnB/S/105_0533-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 48937
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-J6rtgJZ/0/NfXBXD7FNZMP7Fh7Hwtnfpmj7XmPQBmDX4qqSSVXL/M/105_0533-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 98282
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-J6rtgJZ/0/NFkvPCcpcT8Xr9jRKMSzZCsbjnzSr6k63SrD7ZBQh/L/105_0533-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 156972
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-J6rtgJZ/0/L2txXffkxvcwvR2KHLk43kngt2mnLPHHxSdxpNBnP/XL/105_0533-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-J6rtgJZ/0/ND64ZJzqZJW6xC8W8WPpjHK34Hx4w97wTgxDkh4dN/X2/105_0533-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 549484
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-J6rtgJZ/0/KzR4xrZGL9vCqSC366Xg5Nrq8KszCN5r8M7LPc3Hj/X3/105_0533-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-J6rtgJZ/0/MxFSrNz52CHR8hdfTTMH6WJBMXrQwV2vN5WNXX3q9/X4/105_0533-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-J6rtgJZ/0/NdQ3KMx9G9fNV9LHQqNM9rHgzGDrQF3wk3jp9pD9L/O/105_0533.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 964206,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/J6rtgJZ-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/J6rtgJZ-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0538.JPG",
+      "Date": "2008-04-12T18:13:48+00:00",
+      "Uri": "/api/v2/album/GqsGTT/image/3tBMPLD-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-3tBMPLD/0/#size#/105_0538-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-3tBMPLD/0/M87q8w46qHCWkg4sZPhr9FRTTd5K3dWXM3hDKt4M3/Ti/105_0538-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-3tBMPLD/0/K9V94Mz32TrWm7XNs8t4Z8dL2gN9nRdhZnbVRJkQr/Th/105_0538-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-3tBMPLD/0/M6WXVGzw4HTvtxKpSznJNFCv8v8RDT4r8GmLFZdfx/S/105_0538-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 50646
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-3tBMPLD/0/MSqGr9kgLWdwTjZ9s7q8b6s6tFz8DvGRWkWzfqcQB/M/105_0538-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 106245
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-3tBMPLD/0/L5ZbCX3zqfK25jWN76kZ7H8sm75NdXVsgNvmwXBGc/L/105_0538-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 175787
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-3tBMPLD/0/Lkpjkpxmq539LQ29qjsQJQQ2fLWqMN8vXHbwJ3pG9/XL/105_0538-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-3tBMPLD/0/MVvqVt4PGQvzCCHZ75kcc7d55fjhnWVZt4tHXJxQc/X2/105_0538-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 649932
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-3tBMPLD/0/K53BZgwJNpg8ZtVNwWqLfkH7vm8SCjQGwwf4s2RKJ/X3/105_0538-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-3tBMPLD/0/LVLdXQ3shNKMHZdxczXC47s4nQgKrFnHDSTmpMsRf/X4/105_0538-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-3tBMPLD/0/Mtd9vSNhg6TR57sjVWSMrmN2H6X7K6dnX2Rks53Wn/O/105_0538.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 1203226,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/3tBMPLD-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/3tBMPLD-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0539.JPG",
+      "Date": "2008-04-12T18:13:52+00:00",
+      "Uri": "/api/v2/album/GqsGTT/image/39W3KcM-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-39W3KcM/0/#size#/105_0539-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-39W3KcM/0/MRpXv49M6LW34p9q5d8CVmzQn98fW4Vftr3p3Rxm9/Ti/105_0539-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-39W3KcM/0/LWzVXxVrMpJ4JSCWmLbPPGXMxw3CDrQ4sw2z6G4hZ/Th/105_0539-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-39W3KcM/0/Mb26sfGvhpQFXfn9HZCzf8mGfJJDTFBzMGt79dfRC/S/105_0539-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 53166
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-39W3KcM/0/Mtx6LQcgqZLPfz75VFb39qwwrRGv8cLDzzRSncLFf/M/105_0539-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 112573
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-39W3KcM/0/NWVhXrXBgX54mwwK9FhCSMZkH6MxjzfvPQNv4bmGM/L/105_0539-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 185424
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-39W3KcM/0/K8hpKQt9FKPctsJ6MBbx3sZcqBvnBCgjdv2Qdq8bH/XL/105_0539-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 296276
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-39W3KcM/0/KpBndv4cFbV2HVRLfbKf34sxkNxwfgFhz2cR4xDKd/X2/105_0539-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 675363
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-39W3KcM/0/MmkmCzF6kwG6gB8NgnXGXMN9gx6QZdbJCgQ4bqM53/X3/105_0539-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-39W3KcM/0/KMCNVz46KmmVVKRVjSHbQtD9fQmnFnk4QZ92ZLsgz/X4/105_0539-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-39W3KcM/0/M2XjW8Kb2M5p37hkvJCBkRprrtmkVPxwdhmKvXqD8/O/105_0539.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 1242074,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/39W3KcM-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/39W3KcM-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0543.JPG",
+      "Date": "2008-04-12T18:13:54+00:00",
+      "Uri": "/api/v2/album/GqsGTT/image/cW8pfBx-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-cW8pfBx/0/#size#/105_0543-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-cW8pfBx/0/KtHVFhqVPSFMh4zTS6tVFKvJvsbf2jFSNrL9r5Rvn/Ti/105_0543-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-cW8pfBx/0/Lj5h3VJxDVXKBdmXsMfQpBScN3Vfw6kbLv9mVLhQK/Th/105_0543-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-cW8pfBx/0/KTj9R59Wz59kN6gmRtS4MRNMHdRWCtLmSxhBmSrKs/S/105_0543-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 42956
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-cW8pfBx/0/LCWcjxhVWwtVhn6xJMFQ3TNvbMDN63TPZdxqgHC8k/M/105_0543-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 92901
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-cW8pfBx/0/KGhj2XSTHM8cDXkrSrVs6J9xnjWfGbcgLqqXrhqL9/L/105_0543-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 156766
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-cW8pfBx/0/KbDkrnQ7FgqnL3p2w36sNfmBNvkV3Z4KMjmbbFZPN/XL/105_0543-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-cW8pfBx/0/LLf9b3wJd8DsmKFQzCfnb7s4fW76Hv8WWb65s4FKX/X2/105_0543-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 614283
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-cW8pfBx/0/LB3QmXJF8LQ9VfR2z58XWGWnssKGsKxrnSzWZwhs6/X3/105_0543-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-cW8pfBx/0/KHxWZdMsbJHFWXN92tFn5NNqKdNzZDDDB8FxhqvZ5/X4/105_0543-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-cW8pfBx/0/MGKnbVsP7Q23RkcJJrj4XZLq8LwcpjmfWgwvXvK3V/O/105_0543.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 1157499,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/cW8pfBx-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/cW8pfBx-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0547.JPG",
+      "Date": "2008-04-12T18:13:58+00:00",
+      "Uri": "/api/v2/album/GqsGTT/image/L6dN2Mf-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-L6dN2Mf/0/#size#/105_0547-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-L6dN2Mf/0/LpZmGJBQP7K3QPrzdpknsSrgJcLCPwNJcgFNHhgC8/Ti/105_0547-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-L6dN2Mf/0/M632xZXsWWBVN8pTJ6pNWJPDGqJvFfGGGqBQkpVW2/Th/105_0547-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-L6dN2Mf/0/M5vJRN7KtKCCVZL9qwjw8wb9XXCptGnSGTqTq9Gv9/S/105_0547-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 56728
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-L6dN2Mf/0/NDhHRrXmT4dHW45TSQmbd8QzRfhFCgGHwnw8qRhNX/M/105_0547-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 118065
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-L6dN2Mf/0/MZB5Qgmkhsc2R58wRGdD62hjJZd8kRZwbbkLPF5tg/L/105_0547-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 193277
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-L6dN2Mf/0/MD6WpPLqf94zXNHPF87MR8bxt2pP9cwJTGRVxfSBm/XL/105_0547-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-L6dN2Mf/0/L2hcmtf8d8WMKwb8DbwbPvvQN9vxrwC4SqvTd2Wp5/X2/105_0547-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 684184
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-L6dN2Mf/0/LKLMXs4PJzBFg2Zrz7d5VG5x7CJcJpHxMZsd2L6f6/X3/105_0547-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-L6dN2Mf/0/LwRnnt2wm8VmnCntkfwHmKktntWqMFx9Xw7tt53rc/X4/105_0547-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-L6dN2Mf/0/NbZKm9RRRkn2TnpG3khtZXGNnxNJX7cHDfpfkMJWM/O/105_0547.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 1254710,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/L6dN2Mf-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/L6dN2Mf-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0550.JPG",
+      "Date": "2008-04-12T18:14:00+00:00",
+      "Uri": "/api/v2/album/GqsGTT/image/CTVbhrv-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-CTVbhrv/0/#size#/105_0550-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-CTVbhrv/0/KVJQfRNJ4ZxXCkmsRX8wJdtVbjKD5TGGdxT9nsjdj/Ti/105_0550-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-CTVbhrv/0/MqSHJsT7hXkjvwFPwM2BX5p28zwH7ZBvcLMnb32VT/Th/105_0550-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-CTVbhrv/0/Knpw2q44rLTvqVJkmmTSLnbQKcWhhkXKhJHg5fPHz/S/105_0550-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 49506
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-CTVbhrv/0/NZDskhXCvdGbsCHMNnzxbHGbGJ2Pp8Mhq85KrBPct/M/105_0550-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 105817
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-CTVbhrv/0/Lh3fMQWpBvw2KFQ8B5FtxXVt8kZtzhqJCV6JWV8Bj/L/105_0550-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 176872
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-CTVbhrv/0/LMx2QKt7NQzmVmLwMwD5xqzzkp7Fzm3n5J2sKz7dk/XL/105_0550-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-CTVbhrv/0/MdgJ4NQp5rMbTT6tD6LKRqmWj8QK7kD272c8bXKNx/X2/105_0550-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 668284
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-CTVbhrv/0/MzWbPccZmms2wVQ4DrdHFw5znxPnZ7T3cf5QFG6zW/X3/105_0550-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-CTVbhrv/0/KgKvpnDs5KKVwhQSZcCnnDDpTnF98tTMrNc7vrHB6/X4/105_0550-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-CTVbhrv/0/KbXJhPqzr57s2B76cKSVh4rXqtrvpd7sC4KSSdMws/O/105_0550.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 1258725,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/CTVbhrv-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/CTVbhrv-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0552.JPG",
+      "Date": "2008-04-12T18:14:05+00:00",
+      "Uri": "/api/v2/album/GqsGTT/image/m5BjWjr-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-m5BjWjr/0/#size#/105_0552-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-m5BjWjr/0/KL5wDTvvQ7NRGTQjgwpWNgkz52KVFkPpdRCL6bz9w/Ti/105_0552-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-m5BjWjr/0/MSdPKKzCjHjvpZNB8XTVpNSkXBZgxFQSxTRfctLm9/Th/105_0552-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-m5BjWjr/0/Kr7Z2ddHgN2K8Xzn9f89PJFfX6ftrFWXHJQ5sH9hG/S/105_0552-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 52710
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-m5BjWjr/0/NZFDJV5vdxHTGR8qJ6nrK7SwtGkVL35Wfq9fFNV69/M/105_0552-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 112068
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-m5BjWjr/0/MDhKvCprG54fBx5PZLFZxSgRgqhZsGNLMzBc7GnGQ/L/105_0552-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 186466
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-m5BjWjr/0/MfnXdZ4QRPVHs5Ph5H4FR6nnPpbGBZGh27xck6QkX/XL/105_0552-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-m5BjWjr/0/MS6LPvH6wXXLPJ5wvqrqdvCF62J63pZNgSxS4XCLT/X2/105_0552-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 685281
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-m5BjWjr/0/KzZpMjG8KqJNpV9q778SCJN9xKcRtxDZVsWNtgvJx/X3/105_0552-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-m5BjWjr/0/KJXGRGvvncq2wxdbLG5gQWwLCmm9jXVtFXW5NM6nq/X4/105_0552-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-m5BjWjr/0/LSRws3qPvsbQqb2FHsDNhrFDKWBF6B49TRLnXSsGd/O/105_0552.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 1297653,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/m5BjWjr-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/m5BjWjr-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0554.JPG",
+      "Date": "2008-04-12T18:14:07+00:00",
+      "Uri": "/api/v2/album/GqsGTT/image/DpQXXcj-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-DpQXXcj/0/#size#/105_0554-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-DpQXXcj/0/K9zPWS2VqBgsjXQL36Ghtkg2SKMFGPbnS4MXL7Hwh/Ti/105_0554-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-DpQXXcj/0/L9zk5VPKm7RTmdcR52CCh4Hzn34Hrkm8rM2xZdwm3/Th/105_0554-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-DpQXXcj/0/M4z4qNGdbLJWC2W2XgqZFZcKT9v3sLzKjX2QcFmq8/S/105_0554-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 51165
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-DpQXXcj/0/KMMZB4vzvwDCWW5gZMC63S7z4KTkdLqPMVcfJ9CK2/M/105_0554-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 115859
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-DpQXXcj/0/KFPg9d6ph4jhkStVkWcPJ3Zt4MLXpkJ4mtZZxW4zQ/L/105_0554-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 203529
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-DpQXXcj/0/MFTkrL3PCVB7TLwhPs5xqtFjTh6fDTsrKsHwJkSsq/XL/105_0554-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 549671
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-DpQXXcj/0/KwLHcKFPnBbTZdcQM6tVmN7stzhdG8sbjN6HRPzh3/X2/105_0554-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 828832
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-DpQXXcj/0/MJksJBD2Ss3VtTNxzTvtSM9PdP6JwZCCpcMxh3Vt5/X3/105_0554-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-DpQXXcj/0/KHKFh92xjMmTSGrsrTMBzrG9LHxnJHjq8Zf4vB4h9/X4/105_0554-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-DpQXXcj/0/Mw2RncrpPPg9zmZz3L6WqtfLrzkB4MN6vvgjQmzQB/O/105_0554.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 1613114,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/DpQXXcj-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/DpQXXcj-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0557.JPG",
+      "Date": "2008-04-12T18:14:14+00:00",
+      "Uri": "/api/v2/album/GqsGTT/image/6T7GD6R-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-6T7GD6R/0/#size#/105_0557-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-6T7GD6R/0/MMXKc3L5jCdNT4VX55TRfMS7rV3TbPDdrHTM7Jw78/Ti/105_0557-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-6T7GD6R/0/K37tFwBHN4SX94Q6VmfHr3NCVh5sHt6qrSWHFsfRs/Th/105_0557-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-6T7GD6R/0/LPzRTn9zCHg79wZ4LzLWXFF3r2s63W4NWpNKRHCQZ/S/105_0557-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 49394
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-6T7GD6R/0/MSZF2qcvTdtmzxJfvRMjznjXmvbJRdX4BDFS7HVTv/M/105_0557-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 107506
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-6T7GD6R/0/LbFNvBqqMW6fhc7w3Pb78H8L5hS8d6JGKsVftsKQs/L/105_0557-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 181683
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-6T7GD6R/0/KQSMkWRsCXTx6htHktrqPSbX2vX3NH2rpnDcncfFQ/XL/105_0557-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-6T7GD6R/0/MvznBX4sF9M2dSck49nhMb522wP8kQSD9dRVdTvKq/X2/105_0557-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 693280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-6T7GD6R/0/NSw78L45GkFT9wMkwK324jGDWnvnp3p7TxmM3KpGC/X3/105_0557-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-6T7GD6R/0/MbWLmPfpdQPSr8W3rHVXWWVVJnvz7KsTdVkPMRhgb/X4/105_0557-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-6T7GD6R/0/LmCZ5xKNHKD2SgT8RbFdJGchnbWQjjrSMzMhqNvhw/O/105_0557.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 1330509,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/6T7GD6R-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/6T7GD6R-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0562.JPG",
+      "Date": "2008-04-12T18:14:14+00:00",
+      "Uri": "/api/v2/album/GqsGTT/image/jsWDwhn-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-jsWDwhn/0/#size#/105_0562-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-jsWDwhn/0/Khpfb2sMMpPQwCHDz9dDJgcbMVQcZGFCKxXD2MRSv/Ti/105_0562-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-jsWDwhn/0/KWHdmW8f529zfSDKFV72brjWVZGMscmx9qWdZjPBb/Th/105_0562-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-jsWDwhn/0/M4xCbFQ9KLmqZ6wJBj7hKHt3DrtNMvzh4GqdJX47V/S/105_0562-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 53377
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-jsWDwhn/0/M2S9H83fMMqmvwbWrNkZWgsPRbzQfz5txcDhfQRNB/M/105_0562-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 107856
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-jsWDwhn/0/Kg7XnDbmWgN8PHfvF5L4fdCQ3KGWtdx22QNqmL58c/L/105_0562-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 173829
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-jsWDwhn/0/K8RbwpFDWTKpLf5q9CkTzSHw5b27pND3cMzMtH9nC/XL/105_0562-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-jsWDwhn/0/Nhp2fTJtDn4vw9wQXjhk8tLTccMJRwdzhTWsMHB5N/X2/105_0562-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 600178
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-jsWDwhn/0/MtCCCRP8pkbFKcNPP582MKJzfb6jfhqJP5HvxXfKf/X3/105_0562-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-jsWDwhn/0/NXrVC9dbG75QzMxWHjh5NTnhk54z8QjXvjXQpLmJ2/X4/105_0562-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-jsWDwhn/0/LNq7H7XVMzR6PVf8w68D2F5RZVkzBxGh8GbPfWw5K/O/105_0562.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 1065697,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/jsWDwhn-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/jsWDwhn-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0564.JPG",
+      "Date": "2008-04-12T18:14:20+00:00",
+      "Uri": "/api/v2/album/GqsGTT/image/cmMfjj3-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-cmMfjj3/0/#size#/105_0564-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-cmMfjj3/0/LWKJ7ZXC34sQ8KS65Rr8kbMXzK9j4dTMbQH7DhcCG/Ti/105_0564-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-cmMfjj3/0/KZjRxkCrCC7FPQCtFMwXc8pJZb6DLjZRHBzRmxx76/Th/105_0564-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-cmMfjj3/0/M9bLhDMjmNBKmf68jHJqrWNVVBkx2rN8mGK42VRMv/S/105_0564-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 63190
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-cmMfjj3/0/NLz2QDsJMkZTstzt26mvzNDDX8M6qbhJmLWSjqzTc/M/105_0564-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 129460
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-cmMfjj3/0/MsWFWDWmHFLS4dp4jsmdWSRLrcKQXn7zXjrQKmjfg/L/105_0564-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 206828
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-cmMfjj3/0/LPcpg7JVsfKpSRpXnVFGfxg84gKvnN9Q2shcvqmP5/XL/105_0564-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-cmMfjj3/0/MmCTfnvLmFsVkjdjn6pP4TJPCkd6r9XpMrLwbfkj2/X2/105_0564-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 676172
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-cmMfjj3/0/LQjJKvxCVDfZq3cVjbTJg533GHXKcPw7MSRKZhh8N/X3/105_0564-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-cmMfjj3/0/MMQVm7bLm68Rw9f2B6gSqZvr6TMx68DdJRbqMvcfX/X4/105_0564-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-cmMfjj3/0/Kfb9HmLVNq9Ws4fPNcHVf7QRtSmdrw9s8F5VbBNkv/O/105_0564.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 1183537,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/cmMfjj3-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/cmMfjj3-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0566.JPG",
+      "Date": "2008-04-12T18:14:23+00:00",
+      "Uri": "/api/v2/album/GqsGTT/image/qMH2dwh-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-qMH2dwh/0/#size#/105_0566-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-qMH2dwh/0/Mbb3KPFXBFDkjDrDdPd7WnTF3ppQFPW26BZXqfvtw/Ti/105_0566-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-qMH2dwh/0/MJt5m86gdT9D7jqs7mHBxd2d27w285S4mkVDbsZhJ/Th/105_0566-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-qMH2dwh/0/MXsD6KHgNt8vxHP4LxJXHhq7BJdQrGSntj7t6ctKB/S/105_0566-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 91592
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-qMH2dwh/0/LZvKWRcGDFFbQ4tCPxrDxRdNSt8qhb3rqwDndkZmr/M/105_0566-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 197418
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-qMH2dwh/0/MFpgdbdhzRLJPc9xH8ZfFGBkdMBqsRDMsprC4QkgZ/L/105_0566-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 329224
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-qMH2dwh/0/MZxGQ3RjW42sPVprDR63KnjBVXDdRR5qNZfVmXBpz/XL/105_0566-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-qMH2dwh/0/LnTxG9F7kGmhZ2sjqZkg9WGgjP9pWmTFQDfJt2h7T/X2/105_0566-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 1071285
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-qMH2dwh/0/M2fn945XBWfWHNX48rd4Wrdp998sNp5Mr3gr6ckVG/X3/105_0566-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-qMH2dwh/0/LFbdmDZ8c8HkFFKmGqHQn8JQSpvWTkjp5L4T9KJ9n/X4/105_0566-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-qMH2dwh/0/NSmqwL3jj9jZZGd4Fm7KZBRpDjp3TVMwMw94jL4r2/O/105_0566.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 2197056,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/qMH2dwh-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/qMH2dwh-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0568.JPG",
+      "Date": "2008-04-12T18:14:26+00:00",
+      "Uri": "/api/v2/album/GqsGTT/image/6zSsCqp-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-6zSsCqp/0/#size#/105_0568-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-6zSsCqp/0/NRttfJDNvQXrC2QCQsRwpwK3ngN2ztbf37TDs48wj/Ti/105_0568-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-6zSsCqp/0/LdQ5bZmgbrqqKPBVxwpBDGsCFft3GLqHhNzgQ3vKt/Th/105_0568-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-6zSsCqp/0/MqB9GczjMVF8wwSpRbSd5WsZ2hL5bqPM8B52L7MjD/S/105_0568-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 84800
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-6zSsCqp/0/KFMkqv2cxmM2md2bwf5RQ2RJCvjBBrpkpMvZCmHdF/M/105_0568-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 181367
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-6zSsCqp/0/MN89txM8fc9QLbc8fG26Rq8S8P89BCnThQhhLqjqF/L/105_0568-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 299398
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-6zSsCqp/0/NBgdm4gNvLCRDf8gh3gHcJC4D5dCSKFgQR2SfKdr2/XL/105_0568-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-6zSsCqp/0/LHRPT4fxvJDJFtjtvdNf7ZhxDMH8cGWwzr3bVbfnr/X2/105_0568-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 975274
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-6zSsCqp/0/MgkXffvcb4XptqscCBMFQ7wj3J8WDvB2DK3FX7JT9/X3/105_0568-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-6zSsCqp/0/NbGQtVXgvNqg4ppWxrMhH2wqLtFhV2RCPfnKr92mG/X4/105_0568-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-6zSsCqp/0/MSs7Sdr4X6NMSwfZD793znVhbMdwc7SLP8krq47kq/O/105_0568.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 1919056,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/6zSsCqp-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/6zSsCqp-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0580.JPG",
+      "Date": "2008-04-12T18:14:31+00:00",
+      "Uri": "/api/v2/album/GqsGTT/image/F7Jxw3p-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-F7Jxw3p/0/#size#/105_0580-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-F7Jxw3p/0/L9JzQhWJtBVTZ4VgVp3FPzDBpMPXhnRNDRvWx72zr/Ti/105_0580-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-F7Jxw3p/0/KMQffmNSrNHQtFB8JG5zw6wH56Rs54nDkFwPHMsSP/Th/105_0580-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-F7Jxw3p/0/NHFkTw2Wn6jdhqGw44FRN4ZddZpCCZrb2Z746G655/S/105_0580-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 68978
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-F7Jxw3p/0/KTm4F6GqtMQpFqvwnLGFn4zbzShCBKLGj986gZjDq/M/105_0580-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 148608
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-F7Jxw3p/0/K576N9JJkbwBp23xwSPpgrxnjBg7Vbs9TQrxL85mh/L/105_0580-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 244970
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-F7Jxw3p/0/KV6bVFrrnSq3hTjL6wrSHdKSTWMjztV9BWDDnGMFt/XL/105_0580-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-F7Jxw3p/0/MLxBGQSjLqw6QCsr55VGTV6cRLSGsxkRPZbfWCCdC/X2/105_0580-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 828162
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-F7Jxw3p/0/KS5fFwM3WXZR3G6Bv2dhnzzT9JqRT4ZLR9NW8Q7Qg/X3/105_0580-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-F7Jxw3p/0/NJSTnd2NS7qstBnGVQCmQGGcbkrBJJQ4mmGRnnP4z/X4/105_0580-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-F7Jxw3p/0/KDrX6L3PrJrcRNRbDv2BzM5mJkPvpVrz2TNpN5LLw/O/105_0580.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 1585905,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/F7Jxw3p-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/F7Jxw3p-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0581.JPG",
+      "Date": "2008-04-12T18:14:33+00:00",
+      "Uri": "/api/v2/album/GqsGTT/image/d524CRP-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-d524CRP/0/#size#/105_0581-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-d524CRP/0/LsvzbVjTNXhB4vgxz8JwRQ2VJ62PHFsZqdJjZLgbZ/Ti/105_0581-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-d524CRP/0/NCCbvH3D8x6VXQ83WzHZCgq8rZpkSGNQsHdM3wDSs/Th/105_0581-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-d524CRP/0/K5njdFrStHcJGR96bW5x9XgJwQGPctC3LtLqL4XLH/S/105_0581-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 66748
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-d524CRP/0/LbLK3vK9g4NnRbnWKc3gdKPdRbT2QzRDmHj9x88BL/M/105_0581-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 143283
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-d524CRP/0/MkTwJt3Rv3XhCZzLSQH9TgSTQtcsJkgp7ZH6srt65/L/105_0581-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 237129
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-d524CRP/0/KVhx6tH8sPFCkCFPbSZqksBpFMgD8NrvpgJJL5xP8/XL/105_0581-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-d524CRP/0/K6zwwwVNhtrtpKRtQh9CFHp8hXLcpZZ7dDhQmStT5/X2/105_0581-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 797466
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-d524CRP/0/LW5JkM6BqXLmGtH3MqV26zjrmCzCMDwGbGMpb55K4/X3/105_0581-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-d524CRP/0/LnnCzf3X7RR7gpL2KBT53HrzNszVdvKLgHkHbFPWJ/X4/105_0581-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-d524CRP/0/MBJqh2d5VKzcDG9sVMphLNrZ8X9pH3kqH2CzqcVSs/O/105_0581.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 1549438,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/d524CRP-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/d524CRP-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0582.JPG",
+      "Date": "2008-04-12T18:14:36+00:00",
+      "Uri": "/api/v2/album/GqsGTT/image/7qDKzpF-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-7qDKzpF/0/#size#/105_0582-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-7qDKzpF/0/Mrd8NBmJJPvzHV3XvLCxWMZ7Gf45xkRsx7Hkb5xD2/Ti/105_0582-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-7qDKzpF/0/Lcm76zjdxXr4NmWgqDTkXLfB2HT5zrBWC5ntrh6vS/Th/105_0582-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-7qDKzpF/0/MfJr2GJjCbtT52KNw2pPs4pDFPjNRkCQWGgcNR8p4/S/105_0582-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 59344
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-7qDKzpF/0/LjC7JdbwWnCsgH6hSx3HJQnJG5vST2gWgvCMd3fhx/M/105_0582-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 124213
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-7qDKzpF/0/MfwDVjNvrBnddh3sHKhHhmGgqJ8SgfxSVdn7hJgNT/L/105_0582-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 202621
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-7qDKzpF/0/MPcdhpnbGpVQqmbjZvdxQ6Xp2srZKQQBwxs2x3wmd/XL/105_0582-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-7qDKzpF/0/M5qrNhLsRFNG34SJSNbXWCGnGgXJr8RkbSfT2NHFw/X2/105_0582-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-7qDKzpF/0/NMxKX7zSgmgrn7SkKF4H4frMJbSsMVq32qvGsTFSk/X3/105_0582-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-7qDKzpF/0/MqG9PJ4pMCcWM7rfddcRJ338tPZts5WdQhHbsQ4xx/X4/105_0582-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/1000-LakesBackpacking2004/i-7qDKzpF/0/KNSr7sTv8vdQ3N3twhPW4HT888s5gLdZ9pbnb4HdN/O/105_0582.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 1280720,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/7qDKzpF-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/7qDKzpF-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    }
+  ]
+}

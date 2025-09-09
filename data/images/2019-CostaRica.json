@@ -1,0 +1,4805 @@
+{
+  "UrlName": "2019-CostaRica",
+  "Name": "2019-Costa Rica",
+  "Uri": "/api/v2/album/Pd3RKJ",
+  "Date": "2020-01-01T17:53:41+00:00",
+  "WebUri": "https://lmblevins.smugmug.com/Travel/2019-CostaRica",
+  "Images": [
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1697.jpg",
+      "Date": "2020-01-01T18:04:41+00:00",
+      "Uri": "/api/v2/album/Pd3RKJ/image/Mz4NwQB-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Mz4NwQB/0/#size#/IMG_1697-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSize4K",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Mz4NwQB/0/MVF2ND3G45p3FsFZLPCDRhzP2mvsRMCF8SrLNXfxP/Ti/IMG_1697-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 9677,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Mz4NwQB/0/LxNNkfgpnFwKDJ43jmcgsrhpXPX8Ct2Dn4C3dmTbM/Th/IMG_1697-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 14982,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Mz4NwQB/0/LJNQh9RCGwS45T2ccQHvs4Vwhnbp4cZdCMxprTc2V/S/IMG_1697-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 57682,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Mz4NwQB/0/McbfdzKfZxmc8b2L2wwWRPmKfTGsjFC57s8Z8MTms/M/IMG_1697-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 122461,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Mz4NwQB/0/K6b5XzH6FhxXxKbXFJhRQKBxpQRD2sF38jW2X8tKd/L/IMG_1697-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 201502,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Mz4NwQB/0/NLrZ89G6HScBLr2J3KHfZRwgv9jLPcnHwXxJP5nTQ/XL/IMG_1697-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 330984,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Mz4NwQB/0/LNnvFsJLVkNK25zn8fTWwZcBsv8bZJJ9v3fKjW36B/X2/IMG_1697-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 487056,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Mz4NwQB/0/NPRTCtnXwHPb94tJtKpPzvSJdt5NRfkxcQTR4Xk88/X3/IMG_1697-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Mz4NwQB/0/LcFgzccpxZPptXN6GXQXKGk9XwBZxthHKjpKQ936P/X4/IMG_1697-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Mz4NwQB/0/KvJDmZPwpcR7rVKnW8z88DqB8v75nwkJxgzbf9XHP/X5/IMG_1697-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Mz4NwQB/0/Kz7stGkTC6CTSfZnPqCn2CqRSFc8Z7RZFkwcZwD43/4K/IMG_1697-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Mz4NwQB/0/Cbn7V9xsHWKjRS3TTcRrQPwGbwx3wg7VNCG5zprLR-1757452780-O/i-Mz4NwQB.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 4125439,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Mz4NwQB-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Mz4NwQB-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1699.jpg",
+      "Date": "2020-01-01T18:05:11+00:00",
+      "Uri": "/api/v2/album/Pd3RKJ/image/bk6n79q-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2019-CostaRica/i-bk6n79q/0/#size#/IMG_1699-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSize4K",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-bk6n79q/0/Lw4jmH5GFnffnqrPpcXfFTrTM6r9RTxHhFqF2CtcC/Ti/IMG_1699-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 10262,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-bk6n79q/0/MmKRHWK9KLVSv9pqDTWpsgqxCGSN6vrwFWMTmV3c9/Th/IMG_1699-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 16720,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-bk6n79q/0/Lb2kJjz93zQtnZMBG5wZLGW7ns58CBfbgrVbDckBc/S/IMG_1699-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Size": 40540,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-bk6n79q/0/KRJBs2Tzf5jwD3QvKQRwWBMbtNGr2k6fJwNdF5cRb/M/IMG_1699-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Size": 83064,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-bk6n79q/0/LshGDRrqMHZQ9N9MCKbTNPSMhzWQCrmZKRzvmf2st/L/IMG_1699-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Size": 132499,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-bk6n79q/0/KbGkJs53TBgS8FD4b7GJxKwvcg2SV5GMxQMt99pqJ/XL/IMG_1699-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 209792,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-bk6n79q/0/NcVB8Nk4WPDBx78SSLjwvwNQrDRjtftGhfCLXrFTs/X2/IMG_1699-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Size": 297896,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-bk6n79q/0/NKLn84HNnv7jLvHNxdZ6Ct8wJzBgvSHMBcPpw2Mdk/X3/IMG_1699-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-bk6n79q/0/MpX4BhTXMDcMQkGkF8sQZpWm2RSMxMJ7n53MwnpQJ/X4/IMG_1699-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-bk6n79q/0/LcFj38hnVjrxMk6Z9ckKfsLz3LD5GkcXP8dCPX7PM/X5/IMG_1699-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-bk6n79q/0/LQkDwBhNFG6nZHp9btqmTWMPthcLnqXCpLh9Vq9GX/4K/IMG_1699-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-bk6n79q/0/CrQ5gGmbZcQF4wDzp66DSBW8fws79LWkqNmxRTx5k-1757452780-O/i-bk6n79q.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 3961809,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/bk6n79q-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/bk6n79q-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1700.jpg",
+      "Date": "2020-01-01T18:05:23+00:00",
+      "Uri": "/api/v2/album/Pd3RKJ/image/bR4Tg9s-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2019-CostaRica/i-bR4Tg9s/0/#size#/IMG_1700-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSize4K",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-bR4Tg9s/0/KgWK9kmLKdThF6Gmvgj5R92gpw5vj3pZrBwWcFfzX/Ti/IMG_1700-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 7578,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-bR4Tg9s/0/NJfGBnMFfNKK6sxWbHtV2dpjMhGWk7nGbN24mbhKJ/Th/IMG_1700-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 10426,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-bR4Tg9s/0/Ls6kH5tjwqtmhngqzP7RVTfHrpzL4sMKZBzP85QZF/S/IMG_1700-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 30774,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-bR4Tg9s/0/KwfCVrrPjWskWKngXWG6cRvLwVmN9DLT5FPvKhWrD/M/IMG_1700-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 60318,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-bR4Tg9s/0/K48Zjnkw6nSDwZTv8RZXvpNt2xQhwhRrTmWBwgCjc/L/IMG_1700-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 95745,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-bR4Tg9s/0/LdxfKgQ5McgFfmgBWdnhbh4Ts294MqgfzMG3kP4Mq/XL/IMG_1700-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 155451,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-bR4Tg9s/0/NgkNptMD6TSFrjj5pfbqkPmSMVq5DXdLQcx4xt2CM/X2/IMG_1700-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 228144,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-bR4Tg9s/0/MTkzw4wWj3QxrT4KhTQPj4j43mJJjdgpgpd54PWQJ/X3/IMG_1700-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-bR4Tg9s/0/Mm6CK2SHSsjpmfwTN9Z8G5khFsjrcMzSMzmMcnqTH/X4/IMG_1700-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-bR4Tg9s/0/MJ9fGP6P6pww7x9j8GR7zKpj6NG7mxhPHWBXw6pQ2/X5/IMG_1700-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-bR4Tg9s/0/NS57HztdQpzRDHzCMZtF9qHjpkzBxBSfDkMNZpFVs/4K/IMG_1700-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-bR4Tg9s/0/CPRfFCznBQ76nB2vW6TTGSDND5ZtTw6t9cx626R5H-1757452780-O/i-bR4Tg9s.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 2156424,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/bR4Tg9s-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/bR4Tg9s-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1701.jpg",
+      "Date": "2020-01-01T18:05:19+00:00",
+      "Uri": "/api/v2/album/Pd3RKJ/image/ks9BgQb-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2019-CostaRica/i-ks9BgQb/0/#size#/IMG_1701-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSize4K",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-ks9BgQb/0/KLCrrcWwVmdz93XndndRkvf34qh2STqbfCDsZpLrV/Ti/IMG_1701-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 7553,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-ks9BgQb/0/Kx9Mch4w5DNSpZ9LLRP5sPC7695kgdGfdMpWhDHWR/Th/IMG_1701-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 10335,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-ks9BgQb/0/KXDzF88JggFGFg977sjKg2dLB7w2dvTZPBDhz2Fds/S/IMG_1701-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 30260,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-ks9BgQb/0/LbBCkBGLfrwbN5BMk767zm5pfwkJBsBzBQ4SHM7Q8/M/IMG_1701-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 59444,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-ks9BgQb/0/NhmdhLxSNbjTSnbBJ67HF59tBCjBc4qkJ6GxfSjMn/L/IMG_1701-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 93713,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-ks9BgQb/0/Mfww2qG36h27rV7zwKJ9hPfLxfcFsKqHBKcJVGWjT/XL/IMG_1701-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 151763,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-ks9BgQb/0/KLGQhNzksQWkrm3MQJXzvWRdtvPNhswTQFbhCjRCh/X2/IMG_1701-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 221227,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-ks9BgQb/0/LNx2bgGt4CsCVnPhnCmsJTFwZ5RGQNrc6tXpbzs6C/X3/IMG_1701-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-ks9BgQb/0/NbbBzMm8MTRtCCtB8LrPKFJfd5gPVgTmFNQn92Hss/X4/IMG_1701-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-ks9BgQb/0/LXTM4c2WP9ZpszmkhvgQKCfCL7SpgTTPxX82Sm2vf/X5/IMG_1701-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-ks9BgQb/0/LqK5wGdK2qCx9FPtpzWjrwtj8NZ6cP9LWmGQQLqJC/4K/IMG_1701-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-ks9BgQb/0/4Vh93wsSn75mWdDvXBHdSQh9NWCs6XKV4Lqg926f-1757452780-O/i-ks9BgQb.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 2080752,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/ks9BgQb-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/ks9BgQb-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1702.jpg",
+      "Date": "2020-01-01T18:05:30+00:00",
+      "Uri": "/api/v2/album/Pd3RKJ/image/pG5R8tg-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2019-CostaRica/i-pG5R8tg/0/#size#/IMG_1702-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSize4K",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-pG5R8tg/0/MTMD2Qm8bbnbGL4XjCq3gm7dzqxFn774kmDnMfvZp/Ti/IMG_1702-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 7126,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-pG5R8tg/0/K249SWR2kBPzWnw7Fb9vt7CHDC8XSCMRpfkZXdj4m/Th/IMG_1702-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 9571,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-pG5R8tg/0/MDMQkbFNfHsxPT8zQqK22TDgqZQSTrpVXLjPFCqct/S/IMG_1702-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 27982,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-pG5R8tg/0/L9swmdzFTfxLknGQT8VZ25FDz8pVrm33sZSpK9KTJ/M/IMG_1702-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 54033,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-pG5R8tg/0/McCGfqXnhjCC2kK8SHp7psqftCTtfcxkMJ8fC4Qq3/L/IMG_1702-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 84814,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-pG5R8tg/0/NgBk2t6n78bpPqGcwMFmB3pLvthK6xtb379p35zDN/XL/IMG_1702-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 136233,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-pG5R8tg/0/KdpZJ8xk65HcG6ZL6CBKVSvL8BzGgpHwtc8tBNGr2/X2/IMG_1702-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 197278,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-pG5R8tg/0/L5HK3cD3BNgxdRDnmR6RTN4BVjpHJkKdtPN5FkxK3/X3/IMG_1702-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Size": 299127,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-pG5R8tg/0/K96GbPMLx48732zH2VX37j694PZ2fdsjcv8N4pGLr/X4/IMG_1702-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-pG5R8tg/0/NVJ4VsSmdx2CG7MLQT4fgKxhQ7CsnjjXVK7RXt23F/X5/IMG_1702-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-pG5R8tg/0/NV37nxCjb6HWdQ6Z4QKWm4zkgd8c9LpfXm5pMKnCR/4K/IMG_1702-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-pG5R8tg/0/DmD7zZVcKMV42hgxwxQQXcZRHx9NDmW3s95D7krj9-1757452780-O/i-pG5R8tg.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 1819743,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/pG5R8tg-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/pG5R8tg-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1703.jpg",
+      "Date": "2020-01-01T18:05:39+00:00",
+      "Uri": "/api/v2/album/Pd3RKJ/image/wdTn67w-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2019-CostaRica/i-wdTn67w/0/#size#/IMG_1703-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSize4K",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-wdTn67w/0/LnHkmkDP7g2TfFgBmMXBw6FSv9p2wWnQJNxWJPMrw/Ti/IMG_1703-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 8483,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-wdTn67w/0/McHpwSSQsFJgF5cKt2drpKtfwrhGDMtb42Vv5Xz9b/Th/IMG_1703-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 12820,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-wdTn67w/0/NR2FjQsqP9rvfv8RwTT5rds3d94hbzzHgNsB6j5q2/S/IMG_1703-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 43537,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-wdTn67w/0/MQ45mbd9hGhBwfpRChSvhxJPC7XZKxfPxkFQPSqf7/M/IMG_1703-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 89831,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-wdTn67w/0/KGW2Xz83rxrH5p326TbGSFKHZxd5ngzrTfdJfvXT2/L/IMG_1703-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 152908,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-wdTn67w/0/McwZnDN9CKph7vfkpDGt9Bcstn4skT7b3gGq8nG3L/XL/IMG_1703-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-wdTn67w/0/NBtdnb7FD4ccTGPX7fjpTZPS3D7Shtvqrt945vdr5/X2/IMG_1703-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 351260,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-wdTn67w/0/MBCMmBnnHtRRDTZrrnrxtVGQRkJ23Wq7q8JxCFBkc/X3/IMG_1703-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Size": 532450,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-wdTn67w/0/M7hC7sq7SzDPT3K7QFKx3VvDNFDWB2pHGsp5jxVvc/X4/IMG_1703-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-wdTn67w/0/NcM3cBQXrnTr5M9t53f2mv6JFQSSBcng86HnTWLkZ/X5/IMG_1703-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-wdTn67w/0/Nf3wtfFzszvkfWwVfr6jgQPw6Kgfb86hRK4jrNg9q/4K/IMG_1703-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-wdTn67w/0/Df4m7F3XBWdqg8BM4KwmSShkdvqHJVhrsS9Z32fXs-1757452781-O/i-wdTn67w.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 2964964,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/wdTn67w-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/wdTn67w-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1704.jpg",
+      "Date": "2020-01-01T18:05:44+00:00",
+      "Uri": "/api/v2/album/Pd3RKJ/image/27qgHP8-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2019-CostaRica/i-27qgHP8/0/#size#/IMG_1704-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSize4K",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-27qgHP8/0/McXZr5hc8d92DSxDMnwnwnsThtbN3fSf83xnLbxqJ/Ti/IMG_1704-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 8563,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-27qgHP8/0/MS6dtJ98MwdrxCTCCcZbXSJDjn8dVfJmH7hTvzFpp/Th/IMG_1704-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 12524,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-27qgHP8/0/KxrH8tBPZrZ6QtTG7DKpRp6N5jkgZtHRZ7Zkm9Xzh/S/IMG_1704-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 44085,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-27qgHP8/0/KLJ4x7HgF5w2hHKq3x8BzxJ7dFdffh57XL6qwFLrM/M/IMG_1704-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 89734,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-27qgHP8/0/KnjjXjsKGRjjT6Cs8jFDcS37kNTPkm9QRTvHHhSMZ/L/IMG_1704-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 142722,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-27qgHP8/0/LVVT28sqJMTQMnCjtqqM9VZKZfWtRBT3KjGdt4KzD/XL/IMG_1704-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-27qgHP8/0/NdVQsj6S9v7s95ZGqKLFNxLgTCbZ4Z2kTpmcLnvJB/X2/IMG_1704-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 335493,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-27qgHP8/0/Mr4WJfX9PzL6pKCf4hnVPw7TGB5dMkwHHtV3V2SBp/X3/IMG_1704-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-27qgHP8/0/L3v98VGt4P8SzgQ2c37LNVmRDG8V8V8vNztQbVHSk/X4/IMG_1704-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-27qgHP8/0/LtjH6pMnM3F568PhtvNPjcK53Tf9vjMtzWDqPF86k/X5/IMG_1704-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-27qgHP8/0/MGmhH8VgS5q34CGGChrs3Jv8Kj4SLzhkQKwRNDGxj/4K/IMG_1704-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-27qgHP8/0/DGrGP55mXHWNgVWXJv43T6kqv4S6rFnBtQ3nZSvG3-1757452781-O/i-27qgHP8.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 2818567,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/27qgHP8-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/27qgHP8-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1705.jpg",
+      "Date": "2020-01-01T18:05:45+00:00",
+      "Uri": "/api/v2/album/Pd3RKJ/image/B8NV6ss-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2019-CostaRica/i-B8NV6ss/0/#size#/IMG_1705-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSize4K",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-B8NV6ss/0/KDQMnnrFBbNsWWZHqx8PzkVxmsfbL6ZC7L4KR7f5T/Ti/IMG_1705-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 8111,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-B8NV6ss/0/L8NrrT5mqGB8Lm7FBxzBHDPhLGb7PPznkxZ72LKhq/Th/IMG_1705-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 10935,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-B8NV6ss/0/LQXN7n8WZ9TdS5xNm6MqzFsGCg8frFs28QG6C5rmD/S/IMG_1705-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 32716,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-B8NV6ss/0/LdMh7RLb5vdn5zCGZz2N9J3JdrZhLFgdJ9QL7LCxc/M/IMG_1705-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 56767,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-B8NV6ss/0/NRqhtVDjND2wKCMXzc8hgDpdbCvfNZMm2P2mcHcGn/L/IMG_1705-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 78877,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-B8NV6ss/0/LDPsQTNRsfJ25mLGns32nFj2x8RmncDs6NjvM28tP/XL/IMG_1705-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-B8NV6ss/0/MXcsKbSFzbfrNqFnHhKxSJNvg5KzZvR36Qz9WrST5/X2/IMG_1705-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 146441,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-B8NV6ss/0/KLffX9dzWws2M3jqmFcQRvQ5DFpQK9BmjW64S7cxz/X3/IMG_1705-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-B8NV6ss/0/NPqMNVskKp5bjHRsn5vpMXmjtC49JTPswLTB7433P/X4/IMG_1705-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-B8NV6ss/0/NHVVxBfrngL5x7cG2jc9Xs95WK589d3cgCvHwdBs6/X5/IMG_1705-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-B8NV6ss/0/NNrMWvzKc5CJDs8dWKC9fg7P477qZZ5XSVtjsPCgb/4K/IMG_1705-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-B8NV6ss/0/CfkvXcWx35NdtT3jfg9QDXr6QSgsTRWm767hCGNMJ-1757452781-O/i-B8NV6ss.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 840872,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/B8NV6ss-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/B8NV6ss-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1706.jpg",
+      "Date": "2020-01-01T18:06:02+00:00",
+      "Uri": "/api/v2/album/Pd3RKJ/image/RdSkxVS-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2019-CostaRica/i-RdSkxVS/0/#size#/IMG_1706-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSize4K",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-RdSkxVS/0/Lpp5s8wqgcDRPrPQnD5KwWKHpZGFr4D3qPP6VjS84/Ti/IMG_1706-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 8080,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-RdSkxVS/0/NNwM2GPD9bjnsdSW3qPW3kNKHPXB87rdt9FTVrb8L/Th/IMG_1706-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 11174,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-RdSkxVS/0/NNKnC3Cw4465bS9LNB4WJfXX8BLG5JZvGhTZhScRC/S/IMG_1706-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 35868,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-RdSkxVS/0/M43R82VGWH2sxWRfgNV6Z7ZNd5VJSZvkpBH92Bqc6/M/IMG_1706-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 74793,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-RdSkxVS/0/LwGS2pNkRLv2mKdVbWMggB5vwTC3fSHSTNDd4ZRzX/L/IMG_1706-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 114236,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-RdSkxVS/0/NdNpMsWh9HSVkvd3gZ6Zbf7zRqVDqwhchd5bcMrj7/XL/IMG_1706-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-RdSkxVS/0/KHq6CnRMXJ8NVCPKS362HkfbDMNM4bZXrFSM3KtbN/X2/IMG_1706-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 272657,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-RdSkxVS/0/KkMPJKN8pxnBcJqCXfbrsQ8MgttJd9WJ54kVcxgNS/X3/IMG_1706-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Size": 413695,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-RdSkxVS/0/Kh7Lhz7gPCqBz3D5CNxH9tCNP7WX3MWPFdzf6xn6s/X4/IMG_1706-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-RdSkxVS/0/LfDhJ7bhRt7MCxnnDDBbSLfRFxFdK3cLMrzGc377g/X5/IMG_1706-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-RdSkxVS/0/ND4PmhhqnXBx5M96kQxRn8qwk6qhPpjDZJXRtdcH3/4K/IMG_1706-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-RdSkxVS/0/D9ZCrNFKcV6bn9DLnQ69qbLMTtdWzLznbNJHKhh3G-1757452781-O/i-RdSkxVS.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 2435657,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/RdSkxVS-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/RdSkxVS-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1707.jpg",
+      "Date": "2020-01-01T18:06:01+00:00",
+      "Uri": "/api/v2/album/Pd3RKJ/image/9nfg6gg-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2019-CostaRica/i-9nfg6gg/0/#size#/IMG_1707-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSize4K",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-9nfg6gg/0/Lzkmwwt5RJMJN467PrFFRFLb7N9F885wh2whc889x/Ti/IMG_1707-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 8759,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-9nfg6gg/0/Mwmf4JZBwcTZTzmzVhBtsQcXS94fvcGz3PBPCZM8c/Th/IMG_1707-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 12824,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-9nfg6gg/0/KHvsd878x75k52dLNdZnZNrfcL5b5LkJzdQXzz72D/S/IMG_1707-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 47388,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-9nfg6gg/0/LPfsmBNSnTTFXNfjbrgzSBLxqKKbc6W5kvr6grDpT/M/IMG_1707-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 100504,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-9nfg6gg/0/MsL7wbTdGJZzBzRBRMSb98Zh2HnghtTWh9Sfwsq8h/L/IMG_1707-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 165037,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-9nfg6gg/0/M9gKwbvnnFk2x4s8893nbZbDQ53Pcf7bcxLLV5wdt/XL/IMG_1707-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-9nfg6gg/0/KJqvL5XMSddpKGqQVxKJzwDLZqR4PvRN4XbxQxpRf/X2/IMG_1707-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 401838,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-9nfg6gg/0/MFjnmpW78SGVXnf36jLVwrPPzMmzrH98brSWps6bG/X3/IMG_1707-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-9nfg6gg/0/NFkVmSq39SD5mntNzm72BKnPrXQpLXHVKqsZSH4Fq/X4/IMG_1707-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-9nfg6gg/0/MKPskq5qmpjtzf4wbzSpRkrR4grzg3mrN6TgpV9qw/X5/IMG_1707-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-9nfg6gg/0/K9wwdR2NgvGbcLDwzrDgf2qrPbMjwVGbvmPvrWdGs/4K/IMG_1707-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-9nfg6gg/0/DJZmJvx28fSfTGxCCHFtXnKcR2pwnN4TbpfMF9Snx-1757452781-O/i-9nfg6gg.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 3390635,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/9nfg6gg-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/9nfg6gg-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1708.jpg",
+      "Date": "2020-01-01T18:06:18+00:00",
+      "Uri": "/api/v2/album/Pd3RKJ/image/ff55gjw-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2019-CostaRica/i-ff55gjw/0/#size#/IMG_1708-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSize4K",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-ff55gjw/0/LpMJt4xpNrRwRMNVMwmgDrcs3L6jDJD9N7sbjC6X2/Ti/IMG_1708-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 9808,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-ff55gjw/0/LPkP7sBtMH53tvWtWxbvrdbP2Zjgv5kRSDsKFtCT6/Th/IMG_1708-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 15150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-ff55gjw/0/LG2JpwvGs7N8dwRQBMGkrnfTwnQ2ggbNLfHrNnXD7/S/IMG_1708-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 56965,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-ff55gjw/0/Ksn7n4MqmkKjfbSFFVsG8rsZ4dv4DJ3DPzsJTTf5h/M/IMG_1708-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 122377,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-ff55gjw/0/NctM7xFJJJL7Lx3nLR3QdFw3Ph6wh8QB9R5fCm4kJ/L/IMG_1708-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 202065,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-ff55gjw/0/NNnZVJR8xZ9JkjDHZKKkHBQm2QH8dM8zzJsh8RnwR/XL/IMG_1708-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-ff55gjw/0/NTc3VC3z9t427N6BVtcT45nD7v79dBF5pc8p3Ppdm/X2/IMG_1708-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 499858,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-ff55gjw/0/MGK4Cq8WgR9ZVGMbnKn98hzvxTdTwZ38ptxGMvWp5/X3/IMG_1708-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-ff55gjw/0/KjB2zrhqJJXFTcCgbThw5VpHkRXZvwGX4wGqFqkW9/X4/IMG_1708-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-ff55gjw/0/MFfksPCHz5Fw6n2Sns2PXgfKZWDzBTGTHccxFS35G/X5/IMG_1708-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-ff55gjw/0/MQGpZttvcHDgFNfbgp9WtwDTtMgQMBHghnx9W4C2g/4K/IMG_1708-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-ff55gjw/0/D82LMGvxZ8mTjkzC52tHsQKv5nGLbrFk6bhvNS4wB-1757452782-O/i-ff55gjw.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 4306852,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/ff55gjw-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/ff55gjw-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1709.jpg",
+      "Date": "2020-01-01T18:06:37+00:00",
+      "Uri": "/api/v2/album/Pd3RKJ/image/TvbTCDD-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2019-CostaRica/i-TvbTCDD/0/#size#/IMG_1709-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSize4K",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-TvbTCDD/0/LsLFGQFsQVR8fz7v3CM2n25wmLtxDLjnLVqc7MWNS/Ti/IMG_1709-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 9725,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-TvbTCDD/0/KSWHg7dXTcTF8C3pRmXnFNLsStL3P2JB4sQdg6LpR/Th/IMG_1709-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 15108,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-TvbTCDD/0/MvtnHsLDjmB74MJKFmdPJgMDFrmg87BcPsXj6L2SN/S/IMG_1709-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 56971,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-TvbTCDD/0/LjRxnLBm95W7Rn3zKMfkTJtsd85NRg2NWgwGs8hJW/M/IMG_1709-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 122682,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-TvbTCDD/0/NDwjQ5d7QPzn4LGZkxxP5jcCRhtRJqWPJwFhQnwQc/L/IMG_1709-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 203689,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-TvbTCDD/0/MFt6BXJDN6ntwchJFKGhQrFLP6zntnsn2MgZR8hKD/XL/IMG_1709-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-TvbTCDD/0/LWXgLvZdkN2PFhCpJr2mRmdjZxmW8LsPskPqD7VgH/X2/IMG_1709-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 504826,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-TvbTCDD/0/NCZ35hdtKWQqBtbfGBqkZ3g5FvCxQdSwf78x8Pn2T/X3/IMG_1709-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-TvbTCDD/0/KXxZwVkcZHw92jNB8LrBRfF52V5t7CmdMbwFL2Zqf/X4/IMG_1709-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-TvbTCDD/0/MH979CGCV9jM7CcZFMs6QRnsn8xDqFnrBFCKP2Hp6/X5/IMG_1709-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-TvbTCDD/0/Kc3PMJ9vHqXvpkSDDq8wgb4VTTMKrPL2vQwS9Z2pn/4K/IMG_1709-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-TvbTCDD/0/CZpsJKjMh7NjWS8qGJx9QmDbWt4rswsPShLhgwjVV-1757452782-O/i-TvbTCDD.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 4279398,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/TvbTCDD-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/TvbTCDD-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1710.jpg",
+      "Date": "2020-01-01T18:06:35+00:00",
+      "Uri": "/api/v2/album/Pd3RKJ/image/54WfDbZ-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2019-CostaRica/i-54WfDbZ/0/#size#/IMG_1710-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSize4K",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-54WfDbZ/0/Kb4TVxhT5scT9nVnRqPwrZzPRSfsW2DFz6cXwgJ7h/Ti/IMG_1710-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 10019,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-54WfDbZ/0/MfvLW5DmfHNwttLSvw67r83DR4JwNzZF2rzfbG5Bs/Th/IMG_1710-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 15927,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-54WfDbZ/0/K5XN9nCRtvjbPCfRzgpcD2sBpPxgXJ2ZdZvM8JcgG/S/IMG_1710-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 61389,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-54WfDbZ/0/MHpGJLG3xRM58qfNn8PfN8RMN5sN28G6RnFbZxD9R/M/IMG_1710-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 130073,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-54WfDbZ/0/KFBphDW7XT2pJvL8W4CSXw8fnCb4ShrR6MLFz2qNW/L/IMG_1710-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 211444,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-54WfDbZ/0/Kg3DbGBpdTxqQdjG8fN3hLpq3RFS2fFN7XCQXMzxP/XL/IMG_1710-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-54WfDbZ/0/NLzmfZf5j7zwGTtTgkNf9WH98TwScqDLLSfnQHPBG/X2/IMG_1710-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 483366,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-54WfDbZ/0/NCSwTtmRSjtwFcJTrVXPHLvMJ6WnKJ3tsmgBWtgVs/X3/IMG_1710-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-54WfDbZ/0/KZJtCQ5Dr7tfXf5DfkrwMgJ9hJr2r5st26rFpWfcv/X4/IMG_1710-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-54WfDbZ/0/NgdvLxqqM8n75Z8XJjPJ5Wwt4R8FPrPNZGJR8Ph22/X5/IMG_1710-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-54WfDbZ/0/MD8kKdbhmxjQNL8j9BJmNks9pBF5SCGPW395LGHzn/4K/IMG_1710-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-54WfDbZ/0/C7TnKfTPjwqHdgrq3LKZCsMXvnqLqjhD4WztwMRFL-1757452782-O/i-54WfDbZ.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 3772942,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/54WfDbZ-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/54WfDbZ-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1711.jpg",
+      "Date": "2020-01-01T18:06:55+00:00",
+      "Uri": "/api/v2/album/Pd3RKJ/image/dv5xzVv-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2019-CostaRica/i-dv5xzVv/0/#size#/IMG_1711-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSize4K",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-dv5xzVv/0/NNSgF5HfD2NSZppB22SbXjTJ249M22vfqzJjWL8DZ/Ti/IMG_1711-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 9630,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-dv5xzVv/0/LfMf2DTzPLstnrXCKMRQqpfFChNgTH6wFQ6cMXnZJ/Th/IMG_1711-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 15192,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-dv5xzVv/0/KGfmxQGqHGrPVjG8D9gTNRKfJFDXSPPHztR2b2trc/S/IMG_1711-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 62705,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-dv5xzVv/0/KjVgKzvpvwc9jD2dBgdGgjRQ8ZwbTQv5rw2gzxRJr/M/IMG_1711-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 138476,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-dv5xzVv/0/NLxSM9Ngb65DDM2TQDQ6KLcrsTz8Cm2PSM42hKHhN/L/IMG_1711-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 231221,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-dv5xzVv/0/LTLD9QfcZLmgqfDmJHfQpDcrzdJhJH59cSzDQ6vGF/XL/IMG_1711-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-dv5xzVv/0/KW8hZQRLqWXRSh5VNd82XDWtRrs5s5sNqXQjjx6Cz/X2/IMG_1711-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 568126,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-dv5xzVv/0/KxSkZgDCjtvdNZb6nMWchj5PbLhTpKgjJ8BXnpWcP/X3/IMG_1711-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-dv5xzVv/0/Nd4PVFjGGGgTSmxQ2SNGPG2WXDzswxjznsSxZRmMP/X4/IMG_1711-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-dv5xzVv/0/KNbXSrnrzP9nmJ5M7SFwpv3XMZn5pSxB7CfL6R9hG/X5/IMG_1711-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-dv5xzVv/0/LZbjCkTp2CzhxzwVw7dTjNk8Hs3PP76b6vNJ5G6fn/4K/IMG_1711-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-dv5xzVv/0/FPvHxKr4wHGGW2F7WNxg8CT9TdJPsfr8RxXV4HpGQ-1757452782-O/i-dv5xzVv.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 4630881,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/dv5xzVv-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/dv5xzVv-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1712.jpg",
+      "Date": "2020-01-01T18:06:54+00:00",
+      "Uri": "/api/v2/album/Pd3RKJ/image/hHSCJTp-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2019-CostaRica/i-hHSCJTp/0/#size#/IMG_1712-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSize4K",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-hHSCJTp/0/NC62VwFHsrq8R9LNMzzXcmv795G4H4R9BdqJzq2jg/Ti/IMG_1712-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 9221,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-hHSCJTp/0/MTDFS2NWJqWtXvzRcbJnPR2LDP2496dQfdWqw686N/Th/IMG_1712-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 14465,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-hHSCJTp/0/MQJfhCFsL8g54W4JfBfGQJK623xsKk2wWfGp7vzrS/S/IMG_1712-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 55612,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-hHSCJTp/0/MvkkTcSwvwXnQz4Gsw5KdFXdZSJSqqcRcGx4G58ff/M/IMG_1712-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 105384,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-hHSCJTp/0/NFhF9VGt7ZcmrnK7jqVCWzSStbJRxPkjgKpjXFH2b/L/IMG_1712-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 152075,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-hHSCJTp/0/MqQPn3VFvLDx73mMc8939H4V7mtmrqV9VvfcMSQQK/XL/IMG_1712-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-hHSCJTp/0/LfTvZpqG6gbWQSGDNprL5fdz3KZpVsX8RZbnxrbbK/X2/IMG_1712-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 286991,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-hHSCJTp/0/LQMmbhcCSgvFjdN66ZG7NhBhK9rjf5VrsKvPtcsq7/X3/IMG_1712-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-hHSCJTp/0/MBLdjSnk78rXhDcbX4tFFqcTTS5mGLmpv3w8wJC4R/X4/IMG_1712-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-hHSCJTp/0/NFPgzXCzqvPXmLsTpKZ5d8KPcxFNdWdMncMtgGq64/X5/IMG_1712-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-hHSCJTp/0/LZdd5x22LLQ6MrRJ5RxV4kR6XQrSRWqmbmRmvZ7gH/4K/IMG_1712-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-hHSCJTp/0/HFvTB3js7vvgZ3Qr9PNfztQdtS9Hpk3VDKKtkjFZ-1757452782-O/i-hHSCJTp.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 1530622,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/hHSCJTp-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/hHSCJTp-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1713.jpg",
+      "Date": "2020-01-01T18:07:06+00:00",
+      "Uri": "/api/v2/album/Pd3RKJ/image/W8XgK3f-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2019-CostaRica/i-W8XgK3f/0/#size#/IMG_1713-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSize4K",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-W8XgK3f/0/KMkBpLKpQhBfBpMWQ6Vcsrzn5f9bnSDzf4zp5V8f5/Ti/IMG_1713-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 9744,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-W8XgK3f/0/LqBCWgRCKDPT96X64sQGsQsgj4c7cWNR7gChqTfGN/Th/IMG_1713-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 15625,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-W8XgK3f/0/KZVxZ2vm6bpRmXSkmmXj8thnLmXNQFj5ZqLWsjf5Z/S/IMG_1713-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 59548,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-W8XgK3f/0/Ksx9WhQFNMv84RqLcHtmmgVngMzQwr7rbTkFx5nxS/M/IMG_1713-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 112316,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-W8XgK3f/0/KDTB8cZC8sJBcQtKLGKXmv8tCWWfN58pd4jg4ggwj/L/IMG_1713-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 162561,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-W8XgK3f/0/L9pnwzm2zSBzdJpcFn8SFmczbXPvXFgFkVzD5wCRd/XL/IMG_1713-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-W8XgK3f/0/KwfDXkRzgRk4rV2VZ37rRNQdCMzNMpZqZZhK92VQG/X2/IMG_1713-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 308505,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-W8XgK3f/0/Kg8DHZDGcHvGJzGJc5HSbXMgCqb77bqfK9tXkfmjF/X3/IMG_1713-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-W8XgK3f/0/KffvcNDRBG7TkmWQV3VMjhhmc3JZqT6Qzx3b6tPmh/X4/IMG_1713-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-W8XgK3f/0/Nfq56jGqS4n3XD22VVp4gL4TXkc2SgTQFTP6rgmDf/X5/IMG_1713-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-W8XgK3f/0/K6qKQx3nJxPbQ6rfc6c3kwmzDGjCVDbJ3sttC7wmH/4K/IMG_1713-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-W8XgK3f/0/DMCGtx7wH9QMs6ZmSj2TrXZTnNKVvRGSnLhTNXWQr-1757452783-O/i-W8XgK3f.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 1671545,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/W8XgK3f-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/W8XgK3f-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1714.jpg",
+      "Date": "2020-01-01T18:07:02+00:00",
+      "Uri": "/api/v2/album/Pd3RKJ/image/ChgcKWw-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2019-CostaRica/i-ChgcKWw/0/#size#/IMG_1714-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSize4K",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-ChgcKWw/0/NdHg5mWJr2xZkLzLG6NXpFhV5JwbQ7DfPBfSXZxTK/Ti/IMG_1714-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 8951,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-ChgcKWw/0/Kk4kMPqSgFL9jSN8q4dgfb9BcQPf2GzMrpbNZnp2V/Th/IMG_1714-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 14020,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-ChgcKWw/0/LFPL72hwRf8Q6PMFtHf4pd4NkRqsFG4JHFgL94xZz/S/IMG_1714-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 53998,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-ChgcKWw/0/MrDPqdRqjnWdCC4Lh4dwNvGqhMWPL6qgDPg7P3Tdj/M/IMG_1714-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 103937,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-ChgcKWw/0/Kq4Hkm5DPZsVBRrqqCfXt58pCgVXbHW32J7z95RbL/L/IMG_1714-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 151888,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-ChgcKWw/0/M7NzzqzpN2GmnHHC2v79n2B4zgcvz7bdpg9ZLMFr6/XL/IMG_1714-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-ChgcKWw/0/NcpQ8HZBsKfzzTTPrbMQVLPfF6s3q4pCgn9WZJ4LN/X2/IMG_1714-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 291230,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-ChgcKWw/0/LFTWPrLfmZvDTLTDdH3LB3m7gwmKL56bbbHZzgnWg/X3/IMG_1714-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-ChgcKWw/0/NWxx5svSChp2VL7RM47dzg6n22pFGVMMV3XhVTVST/X4/IMG_1714-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-ChgcKWw/0/Mf4rGXvFS5cTxxpNmm4WgRDX2QN7JwWP3s5SbbQws/X5/IMG_1714-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-ChgcKWw/0/LzfbjC2sbwTr9jMBCTDdD99S5z2DdBHkgnPxSgpvx/4K/IMG_1714-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-ChgcKWw/0/DkVtmRhxqc2rCcMHGTSKKzJ8KKthGqm8ZPM4jMwCt-1757452783-O/i-ChgcKWw.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 1588198,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/ChgcKWw-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/ChgcKWw-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1715.jpg",
+      "Date": "2020-01-01T18:07:09+00:00",
+      "Uri": "/api/v2/album/Pd3RKJ/image/KJ8H5fQ-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2019-CostaRica/i-KJ8H5fQ/0/#size#/IMG_1715-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSize4K",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-KJ8H5fQ/0/LkHg46wMQKWD8tDTQvvXZPV4WFM3mL86hC3qhMH6C/Ti/IMG_1715-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 9431,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-KJ8H5fQ/0/L2G6bFLPMHHPZxDSqBQzN2vpMMrpftnQHnkRXQxXR/Th/IMG_1715-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 15212,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-KJ8H5fQ/0/LHkmmjhpTXtmz6bjkvtPbW6zqM3fH7X4rGfNKvnBJ/S/IMG_1715-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 59782,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-KJ8H5fQ/0/MG8zJrvFJHbxKgZ3Xb479zdfcJ9nTrGhBqQQCRrQq/M/IMG_1715-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 115390,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-KJ8H5fQ/0/LvNfsqW84KwT8QTX8R6vp4XmCqhBvK9XwWMt2zKm2/L/IMG_1715-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 167425,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-KJ8H5fQ/0/Lpnj6xqLrzXxJk4dHrh2sRBkNXBDd6pZk66xBNqxq/XL/IMG_1715-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-KJ8H5fQ/0/NbVMVWcJd9BK4mcRg62k7PWmZK3FDxQvwFPkHcDtk/X2/IMG_1715-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 319038,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-KJ8H5fQ/0/M9ZWMBCCnxgTk8WcSr2mrFM5btpPBGcMjv2XRZX8D/X3/IMG_1715-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-KJ8H5fQ/0/NPqXCLBLTSRSc3CFDTdPsZR5mmXbsJBwqDnHRTBLh/X4/IMG_1715-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-KJ8H5fQ/0/NKCwN2xv4nx8BP6Lrbc5ZbXzWw2tCNvvkbX5nBDDm/X5/IMG_1715-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-KJ8H5fQ/0/M4mHHnwkzBbTbPF9XjB8BwNXLMMhB5p2kmG8n2Cs6/4K/IMG_1715-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-KJ8H5fQ/0/FZPBbxhnstvQ2McjWHjcpD6DGGhTpT9g56xvtXLH8-1757452783-O/i-KJ8H5fQ.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 1730637,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/KJ8H5fQ-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/KJ8H5fQ-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1716.jpg",
+      "Date": "2020-01-01T18:07:27+00:00",
+      "Uri": "/api/v2/album/Pd3RKJ/image/w8sb64N-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2019-CostaRica/i-w8sb64N/0/#size#/IMG_1716-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSize4K",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-w8sb64N/0/NbzCQB8db4f7Ff5qGsC9vncQbLBRHPmPnp59cTTmp/Ti/IMG_1716-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 9473,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-w8sb64N/0/KNQLL7HqzRWnXHPh3rw2W9zLsZg39LjzF8LV9KnFM/Th/IMG_1716-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 14661,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-w8sb64N/0/KKS7c2Qn4xMZVNSkpW97Ghz9kQqbqn46ngBZG5VrP/S/IMG_1716-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 54356,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-w8sb64N/0/MTbbBsbc3CfHvpMSCfdNDc7zQpH66DDbB3kZV9DpZ/M/IMG_1716-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 113272,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-w8sb64N/0/NNWcxBfXTTX29PnX4Vn6RH4Z6mPWxm9bM8wJFb8tj/L/IMG_1716-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 183022,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-w8sb64N/0/KKBHBxjjL697C7PkChn8m5TrXHF8R2h62SKtH5ZwR/XL/IMG_1716-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-w8sb64N/0/MmB7P7qc7DZTBqRhGTMPk4gk4KdkGrXPgMvDZ84Cq/X2/IMG_1716-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 428554,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-w8sb64N/0/KmdL2LgZpPfQh7NXjTWv4C2ggsdxKNJtDkNsdrwkt/X3/IMG_1716-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-w8sb64N/0/L3Vk242PZJjKgmgQH5pmk9xgxHW7dCMhxhRkdDN5G/X4/IMG_1716-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-w8sb64N/0/K8j46G8vsjBJnxHGgPFwHScD75KfgSR4L48gH8msm/X5/IMG_1716-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-w8sb64N/0/MsHk8wggVq8NNmJ5B3cGS58sqjd3HzmJtWH82xqMr/4K/IMG_1716-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-w8sb64N/0/FDdQgCVgFtS4Nc34TM5fGMsPnSx3dNrLZJPvcZfkt-1757452783-O/i-w8sb64N.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 3409263,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/w8sb64N-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/w8sb64N-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1717.jpg",
+      "Date": "2020-01-01T18:07:26+00:00",
+      "Uri": "/api/v2/album/Pd3RKJ/image/DvQHLp3-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2019-CostaRica/i-DvQHLp3/0/#size#/IMG_1717-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSize4K",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-DvQHLp3/0/KJVWR8WLgw9QQXWQNc7hwS56J2s23hHWjtC3BnkKX/Ti/IMG_1717-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 8184,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-DvQHLp3/0/Kq5b58Xzw5W5htNQBnCDGsHPS5twGPTH8Q2fzXjTm/Th/IMG_1717-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 11824,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-DvQHLp3/0/Ngb6jL73dxbZ4zNX8Wtrr7kGb2G4TcptgffSXR7fC/S/IMG_1717-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 42185,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-DvQHLp3/0/KTdSfhFtC6QdsGZHQz2X4qdm9mmqMwjGqr2XgHP4m/M/IMG_1717-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 90185,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-DvQHLp3/0/KdS8GFj3Pb457LXhkRLwNp8773xN6RpQk5zCZcXJt/L/IMG_1717-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 148444,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-DvQHLp3/0/LFh2XwC43DMR88m8W8mxgMwsKG8FqPtV8NKVKcnFs/XL/IMG_1717-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-DvQHLp3/0/KLmP4P79V8Ph4TJBPM5dTZjH5tzrjrv8j9szRXTzn/X2/IMG_1717-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 366466,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-DvQHLp3/0/KTzLmrbRjHSWjQjzrzWXwdGgkfWfqSQbtXvJ5bMxf/X3/IMG_1717-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-DvQHLp3/0/LZQXnXkNbQg3LmnSbHLfSGrkvX4VdtxgcKQqSG5Q4/X4/IMG_1717-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-DvQHLp3/0/LkqVF56QnrDtBJ9Q4JjpZGkt6hwGQ2QMsqnVBJzzP/X5/IMG_1717-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-DvQHLp3/0/NLdRFwdzJH2MSzDD3M7WBpctGw6pGcqSJjztCCkFq/4K/IMG_1717-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-DvQHLp3/0/Dg9KWmSnGB9p2kDxNCTM2zNNWwBKhhb2rTQx53xKD-1757452784-O/i-DvQHLp3.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 3136867,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/DvQHLp3-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/DvQHLp3-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1718.jpg",
+      "Date": "2020-01-01T18:07:55+00:00",
+      "Uri": "/api/v2/album/Pd3RKJ/image/mRsqrRs-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2019-CostaRica/i-mRsqrRs/0/#size#/IMG_1718-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSize4K",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-mRsqrRs/0/LrcPL48tPbhWpNpzbsh7nxcHSrPHFZ5MpFShPr6xw/Ti/IMG_1718-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 8539,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-mRsqrRs/0/LxXvpWMkbwWwWn96GZh8q236VpVJnJLdZcb4HBVQh/Th/IMG_1718-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 12395,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-mRsqrRs/0/NhFMc2wstw5VGvD5WpkSz7phnR9dd9NszvCvW5MRv/S/IMG_1718-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 39110,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-mRsqrRs/0/LvWzV7C8sfKbNNd2KHWGL7WW46zPX5TD65Ws9ZvML/M/IMG_1718-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 74963,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-mRsqrRs/0/LwMhrWG4sMBfBDp7cbgBGNtNtFJxMhQRJvfLtk7Hz/L/IMG_1718-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 114753,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-mRsqrRs/0/MpkHStKFZtW6w4h5ttSVr5B4Cx5NQhKPj6P3DNTRq/XL/IMG_1718-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-mRsqrRs/0/M3ZCK3kg6h7fsxq57DJRg2CcnHBjMJRvTQzPM8tF2/X2/IMG_1718-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 251210,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-mRsqrRs/0/KMFZKFpfw9X2XhWPk7KFTjHpJ64PJBx4rm9VgHKGb/X3/IMG_1718-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-mRsqrRs/0/KjSZTcfrgTD6DjpQxmTN5kQGVCzBdcRP2rnnRmcZg/X4/IMG_1718-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-mRsqrRs/0/M4RGRxkBVR3zwn4LR6s6pQBM4R7VvXvJjpWqcb3bR/X5/IMG_1718-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-mRsqrRs/0/Mx8cTSS4XM9SCctrW5hB32LQG9R5nmLqFppprmq4Z/4K/IMG_1718-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-mRsqrRs/0/63hcvKDD9MHRPQf2QvMcjf6q28GvVDD5DT8GxCPP-1757452784-O/i-mRsqrRs.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 1948638,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/mRsqrRs-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/mRsqrRs-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1719.jpg",
+      "Date": "2020-01-01T18:07:36+00:00",
+      "Uri": "/api/v2/album/Pd3RKJ/image/GxqHFNT-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2019-CostaRica/i-GxqHFNT/0/#size#/IMG_1719-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSize4K",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-GxqHFNT/0/L6KNqVVcszj5Z6PzSqZg99SdGCgWsn6R2L37GTBsL/Ti/IMG_1719-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 8519,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-GxqHFNT/0/Kt39nTJ9fGCP6GxgCSj6hsbwScTCbN4sHwGZCDctD/Th/IMG_1719-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 12227,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-GxqHFNT/0/Mdq599KgsBRBWgbHDWFXPrfFRNVJDwrwW9JvpDwns/S/IMG_1719-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 38894,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-GxqHFNT/0/NZCMpzn2P4CpjfBwRN6xPDj6qQjFVdZXRxvRDmgB2/M/IMG_1719-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 78134,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-GxqHFNT/0/LrvDDXNsXjWMt8znrtPrqRhJGDNrWZVVjFnSNJQtn/L/IMG_1719-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 116046,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-GxqHFNT/0/NKC8bwcdxd8rr5smDkm2Fn23QwcKZVtm9mJj4NXzX/XL/IMG_1719-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-GxqHFNT/0/MT8Sj2zwJPQwJLj82gJ63mGnKZ5ZdJLcR3T8WwBcb/X2/IMG_1719-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 258019,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-GxqHFNT/0/NcRTWLHknTVWc978MpNbGmBPWKswqPT9gRfmr3CLv/X3/IMG_1719-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-GxqHFNT/0/Nd92RGFTV2GLxzn5wr7cq5QGH5G3tn5pG6Gqcn42z/X4/IMG_1719-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-GxqHFNT/0/KH7C8Gg9JT4hvSLNZ9Sf8wNJtVpm2SvJs5JhJqcV5/X5/IMG_1719-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-GxqHFNT/0/NZFZRsRzr6vgCrCS5z6PcSkFxGM3jj8xwQM2fWkzC/4K/IMG_1719-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-GxqHFNT/0/DD9xcfKs685Q92L2BCPWRn9dGvr3Rw3nMLkhRNm4f-1757452784-O/i-GxqHFNT.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 2081053,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/GxqHFNT-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/GxqHFNT-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1720.jpg",
+      "Date": "2020-01-01T18:07:49+00:00",
+      "Uri": "/api/v2/album/Pd3RKJ/image/RNwNH2j-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2019-CostaRica/i-RNwNH2j/0/#size#/IMG_1720-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSize4K",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-RNwNH2j/0/Lk9QkBpnLKcPm8hC79jTDgjNNqFPWKTxnfjfVsbRD/Ti/IMG_1720-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 9711,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-RNwNH2j/0/MM9DGqbPNfwD5XH2g6Vbtpk8NdJGDJgNxDmnKZvC7/Th/IMG_1720-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 15289,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-RNwNH2j/0/NXSQ2Tdz5BrHXB6H8DxbtWc66kvxRdFqSB6fXv5xz/S/IMG_1720-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 57428,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-RNwNH2j/0/NgpmhjhbkNrQkwDxGktqMsPD4VmwKzhPqcbqs3cn5/M/IMG_1720-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 121051,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-RNwNH2j/0/LfV9jkL5XQ98vHM2m8ZC5vZMSZFbWv4sj8nkMqZj6/L/IMG_1720-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 199739,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-RNwNH2j/0/MnVCjVxZFH3n9XZkDbWr6kr8rhbVQcGWwdwHjWfMg/XL/IMG_1720-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-RNwNH2j/0/MCwWbb4NKcQqRwb8njCxwpHSMMj3x892fxQpgVdvH/X2/IMG_1720-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 484010,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-RNwNH2j/0/LQDhdFcNd6mrDNjgHrPFxK9BbxcksXWwBB7Z5GktF/X3/IMG_1720-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-RNwNH2j/0/KdhX3kt4WmNMWCRKGpxkqBPvQmRNGPMmpkDhbvdsq/X4/IMG_1720-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-RNwNH2j/0/L7DjNqZzjSmRgfPJ9Q7cJWptZcDctg9mPmj6647nr/X5/IMG_1720-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-RNwNH2j/0/LwCrRMzF58ScJ32pnPwFt8DHs55Q34Zhf5TpGbXw6/4K/IMG_1720-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-RNwNH2j/0/FnTvWFfqBhsMQXfphTCFDPFJbxtfdppBdzW4tBdd-1757452784-O/i-RNwNH2j.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 4038653,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/RNwNH2j-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/RNwNH2j-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1721.jpg",
+      "Date": "2020-01-01T18:07:55+00:00",
+      "Uri": "/api/v2/album/Pd3RKJ/image/jGHPwQt-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2019-CostaRica/i-jGHPwQt/0/#size#/IMG_1721-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSize4K",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-jGHPwQt/0/Lkr4Dv7D6D76z5nLXFJQCM5DbQsRthNksZkbpMSDR/Ti/IMG_1721-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 10000,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-jGHPwQt/0/L7tZzTKZc7h8bn87DbCJCMpJGzwDqzmFBPSKb7mrJ/Th/IMG_1721-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 15500,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-jGHPwQt/0/KdZs7bJ93t6Rg9wrZ8PdFXvkCvxbqLzGkTRfnC6xn/S/IMG_1721-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 55350,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-jGHPwQt/0/Mg8rjX3fZxrs4LrNcrfSwCB286ThCQVmkMvs944dQ/M/IMG_1721-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 100537,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-jGHPwQt/0/LzbdPX2zjPgF53mwFPf6b8NQDf2m99RhzCj7hb99s/L/IMG_1721-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 142803,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-jGHPwQt/0/L2qsfpgrD8fwpL3G6Pc9PSdxRfj3rMBMZqb62Q7zv/XL/IMG_1721-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-jGHPwQt/0/K6fsLddv8WMcpxqmr8bHpFrK3xpNrp7tN3mw5xG7d/X2/IMG_1721-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 264952,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-jGHPwQt/0/KD5RG67Dp4v9TmMbkmqm9vgvwLCzqVHbKRTKwQjpB/X3/IMG_1721-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Size": 356670,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-jGHPwQt/0/MpXhLcMWS7rpsLcsqNZP8JFS8MDkT5Wk6Xf5jzhfn/X4/IMG_1721-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 494919,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-jGHPwQt/0/K3p5M4VfC62LR9Q5HxCt2XkqgZvbKknZQnkshdtvp/X5/IMG_1721-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-jGHPwQt/0/KjzJRdRHMcwGCjPjrnBJsmJsT8JHhsPxbKKN8TgZs/4K/IMG_1721-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-jGHPwQt/0/DXvMRFf2njfvj6cLJP7NwK2TdTst7chLH5DkkSHqb-1757452784-O/i-jGHPwQt.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 1397222,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/jGHPwQt-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/jGHPwQt-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1722.jpg",
+      "Date": "2020-01-01T18:08:01+00:00",
+      "Uri": "/api/v2/album/Pd3RKJ/image/Ttmj6R6-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Ttmj6R6/0/#size#/IMG_1722-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSize4K",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Ttmj6R6/0/Lr3kRFSX94zm9JdmpcdgT4Z9f54zgvZ5j9dCGbbQn/Ti/IMG_1722-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 9888,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Ttmj6R6/0/LPwsSvHnSFKMZZ7N74SfQgzqGZDKxMv44x4dCRgcd/Th/IMG_1722-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 15564,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Ttmj6R6/0/NcpCmWC9gJMfQ2BpQqNPqx2w3s43MmLvw9cSGcNCp/S/IMG_1722-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 55567,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Ttmj6R6/0/K6ZQwQjP9pmb2PpfVpspBcswRDt3Xcd47SqBCPjTQ/M/IMG_1722-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 102470,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Ttmj6R6/0/NNTzF5DmTbwJFJtzgvs36LxZ8z2rzTRfDkVwSPG74/L/IMG_1722-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 146562,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Ttmj6R6/0/MLrLC9cDn9CKPstt7vDppvzhRtnjc3hf6NwMX58nK/XL/IMG_1722-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Ttmj6R6/0/LvJmmTgQRnmM4JjDGswsvCgkJFfRXwZK69xPjsj5M/X2/IMG_1722-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 271856,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Ttmj6R6/0/LjbM7zjvCDB3qdxMsHKnD3kHzFKCcdFpPR97Kmj6c/X3/IMG_1722-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Ttmj6R6/0/Lc72SFDSm9v4c2kLGc5kvHc9tGDLWk9JdVgc8qjDX/X4/IMG_1722-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Ttmj6R6/0/Lv433VL2NLk5ntpfRMzfGmzHf4r3xhHGq324Pp27F/X5/IMG_1722-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Ttmj6R6/0/NGkQT6FZCmVDwNcTdRbptwXBtdd5xBFLghqzzM67T/4K/IMG_1722-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Ttmj6R6/0/CLNvWRBdXxKmB4jkdBX367bpKPMnk8xZdW2rqgGsx-1757452784-O/i-Ttmj6R6.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 1415416,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Ttmj6R6-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Ttmj6R6-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1723.jpg",
+      "Date": "2020-01-01T18:08:26+00:00",
+      "Uri": "/api/v2/album/Pd3RKJ/image/kdBwKpQ-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2019-CostaRica/i-kdBwKpQ/0/#size#/IMG_1723-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSize4K",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-kdBwKpQ/0/L8R3KRGFhPpKvFB6F7tvB6Df4bwVjv3G7mKz2tsrQ/Ti/IMG_1723-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 11015,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-kdBwKpQ/0/NQZVVXQXpnS3jFrN52btz6KGK7sBwhqdshgfZL8RW/Th/IMG_1723-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 17842,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-kdBwKpQ/0/K9MpCFXqnVBjP4w3G48P8bsSbdgZvW3hRqhZWLJbN/S/IMG_1723-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 67793,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-kdBwKpQ/0/LsbLKHPGKnBw7zCb48kbfcMjf3bDw8VGR7kgMjwwM/M/IMG_1723-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 127922,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-kdBwKpQ/0/MrF9GNghq4b4hv4nKPC79VZ3pstwtCtDWPkX4Km83/L/IMG_1723-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 183685,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-kdBwKpQ/0/MVN2nR5DW5bMQ7T4hNnvBQrCbD5Jmr6JjpVMfgPD2/XL/IMG_1723-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-kdBwKpQ/0/KL95RVwhQSXDSDhCNd3dc4phKRvH2FNXDCJPwNBxF/X2/IMG_1723-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 345062,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-kdBwKpQ/0/M4kFzMZJRHNjMVzQBKb8FTdsRSHCspkVx9KgNVQ8s/X3/IMG_1723-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-kdBwKpQ/0/KWgv3CRz2PdTJkr5NFHDFhvXnqQwKF5vm7VZHxPCj/X4/IMG_1723-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-kdBwKpQ/0/NKTN8BCvMFnWM2wkKgnRLz9Q5PvN2RMXVMD99Xm6D/X5/IMG_1723-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-kdBwKpQ/0/NR6BFV45w5X69g5msRkMwL653dDWfJ3jnw9gsGTPd/4K/IMG_1723-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-kdBwKpQ/0/D8TfF7Xq74vbFkH9dwjnXb85jcntCMvL2frMfbHWh-1757452784-O/i-kdBwKpQ.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 1856525,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/kdBwKpQ-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/kdBwKpQ-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1724.jpg",
+      "Date": "2020-01-01T18:08:07+00:00",
+      "Uri": "/api/v2/album/Pd3RKJ/image/mR6D9Bh-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2019-CostaRica/i-mR6D9Bh/0/#size#/IMG_1724-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSize4K",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-mR6D9Bh/0/MTXG3S3FVztfwx7nfMJt7GtktKsV8pJD3wLSP3vkP/Ti/IMG_1724-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 10955,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-mR6D9Bh/0/KcxjCsd9DHTLcQwLGt6LSvdpxCQ3xjqv4QNMCsgH2/Th/IMG_1724-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 17752,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-mR6D9Bh/0/NcZZPH56pfFj9rD6jxK39DfvjbHhhdxspvLWDtB6t/S/IMG_1724-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 64240,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-mR6D9Bh/0/NHqFCh7BD2wqn3Mg2KCwPzWFHqpnmJsLVXzP8kBQK/M/IMG_1724-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 125758,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-mR6D9Bh/0/MDvKLCqFSvtMxDGFdJ5fw7fmnW7C7MgpzLbt6LmpC/L/IMG_1724-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 170093,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-mR6D9Bh/0/MQ3fdHBVhbSZFzk4HXt2sfcVgJHvLpck2Tn2dPVCz/XL/IMG_1724-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-mR6D9Bh/0/Ls9FQ5NC93MSnN4fLHQMqDxBh3HVfD5FNk4bvL9Wz/X2/IMG_1724-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 320910,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-mR6D9Bh/0/Nhg9wBXnXmLCkttXgqftqCTGrgWWbhRGGr3ZTQqjf/X3/IMG_1724-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-mR6D9Bh/0/LKXW2R4KRXWkrWPQbphtKTtRHwWLHj8Zk6RQVXXmq/X4/IMG_1724-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-mR6D9Bh/0/LWtsNjfc8vPxhsDB2QQRTCmr2j6RmrXRjbRjbZcc3/X5/IMG_1724-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-mR6D9Bh/0/Lfnd89qbZBGBbVvVF2QPDfsDtXjXFGQD6kDPwcz88/4K/IMG_1724-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-mR6D9Bh/0/CxQCxZfhVxL56s4pQBdbZNt29bjL5mgPTzJb6N6hH-1757452785-O/i-mR6D9Bh.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 1724628,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/mR6D9Bh-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/mR6D9Bh-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1725.jpg",
+      "Date": "2020-01-01T18:08:26+00:00",
+      "Uri": "/api/v2/album/Pd3RKJ/image/DZKskbt-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2019-CostaRica/i-DZKskbt/0/#size#/IMG_1725-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSize4K",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-DZKskbt/0/L2MWMGH6b4CbJDp9kRNQG9859HkjMSKtFCnXbDDWW/Ti/IMG_1725-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 9995,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-DZKskbt/0/LLqvdSG73dK5Z7H3hNHFP2TMWbMTkzC3mSNCrvbVk/Th/IMG_1725-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 15725,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-DZKskbt/0/LQBBqk7pPgfCNzDcScN9dPvQwTm2BrHgL6XVHM4Lq/S/IMG_1725-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 59713,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-DZKskbt/0/LZtsqsQd6JpB2fvxkzqGV6HbLBJKNG5GgtvDrBkkS/M/IMG_1725-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 127474,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-DZKskbt/0/MmvcQ3ZQtqwpWBGRqT2JcqZDcSD7pV2bZtfkbpffL/L/IMG_1725-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 211734,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-DZKskbt/0/NGWWHWDjmV8g58RcvGRKND49Ghcm48ZV4XNRqf5zd/XL/IMG_1725-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 351265,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-DZKskbt/0/M8D2wLWPrvnDJ2N8PkpnHXRpVbQfGk9Q7qS7nCb89/X2/IMG_1725-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 522825,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-DZKskbt/0/Lc7d9kBG4nJmgbCmnjbbCLmqTrVGZ8VjZ6SX27GBQ/X3/IMG_1725-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-DZKskbt/0/KJDnFZjZS4GHzRQTwF5GbJ9bwD3nPVZZzGXJ4hFdh/X4/IMG_1725-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-DZKskbt/0/MR8TQS3rRXbvKTmJ2W7cZbDNDfDX696XrCXJVVvFV/X5/IMG_1725-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-DZKskbt/0/L6cwPkvN29WjtVqRdtVQTzkcbLRRmz6g83hG8D7F6/4K/IMG_1725-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-DZKskbt/0/Dhd7THsKpmSZtFQQTVfSqJsdx2BZBGwbLvsjGM5tV-1757452785-O/i-DZKskbt.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 4648586,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/DZKskbt-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/DZKskbt-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1726.jpg",
+      "Date": "2020-01-01T18:08:53+00:00",
+      "Uri": "/api/v2/album/Pd3RKJ/image/Rtr2WwZ-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Rtr2WwZ/0/#size#/IMG_1726-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSize4K",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Rtr2WwZ/0/KpcS7mFNR9Ws87hJfS9bczgbmjtRxztnwWPWbJZVk/Ti/IMG_1726-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 9949,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Rtr2WwZ/0/NJbQgK7FcsPjwRDT4ncHbQpgxr7rxPw2nMqChw7Gq/Th/IMG_1726-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 15593,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Rtr2WwZ/0/LWqM87hgzfZ4qvxdLSSt9ZnqmxQFbnMQdRgfPPGn9/S/IMG_1726-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 60081,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Rtr2WwZ/0/KFgNbZhmFk4Rb2jhTGft2H7WC3kfTcC45vkBr8XfD/M/IMG_1726-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 129443,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Rtr2WwZ/0/L3pb7DkZBqDDjHvJNz3T5FsztmBNg9zZnZHnnJ627/L/IMG_1726-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 214754,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Rtr2WwZ/0/Mmvb7SX76SJsHkXQzVZtKHzSJZ2GwnFxnFMjCmNHF/XL/IMG_1726-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 356848,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Rtr2WwZ/0/MjzxGBpKtb6FQdWQ7SMH8wd6fk4vzm6zGhp3QBSVB/X2/IMG_1726-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 530160,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Rtr2WwZ/0/KdN6XHJCfFGgc8bHjZnNBSq3sCw5M9FmjXNmJrZcL/X3/IMG_1726-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Rtr2WwZ/0/KZCgkNkJ3399Lp5bsSrvZfdnpNCQjtTxLG8tmM9M9/X4/IMG_1726-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Rtr2WwZ/0/MNdqmQ4rrbs7VWNcJbXdfWMgH5VB4DHL7KWkQjbCW/X5/IMG_1726-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Rtr2WwZ/0/Kcn7b9kCG8jcnJmSb3VgdbRVxG4QHB6rbGNHWkQW4/4K/IMG_1726-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Rtr2WwZ/0/CPpzt9s66WLk4jmMPH6PgKrM7w64GjXtrhTbxjfdW-1757452785-O/i-Rtr2WwZ.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 4624568,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Rtr2WwZ-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Rtr2WwZ-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1727.jpg",
+      "Date": "2020-01-01T18:08:47+00:00",
+      "Uri": "/api/v2/album/Pd3RKJ/image/gCD6twr-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2019-CostaRica/i-gCD6twr/0/#size#/IMG_1727-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSize4K",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-gCD6twr/0/MDQJBpXkZPjvvvCG9mdBsP2cLCKRbQVkm2BKNf8bB/Ti/IMG_1727-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 10167,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-gCD6twr/0/MTPmcxb8wCS6LgWsjDJ9FbRWG4BgcNP9P7PRrhvPP/Th/IMG_1727-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 15925,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-gCD6twr/0/NhQc4Mm2WLkpNDXShDbsxNfqjBBMjsQ4792QFJjzH/S/IMG_1727-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 61648,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-gCD6twr/0/KPHvkN5R2dz7P6JdG77dRpc4cZPm8Zn32nWqtFL3J/M/IMG_1727-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 132204,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-gCD6twr/0/K8Pd3LrmSN4b4NRSFWQZbWWfTj6b66dXxxsSQmSnR/L/IMG_1727-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 218573,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-gCD6twr/0/NSFZ9H9Q89L5VFJHfzLpkWsS2xXPDM3JGJZvW2SqP/XL/IMG_1727-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 362750,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-gCD6twr/0/KwwzTmNmFJspGHBNWtDrtnHck7rKcbgx7kvKGJHvv/X2/IMG_1727-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 538047,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-gCD6twr/0/MWj8mZD4JKS6SsWpZKtjNpcBDgRRLQZ8bQCZhGs52/X3/IMG_1727-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-gCD6twr/0/KvhLFMZw2N8cT6FTwmm3NZdnv9GHNKWrMMVR6DQ8W/X4/IMG_1727-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-gCD6twr/0/MkpHmDGSpqCt2CJn59bM2QmrQhkWW5sGNB4xzkZPm/X5/IMG_1727-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-gCD6twr/0/M878FLRvvgHPVt8GSQqjgzKqvmHQnkT7zTS4GvcLg/4K/IMG_1727-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-gCD6twr/0/CCqmDMxMqTHJvKMdKZHC5Cm9x4g6ntTwQZ3h9tpNt-1757452785-O/i-gCD6twr.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 4734377,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/gCD6twr-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/gCD6twr-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1728.jpg",
+      "Date": "2020-01-01T18:09:47+00:00",
+      "Uri": "/api/v2/album/Pd3RKJ/image/bHJHJ8p-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2019-CostaRica/i-bHJHJ8p/0/#size#/IMG_1728-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSize4K",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-bHJHJ8p/0/LTDczhTpJkXRCcfQ6JzR88S43txVZgkp5dLMKVBCG/Ti/IMG_1728-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 10138,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-bHJHJ8p/0/LQHFvHrdfzDj6K3sFdQnDrRv9qRq6jN9x59LvWtXJ/Th/IMG_1728-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 15868,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-bHJHJ8p/0/LQCTgVC2NTLZNnwFb3PPS5KMXQVWTK4hfNChnhwGh/S/IMG_1728-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 61559,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-bHJHJ8p/0/MpkdRWqMwPwNz7xvXMN79J2DVqdwm2sP3mTPcsv6b/M/IMG_1728-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 132241,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-bHJHJ8p/0/K8RrHmDdzd2LSCt3NFT7N97SQHssF4fr2H2b2Wrzh/L/IMG_1728-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 218573,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-bHJHJ8p/0/NB2wSvDWXS2s6B6CtPkpqqG3wS8HLD2nbvnHq9F9b/XL/IMG_1728-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 361428,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-bHJHJ8p/0/MjLTkwkSx65TTJ86tDgBRcXT4pQKshpGmm5MvF3xX/X2/IMG_1728-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 534012,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-bHJHJ8p/0/LQ9R8RXjHXSNFcScZBDQJL2TSBVS2QjFvqwzmtNWG/X3/IMG_1728-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-bHJHJ8p/0/MWmjJHqcmQ6xHvCwPPwDDvWm6VQxRR2m9hR2P2vj8/X4/IMG_1728-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-bHJHJ8p/0/MKDT4RDzsD8MF9Z5DQc64s77NsXn88vxdsr9hrq3v/X5/IMG_1728-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-bHJHJ8p/0/L9TxXsnSvkQm3956VRKP4rzC9fgWNf3txcQ2Sgqmj/4K/IMG_1728-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-bHJHJ8p/0/DXzhXJfP5czv6kb6RLRWXRptGwf4Zkmmc2FFqTnr8-1757452785-O/i-bHJHJ8p.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 4540200,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/bHJHJ8p-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/bHJHJ8p-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1729.jpg",
+      "Date": "2020-01-01T18:09:08+00:00",
+      "Uri": "/api/v2/album/Pd3RKJ/image/NMD3kvh-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2019-CostaRica/i-NMD3kvh/0/#size#/IMG_1729-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSize4K",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-NMD3kvh/0/MpCTJQ7P2M8sNNsFgFHpx3kHQrHKWHNz3CPLVW4tV/Ti/IMG_1729-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 10057,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-NMD3kvh/0/Kgpszrkgw95jwQDzvkk6nWTV5n7sRvSMQVLSLvXg9/Th/IMG_1729-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 15870,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-NMD3kvh/0/MJbdhpbhNH8RwMjqMshXC9GhWbkKmDpkkCCmW7F8W/S/IMG_1729-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 61599,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-NMD3kvh/0/LPKHC5t3kFC4Scbcg6HgLKR5GGLcrP9g4rNfhrNX2/M/IMG_1729-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 141147,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-NMD3kvh/0/NgGrzMTT9GHjQBZ7NvwK5TTcm267PMhhwVJzg4x5x/L/IMG_1729-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 220378,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-NMD3kvh/0/MQcM8nB999WwZ5XHqMks8XR7K3KwcrjWTNrBHZhxf/XL/IMG_1729-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 366708,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-NMD3kvh/0/KZq8qFdN7KncfMkqrFQQvv24n6RHwq6xs9GHnZgm5/X2/IMG_1729-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 544762,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-NMD3kvh/0/Ms8nLsqxK52FZHRsrgjXZx64QJHGNp8FztL8f7nVs/X3/IMG_1729-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-NMD3kvh/0/NgW65DgVHWTQX69FRNSK6MpN8ZBKGZXht2RS7t4J6/X4/IMG_1729-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-NMD3kvh/0/LVH2P9hK8p5nF3HdB9TtgGkFRRsDjr7QRzNGGgX6B/X5/IMG_1729-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-NMD3kvh/0/NFJ58QS9Mw6vLQtv2nm7xDM6MhsspdgLzdDDvqT5H/4K/IMG_1729-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-NMD3kvh/0/pxSvQmxHzX8sn9XxvnDPBmk4JJz2V3rJvdsMPmjm-1757452785-O/i-NMD3kvh.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 4791402,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/NMD3kvh-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/NMD3kvh-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_0650 (1).jpg",
+      "Date": "2020-01-01T18:05:06+00:00",
+      "Uri": "/api/v2/album/Pd3RKJ/image/J7DwngV-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2019-CostaRica/i-J7DwngV/0/#size#/IMG_0650%20%281%29-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSize4K",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-J7DwngV/0/LhBdCWNPS5qvCtnb5Pbvkd7TMRQrMnwFhJcvkkr3x/Ti/IMG_0650%20%281%29-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 10499,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-J7DwngV/0/NL8cQHq7TPrcLT2JrzBFpdpFnNjrBkwgVbRnPGtdj/Th/IMG_0650%20%281%29-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 17786,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-J7DwngV/0/NFmZ88MGsxdWZRtNxdjXvvmFJvDWG2DnKt7KBfNM5/S/IMG_0650%20%281%29-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 71497,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-J7DwngV/0/LG2BZTDWQ4tJXhzwxfrG29xR8nf4m3cq6s7NH3xCW/M/IMG_0650%20%281%29-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 157240,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-J7DwngV/0/NBhz3bpwsC8CmnVBpF7S2MgbN3ctc5rtxkCpKXLdH/L/IMG_0650%20%281%29-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 263177,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-J7DwngV/0/Ksp7hsN8tFsX6kZ6DGfWvPW3pt6bf25X83VQCLt5F/XL/IMG_0650%20%281%29-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 436199,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-J7DwngV/0/NTL9L9Vw7xhk9wkdJtTfDvMRdwmFjZTPTRKB444jc/X2/IMG_0650%20%281%29-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 646935,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-J7DwngV/0/L5v39njm9bBc6ZZZNLVZHr44qM5smbDCKBzC922d5/X3/IMG_0650%20%281%29-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-J7DwngV/0/NCV4jb8gM9299LgPTPPwJ5f5xzCpRXtnkSjPhVnNp/X4/IMG_0650%20%281%29-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-J7DwngV/0/NM5jTjPbnFQ6Nqxjbzrf9RFhzksTh7Ldg2XjgVwFs/X5/IMG_0650%20%281%29-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-J7DwngV/0/M26fW4GfXCP6NPNGr3xCTtjH57VJNpRnGWV6G6JtR/4K/IMG_0650%20%281%29-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-J7DwngV/0/DXDQ6JkgNnZv4pQMDTbwxG4jPrtfrHkMRFHpJv49D-1757452786-O/i-J7DwngV.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/J7DwngV-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/J7DwngV-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_0650.jpg",
+      "Date": "2020-01-01T18:04:25+00:00",
+      "Uri": "/api/v2/album/Pd3RKJ/image/vSC8pkm-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2019-CostaRica/i-vSC8pkm/0/#size#/IMG_0650-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeX3Large",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-vSC8pkm/0/Lnj8PxhDJhxvHGLNq8LjKLTL87NSVhZxC5pzBhgRT/Ti/IMG_0650-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 11255,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-vSC8pkm/0/K4xXL7CsFfn86jVMThQksq6wQDQXztBv9t9pvppjR/Th/IMG_0650-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 18913,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-vSC8pkm/0/LW2nXGtbZHVFqwdFwqkqtx6SLtmVHqfmJnrscd7Rt/S/IMG_0650-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 205,
+          "Size": 44237,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-vSC8pkm/0/MPkkNsL32KmBD33j2sSWkWq62SFtmJzSxtbNgdM5N/M/IMG_0650-M.jpg",
+          "Ext": "jpg",
+          "Height": 449,
+          "Width": 307,
+          "Size": 94406,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-vSC8pkm/0/LdKXPxGtnqZQZKgTf53zxkXfZj7xmwDM5gnZPqjcF/L/IMG_0650-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 410,
+          "Size": 157416,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-vSC8pkm/0/LGpBMpPHX3KmbrKgrVnqk99rSdRKwJZKtKBmmNckH/XL/IMG_0650-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 524,
+          "Size": 255020,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-vSC8pkm/0/LngD4q3NZ7BsqTswWGrKH4ZwqJVxSgr7Jr3sj6C77/X2/IMG_0650-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 655,
+          "Size": 367863,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-vSC8pkm/0/MRgvjwztCTLM3WrWngqJ4KqCXNfdg289mw7wHfn6p/X3/IMG_0650-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 819,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-vSC8pkm/0/C9JKv8Z3cP3TtXNhpnJhLjgM3NXxCcsLvXr5qcWpS-1757452786-O/i-vSC8pkm.jpg",
+          "Ext": "jpg",
+          "Height": 1909,
+          "Width": 1303,
+          "Size": 1387023,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/vSC8pkm-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/vSC8pkm-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1732.m4v",
+      "Date": "2020-01-01T18:10:54+00:00",
+      "Uri": "/api/v2/album/Pd3RKJ/image/Wd9pxnd-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Wd9pxnd/0/#size#/IMG_1732-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeOriginal",
+          "VideoSize1280",
+          "VideoSize960",
+          "VideoSize640",
+          "VideoSize320",
+          "VideoSMIL"
+        ],
+        "LargestImageSize": "ImageSizeX2Large",
+        "LargestVideoSize": "VideoSize1280",
+        "VideoUrlTemplate": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Wd9pxnd/0/#size#/IMG_1732-#size#.mp4",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Wd9pxnd/0/MxrKG4RBwBds3c77VJ5Zs2M4n8CZ4wVjV4bTTzfFf/Ti/IMG_1732-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 8229,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Wd9pxnd/0/NQnRnKz8xHVt6p6xFBSDGmGp2CGHcVZC4ZCW9CbGc/Th/IMG_1732-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 11988,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Wd9pxnd/0/KPqfrJbq3d4QRW7zXBtqN9g8DNbbX5JZV8xRMVVFL/S/IMG_1732-S.jpg",
+          "Ext": "jpg",
+          "Height": 225,
+          "Width": 400,
+          "Size": 30275,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Wd9pxnd/0/LJDmCL8LLw6V3VnwbNjsxHsdQx4kXskk2R5F2df78/M/IMG_1732-M.jpg",
+          "Ext": "jpg",
+          "Height": 338,
+          "Width": 600,
+          "Size": 57868,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Wd9pxnd/0/M3MXpstRg7pccLktt28BFDj9rd6SgxCqmCTHgjjQS/L/IMG_1732-L.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 800,
+          "Size": 89440,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Wd9pxnd/0/LkWVbzRmmqkxFz9QGgc9B7fCXmdGFqSkRMkPh3Mkt/XL/IMG_1732-XL.jpg",
+          "Ext": "jpg",
+          "Height": 576,
+          "Width": 1024,
+          "Size": 215150,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Wd9pxnd/0/LQpL2wk4P5p2HsVvXVGtq59qFDTrrrcV2hGdrbLr7/X2/IMG_1732-X2.jpg",
+          "Ext": "jpg",
+          "Height": 720,
+          "Width": 1280,
+          "Size": 110972,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Wd9pxnd/0/DPHK2rLp8n4f4PGXqkDXVr4RSkPGTXSsJMMRfBsvK-1757452786-O/i-Wd9pxnd.jpg",
+          "Ext": "jpg",
+          "Height": 720,
+          "Width": 1280,
+          "Size": 81277,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "VideoSize1280": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Wd9pxnd/0/Mn2Dm4BPHSVwjfX9dJggrPL6pWS7xfpmxJWrfnjp9/1280/IMG_1732-1280.mp4",
+          "Ext": "mp4",
+          "Height": 720,
+          "Width": 1280,
+          "Size": 5197016,
+          "Duration": 12,
+          "Bitrate": "3464677.3333333",
+          "Watermarked": false
+        },
+        "VideoSize960": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Wd9pxnd/0/Mn2Dm4BPHSVwjfX9dJggrPL6pWS7xfpmxJWrfnjp9/1280/IMG_1732-1280.mp4",
+          "Ext": "mp4",
+          "Height": 720,
+          "Width": 1280,
+          "Size": 5197016,
+          "Duration": 12,
+          "Bitrate": "3464677.3333333",
+          "Watermarked": false
+        },
+        "VideoSize640": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Wd9pxnd/0/NhPTKsfG5GNTWPnxFBSZBK8vnKfZrHVS8Z5PNzTXB/640/IMG_1732-640.mp4",
+          "Ext": "mp4",
+          "Height": 360,
+          "Width": 640,
+          "Size": 1390845,
+          "Duration": 12,
+          "Bitrate": "927230",
+          "Watermarked": false
+        },
+        "VideoSize320": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-Wd9pxnd/0/NdnGj7PMS2RNLCJfDhwvT6G3bF6NGp3p9BTD265rG/320/IMG_1732-320.mp4",
+          "Ext": "mp4",
+          "Height": 180,
+          "Width": 320,
+          "Size": 819008,
+          "Duration": 12,
+          "Bitrate": "546005.33333333",
+          "Watermarked": false
+        },
+        "VideoSMIL": {
+          "Url": "https://videos.smugmug.com/Travel/2019-CostaRica/i-Wd9pxnd/0/MW58vf9sKWFpKx7jmLLkx4jbdT5S3KPrCqs25fb4h/SMIL/Wd9pxnd.smil/master.m3u8",
+          "Ext": "smil"
+        },
+        "Uri": "/api/v2/image/Wd9pxnd-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Wd9pxnd-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1731.m4v",
+      "Date": "2020-01-01T18:11:28+00:00",
+      "Uri": "/api/v2/album/Pd3RKJ/image/TnMKt95-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2019-CostaRica/i-TnMKt95/0/#size#/IMG_1731-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeOriginal",
+          "VideoSize1280",
+          "VideoSize960",
+          "VideoSize640",
+          "VideoSize320",
+          "VideoSMIL"
+        ],
+        "LargestImageSize": "ImageSizeX2Large",
+        "LargestVideoSize": "VideoSize1280",
+        "VideoUrlTemplate": "https://photos.smugmug.com/Travel/2019-CostaRica/i-TnMKt95/0/#size#/IMG_1731-#size#.mp4",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-TnMKt95/0/KVZgfTbWMcnPcTjTcRcbp9RNmHnZHPP6DrPQtqRVZ/Ti/IMG_1731-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 9948,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-TnMKt95/0/LrBQCxVQCnhT2d5qf4jcVV6LBGpSrFhFd2MgHJrhx/Th/IMG_1731-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 16485,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-TnMKt95/0/KWmvvJCtwmJhxHvxv5nJVPCNNNcwJ5tSLb2PzFG9z/S/IMG_1731-S.jpg",
+          "Ext": "jpg",
+          "Height": 225,
+          "Width": 400,
+          "Size": 53359,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-TnMKt95/0/Kc6gn9h68768dhRmcFdRk9CVLKSsq7Dpxrbd3hTJj/M/IMG_1731-M.jpg",
+          "Ext": "jpg",
+          "Height": 338,
+          "Width": 600,
+          "Size": 110185,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-TnMKt95/0/KcHbq5MC9HpRqQC3VNfQvQDT6xVhzjm8gw2LKdHFX/L/IMG_1731-L.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 800,
+          "Size": 167828,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-TnMKt95/0/Nc358gnZDfzPXtLdkgRLtkKzVdkDPc7VxsRJg9pNg/XL/IMG_1731-XL.jpg",
+          "Ext": "jpg",
+          "Height": 576,
+          "Width": 1024,
+          "Size": 384898,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-TnMKt95/0/LKFwfrwRgm4ZK2KzHcH4pfn22zDPfzxLCXFQLvC5M/X2/IMG_1731-X2.jpg",
+          "Ext": "jpg",
+          "Height": 720,
+          "Width": 1280,
+          "Size": 215036,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-TnMKt95/0/D27p7mV6ggXQQ4qXnv4tCxWGMRD6Ntb3bvqHQzNHx-1757452786-O/i-TnMKt95.jpg",
+          "Ext": "jpg",
+          "Height": 720,
+          "Width": 1280,
+          "Size": 152096,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "VideoSize1280": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-TnMKt95/0/KZk876kPB4dv5KZjnTMdvqhxJhZk8Jk6Z88hrXtSf/1280/IMG_1731-1280.mp4",
+          "Ext": "mp4",
+          "Height": 720,
+          "Width": 1280,
+          "Size": 13848075,
+          "Duration": 33,
+          "Bitrate": "3357109.0909091",
+          "Watermarked": false
+        },
+        "VideoSize960": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-TnMKt95/0/KZk876kPB4dv5KZjnTMdvqhxJhZk8Jk6Z88hrXtSf/1280/IMG_1731-1280.mp4",
+          "Ext": "mp4",
+          "Height": 720,
+          "Width": 1280,
+          "Size": 13848075,
+          "Duration": 33,
+          "Bitrate": "3357109.0909091",
+          "Watermarked": false
+        },
+        "VideoSize640": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-TnMKt95/0/MZHs242GC6b3pXd9RSpFH9bs3F47bgbxpNMk3L9kr/640/IMG_1731-640.mp4",
+          "Ext": "mp4",
+          "Height": 360,
+          "Width": 640,
+          "Size": 3728339,
+          "Duration": 33,
+          "Bitrate": "903839.75757576",
+          "Watermarked": false
+        },
+        "VideoSize320": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-TnMKt95/0/MRWKqZW8ZnFG6nN59PvvP6Fj3WbpTGZcqXhDGr89c/320/IMG_1731-320.mp4",
+          "Ext": "mp4",
+          "Height": 180,
+          "Width": 320,
+          "Size": 2735764,
+          "Duration": 33,
+          "Bitrate": "663215.51515152",
+          "Watermarked": false
+        },
+        "VideoSMIL": {
+          "Url": "https://videos.smugmug.com/Travel/2019-CostaRica/i-TnMKt95/0/LDXC72S2C5jss472Ckrj9wpwb5KzLfkJmXSSXbdqg/SMIL/TnMKt95.smil/master.m3u8",
+          "Ext": "smil"
+        },
+        "Uri": "/api/v2/image/TnMKt95-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/TnMKt95-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1730.m4v",
+      "Date": "2020-01-01T18:09:25+00:00",
+      "Uri": "/api/v2/album/Pd3RKJ/image/dgbNk8S-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2019-CostaRica/i-dgbNk8S/0/#size#/IMG_1730-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal",
+          "VideoSize1280",
+          "VideoSize960",
+          "VideoSize640",
+          "VideoSize320",
+          "VideoSMIL"
+        ],
+        "LargestImageSize": "ImageSizeX3Large",
+        "LargestVideoSize": "VideoSize1280",
+        "VideoUrlTemplate": "https://photos.smugmug.com/Travel/2019-CostaRica/i-dgbNk8S/0/#size#/IMG_1730-#size#.mp4",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-dgbNk8S/0/Kjr9fm455dHNpr3MpMP4M2wZqzXb7XjnsWrGcLfDc/Ti/IMG_1730-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 7987,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-dgbNk8S/0/MGwxDtZTPtHNCXWGb7gNxG53gBCTCPg3jn6C7kJ25/Th/IMG_1730-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 12021,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-dgbNk8S/0/MctHpxjtQVHsQXPtMPVdMP7XMbDwqJMGqXw9B9WBH/S/IMG_1730-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 169,
+          "Size": 21310,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-dgbNk8S/0/NNLGPj8MLZSb2vSb2C7NRdzqNF635mjGDqDTrZLks/M/IMG_1730-M.jpg",
+          "Ext": "jpg",
+          "Height": 449,
+          "Width": 253,
+          "Size": 38430,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-dgbNk8S/0/LpTHJfT5xb3HpmS6FHMZw3jdbP4LPBZXQWZzqKP7W/L/IMG_1730-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 338,
+          "Size": 56890,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-dgbNk8S/0/Ls28MTkNtVfNgQszWggVtMd5pk7FZqbtXT4JvQ4Pr/XL/IMG_1730-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 432,
+          "Size": 75505,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-dgbNk8S/0/L97B4mwr5MTf882SBsrrhLB3WvgP7dsQ9Zzdhprvn/X2/IMG_1730-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 540,
+          "Size": 108739,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-dgbNk8S/0/L85LkMc9dhKPpJ2fSTChrS2SJBd8HKcxbmTnN7zwp/X3/IMG_1730-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 675,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-dgbNk8S/0/DW79jQfBcq3Qf3WXm2HfCxSczn5j6HssLzLQ8cGM6-1757452786-O/i-dgbNk8S.jpg",
+          "Ext": "jpg",
+          "Height": 1280,
+          "Width": 720,
+          "Size": 60137,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "VideoSize1280": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-dgbNk8S/0/KrmgTzBThWXPmzCMvF3rZFRsp7GxWGTxFPQ7BqN2r/1280/IMG_1730-1280.mp4",
+          "Ext": "mp4",
+          "Height": 1280,
+          "Width": 720,
+          "Size": 1539764,
+          "Duration": 6,
+          "Bitrate": "2053018.6666667",
+          "Watermarked": false
+        },
+        "VideoSize960": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-dgbNk8S/0/KrmgTzBThWXPmzCMvF3rZFRsp7GxWGTxFPQ7BqN2r/1280/IMG_1730-1280.mp4",
+          "Ext": "mp4",
+          "Height": 1280,
+          "Width": 720,
+          "Size": 1539764,
+          "Duration": 6,
+          "Bitrate": "2053018.6666667",
+          "Watermarked": false
+        },
+        "VideoSize640": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-dgbNk8S/0/KfqcMXqm8p5V2gRSx7DS6PpgM3PxDrf9Mmtr2qsdd/640/IMG_1730-640.mp4",
+          "Ext": "mp4",
+          "Height": 640,
+          "Width": 360,
+          "Size": 703176,
+          "Duration": 6,
+          "Bitrate": "937568",
+          "Watermarked": false
+        },
+        "VideoSize320": {
+          "Url": "https://photos.smugmug.com/Travel/2019-CostaRica/i-dgbNk8S/0/NZHwqXxFrzLPjKv7B3KzKtBm7KFkdMhpxw9fmZDR4/320/IMG_1730-320.mp4",
+          "Ext": "mp4",
+          "Height": 320,
+          "Width": 180,
+          "Size": 367022,
+          "Duration": 6,
+          "Bitrate": "489362.66666667",
+          "Watermarked": false
+        },
+        "VideoSMIL": {
+          "Url": "https://videos.smugmug.com/Travel/2019-CostaRica/i-dgbNk8S/0/KN5f8vhSFdjTWWkMnGLZVrQ5xBnr5pCntmS2N5gTd/SMIL/dgbNk8S.smil/master.m3u8",
+          "Ext": "smil"
+        },
+        "Uri": "/api/v2/image/dgbNk8S-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/dgbNk8S-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    }
+  ]
+}

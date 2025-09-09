@@ -1,0 +1,581 @@
+{
+  "UrlName": "2006-JuneSilverLake",
+  "Name": "2006-June Silver Lake",
+  "Uri": "/api/v2/album/jvFtgB",
+  "Date": "2008-04-12T18:24:43+00:00",
+  "WebUri": "https://lmblevins.smugmug.com/Travel/2006-JuneSilverLake",
+  "Images": [
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1771.jpg",
+      "Date": "2008-04-12T18:25:04+00:00",
+      "Uri": "/api/v2/album/jvFtgB/image/RnFSrQN-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-RnFSrQN/0/#size#/IMG_1771-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-RnFSrQN/0/NZXjN9MWHJ47vXTRLcHGjRvd7RRv2fFwPZp3XNWrr/Ti/IMG_1771-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-RnFSrQN/0/LbDGc4rD24gwVBnx7xX8xW6j7TDCzrMkLq5JPmCnR/Th/IMG_1771-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 16414
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-RnFSrQN/0/LVX5MgM9GXmFHhDdbdhRGWvNMXhSPJx9Pkkx4fph9/S/IMG_1771-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 65383
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-RnFSrQN/0/K9WdVKXBFhVCKfwHdrgdsw8Q8MRDwphF8ZCJdcqf2/M/IMG_1771-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 135872
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-RnFSrQN/0/MP2QTq8jbHMRrdNq85DXH7T6JRhJGtWK9sBTtMtRd/L/IMG_1771-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 219935
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-RnFSrQN/0/K9x6sV8FwxrRkWZm9TQBXxN3vQkSvmMptF5rDW2j7/XL/IMG_1771-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 338373
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-RnFSrQN/0/LxMCvXWXsZdK9nFMz4C7kwFbMF9ghtVdrLpGvgZ99/X2/IMG_1771-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-RnFSrQN/0/LCh4X7q2pw2D9PqNSR3svDpRSd2CC6TGJH3Z8GXc5/X3/IMG_1771-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-RnFSrQN/0/Kb9pm2JzQsK3Wpb2LzLPfhcHKRwPZNHqxwQQrVssh/O/IMG_1771.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 545882,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/RnFSrQN-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/RnFSrQN-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1766.jpg",
+      "Date": "2008-04-12T18:25:05+00:00",
+      "Uri": "/api/v2/album/jvFtgB/image/MZTZvQs-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-MZTZvQs/0/#size#/IMG_1766-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-MZTZvQs/0/KDshxBfhjMv8zgn6f8nWKGFNHM5GDdKzqsFwWHSP3/Ti/IMG_1766-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-MZTZvQs/0/LPBLWJdwqv7GMvMdfMrsqNQMK6CsRFhcxkcDDQ3WW/Th/IMG_1766-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-MZTZvQs/0/MpMbPJ7w69GBrX6w5NDzKtqfwZcBkCQLgcSDqC3ZS/S/IMG_1766-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 52748
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-MZTZvQs/0/M3xHSxDq8hgpKxGknW8s2rQwnkRFBJb4d2cz5XPxt/M/IMG_1766-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 113980
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-MZTZvQs/0/Krx9b6wPPgsg2rCJdh9FHPKcL7PWvV5KDXcnfjWFz/L/IMG_1766-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 220660
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-MZTZvQs/0/MTCqJg3kBgQCGk7hzCNBxTRrwT7jqrtbRjX8Wmdst/XL/IMG_1766-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 514544
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-MZTZvQs/0/NdkcW8BBCDtK79KLcvCpZzshJSX8VhLVGkTVsfjtj/X2/IMG_1766-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-MZTZvQs/0/NcfMkKkKHh9JGxgk83fJmxTQnbBXGqrXdxgTfq6nS/X3/IMG_1766-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-MZTZvQs/0/Kb435rLDtBpNPg58f2n953fX9jvRKM8gQbgXwvN9X/O/IMG_1766.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 595312,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/MZTZvQs-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/MZTZvQs-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1774.jpg",
+      "Date": "2008-04-12T18:25:09+00:00",
+      "Uri": "/api/v2/album/jvFtgB/image/QXvsWqt-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-QXvsWqt/0/#size#/IMG_1774-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-QXvsWqt/0/NgF2LT35gFZJVtLkmxRgqc88LxVgTRkZBL9rgxGCS/Ti/IMG_1774-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-QXvsWqt/0/M36fspqJZ9q6wVQV3gShWXgDgcNhjgsZkbsBNVFgk/Th/IMG_1774-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-QXvsWqt/0/KwkZsWQVKX57QCKccBZccBxTRtbvXJx9vJLk9RCmL/S/IMG_1774-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 65782
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-QXvsWqt/0/KkPp67n28kGBxz2cvQT8NS2m4TLmmRbnzFm9Zr3Rd/M/IMG_1774-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 130913
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-QXvsWqt/0/LTS73tJJrKLVHnrpdjc9j9ZXqqnGzvMFJJbWPKwsj/L/IMG_1774-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 235658
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-QXvsWqt/0/MgNw6fv5FwRLxcm3VRM33g8CG8kQMJNXvqmvwPg6k/XL/IMG_1774-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 560234
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-QXvsWqt/0/M4KzBvtMrfsdJ2tShCFm22TH9gd5KN6gHFCBX5shg/X2/IMG_1774-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-QXvsWqt/0/NfwTR4rz4gKmKdrRd7DBJLx2Sx3WmjfmfJwNR3h2x/X3/IMG_1774-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-QXvsWqt/0/LMWg2fTgRnkSHjZTfnRSQWPcrzKtJnQQf6Mw4Kwsj/O/IMG_1774.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 651811,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/QXvsWqt-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/QXvsWqt-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1776.jpg",
+      "Date": "2008-04-12T18:25:08+00:00",
+      "Uri": "/api/v2/album/jvFtgB/image/22CDt5B-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-22CDt5B/0/#size#/IMG_1776-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-22CDt5B/0/L8cdKb9PV2gKQb3zs54WF7K6GQrgWg9k97ZBsHMF2/Ti/IMG_1776-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-22CDt5B/0/LJLQRg89WzBBnx37BrcPzQPQhBVJwhw9SPrSMX7Dt/Th/IMG_1776-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-22CDt5B/0/KTT5M2JtRk47TsNVrhGV8HqgVJHtbvGsHgSzfJvzm/S/IMG_1776-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 54860
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-22CDt5B/0/MLfFdvLQJrShH5zDDcTfWZM4Qt3w5JdVLVf72hPGm/M/IMG_1776-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 120581
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-22CDt5B/0/LVjVZ88KcgLhHpJCb49b2k3w9n3WtrS83m7kM6v4F/L/IMG_1776-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 244000
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-22CDt5B/0/MsLKdg5d5LQS3WmsCxdsC52zM37tQcb56rdxvxbdD/XL/IMG_1776-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 493891
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-22CDt5B/0/NjgGpTqNQtKTk52QfTvjTk78sB4R83KWq7DbJX8kH/X2/IMG_1776-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-22CDt5B/0/M4NRGfwdzVsKrWFvJSrXRDfTTvTrv8kxp455KhdVP/X3/IMG_1776-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-22CDt5B/0/NXtVrmmfNhcNm6KT9gHsBLfMRLBWQmLK6mDr56rhs/X4/IMG_1776-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-22CDt5B/0/KNNBX6s5XDPvxx8ZLhHXGJ2ssqZWmPQWCGghWXXBC/O/IMG_1776.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 510502,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/22CDt5B-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/22CDt5B-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1782.jpg",
+      "Date": "2008-04-12T18:25:12+00:00",
+      "Uri": "/api/v2/album/jvFtgB/image/LWxXwVT-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-LWxXwVT/0/#size#/IMG_1782-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-LWxXwVT/0/LhWsJv9JVX6XNKT9gm4HK3NMwJT3m2rmZ4qwHzTrL/Ti/IMG_1782-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-LWxXwVT/0/NLmsMBHkxcnzhxF2drSGrhx8xhWVwqF5xdLhDwj7c/Th/IMG_1782-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-LWxXwVT/0/KG2SG8SL2VLTQdnccV568jMKKRMCrm2bPRvQkSJBB/S/IMG_1782-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 29605
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-LWxXwVT/0/NCwmJmQR7NnwmL7hwzn8SSHKcrKJTtsx7wJnrLLMp/M/IMG_1782-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 62874
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-LWxXwVT/0/NTdd6fSzNjXrGQX3wjFgJhFMNdbwFFrqjQvh97fmM/L/IMG_1782-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 140086
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-LWxXwVT/0/NNCFK7FNVgddtxTsJ2WDqGFsDGvhc6KBTR8DNTsqF/XL/IMG_1782-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 291231
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-LWxXwVT/0/MHQTXhCJpVbjCnqwMxpbwtQmRV47r4qFhCRnLWLvt/X2/IMG_1782-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-LWxXwVT/0/NBfQrg88ZZ3BQdFVmNfwnPDk9QtvrrNrdz7wPs4ZB/X3/IMG_1782-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-LWxXwVT/0/NK8kKVtxhB9Rd668WgDZtjFpsW522fm3k5cXRrtWD/X4/IMG_1782-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-LWxXwVT/0/KhZZ6MWdPNh9XMGkG7DcQ2pT8zpMpPjsK2nKDxCHV/O/IMG_1782.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 251099,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/LWxXwVT-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/LWxXwVT-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1784.jpg",
+      "Date": "2008-04-12T18:25:12+00:00",
+      "Uri": "/api/v2/album/jvFtgB/image/98z3J48-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-98z3J48/0/#size#/IMG_1784-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-98z3J48/0/KQwgvVxqBM4XXcZ2bCB4jxthsrpCNSxBWDWWZcVBf/Ti/IMG_1784-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-98z3J48/0/KnBGgD3mqCsv9mBT4DffCJZ5CHPQ4J3wpgcLPT76Z/Th/IMG_1784-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-98z3J48/0/NVNtrhc4p2PcDshKD8GXWkjXGS8CVhTFxNg78QLPD/S/IMG_1784-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 35186
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-98z3J48/0/MTQQPJqFh5L4SL5cwm7ZtVcWzNvFWkJ7WbrwGzGr3/M/IMG_1784-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-98z3J48/0/Lc9vqrKpRxvkV2kmcBs3C3jHkHFNdZgCdcZjCNrDt/L/IMG_1784-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 151130
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-98z3J48/0/KqCz8RvcqD7hjjKHwrLgWN3vH32jHJMP6b8LR3R99/XL/IMG_1784-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 370744
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-98z3J48/0/KPcv6s46PcdW5JnPNZzR7QDS36Qt5p6LvmQb2P2Rj/X2/IMG_1784-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-98z3J48/0/NTMVRLVS2GmxmJ24cQVRwFpqb3KPQxdCN8pwBPQhH/X3/IMG_1784-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-JuneSilverLake/i-98z3J48/0/KX3K6s2JQNb7CKR4hL3Jp2tHnR84NxFgq75xHhQLR/O/IMG_1784.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 389923,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/98z3J48-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/98z3J48-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1198 @@
+{
+  "UrlName": "2010-KirkwoodJan",
+  "Name": "2010-Kirkwood Jan",
+  "Uri": "/api/v2/album/nbTwps",
+  "Date": "2010-02-07T22:59:40+00:00",
+  "WebUri": "https://lmblevins.smugmug.com/Travel/2010-KirkwoodJan",
+  "Images": [
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "kirkwood 031.jpg",
+      "Date": "2010-02-07T23:00:54+00:00",
+      "Uri": "/api/v2/album/nbTwps/image/HpcP75T-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-HpcP75T/0/#size#/kirkwood%20031-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-HpcP75T/0/KhngxjrGS3cTGNbwX6QnWbWHpRDmr6TtbqdD6Jpzk/Ti/kirkwood%20031-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-HpcP75T/0/L8mX3gq3XHTCmKcpf66m2Hb2XqWdhBXqKrrTWXsVf/Th/kirkwood%20031-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 14323
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-HpcP75T/0/KH973brqJGQtc3GK7bdJdM5fvV6qghnxC546ZMC6x/S/kirkwood%20031-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 58402
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-HpcP75T/0/L5BdXvRDHzTMF7ck3Fc6pMzXbTsQNVKWzp7kxgbLB/M/kirkwood%20031-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 124197
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-HpcP75T/0/L4h6bQbm4n3GxmSFthF5BqwdBhFP88K9GjqTnwB8d/L/kirkwood%20031-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 208536
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-HpcP75T/0/M5vVgMVL5RcGpjnH7zftv3gvdgFpcjS2W7jdtcmVM/XL/kirkwood%20031-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 337395
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-HpcP75T/0/MgQndxqw23GVxrSpQmkGQ7VJwmhc3Zh3x6SjdmhF8/X2/kirkwood%20031-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 511804
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-HpcP75T/0/NNfPt22hRsF42hG6QzQH7QCpN5t39rK5Rqtpx7ZjR/X3/kirkwood%20031-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Size": 742655
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-HpcP75T/0/L6Mj6BVrpKBCZrVJrBN6TjSTfnjQrds8v8LnvTD8S/X4/kirkwood%20031-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-HpcP75T/0/K69s55zX2XKK8X7ZVFhQqZvBXGGGX4x9RXcMHjThv/X5/kirkwood%20031-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-HpcP75T/0/KGgPVJBrCNXxtXF3GbRwvmFfmjfD5P9KR2WWQ9Hgw/O/kirkwood%20031.jpg",
+          "Ext": "jpg",
+          "Height": 1944,
+          "Width": 2592,
+          "Size": 794406,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/HpcP75T-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/HpcP75T-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "kirkwood 011.jpg",
+      "Date": "2010-02-07T23:01:20+00:00",
+      "Uri": "/api/v2/album/nbTwps/image/RQ8xtJS-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-RQ8xtJS/0/#size#/kirkwood%20011-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-RQ8xtJS/0/KzJXCBKh7Zdg8P7M76T9ptvXKbfCkNKqjFgMCv9Hm/Ti/kirkwood%20011-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-RQ8xtJS/0/MWJpcTF5s7cTLGGGzNjsnBkdTbSqPmJJ3hFFSZSn7/Th/kirkwood%20011-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-RQ8xtJS/0/MxCv4kmxQjPfTSV2rf2hRqBnM5xMXFKN8WRstk4WF/S/kirkwood%20011-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 67769
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-RQ8xtJS/0/Kxh8FLpJCrmzV9kQqjqnJLdZtzFsdnGB8bPQhLfg6/M/kirkwood%20011-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 136495
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-RQ8xtJS/0/L5FPkq5g9bQk4HJDLgRvt6NDJ8nG2CmCSzD7WBCxR/L/kirkwood%20011-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 219731
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-RQ8xtJS/0/KkSnsKpZ7gKgJDtTSGKmgWbf4VGDQjsF72rDZGMdG/XL/kirkwood%20011-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 581829
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-RQ8xtJS/0/LSZ4RQJmZnzxJMF3RCNgW8bm5r4FHXgZHqdwW8mPB/X2/kirkwood%20011-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 834327
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-RQ8xtJS/0/K4vGK6qfNn2HbRWXTN6ksxK25znjdhjk9tsvkJ28m/X3/kirkwood%20011-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-RQ8xtJS/0/MvCpKqH8b4Mhh7XJ3BvgFbZtbhBS44LLMZkFBsJLW/X4/kirkwood%20011-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-RQ8xtJS/0/Kt9C9CGrCdkgLVN32Gzz77q64kFtB5H47MCpMvVDx/X5/kirkwood%20011-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-RQ8xtJS/0/NJD4KkG34G8JCSdJmfqXGQKktbH8sDvbtTKwzqStv/O/kirkwood%20011.jpg",
+          "Ext": "jpg",
+          "Height": 1944,
+          "Width": 2592,
+          "Size": 692771,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/RQ8xtJS-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/RQ8xtJS-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "kirkwood 014.jpg",
+      "Date": "2010-02-07T23:01:34+00:00",
+      "Uri": "/api/v2/album/nbTwps/image/XW3Jw4q-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-XW3Jw4q/0/#size#/kirkwood%20014-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-XW3Jw4q/0/LxxFRjwFXqM6FsMQxJK3V22BVX4X4WrLCR3BSrjGq/Ti/kirkwood%20014-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-XW3Jw4q/0/MkTwrd6vJ8XjwJ9m7nZ7Xs5XTKGqwLGCStf8RLVcb/Th/kirkwood%20014-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-XW3Jw4q/0/NJdjjDPCc3hKcRH3BQ6tqbvpwzF4BqfPSccgH3bWV/S/kirkwood%20014-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 52763
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-XW3Jw4q/0/LmLKPWh4nmrTvvx8jTNszxp4htw6GqGcJnhFwFSGk/M/kirkwood%20014-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 111192
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-XW3Jw4q/0/KRnbntxkkwbJSw9JgCn5sXVVKJPFz6SDcbKkMqccN/L/kirkwood%20014-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 191362
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-XW3Jw4q/0/LhWr7dWnFQ4KcP5sJ3DrxN2rTLfqP5nG2CbK8jjvS/XL/kirkwood%20014-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 571144
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-XW3Jw4q/0/KMSBLWgtQ2VKgM6xwqSKJ2L6qRGBw2bppQVpqh25G/X2/kirkwood%20014-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 857212
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-XW3Jw4q/0/KF4V4BtNvHT2s2fVsHhgjnDTkphVJWThtxV59zsJr/X3/kirkwood%20014-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-XW3Jw4q/0/MLkgCkCpBj4sHZp7SJTTnmDSbb57KknFfh3wfZzsZ/X4/kirkwood%20014-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-XW3Jw4q/0/NZtSb6PDZZ5kWfkCgxvvh7s26sXHJrGjkzk86s6mM/X5/kirkwood%20014-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-XW3Jw4q/0/NTpTp3MPBFqjcsDPnMQ9wpKJd5rbQXxW33MhfQH94/O/kirkwood%20014.jpg",
+          "Ext": "jpg",
+          "Height": 1944,
+          "Width": 2592,
+          "Size": 771446,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/XW3Jw4q-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/XW3Jw4q-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "kirkwood 010.jpg",
+      "Date": "2010-02-07T23:01:08+00:00",
+      "Uri": "/api/v2/album/nbTwps/image/NP8TJ2d-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-NP8TJ2d/0/#size#/kirkwood%20010-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-NP8TJ2d/0/MT2N3qVPWw2XzHPcvQgvt5DGwCgsRBzdLzbfCmnmm/Ti/kirkwood%20010-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-NP8TJ2d/0/KmHfGzqz2sR2XffK5VGdjmgtJbhDb5fCXNf7g53dT/Th/kirkwood%20010-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-NP8TJ2d/0/NPXqTFJ45Ht6HNpMsVF4xpSq4KmmZZBHgKRf3QT2R/S/kirkwood%20010-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 59642
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-NP8TJ2d/0/KZsDjFGWQxgkpzsvFgzSB37mBQtpTRCR4DnjgcnSg/M/kirkwood%20010-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 124783
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-NP8TJ2d/0/L86SwGxwnk7TVHVQvCZvC4GBpxz5MwWxx3vn8mmBp/L/kirkwood%20010-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 210376
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-NP8TJ2d/0/M28fvLw7Rj7MjNScqddpBBx2QCcvrL4VpSDZVstmH/XL/kirkwood%20010-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 588030
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-NP8TJ2d/0/LZPG3zgbP5jMsTKMZXqd4s6KN3FPKZWXWwSnLkH2F/X2/kirkwood%20010-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 869798
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-NP8TJ2d/0/Lwq2XKt4s66C7g2xWZwHx4w5X6V7ncNPvbFHzNtxJ/X3/kirkwood%20010-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-NP8TJ2d/0/MZ2qNqJjPWp8dZDz836sxV7Gj3bQ6VtXPXw5HkTsJ/X4/kirkwood%20010-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-NP8TJ2d/0/LW5MWkLm7wVwbQJjXVhvKVHNPDdjvqxwDHWRjGk3W/X5/kirkwood%20010-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-NP8TJ2d/0/Kb2PmBFQbLRmJrB7KBHZjVRrsd8vGFrBQFdPN2hgd/O/kirkwood%20010.jpg",
+          "Ext": "jpg",
+          "Height": 1944,
+          "Width": 2592,
+          "Size": 779450,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/NP8TJ2d-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/NP8TJ2d-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "kirkwood 027.jpg",
+      "Date": "2010-02-07T23:02:48+00:00",
+      "Uri": "/api/v2/album/nbTwps/image/9MN2w6d-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-9MN2w6d/0/#size#/kirkwood%20027-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-9MN2w6d/0/L8hf8GhDDZnBWbcFdjjMLpfT94z4mN6twc96pL7zV/Ti/kirkwood%20027-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-9MN2w6d/0/LJXpTr7Wmk9BVsz5R6MCvTtwqTL87J5kDPGJcbvqT/Th/kirkwood%20027-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-9MN2w6d/0/Kb2sPGDPqJJjvKwLJRtGJJ6wsBdnpj3Sdd5HNG3Kn/S/kirkwood%20027-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 43581
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-9MN2w6d/0/KrLMMTbxNK6GF7BRGVSDkvTrLgpmMmQQshk849csv/M/kirkwood%20027-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 88892
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-9MN2w6d/0/LvndDMSJhqLPcL2ShMwpxzKMx5tc2qBLgKzNCKmwW/L/kirkwood%20027-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 150353
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-9MN2w6d/0/M6BHWrD42NkfRPx3TgZQM7QmNS2Mfmv6XHk3bhKSK/XL/kirkwood%20027-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 460502
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-9MN2w6d/0/MQkQH3ZfP2KZSv9fLhvTWd6fmggHrWhChHphF89df/X2/kirkwood%20027-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 686515
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-9MN2w6d/0/K43V685wtZkwxTsnhh5dr5bGjKz6wGRk5vzhssRhS/X3/kirkwood%20027-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-9MN2w6d/0/LdSZqTNM4dKgmrGJJVdzj9tdm67QXZhfN5NNFmhXP/X4/kirkwood%20027-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-9MN2w6d/0/NCxP7vcrfsHTfNwsb84TQLCGcgzcSsjQQvLTgZPD7/X5/kirkwood%20027-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-9MN2w6d/0/LmnWNn9VrJMcmdBGjBft6QkCPwX4rzcKCsXjfG4SN/O/kirkwood%20027.jpg",
+          "Ext": "jpg",
+          "Height": 1944,
+          "Width": 2592,
+          "Size": 575452,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/9MN2w6d-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/9MN2w6d-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "kirkwood 030.jpg",
+      "Date": "2010-02-07T23:03:02+00:00",
+      "Uri": "/api/v2/album/nbTwps/image/B7g6ckF-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-B7g6ckF/0/#size#/kirkwood%20030-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-B7g6ckF/0/LbggS9X4xpk9KNzfV7sqjwWnNXQL7VsDbLx2cJncH/Ti/kirkwood%20030-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-B7g6ckF/0/Lv8PFXxRs3PvC8mSwPDq3Dcx6strwK7j9Dv7k7qnH/Th/kirkwood%20030-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-B7g6ckF/0/LMKNT5DRHsrDdJ8wsTsB9zrmJXvfSW3pZsmV283dv/S/kirkwood%20030-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 60950
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-B7g6ckF/0/MGHzMzfGvgjFCFvDMRGWxKX8H9K7KkDnmqgXXHvxN/M/kirkwood%20030-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 125897
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-B7g6ckF/0/M2k9Dj65nsq5PQwzqHmBLDjgbZpWRzWS4QBwWMKCF/L/kirkwood%20030-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 209250
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-B7g6ckF/0/MwhdZfX8bvphj6RLNq3Fc5tsRZQfKQpXkcfD3Bk3v/XL/kirkwood%20030-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 584141
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-B7g6ckF/0/KTHkFVDX3JW4L3VpX3cSxr5ZCGCH3bF7jnR2GPxMW/X2/kirkwood%20030-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 861692
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-B7g6ckF/0/KLQMXqFXm8xv6bDx9LQDBckTnzvPkHqZMLvCC6NKL/X3/kirkwood%20030-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-B7g6ckF/0/Mq8vpN2RWgBHQ3tDnSPm669RQKVCwd7wvKqKLHnXw/X4/kirkwood%20030-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-B7g6ckF/0/KbjbC5VHfcFGW39L45nbP6NrqBFNqwxQmBRkQcvJj/X5/kirkwood%20030-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-B7g6ckF/0/KQttfJZGqc4X5vFhhj9m4Jqt78FbxM4VvtQXhq6cX/O/kirkwood%20030.jpg",
+          "Ext": "jpg",
+          "Height": 1944,
+          "Width": 2592,
+          "Size": 752856,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/B7g6ckF-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/B7g6ckF-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "kirkwood 026.jpg",
+      "Date": "2010-02-07T23:02:37+00:00",
+      "Uri": "/api/v2/album/nbTwps/image/NHvxLKV-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-NHvxLKV/0/#size#/kirkwood%20026-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-NHvxLKV/0/LFBzGHMCK7shQLJZVss2XwvMq8xNSGjf4hbMV5jPS/Ti/kirkwood%20026-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-NHvxLKV/0/Kr7txkKb6CVGQP9CqKGdshLPWpDDGzP6q7sf8dznk/Th/kirkwood%20026-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-NHvxLKV/0/NMxgj53LtcGKgwgBRtBXtWMXbVRVrsMLrm9TD7PrL/S/kirkwood%20026-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 49626
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-NHvxLKV/0/L4CSCMGsCvtg2GcRhDvgkhQWt5WbSpSGf32bjS4BV/M/kirkwood%20026-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 102975
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-NHvxLKV/0/M76738bMXWp8HMDBQD7jpLh5ChNxRwGNvvjHQ2LrC/L/kirkwood%20026-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 174187
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-NHvxLKV/0/Lnb68HC8WbWdzm4L2SJpHXqP8thNcjMNXm8qnJGDS/XL/kirkwood%20026-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 514571
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-NHvxLKV/0/NJ8KvVNdHQGPR46SGXdvwNQqwwvdJ67fM9MD2PJNN/X2/kirkwood%20026-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 766407
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-NHvxLKV/0/KNHwGBxxNJq5DqbVJVz8r83Z96DhDFLgdpgj9D9jm/X3/kirkwood%20026-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-NHvxLKV/0/MSjQCSfvQnHjXk5SrFjWj7QDgxPqW4W8PHf3VgXzZ/X4/kirkwood%20026-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-NHvxLKV/0/MLCWqPt3sT5RFs4FQj8gSVxXtx9CDQXWgvc9M7hTc/X5/kirkwood%20026-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-NHvxLKV/0/KNmbTcdH83vPpx6q7RjjsT4kv6FCjZxVMmKD3bKTh/O/kirkwood%20026.jpg",
+          "Ext": "jpg",
+          "Height": 1944,
+          "Width": 2592,
+          "Size": 660544,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/NHvxLKV-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/NHvxLKV-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "kirkwood 016.jpg",
+      "Date": "2010-02-07T23:01:58+00:00",
+      "Uri": "/api/v2/album/nbTwps/image/L7PQfLv-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-L7PQfLv/0/#size#/kirkwood%20016-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-L7PQfLv/0/MxNKXTqhJvxbQPbrwcJvspfbZsnJP5r9xxzP9sGnZ/Ti/kirkwood%20016-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 7937
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-L7PQfLv/0/LQVsJGsc9dXMdwxrkh6HHt6FvFpDqdWfT5Lx2DZqW/Th/kirkwood%20016-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-L7PQfLv/0/KXk6zCMJXLVN8dwfLPvQ7x39LJxDDpZGrx9kDDv66/S/kirkwood%20016-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 42858
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-L7PQfLv/0/KxSFRBLwS6GbkBtN9757WM3TvShNnvDWgjDfVSrxx/M/kirkwood%20016-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 86523
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-L7PQfLv/0/MRVjWQktdVJg5q3MdL7vqBcKq4WMJKJSjB6kqVm3d/L/kirkwood%20016-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 145941
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-L7PQfLv/0/MZHQQLM3XWDNbQxxBswW7LBt5tNdSVszJwG2G2qWr/XL/kirkwood%20016-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 460519
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-L7PQfLv/0/MZxVDRr6kBPKxZmNFsXhNM2GXFXfmMdCXkXLdwGLn/X2/kirkwood%20016-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 684201
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-L7PQfLv/0/K8FFpCLwJH9DGqTw7n7BJSZ742m5xVbN6FPqnBtgH/X3/kirkwood%20016-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-L7PQfLv/0/L4TCcm3F8xsmSBjRBnmzFGmGKZzr6kThP8fLnzwKz/X4/kirkwood%20016-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-L7PQfLv/0/MP4STdDdHhT4HNS6vntZVQrMKLs98sZk34fVbG966/X5/kirkwood%20016-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-L7PQfLv/0/Mhc6nxbkHP2WFktLg64vKHsjdXJPGTqQ5bbtvMT6M/O/kirkwood%20016.jpg",
+          "Ext": "jpg",
+          "Height": 1944,
+          "Width": 2592,
+          "Size": 534105,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/L7PQfLv-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/L7PQfLv-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "kirkwood 015.jpg",
+      "Date": "2010-02-07T23:01:46+00:00",
+      "Uri": "/api/v2/album/nbTwps/image/L4gKsCP-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-L4gKsCP/0/#size#/kirkwood%20015-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-L4gKsCP/0/Kgdwv5QQV9RbFjqdv3FCWfSxpvxNLmGqS6qwTvtpQ/Ti/kirkwood%20015-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-L4gKsCP/0/LzDMzvtFKNp8znxDqt4JmpwjbvFjFQNnvnpM25dqJ/Th/kirkwood%20015-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-L4gKsCP/0/Kk6wPZT6Fq48tKrTVvS9MCzR7gFwwwvLBRQwW2CJD/S/kirkwood%20015-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 56110
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-L4gKsCP/0/KQdB8Drt8hZmdBsSXpmsNhjvhRqpCBRdtdhsRgDkN/M/kirkwood%20015-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 118170
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-L4gKsCP/0/NHCczBCwj4xMsW6pLbXFLWgspjk794DKGcXxXHq96/L/kirkwood%20015-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 198957
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-L4gKsCP/0/MR7vG3wNgWQ2Jb5gDNBTNVJ89Rdb7rVqgskKwKZch/XL/kirkwood%20015-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 555168
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-L4gKsCP/0/KvKHNgN3PpPZRsWChkSXNPJw4qdx45ThSkKC2SLfb/X2/kirkwood%20015-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 818466
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-L4gKsCP/0/Md4jrTDrSLJshHrKvPBr59DPnPxG6BdpwCddspcvv/X3/kirkwood%20015-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-L4gKsCP/0/M3H67w7KBBdCLbjLDKSWpQQPdfLsHCkDPzM9jFDz8/X4/kirkwood%20015-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-L4gKsCP/0/MGN3G8NxZbcb2hjCXNQVRkpdMdVWXrctHQVsfHpPk/X5/kirkwood%20015-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-L4gKsCP/0/Mvj6fV5NrJBhhjFKdSGvfHrwpKvZR9tBNbTqtKvtR/O/kirkwood%20015.jpg",
+          "Ext": "jpg",
+          "Height": 1944,
+          "Width": 2592,
+          "Size": 712974,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/L4gKsCP-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/L4gKsCP-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "kirkwood 017.jpg",
+      "Date": "2010-02-07T23:02:11+00:00",
+      "Uri": "/api/v2/album/nbTwps/image/5hqRn7q-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-5hqRn7q/0/#size#/kirkwood%20017-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-5hqRn7q/0/MbzFFhHkDwKRSZcPCF5vbBJMmQLLfdjWFCXVbM7DQ/Ti/kirkwood%20017-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-5hqRn7q/0/MJdhLhsDV7Hps65TXnvJrMMH3rvLnfSgwpWbspr7n/Th/kirkwood%20017-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-5hqRn7q/0/KhdwPX2grGQkS2967ZG7DKp9GGxR8KVJfm5nRKhg7/S/kirkwood%20017-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 49182
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-5hqRn7q/0/MmcmHQ498tr5qK4dzf4F56rpwVg35mZ5Bn5M78rRP/M/kirkwood%20017-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 105223
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-5hqRn7q/0/KV7TNvvfnKBNPnXrhRcFrgGh4kgmzFSVgjd9FD63J/L/kirkwood%20017-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 182301
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-5hqRn7q/0/M4Wnq8G5ZkG72cN6v5s9c9QGqVhfZ7Kp3cdDT93Vw/XL/kirkwood%20017-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 540770
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-5hqRn7q/0/KmKLTTrNhRdjP8JnCgwMqSZNdS9z7h3r8QrDmn8kD/X2/kirkwood%20017-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 805629
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-5hqRn7q/0/LxjQDkgrwtPn9LDKtS6g8jMW94tmNnMnV9Lzn654G/X3/kirkwood%20017-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-5hqRn7q/0/KssbV3Z3fG4KZf8Lswsqw9JSNKzQVNtnH9LCsZX8k/X4/kirkwood%20017-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-5hqRn7q/0/NHj6ZPpQVR9wZQPdXhz6fWMHBJWhXMVn3PGBxb6vg/X5/kirkwood%20017-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-5hqRn7q/0/MRQT5kqxdcKkpWNT252xXZwxthW7ZBBSKLCWTcQXd/O/kirkwood%20017.jpg",
+          "Ext": "jpg",
+          "Height": 1944,
+          "Width": 2592,
+          "Size": 707689,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/5hqRn7q-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/5hqRn7q-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "kirkwood 025.jpg",
+      "Date": "2010-02-07T23:02:25+00:00",
+      "Uri": "/api/v2/album/nbTwps/image/RjWCLW9-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-RjWCLW9/0/#size#/kirkwood%20025-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-RjWCLW9/0/KwjmkmV93bVz5dV4XMhDdWkDwb6zsNKrN8TD5QPgt/Ti/kirkwood%20025-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-RjWCLW9/0/MzhmTqVmRQQV2nrk8S2cgkJjjKFTf8dnhkTCKGbnk/Th/kirkwood%20025-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-RjWCLW9/0/K7dP2gpZ7Q3h7StTjVKbqDsBRjcKF2qVwmd3sH3dt/S/kirkwood%20025-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 66977
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-RjWCLW9/0/NZNLqbTZ85XFBQmFsLNSTVgVsw5h5rsqh4hJ68DRn/M/kirkwood%20025-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-RjWCLW9/0/MLMDXWV5pZrm5B83FSzSdT8dvnrjbvWR7cKbB7xns/L/kirkwood%20025-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 225934
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-RjWCLW9/0/KHZ93PxZLH49LJwTZ6sQhqW39pCVWFxtcZ3PXngx2/XL/kirkwood%20025-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 598714
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-RjWCLW9/0/MjtLBN7ssT7bWkC3dFmjJdWpbRpKRW5b94ZwP5DDT/X2/kirkwood%20025-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-RjWCLW9/0/L6fRNzzVrNJfBxGWcRvcRJZnLtGpCMkfmWpMMX2xL/X3/kirkwood%20025-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-RjWCLW9/0/NXPpVbLXbdNKMMZ6vx49DLS4KpXrK6Wf3NR2NjmWk/X4/kirkwood%20025-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-RjWCLW9/0/Nh2RsTvdtHt2sJHDhkSWJJ622srjTN2HkQc8GtHC5/X5/kirkwood%20025-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-KirkwoodJan/i-RjWCLW9/0/LH32xMXWD2GPKcsc8NWQpD7r7tMdv4rxBMt6K2T2v/O/kirkwood%20025.jpg",
+          "Ext": "jpg",
+          "Height": 1944,
+          "Width": 2592,
+          "Size": 817424,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/RjWCLW9-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/RjWCLW9-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    }
+  ]
+}

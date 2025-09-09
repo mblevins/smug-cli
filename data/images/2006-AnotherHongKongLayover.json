@@ -1,0 +1,762 @@
+{
+  "UrlName": "2006-AnotherHongKongLayover",
+  "Name": "2006-Another Hong Kong Layover",
+  "Uri": "/api/v2/album/8cjHFv",
+  "Date": "2008-04-12T18:28:02+00:00",
+  "WebUri": "https://lmblevins.smugmug.com/Travel/2006-AnotherHongKongLayover",
+  "Images": [
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IndiaDec 002.jpg",
+      "Date": "2008-04-12T18:28:33+00:00",
+      "Uri": "/api/v2/album/8cjHFv/image/Vx4PnFc-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-Vx4PnFc/0/#size#/IndiaDec%20002-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeX3Large",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-Vx4PnFc/0/KTXcn9bZD4rL2b5QKR2Pnb7bT6TB5rcR59mD6MLLF/Ti/IndiaDec%20002-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-Vx4PnFc/0/MkcPGsvzTzVcZRPPj3jG8RZvGSd7CHzzmG39LnQbb/Th/IndiaDec%20002-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 8619
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-Vx4PnFc/0/MC6jhmkC6DZF4wpgk6VMkzDp55PXt6htvzQ8CcC4z/S/IndiaDec%20002-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 41446
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-Vx4PnFc/0/MS3MTnTLZVq6fqM35TZHCj3mqNWFrPnsX76HLQhms/M/IndiaDec%20002-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 79900
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-Vx4PnFc/0/MfpTbTH5hGM87PWqL6hNWfbvNxbvnsdJC4vSBgfQQ/L/IndiaDec%20002-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 127820
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-Vx4PnFc/0/KWZS29R8HbZRL7LqRzJkvFs4xFRxXBfH5tFgKm2VT/XL/IndiaDec%20002-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-Vx4PnFc/0/K636VXwznkGxvnrkKPCLZxJv5pJXjbQZ2pDXdzRzH/X2/IndiaDec%20002-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 443109
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-Vx4PnFc/0/LC9Gr4PHkDnt8JP35zGj3tkBVD8WwkwvjqFK8NmSQ/X3/IndiaDec%20002-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-Vx4PnFc/0/xqpspf7Wj5jKRFLWGHs3Vqhf8Qq6DKpBpsmC64jv-1757452971-O/i-Vx4PnFc.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 312007,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Vx4PnFc-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Vx4PnFc-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IndiaDec 014.jpg",
+      "Date": "2008-04-12T18:28:33+00:00",
+      "Uri": "/api/v2/album/8cjHFv/image/7JsWg3m-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-7JsWg3m/0/#size#/IndiaDec%20014-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeX3Large",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-7JsWg3m/0/MQqBhDz8bTsxrzGHxhxFbFWmcZTt2bVzSNffT92ZK/Ti/IndiaDec%20014-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-7JsWg3m/0/LgfZrxRhkzFCDjmqF8vpbNRPFzpfFxBgxb5ssrD2r/Th/IndiaDec%20014-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 13856
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-7JsWg3m/0/LTnd7vN6CnNH4bQM82hZXMKdmZ4xBVMkqgMNVjxWZ/S/IndiaDec%20014-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 44723
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-7JsWg3m/0/M2HFjRSGsNshN2Pm8tmKWLx5TqXVLS9S2qqS3cFGW/M/IndiaDec%20014-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 83993
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-7JsWg3m/0/NTnKmV8DmVHNkjVRn2S4qJfHtcBSNZxhP6jWHCZXx/L/IndiaDec%20014-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 129112
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-7JsWg3m/0/Lv6Zmw7QWxxMDwVT2WDRVFw7wSW22cGmPZSDzfrVH/XL/IndiaDec%20014-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 188854
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-7JsWg3m/0/NbKX5FpLBh7bQprDB47DmTwTBVbcHx78gNmM47fJJ/X2/IndiaDec%20014-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-7JsWg3m/0/LWnd9WD4dm7xVzMvmD8ZMmPr9msg3FV7DHRSMpmHD/X3/IndiaDec%20014-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-7JsWg3m/0/FWSjgX3P6vXNBH4mj8KSKz5VMcRm3Hgmm5tbn7KWm-1757452972-O/i-7JsWg3m.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 283741,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/7JsWg3m-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/7JsWg3m-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IndiaDec 004.jpg",
+      "Date": "2008-04-12T18:28:36+00:00",
+      "Uri": "/api/v2/album/8cjHFv/image/v3KxBb5-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-v3KxBb5/0/#size#/IndiaDec%20004-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeX3Large",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-v3KxBb5/0/LH8qMvg7bX9fRbCpLMcTBHQw8LfTgnhWCkFdSjFS3/Ti/IndiaDec%20004-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-v3KxBb5/0/NMVq5FsLxtgpR8m38VVJwkNzcgTksXbJ7QJW8FL6V/Th/IndiaDec%20004-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-v3KxBb5/0/L4vsNqpbjkgGpnCKKFGcQdCM4NVRDMt2Nqz2btHLN/S/IndiaDec%20004-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 45183
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-v3KxBb5/0/LrKtTSm5SHpxmTPKx2rDDk9p4Lzh9VBZdTWJhh2s6/M/IndiaDec%20004-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-v3KxBb5/0/MNqtMpHkqhhFKRT4DPnLshQb3dT37MQDmFMphbxCD/L/IndiaDec%20004-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 168886
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-v3KxBb5/0/KmXzc6hJfwTmRK3Zb68Pbt9XdPtttx8LrP7jKLRpv/XL/IndiaDec%20004-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 384615
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-v3KxBb5/0/KV5BCH48gGGQf78H92Q7ZjjKk4G7Bfg474C4pMwXG/X2/IndiaDec%20004-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-v3KxBb5/0/KPqfSXjzZBPrQM4x8LGcPdcppsSztf3NkNrfzFnwK/X3/IndiaDec%20004-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-v3KxBb5/0/DLBhdTP3vxXK7XxcxG2cZLnrWmbFWT63WxcbthPRm-1757452972-O/i-v3KxBb5.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 383882,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/v3KxBb5-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/v3KxBb5-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IndiaDec 005.jpg",
+      "Date": "2008-04-12T18:28:36+00:00",
+      "Uri": "/api/v2/album/8cjHFv/image/tMXCgKx-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-tMXCgKx/0/#size#/IndiaDec%20005-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeX3Large",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-tMXCgKx/0/KxNSGcLRgk9nVwbGJk83cbGsdqK37G9cKJFG79dGg/Ti/IndiaDec%20005-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-tMXCgKx/0/KcPgwqpDj8P75gjf4gFHj92VjRQ4pJLRw27pBFxMp/Th/IndiaDec%20005-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-tMXCgKx/0/Mr8tWGRLsMP5rbGWNFZSt7fFrhjjnQVNXzcZLc7BT/S/IndiaDec%20005-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 23232
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-tMXCgKx/0/LjLH5vDDb5cV8fg7sK8TQtv8RWHd9KCTXpC3XZZS5/M/IndiaDec%20005-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 58785
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-tMXCgKx/0/MpFBp7B564WNMwjpcgCnnLxqmxgvdvCq5PQsgpLLL/L/IndiaDec%20005-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 95635
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-tMXCgKx/0/LmmnGvvXkX4jc3rsNjPQJ4TLDKxhpPpn3C5KbmmcG/XL/IndiaDec%20005-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 239098
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-tMXCgKx/0/LmC4gx372zgFFxn2zq7mnS4CjXGZh6sjfd3Rt8QTq/X2/IndiaDec%20005-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-tMXCgKx/0/K5xC7pp8MQXpgbxJLrK8KchtsG6jNf6bjvz4vsgjW/X3/IndiaDec%20005-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-tMXCgKx/0/CNdsrK2LQ3xMMVcffZZN8fmS8bxXh42nMXczhvLW8-1757452973-O/i-tMXCgKx.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 228465,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/tMXCgKx-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/tMXCgKx-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IndiaDec 008.jpg",
+      "Date": "2008-04-12T18:28:40+00:00",
+      "Uri": "/api/v2/album/8cjHFv/image/Ldnx5Zb-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-Ldnx5Zb/0/#size#/IndiaDec%20008-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeX3Large",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-Ldnx5Zb/0/KfSXBpQtT24ndhTL8jPBgc84kLF6xgLX2xjHvj4BK/Ti/IndiaDec%20008-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-Ldnx5Zb/0/M3JTQjL3VGHGrx75tLrFJJ98rQh7pmcsGBmWKfT8p/Th/IndiaDec%20008-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-Ldnx5Zb/0/M36Jks8HgVH6Zzw8M5CSmDBPCqSsHhvbTR7xqVCxq/S/IndiaDec%20008-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 41457
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-Ldnx5Zb/0/Ncg8sBvptRm4vsxSvnM3hSG2873KDdLkCPCmDMk29/M/IndiaDec%20008-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 98616
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-Ldnx5Zb/0/NjCtzFKjVxC48kfkZfW272Ncdrfs92gK4tLs7B4vW/L/IndiaDec%20008-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 154824
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-Ldnx5Zb/0/KN22JRgZP8SXG4Q3rWfzfhwmWm6PPjqZdrZGhDHs6/XL/IndiaDec%20008-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 361867
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-Ldnx5Zb/0/LB6MnxZKLbhwXhs2Ph4xrp94hJBqbfMWCsSDJLTV6/X2/IndiaDec%20008-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-Ldnx5Zb/0/KPjqn9R6gLnDLkkPMcB4WnGxBcSPhGpwDxgLnTRk9/X3/IndiaDec%20008-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-Ldnx5Zb/0/DwrZPCCbZRTD6XNXf7rQXM63qZQ8jwFHVM6TqDQQk-1757452973-O/i-Ldnx5Zb.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 355561,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Ldnx5Zb-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Ldnx5Zb-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IndiaDec 007.jpg",
+      "Date": "2008-04-12T18:28:39+00:00",
+      "Uri": "/api/v2/album/8cjHFv/image/Xrh7DVV-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-Xrh7DVV/0/#size#/IndiaDec%20007-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeX3Large",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-Xrh7DVV/0/L8PrdNqL2zWf6Rp88Jc46rTFMcnPMcrN9Gbh3Cdx2/Ti/IndiaDec%20007-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-Xrh7DVV/0/MzvXGPwXZXPBXHnjn5H85dZDFKxQcGf8vvmmWgBPH/Th/IndiaDec%20007-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-Xrh7DVV/0/Mg956WZdSdVxDp69x58xPhxvnQKfkzgDsMQXKtXN8/S/IndiaDec%20007-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 22225
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-Xrh7DVV/0/NcpjfxBzPqKkJSm3tfLmshttb8FgsV7TfvkNqj7gf/M/IndiaDec%20007-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 59352
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-Xrh7DVV/0/LB5KDk3kVzPCMrRP7hCCkGr847sPVF8G76TX4H4tn/L/IndiaDec%20007-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 98734
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-Xrh7DVV/0/L2FRwX5XkJKRVXNFNVcCx24RmRcNPNMbVC3PzZPqS/XL/IndiaDec%20007-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 260023
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-Xrh7DVV/0/LvmfQKTTD344hJKg7tJZTkqqJ4hRjb6k9RTbc6Rgr/X2/IndiaDec%20007-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-Xrh7DVV/0/LnVKWrKfbQqWF9d8S2D33hs2hCB4rHw33KQKmnMcv/X3/IndiaDec%20007-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-Xrh7DVV/0/LFg8H9VznwdxvGS9sQnbqnMS4NjPZxsSKJTnLntT-1757452973-O/i-Xrh7DVV.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 251720,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Xrh7DVV-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Xrh7DVV-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IndiaDec 011.jpg",
+      "Date": "2008-04-12T18:28:41+00:00",
+      "Uri": "/api/v2/album/8cjHFv/image/SQP3Qkg-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-SQP3Qkg/0/#size#/IndiaDec%20011-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeX3Large",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-SQP3Qkg/0/LgP2drtXSkHdZqD48RHCFqv3D4wfxqpSN8fvGqkpd/Ti/IndiaDec%20011-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-SQP3Qkg/0/LFrHQLZPVQSFtvNsZV4SbdQWjWKXXXrMspgXwpBFP/Th/IndiaDec%20011-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-SQP3Qkg/0/LBQh2Bdv3JpW5GZD5DPHBGsrnpSVXhX5JgJSgVZZg/S/IndiaDec%20011-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 21082
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-SQP3Qkg/0/Lhw67wvkNP9R3w6bczbcgWph7Zc8sqwkVRMV4LWhB/M/IndiaDec%20011-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 51761
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-SQP3Qkg/0/Mhd8sh96wH9JnqVK6CmkX4rN54vjtb8DfzQdbSmWZ/L/IndiaDec%20011-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 82842
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-SQP3Qkg/0/M6hnRpDRXBh8vMKHhJvSGdCQ7rdPg5LHF47Vzm5x2/XL/IndiaDec%20011-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 213727
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-SQP3Qkg/0/KjdLhzt4ckpLZ2FJs3zSqQnVm5MfQg9HbRCJ5pFbZ/X2/IndiaDec%20011-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-SQP3Qkg/0/MN7QNXPzBzkFvcCFgKPqXGTHMq4Mv2kwHNH3N88Qg/X3/IndiaDec%20011-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-SQP3Qkg/0/CXLtSG9vKFqzJmz5zXpgxR2Ttv3qRb9j6zFPZqnDN-1757452973-O/i-SQP3Qkg.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 189168,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/SQP3Qkg-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/SQP3Qkg-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IndiaDec 012.jpg",
+      "Date": "2008-04-12T18:28:44+00:00",
+      "Uri": "/api/v2/album/8cjHFv/image/QDRBdg6-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-QDRBdg6/0/#size#/IndiaDec%20012-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeX3Large",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-QDRBdg6/0/Kj7vD2RmhsxzJvZcSZNd7X9tSPgV8gWHgN2wqq9d3/Ti/IndiaDec%20012-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-QDRBdg6/0/M7Lkm5fnQ5FqcpQ7spmcZQDGcT7ZTvPcPC4TCKMKV/Th/IndiaDec%20012-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-QDRBdg6/0/L9Qf6jG5Kpwb5Zvr7FCdVjCD3ggtsjQz6SS2gc5vJ/S/IndiaDec%20012-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 25890
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-QDRBdg6/0/LJqqgBKkTZjmQSkgs2wpP4PtZBjzv6Tf5K5mC2Xcp/M/IndiaDec%20012-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 59140
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-QDRBdg6/0/Ltx2TKdJQMWnjhD2pHLQBPhDTXxBcQBjm5W6dKs8x/L/IndiaDec%20012-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 90742
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-QDRBdg6/0/Kq8QVjb2TJPVvP64VLBZ6J3JMHjGTnLbDLLZtxccH/XL/IndiaDec%20012-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 216904
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-QDRBdg6/0/K9wLKBfn3Z9NVnxHZ6Zdq9gvVqWQ8TQxv4468JfCx/X2/IndiaDec%20012-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-QDRBdg6/0/LzpR72J9Gj5Dt9ZStKWDpFBd9sNSLF7sm48P3rwmV/X3/IndiaDec%20012-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-AnotherHongKongLayover/i-QDRBdg6/0/DXHhQgmZ68RTctf86cV95gqzbZgzFVwdt3PmJkr3d-1757452973-O/i-QDRBdg6.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 204099,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/QDRBdg6-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/QDRBdg6-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    }
+  ]
+}

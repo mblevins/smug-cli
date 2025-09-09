@@ -1,0 +1,2432 @@
+{
+  "UrlName": "2007-LakeAlpine",
+  "Name": "2007-Lake Alpine",
+  "Uri": "/api/v2/album/3PpRdd",
+  "Date": "2008-04-12T18:31:30+00:00",
+  "WebUri": "https://lmblevins.smugmug.com/Travel/2007-LakeAlpine",
+  "Images": [
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "Ashland-07 002.jpg",
+      "Date": "2008-04-12T18:32:30+00:00",
+      "Uri": "/api/v2/album/3PpRdd/image/22rPWRC-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-22rPWRC/0/#size#/Ashland-07%20002-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-22rPWRC/0/MSQPx2XXLHXzjJSrpMStxxJ9S84Lh3g2NjzKdTRpL/Ti/Ashland-07%20002-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-22rPWRC/0/KjQhG666ZBX5ZrvCssh38x5tKcQDGdpx5T7bTcT9m/Th/Ashland-07%20002-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 10276
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-22rPWRC/0/KRDKCdFspr8sBpJmHx7QNhZh4nZ4jXnc4Qdb2D25J/S/Ashland-07%20002-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 36809
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-22rPWRC/0/Lz6cJ7tvsQhZTcLgjXPPB2zTFJM38NX8TmLTqhvZs/M/Ashland-07%20002-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 80000
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-22rPWRC/0/MxCwzqxTpzx6QjMKdhjD2XgRQ9KnhPGw4TsP3S2Tw/L/Ashland-07%20002-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 134520
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-22rPWRC/0/KJrLMthQfd3VMttq2jxrxVhWs8Xx3B5JGkfN9SZFr/XL/Ashland-07%20002-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 221528
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-22rPWRC/0/Kd3LjTVzCRP5cMkwsNVchCFDqw945fDcvwTKx2JZ7/X2/Ashland-07%20002-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-22rPWRC/0/Lc7XFKXGMhGN7vQnZf8r3g92DdFjhSftcJrtBFwrx/X3/Ashland-07%20002-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-22rPWRC/0/NSTJSh8gs8sGqtdzf9jtH3cHQCZhtZtf5MwsJ59hT/O/Ashland-07%20002.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 863655,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/22rPWRC-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/22rPWRC-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "Ashland-07 004.jpg",
+      "Date": "2008-04-12T18:32:32+00:00",
+      "Uri": "/api/v2/album/3PpRdd/image/pFB5JDL-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-pFB5JDL/0/#size#/Ashland-07%20004-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-pFB5JDL/0/LXxCQczpCk3h3zxgj6S9wq6XnxCHVvDZjbmnKKZ5z/Ti/Ashland-07%20004-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-pFB5JDL/0/LNBfvxH7T7SgMjSC3ksLM42R9Q7hFbJvgmchM9rxd/Th/Ashland-07%20004-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-pFB5JDL/0/NX2k6KQsTb9TWqFsTVpxjcZ7CxWFnSLT9xQC9JFJh/S/Ashland-07%20004-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 56426
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-pFB5JDL/0/L89vjNGc7w23D9rnwzmxmWBmwpHjdbmPrJz4pXtR3/M/Ashland-07%20004-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 127778
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-pFB5JDL/0/KMzgMSP3W7JBVrR6DmCM7DhgTprMGHwhXQrHQcfzZ/L/Ashland-07%20004-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 256281
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-pFB5JDL/0/KS9TPXdbHkz2XnfJ4wM3kQCCbHbHF9v4HjMcztQh6/XL/Ashland-07%20004-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 600009
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-pFB5JDL/0/KtkGWbLxkgh32f5LHKKZvNnTVg5V6WBWzg7Qp39d2/X2/Ashland-07%20004-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-pFB5JDL/0/L6j3gvSvBHZ87RJsdRwFvbDPMRWMZbdFSSGKpc45V/X3/Ashland-07%20004-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-pFB5JDL/0/KnnVnwLpXzKSkzpCBbBf3m77zzzhNn2Fcp8Bzt8jd/O/Ashland-07%20004.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 1449640,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/pFB5JDL-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/pFB5JDL-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "Ashland-07a 003.jpg",
+      "Date": "2008-04-12T18:32:38+00:00",
+      "Uri": "/api/v2/album/3PpRdd/image/zdfbRQ7-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-zdfbRQ7/0/#size#/Ashland-07a%20003-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-zdfbRQ7/0/KMqDfmj3dKdptnJHTz8G2svPF6GXcS9LJMvLLS2C6/Ti/Ashland-07a%20003-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-zdfbRQ7/0/M5WVF8H347SpQPjk3QJt3mthRRQ3zrx2gVcrkzW2h/Th/Ashland-07a%20003-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-zdfbRQ7/0/LT4dJ7N3JLs36fkwN67kgTQqhBKwCfFc552f4FcF2/S/Ashland-07a%20003-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 60717
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-zdfbRQ7/0/LD3ZrdDrLQZ5q962MPWKBFHLbk2ZjjTxhnf4JgRcN/M/Ashland-07a%20003-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 128790
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-zdfbRQ7/0/MBRkZmGM6HhRGfzqKBb7rNfBG9DhXrnXNx2PJNKrP/L/Ashland-07a%20003-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 216544
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-zdfbRQ7/0/KgX5mQxCswvQm4rvv6k9HLfn6XtPNjrJcMtrhn2Lp/XL/Ashland-07a%20003-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 563655
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-zdfbRQ7/0/KRjJLq9Fr8Rfv6FL2wmLFWPNjvfJtpthxHjxDNW36/X2/Ashland-07a%20003-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-zdfbRQ7/0/KRjjDp9mh2cxxLfpdVD5ngzF2DSBHk8RVHxgvpggH/X3/Ashland-07a%20003-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-zdfbRQ7/0/M8MKmdd33GRrfkht8PZs4xZcX9ZQFLHsGhZ6dTDgg/X4/Ashland-07a%20003-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-zdfbRQ7/0/K3vcFRHxG6dDXPBG8tqqDkwxKcTZwmqZNnWPf6ZnP/X5/Ashland-07a%20003-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-zdfbRQ7/0/MSSwmShZbXNkt5qrFkzbVHpbZNChkcZphD8zkhsdd/O/Ashland-07a%20003.jpg",
+          "Ext": "jpg",
+          "Height": 2304,
+          "Width": 3072,
+          "Size": 2571683,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/zdfbRQ7-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/zdfbRQ7-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "Ashland-07 005.jpg",
+      "Date": "2008-04-12T18:32:38+00:00",
+      "Uri": "/api/v2/album/3PpRdd/image/bNtnrJC-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-bNtnrJC/0/#size#/Ashland-07%20005-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-bNtnrJC/0/NJw6MKn7dmMFhpc6hGT3LcjMSq9RMwpXLvbPzgPG3/Ti/Ashland-07%20005-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-bNtnrJC/0/KDX4W4TsWbGFL5JrZqrLSvgQJx5wHvS8LQC7C6Nsz/Th/Ashland-07%20005-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-bNtnrJC/0/KjGtkGjcJ3tJ8q7g3hGj4DR8P5KXQ2Cz6nk37GLJj/S/Ashland-07%20005-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 61475
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-bNtnrJC/0/Ln5GwBrmqTrDwD3FmVgrVMBz589VzWrpZ9SJm25TR/M/Ashland-07%20005-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 136819
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-bNtnrJC/0/L9LwhT6qgC6zv9jLbBK7ctmcKnpH5Qxr9PvPkQZbJ/L/Ashland-07%20005-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 272003
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-bNtnrJC/0/KkzsRmb8hPdLPLKKw557BKf33xJ9DCPWHprKhXC3V/XL/Ashland-07%20005-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 628163
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-bNtnrJC/0/KmJsmLNT5B8BzdMcHWJF7zmwFKHnKpzjgMNm9kntr/X2/Ashland-07%20005-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-bNtnrJC/0/M5xQFN7XtV8NTdbC3h4JGChfnBDNZHZF2VDM4N3b4/X3/Ashland-07%20005-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-bNtnrJC/0/KHXkjm8fM3DLbXfr9fFxRTXfLzPFSRZQFFb6Xgc4V/X4/Ashland-07%20005-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-bNtnrJC/0/KdVNXHkp3qKwkP7kHgkk7gJFMQxGq8Cf4FgvLpd2W/X5/Ashland-07%20005-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-bNtnrJC/0/NSPVfFkwthncvrcxfFKbhnvhkb3npf9Jvxx47Svj3/O/Ashland-07%20005.jpg",
+          "Ext": "jpg",
+          "Height": 1944,
+          "Width": 2592,
+          "Size": 1157918,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/bNtnrJC-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/bNtnrJC-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "Ashland-07 006.jpg",
+      "Date": "2008-04-12T18:32:44+00:00",
+      "Uri": "/api/v2/album/3PpRdd/image/TkLk8fV-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-TkLk8fV/0/#size#/Ashland-07%20006-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-TkLk8fV/0/Kg2RSTpd36ThPs2wjkXhtQTkmMbwnMdHjD97WMn9d/Ti/Ashland-07%20006-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-TkLk8fV/0/MCtRL2F89XV3vfQM87nBNk2GPth7N4kstmsBCdKLS/Th/Ashland-07%20006-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-TkLk8fV/0/LmJGNxZVfVwD2njdbtB6Ss9RsqGsFpd7pxvZM3vRK/S/Ashland-07%20006-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 62922
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-TkLk8fV/0/Nf5NXFd4TJNk2fq7MtstXnJ5gngSHpgzH5XqgpLQp/M/Ashland-07%20006-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 139270
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-TkLk8fV/0/LxhKTqKBd3FHCHkrG9mRhdBQRGpd5XNzxdpdGxvgk/L/Ashland-07%20006-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 277592
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-TkLk8fV/0/LFC637dqTkzdWFz2fMdQTJtCqHz2W7QPwFmRGWNsW/XL/Ashland-07%20006-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 637465
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-TkLk8fV/0/MKr2s7TtjQWDfqz7zzBM3wb2Kh8kTVSHThRhThHsK/X2/Ashland-07%20006-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-TkLk8fV/0/LgqjwCFVCgtt5TCxVV44zqf3bfB9wB68XHXk6sR6b/X3/Ashland-07%20006-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-TkLk8fV/0/Lz7RsF2XkTpJkQwjPQpmxjkvXNjDwQ3ZxC6fhMRXT/X4/Ashland-07%20006-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-TkLk8fV/0/Lm7P3bgM3Gx6bCrcFbwQQCMTN5nTzXqJKFksQJzvX/X5/Ashland-07%20006-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-TkLk8fV/0/M9gh8dhFjp7qpB33sjGMz4GBH4Mx2q5b2gFwTkHdV/O/Ashland-07%20006.jpg",
+          "Ext": "jpg",
+          "Height": 1944,
+          "Width": 2592,
+          "Size": 1185288,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/TkLk8fV-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/TkLk8fV-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "Ashland-07 007.jpg",
+      "Date": "2008-04-12T18:32:50+00:00",
+      "Uri": "/api/v2/album/3PpRdd/image/8LvVt9D-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-8LvVt9D/0/#size#/Ashland-07%20007-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-8LvVt9D/0/Mxx7G4R3fFrcR4LHPFHJkhGWwLvWbdCB66Sz9FdTG/Ti/Ashland-07%20007-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-8LvVt9D/0/NDbC5PBdKgwzs2J9vwn3sS3Wv9rFxk8mFrF4XKTz3/Th/Ashland-07%20007-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-8LvVt9D/0/Kq2QfDXMzSWr5qHqZ7nbRDW57K3HT2w6FGs77ZTWR/S/Ashland-07%20007-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 59165
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-8LvVt9D/0/NHLHbHKFxxrwtFXXpGfj5K8BL8Nt4Q7zNX9FtSXHS/M/Ashland-07%20007-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 129673
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-8LvVt9D/0/MJv32Hh233hjfcVJgXt5BLxdK8jsCWH3xV65nGWdV/L/Ashland-07%20007-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 257880
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-8LvVt9D/0/Mq6ffbXB7PTnjc2PXrkcSkkjgqp2G7nLp6QP4hQR7/XL/Ashland-07%20007-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 596176
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-8LvVt9D/0/MRtkV5ZSwCVBprtQJcG8PHxFJrSmS9qj5bK8TWwFb/X2/Ashland-07%20007-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-8LvVt9D/0/LwGW7cCgr5VSkdNS6VKNTCnjJd6thdcJKWCbnNCHN/X3/Ashland-07%20007-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-8LvVt9D/0/LCrdrLGqsbspbMPM9V6X2w97CtFLdzQx3cfvcVPMF/O/Ashland-07%20007.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 1408656,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/8LvVt9D-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/8LvVt9D-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "Ashland-07a 002.jpg",
+      "Date": "2008-04-12T18:32:49+00:00",
+      "Uri": "/api/v2/album/3PpRdd/image/rBdjG5C-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-rBdjG5C/0/#size#/Ashland-07a%20002-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-rBdjG5C/0/LSpkhWk394NnMSJ3SX98nKfN9B3hqmnk6KTvrF7XV/Ti/Ashland-07a%20002-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-rBdjG5C/0/MT2t6VwLCwWFCtKhPZ7G6R6GbsVDqbnc9hx2f3Psn/Th/Ashland-07a%20002-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-rBdjG5C/0/MjG849qr7JckngzhkLd534H9LN6xVWtG3H4CcsmgL/S/Ashland-07a%20002-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 62968
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-rBdjG5C/0/LL2xGtZhVnDXBq53DsxbV92FSbXVj6p2VfpmhSPvZ/M/Ashland-07a%20002-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 136982
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-rBdjG5C/0/LPBFFPJVLPrBdj6vdM7CtnLZSchBHsgNZVNQs47Ts/L/Ashland-07a%20002-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 269343
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-rBdjG5C/0/NBQrCHDFxR2kVBDdJNKWPrDzTF2d4ZrQgwF477qCQ/XL/Ashland-07a%20002-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 617221
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-rBdjG5C/0/KFdQHqwx7Bf6pQvjnwtDftsJDXsNZqRk9bV4w35Xd/X2/Ashland-07a%20002-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 930366
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-rBdjG5C/0/M6x5GsMwP2XSbMtH4qMQbPNMBr4Jft6zsJDb3mb95/X3/Ashland-07a%20002-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-rBdjG5C/0/NLHhGF9hv7x3svwTB2Ht4Mgt5cxfcQbQsqnVTjGWr/X4/Ashland-07a%20002-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-rBdjG5C/0/LQCnzHWG5rPLrTwQ3crXfvGhRfgGFmGRfTFZj2pdS/X5/Ashland-07a%20002-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-rBdjG5C/0/L32xh6NWJvQBvmRRGFW2tdkpkfx4H77x9JQt5dxdt/O/Ashland-07a%20002.jpg",
+          "Ext": "jpg",
+          "Height": 2304,
+          "Width": 3072,
+          "Size": 2951330,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/rBdjG5C-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/rBdjG5C-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "Ashland-07 008.jpg",
+      "Date": "2008-04-12T18:32:58+00:00",
+      "Uri": "/api/v2/album/3PpRdd/image/ZWxz7qT-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-ZWxz7qT/0/#size#/Ashland-07%20008-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-ZWxz7qT/0/L3CLDDPR2xJLkHC6Z9Qr8ZkCjDXxSrdtm5fM4Lwgs/Ti/Ashland-07%20008-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-ZWxz7qT/0/LSzxmkkxwtVv7rBwXGKkd2NQGwv3j2n3Hmg3m82b5/Th/Ashland-07%20008-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-ZWxz7qT/0/M87bTCF9F7VzD6JGqXhPw5KJFsxQPsG82GRhPJhQk/S/Ashland-07%20008-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 41764
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-ZWxz7qT/0/LvswLVzJcXnScpx8mbbsdHM4F8h8TN6cKJQFNScJk/M/Ashland-07%20008-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 85640
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-ZWxz7qT/0/LzxfwGPHsBwgPRGb2dkR9M35WHwZ5PkppLgTPDXXx/L/Ashland-07%20008-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 169849
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-ZWxz7qT/0/KHWMPCjcsGth8CF5g8h62GPM9XbqNJgpwhjCVLpjc/XL/Ashland-07%20008-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 397823
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-ZWxz7qT/0/KpkdH222vzDT8w26xgTMnHBF9fBntF5z5WMBtZkL8/X2/Ashland-07%20008-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 597256
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-ZWxz7qT/0/LGZZmScnk6LFFmgX8NHT7G97Z8SDQZb4tChT8vzSs/X3/Ashland-07%20008-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-ZWxz7qT/0/KwH7XcVqXTz2shbSgX5KSrNmrHdFDBwZcNkq7LvxB/X4/Ashland-07%20008-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-ZWxz7qT/0/LNDrS9qb39tq36dD4zDtwhKnhzfwrn2LnjX7x9qJ9/X5/Ashland-07%20008-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-ZWxz7qT/0/MQfjqwp6SzCTPPXNcmHCXcfmSZzqgCMXzmfjKzzNt/O/Ashland-07%20008.jpg",
+          "Ext": "jpg",
+          "Height": 1944,
+          "Width": 2592,
+          "Size": 2262861,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/ZWxz7qT-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/ZWxz7qT-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "Ashland-07 010.jpg",
+      "Date": "2008-04-12T18:32:59+00:00",
+      "Uri": "/api/v2/album/3PpRdd/image/G9kGMdB-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-G9kGMdB/0/#size#/Ashland-07%20010-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-G9kGMdB/0/LxMVM4GHMcCKpx4bRvmpXCkwJxTK9nCNQLFbnBXNs/Ti/Ashland-07%20010-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-G9kGMdB/0/NKkcmdhrQMM97nd4vnVhxMhFjFpRn6TdKqCrdzW2M/Th/Ashland-07%20010-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-G9kGMdB/0/Mv24b6XLGZ7578VhtBHnph4JtDRD5JT5Lg2wNThF8/S/Ashland-07%20010-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 54441
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-G9kGMdB/0/McxNZ8NjGGpPwfssLZvp6sSJbZGjdGJnPF83fhMcw/M/Ashland-07%20010-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 117579
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-G9kGMdB/0/NBZC4bTw99pb4J5HVDQKpd8qZhc6dtvg3X6xXn4G6/L/Ashland-07%20010-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 226476
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-G9kGMdB/0/LvfWn3j9qjFJhJSgf9CLrgLvkd7znWBp3Jk6WsJGk/XL/Ashland-07%20010-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 522431
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-G9kGMdB/0/KLMtTktQr35VzsmcLM6THdF5rpRzTdRvXrrgFSKbB/X2/Ashland-07%20010-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 781673
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-G9kGMdB/0/Mz596bRKQN2cwdjNLPnWmzcGXFH4pCRQbkjqfZ2g4/X3/Ashland-07%20010-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-G9kGMdB/0/NZjcxBJTc35wXjm9zc9PBRLwkXbFNQS4qcWmDZ2L2/X4/Ashland-07%20010-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-G9kGMdB/0/NSLh8GjJhSQJLZpP3N3JzGT6tXPfh5nNbL9rtWmkQ/X5/Ashland-07%20010-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-G9kGMdB/0/L8mXtWm5CM23h5b9RcXKdsdb6ZbNV6vHc3cMHT8sf/O/Ashland-07%20010.jpg",
+          "Ext": "jpg",
+          "Height": 1944,
+          "Width": 2592,
+          "Size": 2876727,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/G9kGMdB-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/G9kGMdB-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "Ashland-07 012.jpg",
+      "Date": "2008-04-12T18:33:08+00:00",
+      "Uri": "/api/v2/album/3PpRdd/image/XwL8dMF-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-XwL8dMF/0/#size#/Ashland-07%20012-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-XwL8dMF/0/LchM5SMB3Z4Lt5hmT2LGjz92NszmnRk9SwgVs3GL6/Ti/Ashland-07%20012-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-XwL8dMF/0/Lz4VxBXv4LzVWTz5Rc68ZxJX96kr32ZnTX85wrmS2/Th/Ashland-07%20012-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-XwL8dMF/0/LTsRLVpsngtDp3dqLXgpc8d3WCrcRdzDdfFcTNmdC/S/Ashland-07%20012-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 42057
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-XwL8dMF/0/NLmNQPcvXpZV9v6dbZ9kr2kPmHVJhKtKd6m5BgSvM/M/Ashland-07%20012-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 95988
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-XwL8dMF/0/MvFqPhKhhGxx4Df5JWC228pVK4tXND6zdkM4KrJmJ/L/Ashland-07%20012-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 197344
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-XwL8dMF/0/K7dvNrNtRV44FRjrx97QXKVCsK55J45b6c3MbNMMt/XL/Ashland-07%20012-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 485975
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-XwL8dMF/0/Khx2VTFv358LgML6XrMj4xq2Q8g56PpNX2RDdsPG7/X2/Ashland-07%20012-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 748952
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-XwL8dMF/0/NSRc5V9svnRpTkkCdwmC3Vr9tTGQszTXqSmPBZ3X4/X3/Ashland-07%20012-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-XwL8dMF/0/MzdGcJ8HZf4CKRhPC4jHWR37LHHdvq8Tg8HVmfh4N/X4/Ashland-07%20012-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-XwL8dMF/0/NCGZzvRc9fG9kTLpP2TQcsHdg4mFWWRK5ndCW5T2x/X5/Ashland-07%20012-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-XwL8dMF/0/Nc6HrxmNWjF3XbS3CnC6spPdVfXg9jVP2SW6QpQrt/O/Ashland-07%20012.jpg",
+          "Ext": "jpg",
+          "Height": 1944,
+          "Width": 2592,
+          "Size": 2948509,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/XwL8dMF-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/XwL8dMF-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "Ashland-07 014.jpg",
+      "Date": "2008-04-12T18:33:10+00:00",
+      "Uri": "/api/v2/album/3PpRdd/image/gz2mrSR-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-gz2mrSR/0/#size#/Ashland-07%20014-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-gz2mrSR/0/NPt3wx9826pGbVHTjH3qGpL3LcBB9rJf3Jkv74bkd/Ti/Ashland-07%20014-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-gz2mrSR/0/KD4HMZGLjXjzkcvXBDHzdjBhwgpJWCFxS97Kr2ML7/Th/Ashland-07%20014-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-gz2mrSR/0/KdjSBMvXVGsHDJGr8frbfshktq42kMK5xCTqF623q/S/Ashland-07%20014-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 46865
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-gz2mrSR/0/LDFNNQJGLczst2bQSP7VNNXMn3Tq7Ts2LFPsDkwrx/M/Ashland-07%20014-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 108537
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-gz2mrSR/0/KcG3w7Hg8pXd4MqRWw6PQSMshWbpKSPVwSSbqcWzX/L/Ashland-07%20014-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 222024
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-gz2mrSR/0/K5nZkDF5PzTRkPGjT8jXzMtrnKWh2Z2zBvBthwhR7/XL/Ashland-07%20014-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 539373
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-gz2mrSR/0/Lk2F48BxwzP78Qc5HsBrMsrVxBPpTfGDPL86rdrRS/X2/Ashland-07%20014-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 826701
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-gz2mrSR/0/NTxbSW4NBhZrs4VXjQC2rkhbs6bbwV5rZPR5cgdCw/X3/Ashland-07%20014-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-gz2mrSR/0/MwnbhXBNgq4Hp7Rn3bvJwKq5g9bhKmgjTBDsCk7jS/X4/Ashland-07%20014-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-gz2mrSR/0/MwC88BCS3G3mHw8BRh36S82pNQ8JwhRD4H34LTcS7/X5/Ashland-07%20014-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-gz2mrSR/0/LgzNKhdHxMZRGL3GKcJWRJrQ34ckHLCVJh58X7tQX/O/Ashland-07%20014.jpg",
+          "Ext": "jpg",
+          "Height": 1944,
+          "Width": 2592,
+          "Size": 3201395,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/gz2mrSR-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/gz2mrSR-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "Ashland-07a 005.jpg",
+      "Date": "2008-04-12T18:33:17+00:00",
+      "Uri": "/api/v2/album/3PpRdd/image/wXzt38w-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-wXzt38w/0/#size#/Ashland-07a%20005-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-wXzt38w/0/KJHrrN9bQXrzC6FvfCXjqrRtrRGkhW6NPRpdgMFR9/Ti/Ashland-07a%20005-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-wXzt38w/0/LZ394K76bKGcmzh4kQZGQvbBfn65C9CDCrK58LbLf/Th/Ashland-07a%20005-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-wXzt38w/0/KwDJvKXp625t8HFjxh6tjXcV2BZ24HZvBjKjj4rBV/S/Ashland-07a%20005-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 55057
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-wXzt38w/0/NHqWdZvSvGDDCr6NGKtrkrGRpxH6hLx7FSxBdQNx4/M/Ashland-07a%20005-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 121415
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-wXzt38w/0/M8kLz5tztX8c47LDfCkTrGgWrVchzRNZg2xfXx2xm/L/Ashland-07a%20005-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 238640
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-wXzt38w/0/NMd2kwXDTWW5st2xRtgRhkP3sngzkHwjWBshcj3hz/XL/Ashland-07a%20005-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 551192
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-wXzt38w/0/LBBxsz5q7FVzBL54wZJ7mcRcZ3JPD64rwh4TLZ5tc/X2/Ashland-07a%20005-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 820251
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-wXzt38w/0/Lcvvh9K36jKG9Q9TPCMf2Pk4NWd49Rpg3TWSX4dR7/X3/Ashland-07a%20005-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-wXzt38w/0/NhQ99bD7JrHnmmFbw5C6nfL4nqd2tvtnbMCKLM33K/X4/Ashland-07a%20005-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-wXzt38w/0/K6F9KHW5k5J9ffGcjv4XNpBtTgJsNJ2NNVVrDHtGQ/X5/Ashland-07a%20005-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-wXzt38w/0/L3L9sX9mQwWVM7XVNrtQW5s8gstgVKBHsgntVG6vz/O/Ashland-07a%20005.jpg",
+          "Ext": "jpg",
+          "Height": 2304,
+          "Width": 3072,
+          "Size": 2490058,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/wXzt38w-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/wXzt38w-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "Ashland-07a 006.jpg",
+      "Date": "2008-04-12T18:33:23+00:00",
+      "Uri": "/api/v2/album/3PpRdd/image/9JGpWvp-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-9JGpWvp/0/#size#/Ashland-07a%20006-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-9JGpWvp/0/KxB7G376RwCWJjtwtthqrPWxfN8SZxZWj6dTbQpkv/Ti/Ashland-07a%20006-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-9JGpWvp/0/K9hG8mkzTv4tDt4FJvBrGP7BFzqPgTVJQ7wdN947J/Th/Ashland-07a%20006-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-9JGpWvp/0/KVCtrSGBnxdwmSpRF2SSrKCmwppq8F5s6k4VBkv4L/S/Ashland-07a%20006-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 74319
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-9JGpWvp/0/NZ2jFRdsv6r3p9hnqwcfRcB42KXVJPxhpqMmDsxqB/M/Ashland-07a%20006-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 164433
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-9JGpWvp/0/NJBXvspX555CW8hrtBrKSTtSNX5XRgkJ9SzhjCNcV/L/Ashland-07a%20006-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 284290
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-9JGpWvp/0/K7H7pdqt6x3t3tbvp85VSbFfTbvjgQVSqSfTXQgdN/XL/Ashland-07a%20006-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 725607
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-9JGpWvp/0/LFMZLxWcxSgWrB3W9NXPfrGKC8KZBt2sdGs75P9rv/X2/Ashland-07a%20006-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-9JGpWvp/0/NK4DRDCTgPvC2QSV27G7rrXwG7NLxXW7DNrJFrLzX/X3/Ashland-07a%20006-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-9JGpWvp/0/M9gvd4fqK9LV7Nzsj9BpKQqtWzGv9LMV7FLzcDchs/X4/Ashland-07a%20006-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-9JGpWvp/0/KNQKzWF9TcWFfSdM8VZtB4sCZ6gd7NrhLxpTVxJ5M/X5/Ashland-07a%20006-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-9JGpWvp/0/KGJSSP7rpCdnRXXSbhkZGXxbTzWwHN2KN9fNbgfsm/O/Ashland-07a%20006.jpg",
+          "Ext": "jpg",
+          "Height": 2304,
+          "Width": 3072,
+          "Size": 3689837,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/9JGpWvp-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/9JGpWvp-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "Ashland-07a 007.jpg",
+      "Date": "2008-04-12T18:33:29+00:00",
+      "Uri": "/api/v2/album/3PpRdd/image/QgqSGgn-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-QgqSGgn/0/#size#/Ashland-07a%20007-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-QgqSGgn/0/MBtVT6LMxqqLJp5Q9LhLtnBJZqvVtccKn6bGGPPNh/Ti/Ashland-07a%20007-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-QgqSGgn/0/LGkkw63hZwK9FJxphH7XbWRrfv2jGCqZxTDFjSFWf/Th/Ashland-07a%20007-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-QgqSGgn/0/MVsMXRpGsmXfWW54Mw7WGHGg8Gw5bCDq5Ct8WnmZb/S/Ashland-07a%20007-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 57585
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-QgqSGgn/0/KkXd9FBjqz2ZwGPhWNHJSQ6XmbV5v98hm2PbMggRF/M/Ashland-07a%20007-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 128225
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-QgqSGgn/0/M3FbWggSqZXBnsq7STZjTtfXMjNhL874DNZcsC9cJ/L/Ashland-07a%20007-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 254153
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-QgqSGgn/0/KDctXL3jWSkWg36gqzVq9MKWDcmSMLVJ8WCk2kwwB/XL/Ashland-07a%20007-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 595561
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-QgqSGgn/0/LLPVSVHVrc94K452f4N3SphXWLHRwj5JNQ3LbKSnL/X2/Ashland-07a%20007-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-QgqSGgn/0/Lk2Fx2bHTcdPRzCTtjJ4QVvGrZJPkWDNKBwvwvFxR/X3/Ashland-07a%20007-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-QgqSGgn/0/NCxPQXk3XxLFSwRL54RmqWsBHXm5mTVgTbSjPrLXh/X4/Ashland-07a%20007-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-QgqSGgn/0/NKkpwGQ9ww2HHX6m2mrt9TGjSDxGDN5ch97zsw9nb/X5/Ashland-07a%20007-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-QgqSGgn/0/LptQhHwb7Qk3KcvtMhhnbcrphTKSqczCLv2sJwNf4/O/Ashland-07a%20007.jpg",
+          "Ext": "jpg",
+          "Height": 2304,
+          "Width": 3072,
+          "Size": 2970907,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/QgqSGgn-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/QgqSGgn-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "Ashland-07a 010.jpg",
+      "Date": "2008-04-12T18:33:38+00:00",
+      "Uri": "/api/v2/album/3PpRdd/image/6mbJThX-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-6mbJThX/0/#size#/Ashland-07a%20010-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-6mbJThX/0/NdtznCC4rztWdd7chtvJRs36cVJbgbd3vVs2C3hRK/Ti/Ashland-07a%20010-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-6mbJThX/0/KsZbDhRZD4XQzZ2pZL77B63FntCF4ffPgDgTnBMmg/Th/Ashland-07a%20010-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-6mbJThX/0/NLnDbsgP7PWGNJdkLwwkSFQN6xtwn6VXLL9ZpKLwF/S/Ashland-07a%20010-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 52276
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-6mbJThX/0/MmHc2CGSVrHPg3RgTpMT7GcSgjJh999P9BKxZFX8f/M/Ashland-07a%20010-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 112377
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-6mbJThX/0/KJWkmn9RxRtG5kXZfp7W4mhnNg3N2wgqd49znLkWq/L/Ashland-07a%20010-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 221121
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-6mbJThX/0/Lbp824rGg32szJLjggf9Z8nTDW6QFRkp6KHqZxsrP/XL/Ashland-07a%20010-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 529330
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-6mbJThX/0/NgHRVqjZtTcKh29MQTQ9JfKDCxHqk3r3D6283BFgh/X2/Ashland-07a%20010-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-6mbJThX/0/MWB3nxgrbVpSb8wLZr5sGSVQrXghZ3GvDMBvfz8BW/X3/Ashland-07a%20010-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-6mbJThX/0/LB4RskhrxzFjfjZKN5RK7LfKWNZNtqp4JLNM9kNWw/X4/Ashland-07a%20010-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-6mbJThX/0/MPWjD4gvT7F2r9qgrRZBcRcmR4D7qSM2TwfMCLxgZ/X5/Ashland-07a%20010-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-6mbJThX/0/KfG4crFmpShKLvv4wnwNf59mJfmsmPWBLpNG9NL5w/O/Ashland-07a%20010.jpg",
+          "Ext": "jpg",
+          "Height": 2304,
+          "Width": 3072,
+          "Size": 2404100,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/6mbJThX-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/6mbJThX-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "Ashland-07a 008.jpg",
+      "Date": "2008-04-12T18:33:35+00:00",
+      "Uri": "/api/v2/album/3PpRdd/image/pj7NjDG-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-pj7NjDG/0/#size#/Ashland-07a%20008-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-pj7NjDG/0/K8xWgkczDfCQf7Z4zQfsR5Qd8RbnZWzDNJQr4g9x7/Ti/Ashland-07a%20008-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-pj7NjDG/0/KK6rHgL5hwnmm7J4JXQzhBq5LJK7Z86CdkM2L4Tbn/Th/Ashland-07a%20008-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-pj7NjDG/0/KMmbnq8Jg6p5TWSx4gj4jP8k2NHkCvcshZnSdTswB/S/Ashland-07a%20008-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 68206
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-pj7NjDG/0/LSr5R95jPffv4DcHcP9TtbKg8sNMTgXgFgcKjL5fr/M/Ashland-07a%20008-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 150074
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-pj7NjDG/0/Kp2xV45LSxN8hN83SFgfx2nkJwbShFxRgF5mSqxfn/L/Ashland-07a%20008-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 292089
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-pj7NjDG/0/Ncs26ZQkhDxhqB6G8GNm4hXdmjzfcJ3mg3xczBqLW/XL/Ashland-07a%20008-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 657731
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-pj7NjDG/0/K2w8zN6bbwK6JDfV9bTHCX8HkjxRWGcCsLt8bgR4T/X2/Ashland-07a%20008-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-pj7NjDG/0/MXFS8rkhvSKMBxFKkqdSTtzXcP66LwGNbrb7xmnb6/X3/Ashland-07a%20008-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-pj7NjDG/0/KqNnxNhcdv7RNXPF7S8P8rBbVnZZ4F58SStmQJL5w/X4/Ashland-07a%20008-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-pj7NjDG/0/K5GxZS5m9FHm5QSb9nQ24tp2w7FnJ4MBdWWF2hrKP/X5/Ashland-07a%20008-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-pj7NjDG/0/LTdpB6STfxb554ZB9HLvzBt7H7TF72F77pwVNFftn/O/Ashland-07a%20008.jpg",
+          "Ext": "jpg",
+          "Height": 2304,
+          "Width": 3072,
+          "Size": 3179218,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/pj7NjDG-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/pj7NjDG-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "Ashland-07a 011.jpg",
+      "Date": "2008-04-12T18:33:44+00:00",
+      "Uri": "/api/v2/album/3PpRdd/image/V7rNhBN-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-V7rNhBN/0/#size#/Ashland-07a%20011-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-V7rNhBN/0/LLLBQW67z25xr8wBMPBWZxJXkrb5KGNgJ7Nb2fx46/Ti/Ashland-07a%20011-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-V7rNhBN/0/LvBkdPLQ4zV4MCns8rrdVcWxS27sCf56jM3sRxND6/Th/Ashland-07a%20011-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-V7rNhBN/0/NK5ZG2dMQfZbTDvRcnLGN37tqrXtDmPL9SKSNMsJQ/S/Ashland-07a%20011-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 44857
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-V7rNhBN/0/LMCDsQBchr5GbC43FD6cLcHDJWPvhkkwnFPcnqbMv/M/Ashland-07a%20011-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 91995
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-V7rNhBN/0/LqtsJFqdKs4Nr45bJ2nTj662DHmLFv8FfpM9p4dZ3/L/Ashland-07a%20011-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 152627
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-V7rNhBN/0/MVDh5xZsQpsQ7t9ZMTFXvm3Kq2zkg5tQM6C7Z7g5H/XL/Ashland-07a%20011-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 451914
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-V7rNhBN/0/MKTq5bdD5s62VxTsWLQ7z9BjsnrJSv7JfRNLZ7k3F/X2/Ashland-07a%20011-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-V7rNhBN/0/MBM9tmLwMNvnJz48qbfqvVBhPWtcWvktNCWtf2nCz/X3/Ashland-07a%20011-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-V7rNhBN/0/K9CxMmc5MTZgjwT499jjt6brnRt39wJPQF4GMrDKz/X4/Ashland-07a%20011-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-V7rNhBN/0/L9nGvqPXX8BW4Qt6rq4Gg4NLQ9wH3V7CtbhtLptPb/X5/Ashland-07a%20011-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-V7rNhBN/0/MP5d4QjjXmJqJ9dBpgtqBm8vPrzT3hFf8tJHDSGmc/O/Ashland-07a%20011.jpg",
+          "Ext": "jpg",
+          "Height": 2304,
+          "Width": 3072,
+          "Size": 2121602,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/V7rNhBN-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/V7rNhBN-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "Ashland-07a 012.jpg",
+      "Date": "2008-04-12T18:33:48+00:00",
+      "Uri": "/api/v2/album/3PpRdd/image/NJx7dpf-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-NJx7dpf/0/#size#/Ashland-07a%20012-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-NJx7dpf/0/LxjFQHtCXJ7DwCR2TXb8gWJDjZHFVGFpmz9gJW3Dn/Ti/Ashland-07a%20012-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-NJx7dpf/0/KHV4qF97Xm5f89m6mWMvRLrn5LH7GgnNw3tBJBcm9/Th/Ashland-07a%20012-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-NJx7dpf/0/NVCX8vSdrf2T9rxqHBCCHw8TvX9x7F7tjMg4HNj3g/S/Ashland-07a%20012-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 59232
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-NJx7dpf/0/NSxM6D27Bn3Vw6fjqNfx7hQpBGJ6nsRNwK7k2HWLL/M/Ashland-07a%20012-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 128402
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-NJx7dpf/0/KwNSHSbkBLxvrLcvC8ktJFswFLn2xTtHq7S32ffW8/L/Ashland-07a%20012-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 253999
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-NJx7dpf/0/KLCc8LhQPpgQX2cBmpmqgm8SDH2VX6R9gkBNv6th5/XL/Ashland-07a%20012-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 586159
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-NJx7dpf/0/LCLbwrb2cRWz7mhd6kxG5dTMCZnBfkZKqfnbWN9nd/X2/Ashland-07a%20012-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-NJx7dpf/0/LCQR7rvWTgBdGrCTxzxSghRDTt8zwm7q8QG8ftCWT/X3/Ashland-07a%20012-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-NJx7dpf/0/KQX2q9N25mrp4QtxNKZKdMM5vqCRwB2hnKGq4FckB/X4/Ashland-07a%20012-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-NJx7dpf/0/Nbj5nfk3WRfKzD6thFGtr8zRvWq87C9X6KF2tcssd/X5/Ashland-07a%20012-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-NJx7dpf/0/L9gfSthxmWCCsWqh3X2v65PDgNLGhStN6mRr6Kpf5/O/Ashland-07a%20012.jpg",
+          "Ext": "jpg",
+          "Height": 2304,
+          "Width": 3072,
+          "Size": 2687977,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/NJx7dpf-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/NJx7dpf-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "Ashland-07a 013.jpg",
+      "Date": "2008-04-12T18:33:54+00:00",
+      "Uri": "/api/v2/album/3PpRdd/image/3nfm97q-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-3nfm97q/0/#size#/Ashland-07a%20013-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-3nfm97q/0/KgC2MfkgQM42WjL69nBFW3pTKwVkCDBJZPn4KWG8t/Ti/Ashland-07a%20013-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-3nfm97q/0/L6R342W8z3xPnXtJdZdJTGRF8c8BxBxWhqCZgttbT/Th/Ashland-07a%20013-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-3nfm97q/0/KZp7gjfpqqsPtLhhZ8CQ5qhZPDcWsmrQ9tQ99QP4n/S/Ashland-07a%20013-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 56230
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-3nfm97q/0/NWTnZKQCsZvD8KT7qNm8tt5TsRMQLftSqqKwBJXfx/M/Ashland-07a%20013-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 117397
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-3nfm97q/0/L35fcpgrqsCzWvvFCVzWLJbQ3HxPVkqMxqDjVTpvc/L/Ashland-07a%20013-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 226479
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-3nfm97q/0/NWNWx9Wx8KZ2MFrXR6cJFF9v4Tjt6LRgG4TPbJFqq/XL/Ashland-07a%20013-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 506085
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-3nfm97q/0/KgMnfZfVCs8QsgVMxvfcRrfXXVMCzvSMxxkXgGGc2/X2/Ashland-07a%20013-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-3nfm97q/0/KKvZQbKZPK2VJVDcFMpvXp6xTQfD3VbBHCv9fBgBG/X3/Ashland-07a%20013-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-3nfm97q/0/MpSBfXQZS9rpJk6SwjKSbL3scxNNx3xCgwwztqpRh/X4/Ashland-07a%20013-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-3nfm97q/0/KQJK2gK5cDT4Vd6bvG8kVZBKSfXrp45XfjHVwQR6S/X5/Ashland-07a%20013-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-3nfm97q/0/K999Gc9s39k3bL8rkhVQmcVWPPbZbwxTF6HhGtMNM/O/Ashland-07a%20013.jpg",
+          "Ext": "jpg",
+          "Height": 2304,
+          "Width": 3072,
+          "Size": 2208581,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/3nfm97q-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/3nfm97q-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "Ashland-07a 014.jpg",
+      "Date": "2008-04-12T18:33:56+00:00",
+      "Uri": "/api/v2/album/3PpRdd/image/MbgmSjS-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-MbgmSjS/0/#size#/Ashland-07a%20014-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-MbgmSjS/0/NPHtnWwvgDWPB2T42rqLf7TfX5wBr5ZD7RNL6QfJZ/Ti/Ashland-07a%20014-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-MbgmSjS/0/NF96ZV37Mr7TtQ8pwtnPWR6fbQTQmgMRtVQgBSTDw/Th/Ashland-07a%20014-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-MbgmSjS/0/NZPVs3DphqFWDTvfrqzBkmVQBPzDRZpH3HjmCpgJR/S/Ashland-07a%20014-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 47450
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-MbgmSjS/0/MzPzCPCNjSLf4jXKDD9WPMbWWhhw74Nbm9kzcjXsg/M/Ashland-07a%20014-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 97149
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-MbgmSjS/0/NQzN9c2dPLfT9Xvr7DsjsbGC4jK2gnKMr37vkpjq6/L/Ashland-07a%20014-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 186563
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-MbgmSjS/0/MmtsTtLsjD3dvHqxHx54Dr57Q9rzzJSqGC2S7m4jW/XL/Ashland-07a%20014-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 441030
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-MbgmSjS/0/M5P8L6LPccfJFscFPVCbscXQjzN6dSHdP4Bgv99HW/X2/Ashland-07a%20014-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-MbgmSjS/0/MK5889X782jHmBN7TSSKQNN96CFswsp37nKdfg8db/X3/Ashland-07a%20014-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-MbgmSjS/0/LnNT3CDLsLfKpwRRzkbdqNkbKR5XHDDwkKDnhPrxh/X4/Ashland-07a%20014-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-MbgmSjS/0/LFFqkcrfPT32tc6dWKR3MsPHQVfbzvQrPCk8Rd5MQ/X5/Ashland-07a%20014-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-MbgmSjS/0/KpX9v6s4HZhnKLQWRqM567XXGhrf2Q7rNDPWbR9nk/O/Ashland-07a%20014.jpg",
+          "Ext": "jpg",
+          "Height": 2304,
+          "Width": 3072,
+          "Size": 1941776,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/MbgmSjS-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/MbgmSjS-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "Ashland-07a 015.jpg",
+      "Date": "2008-04-12T18:34:05+00:00",
+      "Uri": "/api/v2/album/3PpRdd/image/nb35CjM-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-nb35CjM/0/#size#/Ashland-07a%20015-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-nb35CjM/0/MHsRQc6KSff7scTBbKMfGJV348sV2qWtD5VFRHCJX/Ti/Ashland-07a%20015-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-nb35CjM/0/NJQqK5bVkQRfRRfzzL4cjQ3T3c6cDNP4VvFc8V67z/Th/Ashland-07a%20015-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-nb35CjM/0/KMWjgzVnZbXdgTVw8Sz9j8MTgGtNhrfgsvXRhxQwt/S/Ashland-07a%20015-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 50495
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-nb35CjM/0/MVxGmQ5gBcZ9FFxhkFzWjSZrqxv4QWsFLgWTfkWmP/M/Ashland-07a%20015-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-nb35CjM/0/KS5T6vWprvm9KxHpQxJbPfWbjjKW2qdwBhZCPx28k/L/Ashland-07a%20015-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 205713
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-nb35CjM/0/LgxnWM5htpSsLtDGj9KTtPSvm2Sv49nJjkDNjNSbJ/XL/Ashland-07a%20015-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 492643
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-nb35CjM/0/KQGTDJs7zWw4nzBgZqBMz7JzHt8fh6ZTH85rLJKXR/X2/Ashland-07a%20015-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-nb35CjM/0/Lk2HH2PGCXvN5Tfv8bQVt56FkqJTwzHPFDJMq7gzH/X3/Ashland-07a%20015-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-nb35CjM/0/MqGxsWL5QzLwSqF9HmDzxd39cgVkxk9KkDzjRbV8q/X4/Ashland-07a%20015-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-nb35CjM/0/LrWctTDWgN9b8xpx8MdspML6tDnT8b8NbQ8xxcZCm/X5/Ashland-07a%20015-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-nb35CjM/0/LKQKr3xKMmw2Vzwm2FFw4BGMcK7GfP3qhPfLzbgcC/O/Ashland-07a%20015.jpg",
+          "Ext": "jpg",
+          "Height": 2304,
+          "Width": 3072,
+          "Size": 2217477,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/nb35CjM-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/nb35CjM-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "Ashland-07a 016.jpg",
+      "Date": "2008-04-12T18:34:08+00:00",
+      "Uri": "/api/v2/album/3PpRdd/image/PN8gMGK-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-PN8gMGK/0/#size#/Ashland-07a%20016-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-PN8gMGK/0/MwWVf672mL4RGdnSqWqhsnSGm9bPMdqPvjxcccwx3/Ti/Ashland-07a%20016-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-PN8gMGK/0/MtTt58C3NsXMbPXzsxkmb6NRSsh7Kqpf6FW9j3X2P/Th/Ashland-07a%20016-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-PN8gMGK/0/M5PxRLPMZnv898B5BGKNdWmhVZkJ6wrgW4fPbtcJS/S/Ashland-07a%20016-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 49910
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-PN8gMGK/0/KRnStKJKhTPMqz9S4Rp4fwZ4PH4KTR7QdfztBV7Hh/M/Ashland-07a%20016-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-PN8gMGK/0/LZ3Sff5nm2grwNsvdzhWTxnXh4GcKFFnzRRGjS35c/L/Ashland-07a%20016-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 204207
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-PN8gMGK/0/MLsVTbDdwdG323hq2MVhcT8kN8mrVsBkgq7bd894m/XL/Ashland-07a%20016-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 486887
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-PN8gMGK/0/M6cd5XxjTnzDwbhfKXPqqCD2CWrQmsLTb6Pdm9mFp/X2/Ashland-07a%20016-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-PN8gMGK/0/MnbRk745kLRgfKtf5qtBK8z9tDR6kc9sTnTPNf34M/X3/Ashland-07a%20016-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-PN8gMGK/0/Lgv6pKz59RHd4c4KDcqvg2PFr7jbnTfxSk5xQRMJt/X4/Ashland-07a%20016-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-PN8gMGK/0/Mdk54wjNxSDq2sgQkKqdjnmVkLtxqZrFfCRsGcTrD/X5/Ashland-07a%20016-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-PN8gMGK/0/MF569GtSj6L7jv9W2DjwdC2x7tcb9ZRM4N3SDtDsG/O/Ashland-07a%20016.jpg",
+          "Ext": "jpg",
+          "Height": 2304,
+          "Width": 3072,
+          "Size": 2163347,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/PN8gMGK-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/PN8gMGK-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "Ashland-07a 017.jpg",
+      "Date": "2008-04-12T18:34:13+00:00",
+      "Uri": "/api/v2/album/3PpRdd/image/4J6jmtn-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-4J6jmtn/0/#size#/Ashland-07a%20017-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-4J6jmtn/0/LzgM6xCnppn4JLD9QZ2Tb3vLgrnqRHpnmBq2d66df/Ti/Ashland-07a%20017-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-4J6jmtn/0/K48cbksSspcHwnpsFkMpM9R5gnTHP7pvpwRJwJ6Bk/Th/Ashland-07a%20017-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-4J6jmtn/0/MGJc5rXL7LPkdr8NV6jzS7KpBhfGVjKgmz3jJJsVR/S/Ashland-07a%20017-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 52772
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-4J6jmtn/0/L6DvzV4ZBM684wPQxCbLcM2s9tRbgHHz5qdNXwqxf/M/Ashland-07a%20017-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-4J6jmtn/0/LzLqKG9MhG8pjhKghCNBPw2Jgkj2mW67gQgZFN77B/L/Ashland-07a%20017-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 200409
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-4J6jmtn/0/KVGJ7HbpsTQBCWbncqmfS8xsb7tdXRv4t5kRG7MHz/XL/Ashland-07a%20017-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 467543
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-4J6jmtn/0/KFHvPPpkswLP5MGDWbX4HsBXMHGjrwQX9trK8pRMH/X2/Ashland-07a%20017-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-4J6jmtn/0/MMdbzJHMQPkfDMGvvTsr8PhmmpNmw5Q4bzBBsmz8r/X3/Ashland-07a%20017-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-4J6jmtn/0/K34nfGpgTH8w4tQk4WDrvLSkbhLCmsm95MN9p2mHm/X4/Ashland-07a%20017-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-4J6jmtn/0/MPjnqpvpMk9SPPB52SqWXHKQZ6tCHCDfKGC3RzDzf/X5/Ashland-07a%20017-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-LakeAlpine/i-4J6jmtn/0/NXGC8Gwkd2d3ZFjCbPn6vqTHWrNhNHP6jgMp69KmK/O/Ashland-07a%20017.jpg",
+          "Ext": "jpg",
+          "Height": 2304,
+          "Width": 3072,
+          "Size": 2043280,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/4J6jmtn-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/4J6jmtn-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    }
+  ]
+}

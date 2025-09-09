@@ -1,0 +1,769 @@
+{
+  "UrlName": "2008-PryorMountainPeople",
+  "Name": "2008-Pryor Mountain People",
+  "Uri": "/api/v2/album/XghSQm",
+  "Date": "2008-06-30T05:32:46+00:00",
+  "WebUri": "https://lmblevins.smugmug.com/Travel/2008-PryorMountainPeople",
+  "Images": [
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "DSC_0071.jpg",
+      "Date": "2008-06-30T05:33:28+00:00",
+      "Uri": "/api/v2/album/XghSQm/image/Np9Rx65-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-Np9Rx65/0/#size#/DSC_0071-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-Np9Rx65/0/MxqsjRd4PGdJQHqtB2ncQSn5sTW4B5G7pMD6Lh8sJ/Ti/DSC_0071-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-Np9Rx65/0/KjTgTjQ2jnG4fZLSrRG7W6hpSQhdGdPB2gL6XVnQ2/Th/DSC_0071-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 12287
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-Np9Rx65/0/L2BBznfmScqBt3CFKwH6fP8bCfcHhbFKnNMmhJqBg/S/DSC_0071-S.jpg",
+          "Ext": "jpg",
+          "Height": 265,
+          "Width": 400,
+          "Size": 48213
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-Np9Rx65/0/MtqMQDMgn5Rvkn6S3GcrG5xnG9sZpjG943p5JMdNK/M/DSC_0071-M.jpg",
+          "Ext": "jpg",
+          "Height": 397,
+          "Width": 600,
+          "Size": 98997
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-Np9Rx65/0/LhSdfGsStSQDpnkdJbzhB5dZBLSHZHM4DPZdRRGCZ/L/DSC_0071-L.jpg",
+          "Ext": "jpg",
+          "Height": 529,
+          "Width": 800,
+          "Size": 163733
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-Np9Rx65/0/KVHzCN7wChQkXPRjbn6bxkSDh3r8jbJn98C3pqGk4/XL/DSC_0071-XL.jpg",
+          "Ext": "jpg",
+          "Height": 677,
+          "Width": 1024,
+          "Size": 219894
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-Np9Rx65/0/MWH2PgBZ9m8kHvxrpKfzdGQVvWn7cnQB4m3fPsTMS/O/DSC_0071.jpg",
+          "Ext": "jpg",
+          "Height": 900,
+          "Width": 1361,
+          "Size": 288259,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Np9Rx65-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Np9Rx65-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "DSC_0072.jpg",
+      "Date": "2008-06-30T05:33:36+00:00",
+      "Uri": "/api/v2/album/XghSQm/image/XGkRBfC-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-XGkRBfC/0/#size#/DSC_0072-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-XGkRBfC/0/NBD7z8G6HgxffSs7kC6hPvSkvxZBfXgvXMVnCqDbQ/Ti/DSC_0072-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-XGkRBfC/0/MTS5f8zJ9PnWbcHpBgNF5xqbrMK2Gp7mM6Cf7sS9h/Th/DSC_0072-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-XGkRBfC/0/LMPsRCCTKDRMvKzSRPHTPW3mpj9tBBchLmmXrXWg2/S/DSC_0072-S.jpg",
+          "Ext": "jpg",
+          "Height": 264,
+          "Width": 400,
+          "Size": 38781
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-XGkRBfC/0/MJDHrzQTBqXxLTcj5qFKKff8D4N9PtgcggCMGr5QC/M/DSC_0072-M.jpg",
+          "Ext": "jpg",
+          "Height": 397,
+          "Width": 600,
+          "Size": 82427
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-XGkRBfC/0/LCGGb3WBsjpnK6MTXLdSKvmshhpFD3SK58chwpmT2/L/DSC_0072-L.jpg",
+          "Ext": "jpg",
+          "Height": 529,
+          "Width": 800,
+          "Size": 162133
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-XGkRBfC/0/KtpLS58XnH6ChFDDKBfBDJRbQkfWRMNL7R9D39WFG/XL/DSC_0072-XL.jpg",
+          "Ext": "jpg",
+          "Height": 677,
+          "Width": 1024,
+          "Size": 218797
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-XGkRBfC/0/LPr5cNNP66ccQWrMqJG4M7vRK5JdQ38BRV5WTbp2T/O/DSC_0072.jpg",
+          "Ext": "jpg",
+          "Height": 900,
+          "Width": 1361,
+          "Size": 287694,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/XGkRBfC-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/XGkRBfC-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "DSC_0069.jpg",
+      "Date": "2008-06-30T05:33:41+00:00",
+      "Uri": "/api/v2/album/XghSQm/image/w8pp427-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-w8pp427/0/#size#/DSC_0069-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-w8pp427/0/Nf8vcNrH5gWkKJ9FVCTRTdbc4qd2MZC6pTf9Lc4x6/Ti/DSC_0069-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-w8pp427/0/LzhBKLfvtXDG8jQ9qs7jbtKZfHMT7gJJ3TnsMsrqv/Th/DSC_0069-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-w8pp427/0/Mq7md38VgXHjtvrks8cR7zbcjgSLG7S98DGS7cmGt/S/DSC_0069-S.jpg",
+          "Ext": "jpg",
+          "Height": 264,
+          "Width": 400,
+          "Size": 40134
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-w8pp427/0/M7GkjpkGkqjj2Mwn9dvtt7dSfQwmDQkVp3XxZ6Zr5/M/DSC_0069-M.jpg",
+          "Ext": "jpg",
+          "Height": 397,
+          "Width": 600,
+          "Size": 79513
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-w8pp427/0/LtvNh2LZWDBqMC4pbTTh7sSzmRfxGCK9RDHp3xDzz/L/DSC_0069-L.jpg",
+          "Ext": "jpg",
+          "Height": 529,
+          "Width": 800,
+          "Size": 152671
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-w8pp427/0/LJKmhbnxgFc4hm2cDZczhb3rWPPMsBpqGkzZzDRSG/XL/DSC_0069-XL.jpg",
+          "Ext": "jpg",
+          "Height": 677,
+          "Width": 1024,
+          "Size": 185795
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-w8pp427/0/MkFNTRHcDBnStqCvrvhtCLpW9QkDWHQMTmzhs6GCs/X2/DSC_0069-X2.jpg",
+          "Ext": "jpg",
+          "Height": 846,
+          "Width": 1280,
+          "Size": 255766
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-w8pp427/0/L2PjnzqHzpFwHb8BPhp7GCprDNWP3tNVvFXJ9tt7N/O/DSC_0069.jpg",
+          "Ext": "jpg",
+          "Height": 900,
+          "Width": 1361,
+          "Size": 226720,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/w8pp427-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/w8pp427-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "DSC_0070.jpg",
+      "Date": "2008-06-30T05:33:46+00:00",
+      "Uri": "/api/v2/album/XghSQm/image/cJJQ8r4-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-cJJQ8r4/0/#size#/DSC_0070-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-cJJQ8r4/0/LMp2JgNmH9cM5JqVVkCR4TwZzxrtSzp4JTtGWSJpb/Ti/DSC_0070-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-cJJQ8r4/0/MztvKLPZvSBMqBXHk4szg2Sq3bqGrHFMchtmvfdkp/Th/DSC_0070-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-cJJQ8r4/0/MdSCvmd65gfWtDJt8QxCSDSmZTFNJT9xHT4tHWt2s/S/DSC_0070-S.jpg",
+          "Ext": "jpg",
+          "Height": 264,
+          "Width": 400,
+          "Size": 39612
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-cJJQ8r4/0/MZ3JFG8fJGhwPRvBNQDGqG3X2v4CD3Rt8wBv9MHPF/M/DSC_0070-M.jpg",
+          "Ext": "jpg",
+          "Height": 397,
+          "Width": 600,
+          "Size": 82175
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-cJJQ8r4/0/NK5HPZGXcjf6kBDmDM5k6pJT383V9F2VJmfVbqHWZ/L/DSC_0070-L.jpg",
+          "Ext": "jpg",
+          "Height": 529,
+          "Width": 800,
+          "Size": 161666
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-cJJQ8r4/0/LrXCbsqTF6Z55Srx4N5XVFVD8dt3V83TB4hmJKWdt/XL/DSC_0070-XL.jpg",
+          "Ext": "jpg",
+          "Height": 677,
+          "Width": 1024,
+          "Size": 215797
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-cJJQ8r4/0/KLD8ZSXK82scwtvr9PPTSHcTPZ5ZWk3JNkqs9JRW4/X2/DSC_0070-X2.jpg",
+          "Ext": "jpg",
+          "Height": 846,
+          "Width": 1280,
+          "Size": 316278
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-cJJQ8r4/0/K6dv9XwXnFNdtVdz7fJxk7sb7wc4fSTLZq398szzW/O/DSC_0070.jpg",
+          "Ext": "jpg",
+          "Height": 900,
+          "Width": 1361,
+          "Size": 280808,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/cJJQ8r4-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/cJJQ8r4-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "DSC_0160.jpg",
+      "Date": "2008-06-30T05:33:45+00:00",
+      "Uri": "/api/v2/album/XghSQm/image/LXPKhhk-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-LXPKhhk/0/#size#/DSC_0160-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-LXPKhhk/0/LhgprjQZBwcc3zBxsDgs4TzLB8WPz8KRdxFFGpdXH/Ti/DSC_0160-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-LXPKhhk/0/L9bt4zjwtSpWWLQ95zn66jZmm9qx3v43tcdnZnrmL/Th/DSC_0160-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-LXPKhhk/0/KkMGCh6nw4J4pBs4TGMrvDMKdkpbMxdQvpj8tqxBK/S/DSC_0160-S.jpg",
+          "Ext": "jpg",
+          "Height": 264,
+          "Width": 400,
+          "Size": 48484
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-LXPKhhk/0/M2nFPBWf5DQft6S4tKqhWtP8nQZHnsDbq6NkVBMfq/M/DSC_0160-M.jpg",
+          "Ext": "jpg",
+          "Height": 397,
+          "Width": 600,
+          "Size": 107321
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-LXPKhhk/0/NC56frDtdJBRVKTP4VDvqNFDWSHk2pW7sDzmQCQ9b/L/DSC_0160-L.jpg",
+          "Ext": "jpg",
+          "Height": 529,
+          "Width": 800,
+          "Size": 212375
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-LXPKhhk/0/NbzK7s6L8rwpbLMph2dZckwVF6PbvPrRjQL75jZ6n/XL/DSC_0160-XL.jpg",
+          "Ext": "jpg",
+          "Height": 677,
+          "Width": 1024,
+          "Size": 288128
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-LXPKhhk/0/LcT5CN5GwGF9ncGGdNqSgJs8Kr3FgTLDmCqfdzmzL/O/DSC_0160.jpg",
+          "Ext": "jpg",
+          "Height": 900,
+          "Width": 1361,
+          "Size": 367780,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/LXPKhhk-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/LXPKhhk-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "DSC_0161.jpg",
+      "Date": "2008-06-30T05:33:57+00:00",
+      "Uri": "/api/v2/album/XghSQm/image/z5f8tNz-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-z5f8tNz/0/#size#/DSC_0161-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-z5f8tNz/0/K3JWH3KdbCtMXtHHzRhBVhBkLGb62KQ7z5CJ9ScFc/Ti/DSC_0161-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-z5f8tNz/0/LVpkbCfXDzq9X5czphzhz7gG5Dx9cBsN864R6P6tV/Th/DSC_0161-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-z5f8tNz/0/M6RW4kLWs8Xz7LDRKRvZGCLSR5W6GzzWXjjPs79wb/S/DSC_0161-S.jpg",
+          "Ext": "jpg",
+          "Height": 264,
+          "Width": 400,
+          "Size": 47069
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-z5f8tNz/0/MwP44MWfNZSdTPZxjxm9zrrRDw4RJMJZkgLjPsXpN/M/DSC_0161-M.jpg",
+          "Ext": "jpg",
+          "Height": 397,
+          "Width": 600,
+          "Size": 97885
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-z5f8tNz/0/LLB47kpDKKffFwm7QDpzfckrnLHdLJtjQZS5MTMkC/L/DSC_0161-L.jpg",
+          "Ext": "jpg",
+          "Height": 529,
+          "Width": 800,
+          "Size": 189365
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-z5f8tNz/0/LfhXtBjMvV9Q4kRBXrtJ949WVhbfShGGzZSqsp667/XL/DSC_0161-XL.jpg",
+          "Ext": "jpg",
+          "Height": 677,
+          "Width": 1024,
+          "Size": 236939
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-z5f8tNz/0/KFNpsQKBs5M2M4VpXx5LMDQTPx27bgm4HZKzCh2Sw/X2/DSC_0161-X2.jpg",
+          "Ext": "jpg",
+          "Height": 846,
+          "Width": 1280,
+          "Size": 333453
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-z5f8tNz/0/NbbgXpMMF7DgKWJrb6jg8LBXrnnx3WvMbxQQZnH4H/O/DSC_0161.jpg",
+          "Ext": "jpg",
+          "Height": 900,
+          "Width": 1361,
+          "Size": 298161,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/z5f8tNz-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/z5f8tNz-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "DSC_0171.jpg",
+      "Date": "2008-06-30T05:34:02+00:00",
+      "Uri": "/api/v2/album/XghSQm/image/VSJkHjp-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-VSJkHjp/0/#size#/DSC_0171-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-VSJkHjp/0/Kg4sBfGjtvhkfLvRJh3FJCd36sSwGK96SkJfrz3V8/Ti/DSC_0171-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-VSJkHjp/0/LtxVJBSmSPVCspSKM7L7T93kXtrBnFHVDQQLcqKNm/Th/DSC_0171-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-VSJkHjp/0/L4GpkGF4HDKJs5x22GbvsG3BzpXmnNsw37SM2zbX2/S/DSC_0171-S.jpg",
+          "Ext": "jpg",
+          "Height": 264,
+          "Width": 400,
+          "Size": 34263
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-VSJkHjp/0/Mjsth5mNSsxmJbqpcVBspbXcbDmnQ3TC33rKh6hS2/M/DSC_0171-M.jpg",
+          "Ext": "jpg",
+          "Height": 397,
+          "Width": 600,
+          "Size": 69909
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-VSJkHjp/0/KM9qbkD7H4gpgwF4PXdCHj75v4WBQ8WQntrSZXDJD/L/DSC_0171-L.jpg",
+          "Ext": "jpg",
+          "Height": 529,
+          "Width": 800,
+          "Size": 133783
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-VSJkHjp/0/KgdGN9N7GDWckz3zP5TzBFJ3BLRWjFqJJKTjwjcvb/XL/DSC_0171-XL.jpg",
+          "Ext": "jpg",
+          "Height": 677,
+          "Width": 1024,
+          "Size": 177640
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-VSJkHjp/0/NBhprrJ45nFc6tVvsZgwqWZbn8jcWD3B23WzbG8Bh/X2/DSC_0171-X2.jpg",
+          "Ext": "jpg",
+          "Height": 846,
+          "Width": 1280,
+          "Size": 254989
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-VSJkHjp/0/NP97pN6k7v3dsfrpR7VG4VCJ4PCddvXcBWWq7fm5G/O/DSC_0171.jpg",
+          "Ext": "jpg",
+          "Height": 900,
+          "Width": 1361,
+          "Size": 220511,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/VSJkHjp-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/VSJkHjp-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "DSC_0230.jpg",
+      "Date": "2008-06-30T05:34:01+00:00",
+      "Uri": "/api/v2/album/XghSQm/image/Qq5XbTR-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-Qq5XbTR/0/#size#/DSC_0230-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-Qq5XbTR/0/MTttL4cHcm8tbTfCBwhhDRXF7rWsqwv82JdTNrgqB/Ti/DSC_0230-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-Qq5XbTR/0/K8HnV77rqzZwCnsbL8Mnqsgwn2dGTbZrp6GwP9Jhs/Th/DSC_0230-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-Qq5XbTR/0/K68NWFMp2zMQfShwQ7XTB8DgsgC2RzHvcxtjC2CkW/S/DSC_0230-S.jpg",
+          "Ext": "jpg",
+          "Height": 264,
+          "Width": 400,
+          "Size": 41101
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-Qq5XbTR/0/Lp6Dh2PPrqhwRVxL9DwTJ4FX7PGB3fjKRTKW9sqzx/M/DSC_0230-M.jpg",
+          "Ext": "jpg",
+          "Height": 397,
+          "Width": 600,
+          "Size": 85445
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-Qq5XbTR/0/M8tQXfngVmMWDSB5KvqRvkcMPnNZL9Jkd9SGvHGF8/L/DSC_0230-L.jpg",
+          "Ext": "jpg",
+          "Height": 529,
+          "Width": 800,
+          "Size": 162416
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-Qq5XbTR/0/NPGxqPnjT7gzZwLZJL827Tw5VhkLthH7qFnH3pkHK/XL/DSC_0230-XL.jpg",
+          "Ext": "jpg",
+          "Height": 677,
+          "Width": 1024,
+          "Size": 209268
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-Qq5XbTR/0/KX7mxSxNhp4dnZvbfrPS6vrNmC5pfvRfN955MmPh5/X2/DSC_0230-X2.jpg",
+          "Ext": "jpg",
+          "Height": 846,
+          "Width": 1280,
+          "Size": 290933
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-Qq5XbTR/0/NhS3VNhJFC7fZBVnzHdfW54GcmzC8dB43ZzgHQfm2/O/DSC_0230.jpg",
+          "Ext": "jpg",
+          "Height": 900,
+          "Width": 1361,
+          "Size": 261274,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Qq5XbTR-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Qq5XbTR-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "DSC_0261.jpg",
+      "Date": "2008-06-30T05:34:04+00:00",
+      "Uri": "/api/v2/album/XghSQm/image/6Rp6Cq5-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-6Rp6Cq5/0/#size#/DSC_0261-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-6Rp6Cq5/0/MhkgDFqPCHwRLCrD58zsVLMtFD2bkFBWtpkf4g4NZ/Ti/DSC_0261-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-6Rp6Cq5/0/LG9fLmphtp93WBmkTNfHsJ6NjQp7VdZtJDDqvTLDm/Th/DSC_0261-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-6Rp6Cq5/0/KSjbZRdX4LmTh4TK8PmSmvw9JvQ6r7ck4T4rZrKvX/S/DSC_0261-S.jpg",
+          "Ext": "jpg",
+          "Height": 264,
+          "Width": 400,
+          "Size": 37311
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-6Rp6Cq5/0/NHPLQkMFdt7k9qXNjgSj2mNNj5Pp4dVr4qL4XF3Cv/M/DSC_0261-M.jpg",
+          "Ext": "jpg",
+          "Height": 397,
+          "Width": 600,
+          "Size": 72544
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-6Rp6Cq5/0/NDnXW73sjtw7JrGCWRKN3qvcnB2MSZdG8RTLFdv8T/L/DSC_0261-L.jpg",
+          "Ext": "jpg",
+          "Height": 529,
+          "Width": 800,
+          "Size": 143708
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-6Rp6Cq5/0/Kppjv3nMss3tMXKR5gd4b4chV8n4nst6Vq5vzHdnD/XL/DSC_0261-XL.jpg",
+          "Ext": "jpg",
+          "Height": 677,
+          "Width": 1024,
+          "Size": 172250
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-6Rp6Cq5/0/NN9qrw5hVNrNxnzRCktdxMLsPpzgWbB9fWV7bSVcm/X2/DSC_0261-X2.jpg",
+          "Ext": "jpg",
+          "Height": 846,
+          "Width": 1280,
+          "Size": 241283
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2008-PryorMountainPeople/i-6Rp6Cq5/0/Kc3JHgpwtLkT4gJHcrRbh5wc3DxJgFL8vvb56w73N/O/DSC_0261.jpg",
+          "Ext": "jpg",
+          "Height": 900,
+          "Width": 1361,
+          "Size": 218154,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/6Rp6Cq5-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/6Rp6Cq5-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    }
+  ]
+}

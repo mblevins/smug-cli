@@ -1,0 +1,1262 @@
+{
+  "UrlName": "2012-ElkhornSlough",
+  "Name": "2012-Elkhorn Slough",
+  "Uri": "/api/v2/album/wLvxMg",
+  "Date": "2012-08-05T15:16:45+00:00",
+  "WebUri": "https://lmblevins.smugmug.com/Travel/2012-ElkhornSlough",
+  "Images": [
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1316",
+      "Date": "2012-08-05T15:18:09+00:00",
+      "Uri": "/api/v2/album/wLvxMg/image/XvBwzPv-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-XvBwzPv/0/#size#/IMG_1316-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-XvBwzPv/0/LGSj5PFGh5FFGLZ67zGsWVL4s8gvRBwLCwJtv2gfw/Ti/IMG_1316-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-XvBwzPv/0/Nhr5ZdjwgCWkKs3qn57NF8kGg5GLNqcSDpfHf8WqN/Th/IMG_1316-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 12354
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-XvBwzPv/0/KLWnzL8q988SW4WsqNzWm3mHPpQTWN3pLt4QxJh9m/S/IMG_1316-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 33841
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-XvBwzPv/0/KtfjZwPCJ7SDdFCBVwRNBmkvVNrG2RLSV9h8wB5j6/M/IMG_1316-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 65663
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-XvBwzPv/0/MKXwwGPwtrF6GvNKVHqTbddkDZZLh4FKGtV3869Tj/L/IMG_1316-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 104631
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-XvBwzPv/0/KL8mtRVdrJCGWJbkTftNMVWQF4HjWFkVHBz24pXRb/XL/IMG_1316-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 163066
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-XvBwzPv/0/MXpGpv3hbtFZfKXkb9gCHcTk28NQjQsMgTTBZgrXK/X2/IMG_1316-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 245719
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-XvBwzPv/0/L7MPt4NH3xhxxXjmwCFtQwDKgXBVq23q9Pkv3S4vs/X3/IMG_1316-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-XvBwzPv/0/LpWBQsRq6DR25mdgsWWWtS6PQXLj5DBcFHrKMcmd3/X4/IMG_1316-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-XvBwzPv/0/MK68hQsZ3XqbNDC48KsBwRBjzT7Htv39HcGNNSxfM/X5/IMG_1316-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-XvBwzPv/0/MkBb8xsJXzczV9qsxgvNHd6z3bk7X9c368WRwgKxf/O/IMG_1316.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 2432897,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/XvBwzPv-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/XvBwzPv-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1312",
+      "Date": "2012-08-05T15:18:38+00:00",
+      "Uri": "/api/v2/album/wLvxMg/image/8QmNrwv-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-8QmNrwv/0/#size#/IMG_1312-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-8QmNrwv/0/L9RVMmQ2ZnJxrNmkgTPDfLpQ5vNHnTGZ7dWPPNBNk/Ti/IMG_1312-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-8QmNrwv/0/NHW8pDtLGwvSvfgChhXVrWCcqZBg9Bd3HGWjLGzDB/Th/IMG_1312-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-8QmNrwv/0/LhHf2qQFdvRG5Dhz8pfmKcf4NW9Ng57VLvtZwrmHv/S/IMG_1312-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 34168
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-8QmNrwv/0/MMqhknFbFS8FkNXmHwpSTccDnb5PLZCXx82BFGDvq/M/IMG_1312-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 63237
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-8QmNrwv/0/NPDgJThV6SstSDkw7SH4Wx6w4h927WJjLRMB6tGgb/L/IMG_1312-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 98388
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-8QmNrwv/0/LQd5c5m5zMBs2Zbn3jMg59h9qZ6sdkWbtLWMvDvcS/XL/IMG_1312-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-8QmNrwv/0/MFc6LBqxgvJt9ZTLGf7tR3pGVwv9GgRk3NnXvDPS6/X2/IMG_1312-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 217789
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-8QmNrwv/0/Lc8BjRvcccDmDQC2BdXC3hRwLM8JrDLh7RsHXjvMj/X3/IMG_1312-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-8QmNrwv/0/MjcmFvwh35f82RVsf7jCcCHBSBfZgkqNrw5PHz9F8/X4/IMG_1312-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-8QmNrwv/0/LkhBVkNczkvHSK23Kb59mQWdRWqSZfrp8SCrJtdWG/X5/IMG_1312-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-8QmNrwv/0/KfSdrvX6z8ks67cgQT7RGTjrKkJ6hTG7Stv5jsv4K/O/IMG_1312.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 1807438,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/8QmNrwv-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/8QmNrwv-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1318",
+      "Date": "2012-08-05T15:19:11+00:00",
+      "Uri": "/api/v2/album/wLvxMg/image/2Km2sRh-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-2Km2sRh/0/#size#/IMG_1318-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-2Km2sRh/0/MW562f8dSZM4PC4X36J989vNk3KHDX3DNGMh7GzPB/Ti/IMG_1318-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-2Km2sRh/0/LgjqrbW3gnbxq3PknNkmHZ4Vg5znbMZnWB35CW9Bp/Th/IMG_1318-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-2Km2sRh/0/KwWgMFcnxq66h7Mq7MvdFqfLv23jV769LTXV2Ft76/S/IMG_1318-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 31205
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-2Km2sRh/0/LmMkGdFkpVKfgfPGfMDq6zCC6FBfNcw75qfBxCKrv/M/IMG_1318-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 58801
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-2Km2sRh/0/MHDMd78rGQRn3crPwLr8xqvnjpczzTNqdZ9C5RQbK/L/IMG_1318-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 93568
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-2Km2sRh/0/KZ78PfHLwvKZrjDMFBt4wdWc89pgstvDzQnVFVp4q/XL/IMG_1318-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-2Km2sRh/0/KT47dFtR3t8bwp9qdkBDBsbq4wbgXpqmzFDj5NDHF/X2/IMG_1318-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 212815
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-2Km2sRh/0/MrtTrQmdwBmpCL5h4CQdTZh28qk2C3tTtbdDsbCPF/X3/IMG_1318-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-2Km2sRh/0/KknDRfFNLnmZCnwZFxStvwFmdqXqXDQgbRsbNnhZ2/X4/IMG_1318-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-2Km2sRh/0/M6CW6pZdmf9Gzx6BgCWtXJbVJwL2dd5qMPPMDH4sZ/X5/IMG_1318-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-2Km2sRh/0/L53tbsFHwBD23Cp9skRGpBmgJtG8bSn6k4QtP7KCR/O/IMG_1318.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 2108763,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/2Km2sRh-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/2Km2sRh-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1322",
+      "Date": "2012-08-05T15:19:37+00:00",
+      "Uri": "/api/v2/album/wLvxMg/image/vFPQgCw-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-vFPQgCw/0/#size#/IMG_1322-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-vFPQgCw/0/MkdN9k63tRJKqMCLdhDh85q5xs78tnrZR72qZ6PP6/Ti/IMG_1322-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-vFPQgCw/0/Mmf4d3bdpH6MxPHT83pNxVWCrLws2M527sQzwZht3/Th/IMG_1322-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-vFPQgCw/0/LWrVKF5J9PJRhk2gk6RRNFdGSQFS5ctSRtc7nmRxr/S/IMG_1322-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 32610
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-vFPQgCw/0/KL2WWCDxtFN7hrcTcD5d8Ckzncmp5c4hX5xZTSM5q/M/IMG_1322-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 58833
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-vFPQgCw/0/NHDfL3VvzWXPcPmqKdNVpzG3ndR8nW6mkKFw5sVhm/L/IMG_1322-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 91130
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-vFPQgCw/0/LsGss2vJBkMDR9MLCvh34jMxnL9TRdmJc8x2BnbLL/XL/IMG_1322-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-vFPQgCw/0/K5jvjjDX8N9xB2FhNk4gQH2NfWpHnmGsSLS35D74h/X2/IMG_1322-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 201445
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-vFPQgCw/0/MbfskjH2QmFnmc96gkBp2dvtTSPnD5xgv3Ksxxd2Q/X3/IMG_1322-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-vFPQgCw/0/NQSzWXxFk84P2wVNG5h3c4NvWGx5XgcMkVJctgVtV/X4/IMG_1322-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-vFPQgCw/0/LBBM9WWpCrQ7SwHDthxWkFwznTdsrm6rFSbfbTxQZ/X5/IMG_1322-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-vFPQgCw/0/KskKgr6pWHgj5jkQPwMHJCzMM2bP6j4vb39KJTnrB/O/IMG_1322.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 1673534,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/vFPQgCw-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/vFPQgCw-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1323",
+      "Date": "2012-08-05T15:19:54+00:00",
+      "Uri": "/api/v2/album/wLvxMg/image/kLKb3Sz-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-kLKb3Sz/0/#size#/IMG_1323-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-kLKb3Sz/0/NRxn4SMf9cTfcLSJ45vwSffZBFgSNpVZS4czXkCkx/Ti/IMG_1323-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-kLKb3Sz/0/Kc64hvLqJRLksLgdVhbh68b5fgGfG8Ghtpc4gLV56/Th/IMG_1323-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-kLKb3Sz/0/LMvpZrCH6qBvfjfbK3JvzTT7KR8XvkR4GCgQjDbZS/S/IMG_1323-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 55923
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-kLKb3Sz/0/MpZCtpgRHMhhZsRVNG4rCdfTPwnQLXbQmjQhQTSvm/M/IMG_1323-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 114357
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-kLKb3Sz/0/MzWBbTL5gpxM6VR9XRvhBhFPCK44MJvFfgt2R3Lf6/L/IMG_1323-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 186189
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-kLKb3Sz/0/NNL93jN2cxxsdvkm6VTng8mkhSSDDwVrpvKd8v54n/XL/IMG_1323-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-kLKb3Sz/0/M49kGxpxdZwgM4M5mFXNDW3k3Tsjgk4xbdqdcGkNR/X2/IMG_1323-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 417347
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-kLKb3Sz/0/LQ2QbrDM5DQGHW49vrzw4vdRWmFVw5HNks4jtJFwD/X3/IMG_1323-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-kLKb3Sz/0/K6wD8hR8dqpDhFCpJtL8z6D9W2QNBpVds58p3NWhJ/O/IMG_1323.jpg",
+          "Ext": "jpg",
+          "Height": 1518,
+          "Width": 2024,
+          "Size": 1093669,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/kLKb3Sz-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/kLKb3Sz-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1332",
+      "Date": "2012-08-05T15:20:22+00:00",
+      "Uri": "/api/v2/album/wLvxMg/image/Hf6rKxR-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-Hf6rKxR/0/#size#/IMG_1332-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-Hf6rKxR/0/MPkkr3Ss8CCj4MMBFGLqgCrffqhN3XGz4k4VzJjL7/Ti/IMG_1332-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-Hf6rKxR/0/MGwpPcWQZgkWkZ8X3vC4kZ8gtRC7WLphqvf2Qght3/Th/IMG_1332-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-Hf6rKxR/0/MLsLwmFbzrDKNbL6Nw2zNqnpB3jLVckfm98vpHW7H/S/IMG_1332-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 43859
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-Hf6rKxR/0/KL5zs5kWxDrp8GjLNHZghcNnZjgBZ7gwG5Rgp7B5c/M/IMG_1332-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 80077
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-Hf6rKxR/0/M2vRm9NpnD7KVL26VVSg8whjhC554jsCrpJw3X54n/L/IMG_1332-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 123283
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-Hf6rKxR/0/KvHmfkCX3FxmmG4M9j6vQHDjXz6Dd6QnvVwhh4VvS/XL/IMG_1332-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-Hf6rKxR/0/KM4kQbJCQqrrjzhcDgTDxSXJbf4TKDW7JJbb6mmsk/X2/IMG_1332-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 266080
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-Hf6rKxR/0/LdP4XBS4tpKwf37MBjXCN7Qwm757mFJTXv8pP2VHH/X3/IMG_1332-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-Hf6rKxR/0/M3N5z9cHFD7rxZnZKKtpV4fg82kgJprZqnkprXdkp/X4/IMG_1332-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-Hf6rKxR/0/MP5JB5mr6D9G8CP4HXF3GFMxWjhGJCHg5gXTVBq47/X5/IMG_1332-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-Hf6rKxR/0/LrWPHrb56CkptKzRXsqPpFdB9RrVKT79Lps6wpsZK/O/IMG_1332.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 1866250,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Hf6rKxR-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Hf6rKxR-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1335 - Version 2",
+      "Date": "2012-08-05T15:20:31+00:00",
+      "Uri": "/api/v2/album/wLvxMg/image/26PSBCk-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-26PSBCk/0/#size#/IMG_1335%20-%20Version%202-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-26PSBCk/0/MNQpx88Jn3c7XRMgFSchtfzjgTpfDSjLfffqBNttF/Ti/IMG_1335%20-%20Version%202-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-26PSBCk/0/M4VHjMWQD774gZGXH9LVKJLWDrpgtfvGK4pSDGjwj/Th/IMG_1335%20-%20Version%202-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-26PSBCk/0/LvQ4TkmNPVnZrwmjP4tqXCVbrm8C8hmdNx3HPJHGq/S/IMG_1335%20-%20Version%202-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 60626
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-26PSBCk/0/NGJGq7cSKrj9c9FzTNVM6xz5df6LnqDJWWzSZGKDN/M/IMG_1335%20-%20Version%202-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 116298
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-26PSBCk/0/MKG8dZHLV3vmNbfZ9jjm2jQ5rxVXxNXZhM3FKSZLc/L/IMG_1335%20-%20Version%202-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 177090
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-26PSBCk/0/NgmV6PHNRvK5Jrp7WkfMXmdmD2t9MTNr5ZQ6tLNrZ/XL/IMG_1335%20-%20Version%202-XL.jpg",
+          "Ext": "jpg",
+          "Height": 767,
+          "Width": 1024,
+          "Size": 261929
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-26PSBCk/0/LGQXLxdPdWr5kxfRxr529cWTcMwBRdgVFJnSBrB7m/X2/IMG_1335%20-%20Version%202-X2.jpg",
+          "Ext": "jpg",
+          "Height": 959,
+          "Width": 1280,
+          "Size": 360491
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-26PSBCk/0/M6WdGSCtVqspt4fwKkh7mg276NXwQPxTZ7kqqXmsC/O/IMG_1335%20-%20Version%202.jpg",
+          "Ext": "jpg",
+          "Height": 1023,
+          "Width": 1365,
+          "Size": 506872,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/26PSBCk-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/26PSBCk-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1338",
+      "Date": "2012-08-05T15:21:02+00:00",
+      "Uri": "/api/v2/album/wLvxMg/image/hw2hD8L-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-hw2hD8L/0/#size#/IMG_1338-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-hw2hD8L/0/Lg3Fwvn6HX69TGpZGJx7gzTbmzNkpcXGRkbBsT8Cz/Ti/IMG_1338-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-hw2hD8L/0/MWHnPJzHFtdb6j3VhNxmmjTrkw8w46Jh4SfhkB828/Th/IMG_1338-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-hw2hD8L/0/NZjKnpVKfXjThQHkJHfS8x22h8jxZJnsHjkzdKV3r/S/IMG_1338-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 32681
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-hw2hD8L/0/LK3Fr7p4mDKsFX47pLMkfprSS58HBMZVLzxLkxdVv/M/IMG_1338-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 64731
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-hw2hD8L/0/Lq9sFkkQL47Px8mDcRkf4z5B6TMg9mNM4t5sm5kp6/L/IMG_1338-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 106174
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-hw2hD8L/0/M5pCKgtQNBCBbSPZbV9JFSmdkfCFvQRqKQqqkgvjV/XL/IMG_1338-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-hw2hD8L/0/LnkTzDF5hjHZnvJDgwfnpbvP8hGtkw5pR9S5pWPpG/X2/IMG_1338-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 253598
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-hw2hD8L/0/KDHzW3S2HWjQNHBLdxsVgDHT6B33BcNNtGP4wjfsH/X3/IMG_1338-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-hw2hD8L/0/NLKBLTTjxKFh4hTcfXDsLt8fRKVcRjq5PgHB5sDgN/X4/IMG_1338-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-hw2hD8L/0/NHtG2GDmwwcxcs7LbHxxjsqcR4xX24F3KhPzR7rC7/X5/IMG_1338-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-hw2hD8L/0/KJfhThSMr7VV6pQqmdnCMtb8zK824dxc9tPnC56hb/O/IMG_1338.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 2039003,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/hw2hD8L-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/hw2hD8L-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1340",
+      "Date": "2012-08-05T15:21:34+00:00",
+      "Uri": "/api/v2/album/wLvxMg/image/VrNMdzM-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-VrNMdzM/0/#size#/IMG_1340-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-VrNMdzM/0/NbQN4tN6T6QkHvsn75vLZM7zL5H3wjbQNMGrMsJhH/Ti/IMG_1340-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-VrNMdzM/0/Ks4zvQNcH8SJj2sRxGWTr2nFzfF2sFDDZxMbZFrwG/Th/IMG_1340-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-VrNMdzM/0/MgN4LLxMfhdGvMBQLSR2vT8m22g5FnDfB6w38GFKZ/S/IMG_1340-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 35739
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-VrNMdzM/0/KXbLd3TwRG8sdqpFNFhJvLqwDcVcQQRr9zNZFLBfQ/M/IMG_1340-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 70736
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-VrNMdzM/0/KfVPQcfLgftZXHCmfG4P7fThnqQf62fDLbRKNJD4w/L/IMG_1340-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 115292
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-VrNMdzM/0/MvTVrfCcqF7wKfXNs7qvzQFQGGX8mJXpPbp6XDm66/XL/IMG_1340-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-VrNMdzM/0/NNvzQccwrSHvwHDm7gqD2f3BZVPCgcTWPd9KLH2xc/X2/IMG_1340-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 270061
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-VrNMdzM/0/NPnxgCHvBn9dcq6nBS4nMLVmBf6wPGhRHLSHCB4qX/X3/IMG_1340-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-VrNMdzM/0/MQR3vZvnfzbv3jjfLsF42MkCcPNGz3gpRH2gBJjDn/X4/IMG_1340-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-VrNMdzM/0/Lv9ZpzsR6j7QhFcjjwLB3QqbxGGWKRjj9szDtxkMg/X5/IMG_1340-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-VrNMdzM/0/KRC4QxLrjMCNh7WG8S8gmTw8cwNbtpvwvwBVZhf8s/O/IMG_1340.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 2102708,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/VrNMdzM-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/VrNMdzM-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1345",
+      "Date": "2012-08-05T15:22:31+00:00",
+      "Uri": "/api/v2/album/wLvxMg/image/sRcMVmb-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-sRcMVmb/0/#size#/IMG_1345-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-sRcMVmb/0/Mkc4r5PnG6kmt2wKzSVzdKKKH752KbH7jBWbS2X4N/Ti/IMG_1345-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-sRcMVmb/0/NHQ2HBX4N8cRWPC8V9xGLXxRz9Hk32krtCM8P2HQJ/Th/IMG_1345-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-sRcMVmb/0/MXwx7xFppnD4mt4rn48pFRxQzgZgLCJSq2JjnKFkX/S/IMG_1345-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 66670
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-sRcMVmb/0/K7kVzmtWQMgkW4pnLsFt7Sb8vt8HMhTdG6Zfwzz6q/M/IMG_1345-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 139174
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-sRcMVmb/0/MKR3BNDt5Dnt9cZ9nKFRFs6LpJbkq6JvpQJHV6LXK/L/IMG_1345-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 230745
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-sRcMVmb/0/LMvHCCW3NsLR8r6cPX6BPKCHm9hJfGrPWtPxvMV9K/XL/IMG_1345-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-sRcMVmb/0/KGsZ3n6VbpNHxnRpxrtKPCwWKnWnn62sWL45NSVPC/X2/IMG_1345-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 547550
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-sRcMVmb/0/Kt4LkpxjBKQ3tL4JhhH2C3NB9qm3CMfHcXh3h3RQN/X3/IMG_1345-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-sRcMVmb/0/NZtkNMtvkQJQLPWMs423gb7R6qB9VFzJdVXWSTWkm/X4/IMG_1345-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-sRcMVmb/0/KvqnF5Qcc7ZmkJ6bVC9rsnq9B6KsPvjs97m33rt82/X5/IMG_1345-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-sRcMVmb/0/L4z53Prnnwgx2zh7vNjRhPfbDK8zFVxcwnvnH6Cgc/O/IMG_1345.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 3705835,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/sRcMVmb-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/sRcMVmb-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1349",
+      "Date": "2012-08-05T15:23:08+00:00",
+      "Uri": "/api/v2/album/wLvxMg/image/3H3w3xF-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-3H3w3xF/0/#size#/IMG_1349-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-3H3w3xF/0/MNmnGSqVPCLQ2wVRbTMFMjgPbH9KnzCqNZPg3D8Sw/Ti/IMG_1349-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-3H3w3xF/0/MvbT8FxCzKJWrMpWnzNGsd6QMPp9jxKbw9LvRZLZT/Th/IMG_1349-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-3H3w3xF/0/MDRMSNgjTCqfSXPSVKMhfr77CvhwBWVL3pNvwbnCC/S/IMG_1349-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 54026
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-3H3w3xF/0/Kt4FtpD5ksbsCNXHWxq8X9wxntSNXPnfkPNBh3rw8/M/IMG_1349-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 104591
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-3H3w3xF/0/NdZkpw2n8pTk7xschXvVxgzk8hmH7Xx9dChwxX4v8/L/IMG_1349-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 166161
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-3H3w3xF/0/LTBPqK3BNN3c3fLs3VjxxNZRKdPPRzkF2h78zB36F/XL/IMG_1349-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-3H3w3xF/0/KwF4NMLFwxqrWDSChQsCzt6qknjPQjdq4ZNZQjz4m/X2/IMG_1349-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 362617
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-3H3w3xF/0/K24b9VHdZTbD9XpLH3DpTmvss4h5LBqjXtvpnCZF8/X3/IMG_1349-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-3H3w3xF/0/KKcHfbKFBPtm3BFh82bg6FTSwkqTrc6K62XDt5p4X/X4/IMG_1349-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-3H3w3xF/0/LZCz3G8mjr66JvZjkLQkRgz4QRQdhnhW6ggZMvNzk/X5/IMG_1349-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-3H3w3xF/0/NR4C95dkNjRsDdw2F8BfBjMsQSHFpzTGF9mFgTZcW/O/IMG_1349.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 2389474,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/3H3w3xF-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/3H3w3xF-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1351",
+      "Date": "2012-08-05T15:23:50+00:00",
+      "Uri": "/api/v2/album/wLvxMg/image/zksrwr5-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-zksrwr5/0/#size#/IMG_1351-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-zksrwr5/0/LSXbbt2FnmKN9Fs8zkFtgzgVK6mL74pNmFd5HQNvv/Ti/IMG_1351-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-zksrwr5/0/L7BfMQ24CJmpgQFX9W3ZvHQsZBLg6QwjRVSL2k8SX/Th/IMG_1351-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-zksrwr5/0/McxwKDk3fMFMCzBkHbfS7TdPpMT9TQL8MsN9KHRqB/S/IMG_1351-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 44423
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-zksrwr5/0/NHN4XNs2bkXd4xbL3XFv8DbggKHNRfF28LpnbNfBK/M/IMG_1351-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 85741
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-zksrwr5/0/MhVNjmvtTtTtnpDfhVJ6n34NfcV2jBp2SHrsTVJk4/L/IMG_1351-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 168491
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-zksrwr5/0/Lm3MHQKP5wgcTJmrWGL5K3jb3CGM6smsc5XtxBtdc/XL/IMG_1351-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 351403
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-zksrwr5/0/LgXxcxZsGz3d7NGQbTDfxS47N2ksn96bmTbnhTMnx/X2/IMG_1351-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 301182
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-zksrwr5/0/M4NG7pdHRHS4xM3zv4TZPDDQn6SMd6zZXfhLS5pBH/X3/IMG_1351-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-zksrwr5/0/LW8ZvxJR2Chbqj8PQ8DGFmsGQzqksNnCVzXKmxF57/X4/IMG_1351-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-zksrwr5/0/KcRwDfS5cZpgwLVGcQK7TwHmXWn7qZMSMk7Bswv26/X5/IMG_1351-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2012-ElkhornSlough/i-zksrwr5/0/Lg75rF3x9crBhgZN5DdzN9R8MtHhjSZKwBQKbF2LF/O/IMG_1351.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 2600760,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/zksrwr5-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/zksrwr5-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    }
+  ]
+}

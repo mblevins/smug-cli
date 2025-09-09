@@ -289,6 +289,7 @@
           "Ext": "jpg",
           "Height": 100,
           "Width": 100,
+          "Size": 13576,
           "Watermarked": false
         },
         "ImageSizeThumb": {
@@ -416,6 +417,7 @@
           "Ext": "jpg",
           "Height": 100,
           "Width": 100,
+          "Size": 15857,
           "Watermarked": false
         },
         "ImageSizeThumb": {
@@ -463,6 +465,7 @@
           "Ext": "jpg",
           "Height": 960,
           "Width": 720,
+          "Size": 396937,
           "Watermarked": false
         },
         "ImageSizeX3Large": {
@@ -542,6 +545,7 @@
           "Ext": "jpg",
           "Height": 100,
           "Width": 100,
+          "Size": 12995,
           "Watermarked": false
         },
         "ImageSizeThumb": {
@@ -589,6 +593,7 @@
           "Ext": "jpg",
           "Height": 960,
           "Width": 720,
+          "Size": 227024,
           "Watermarked": false
         },
         "ImageSizeX3Large": {
@@ -668,6 +673,7 @@
           "Ext": "jpg",
           "Height": 100,
           "Width": 100,
+          "Size": 14136,
           "Watermarked": false
         },
         "ImageSizeThumb": {
@@ -715,6 +721,7 @@
           "Ext": "jpg",
           "Height": 960,
           "Width": 1280,
+          "Size": 577225,
           "Watermarked": false
         },
         "ImageSizeX3Large": {
@@ -794,6 +801,7 @@
           "Ext": "jpg",
           "Height": 100,
           "Width": 100,
+          "Size": 14112,
           "Watermarked": false
         },
         "ImageSizeThumb": {
@@ -841,6 +849,7 @@
           "Ext": "jpg",
           "Height": 960,
           "Width": 1280,
+          "Size": 689041,
           "Watermarked": false
         },
         "ImageSizeX3Large": {
@@ -920,6 +929,7 @@
           "Ext": "jpg",
           "Height": 100,
           "Width": 100,
+          "Size": 14515,
           "Watermarked": false
         },
         "ImageSizeThumb": {
@@ -967,6 +977,7 @@
           "Ext": "jpg",
           "Height": 960,
           "Width": 1280,
+          "Size": 606256,
           "Watermarked": false
         },
         "ImageSizeX3Large": {
@@ -1046,6 +1057,7 @@
           "Ext": "jpg",
           "Height": 100,
           "Width": 100,
+          "Size": 12886,
           "Watermarked": false
         },
         "ImageSizeThumb": {
@@ -1093,6 +1105,7 @@
           "Ext": "jpg",
           "Height": 960,
           "Width": 720,
+          "Size": 202196,
           "Watermarked": false
         },
         "ImageSizeX3Large": {
@@ -1172,6 +1185,7 @@
           "Ext": "jpg",
           "Height": 100,
           "Width": 100,
+          "Size": 16263,
           "Watermarked": false
         },
         "ImageSizeThumb": {
@@ -1219,6 +1233,7 @@
           "Ext": "jpg",
           "Height": 960,
           "Width": 1280,
+          "Size": 882931,
           "Watermarked": false
         },
         "ImageSizeX3Large": {
@@ -1299,6 +1314,7 @@
           "Ext": "jpg",
           "Height": 100,
           "Width": 100,
+          "Size": 13079,
           "Watermarked": false
         },
         "ImageSizeThumb": {
@@ -1346,6 +1362,7 @@
           "Ext": "jpg",
           "Height": 960,
           "Width": 1280,
+          "Size": 475362,
           "Watermarked": false
         },
         "ImageSizeX3Large": {
@@ -1432,6 +1449,7 @@
           "Ext": "jpg",
           "Height": 100,
           "Width": 100,
+          "Size": 14489,
           "Watermarked": false
         },
         "ImageSizeThumb": {
@@ -1479,6 +1497,7 @@
           "Ext": "jpg",
           "Height": 960,
           "Width": 1280,
+          "Size": 807969,
           "Watermarked": false
         },
         "ImageSizeX3Large": {
@@ -1558,6 +1577,7 @@
           "Ext": "jpg",
           "Height": 100,
           "Width": 100,
+          "Size": 15486,
           "Watermarked": false
         },
         "ImageSizeThumb": {
@@ -1605,6 +1625,7 @@
           "Ext": "jpg",
           "Height": 960,
           "Width": 720,
+          "Size": 514907,
           "Watermarked": false
         },
         "ImageSizeX3Large": {
@@ -1684,6 +1705,7 @@
           "Ext": "jpg",
           "Height": 100,
           "Width": 100,
+          "Size": 15810,
           "Watermarked": false
         },
         "ImageSizeThumb": {
@@ -1731,6 +1753,7 @@
           "Ext": "jpg",
           "Height": 960,
           "Width": 1280,
+          "Size": 1016549,
           "Watermarked": false
         },
         "ImageSizeX3Large": {

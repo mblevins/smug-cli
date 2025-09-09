@@ -1,0 +1,3568 @@
+{
+  "UrlName": "2014-ChannelIslands",
+  "Name": "2014-Channel Islands",
+  "Uri": "/api/v2/album/2XfDZN",
+  "Date": "2014-05-23T06:09:40+00:00",
+  "WebUri": "https://lmblevins.smugmug.com/Travel/2014-ChannelIslands",
+  "Images": [
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P5160002.jpg",
+      "Date": "2014-05-23T06:11:57+00:00",
+      "Uri": "/api/v2/album/2XfDZN/image/m2pGVKx-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-m2pGVKx/0/#size#/P5160002-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-m2pGVKx/0/K5qQNtKVg2F743f2cKZrqHbC2jLRWNCks7ks6cbZn/Ti/P5160002-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-m2pGVKx/0/Lms4G2f8nwGL5xncbhHkdgH7fzJhS8pz5xnMGCJGq/Th/P5160002-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 15025
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-m2pGVKx/0/KkMMS8K5RZpRJvDr4Wv555ZpRfdCtvnHcbN8Ctc9S/S/P5160002-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 51481
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-m2pGVKx/0/K7jb6zCRtwFt4RH2Hz9dRqH8P72dB5nhSC4p2zQRs/M/P5160002-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 100764
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-m2pGVKx/0/MGwQs6JdZ7P8xMtdJvhq2zGTjRfSr4zRR6WSGbmcJ/L/P5160002-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 161193
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-m2pGVKx/0/K5NLXtcrV8vttXBgNtCTxtjkbsHps986J7dhxcqnW/XL/P5160002-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 250740
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-m2pGVKx/0/KDcLXb4ns9fwz8HWv8Xnhbnw4gQQQVXCcM4qKfLdc/X2/P5160002-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 650809
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-m2pGVKx/0/MNNVC9qmxjNd4Jn9hpJ27PRNSfkKJzvnf8C5XCpQn/X3/P5160002-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-m2pGVKx/0/KPGBckx837BgqvPqMG3CPgNCT3gWggLwnxVgGsn66/X4/P5160002-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-m2pGVKx/0/Kq682sDPN2KCvT9ssfQxPCPjNq8jCtRrws5GrN3Zb/X5/P5160002-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-m2pGVKx/0/MkWthJ7n3z3spDCkwgKjkzVRm9Qdj3g6Lm3X8NrcN/4K/P5160002-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-m2pGVKx/0/MSVRdv47D85Rrqpn5QpBpdhzjFTtttt9jpVHMLQDd/O/P5160002.jpg",
+          "Ext": "jpg",
+          "Height": 3209,
+          "Width": 4278,
+          "Size": 4796031,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/m2pGVKx-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/m2pGVKx-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P5160011.jpg",
+      "Date": "2014-05-23T06:12:43+00:00",
+      "Uri": "/api/v2/album/2XfDZN/image/SfxSShm-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-SfxSShm/0/#size#/P5160011-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-SfxSShm/0/MhkkKjZVsxFGQJzptzw3kQkz82jzm7kg8bS33Hp8W/Ti/P5160011-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-SfxSShm/0/LXLk3cPjhW2kpsJ5LRMM5kp2LPx2n9xrrzBBvPnTv/Th/P5160011-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-SfxSShm/0/KWCLvWRfqS8cdxxStsks8x3FKM574vDXRRT8b7bd7/S/P5160011-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 22884
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-SfxSShm/0/Lhr76XS3JKrf6X6T3SwMsCvH7RCD4mBpxPBVvgp52/M/P5160011-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 38132
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-SfxSShm/0/NcBTc8mFTDznbcCkvwjD4qGVZVMD7WKJWbQNkvCv8/L/P5160011-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 54995
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-SfxSShm/0/NFZN3dpZXM6Zfk7wSHbXJPMbbs3wHh7LVV26783zM/XL/P5160011-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-SfxSShm/0/L6ZcgftdXFzd4z2QFTRt2nPzQRJn8Lj3BrB8mt9Wp/X2/P5160011-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 233057
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-SfxSShm/0/Kh2tsTVpG54k6MHFdgt6V7HVLnjZTQ2rPQk33GvSP/X3/P5160011-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-SfxSShm/0/LpNH6HCmNzMRKf64szCSh2sQ8RPb3vS2kpKXtfZvR/X4/P5160011-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-SfxSShm/0/KwRpGQZpnZp877xT2zTBFhH59dZWvWXmPPRgBw5fC/X5/P5160011-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-SfxSShm/0/KqTNzCgBfGVPLMf7zQcB7cF6PLvrndStTWK7T8w2J/4K/P5160011-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-SfxSShm/0/MG8nGQPjDnPNkfZxgkL4M6LSGdzShmztQNpJW9NqL/O/P5160011.jpg",
+          "Ext": "jpg",
+          "Height": 3456,
+          "Width": 4608,
+          "Size": 3905943,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/SfxSShm-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/SfxSShm-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P5160029.jpg",
+      "Date": "2014-05-23T06:12:55+00:00",
+      "Uri": "/api/v2/album/2XfDZN/image/QQSFDWZ-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-QQSFDWZ/0/#size#/P5160029-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-QQSFDWZ/0/LMddLqTNMMZLsjWpK5s6TkxnjBLzx5McdDx5tcnBs/Ti/P5160029-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-QQSFDWZ/0/M3BhkWswDrP8nZjdWH3RQBSmMwJxNr62VbHHnTgqg/Th/P5160029-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-QQSFDWZ/0/LKgPF2cTT9TMZzTkzMqJsSSbvPpQQZNvKxN9TXp65/S/P5160029-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 50894
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-QQSFDWZ/0/Lbw87g5TLn3WmjDMzbgMpbPm7h9LthL2rsZWPMv3B/M/P5160029-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 112552
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-QQSFDWZ/0/MkTprVNFCcdGCKckhL2rzDvpS4VJVCvMtQbjDVqPc/L/P5160029-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 189203
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-QQSFDWZ/0/Ktw8pMZPG2fs8NN53FgcjbF9S4zKnDWg22m8kdGBN/XL/P5160029-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-QQSFDWZ/0/KMFZm9vjK324pW48W3kW7Sz3TmptnHqkTwk7X8W2S/X2/P5160029-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 444764
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-QQSFDWZ/0/Lr2bKsn46B4r4tJW7Cwkg76kHMJLRcBSbgVp5TN79/O/P5160029.jpg",
+          "Ext": "jpg",
+          "Height": 968,
+          "Width": 1291,
+          "Size": 854177,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/QQSFDWZ-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/QQSFDWZ-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P5160059.jpg",
+      "Date": "2014-05-23T06:14:09+00:00",
+      "Uri": "/api/v2/album/2XfDZN/image/ZXzmqNg-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-ZXzmqNg/0/#size#/P5160059-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-ZXzmqNg/0/LQff5kPQzjnc5NnRzTXtWHnpdGM7VrWVTSmSPGgZK/Ti/P5160059-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-ZXzmqNg/0/KnmwSDRJbHjNbjLvNNFLjzdmv5xf89VnS5qtXHLQf/Th/P5160059-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-ZXzmqNg/0/NX6DLj3fKfBmJJxNMkCdHSfbLPnHP6R3zB5hNsQPX/S/P5160059-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 48610
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-ZXzmqNg/0/NBPfh7GB8NkdW842tFZgq9DmjDmwZc8kzRck5nZD3/M/P5160059-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 94417
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-ZXzmqNg/0/LDdRj8mBWzjZD4nCHVpbcC5KxHTHqzFNQfMQdS4jP/L/P5160059-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 145703
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-ZXzmqNg/0/KMqzN3kXRMwhmzr6C4CShkQhdxZ3n56PdrxfmqjPK/XL/P5160059-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-ZXzmqNg/0/MnkhzzDcjCQFZKjRS3HRwLTJDmCKSBzzw45x4VtDq/X2/P5160059-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 586867
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-ZXzmqNg/0/LkRNHMg3QrLt2BGRpJKhKVfZHZG5Sh46qpMMhJKSj/X3/P5160059-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-ZXzmqNg/0/MLSssSmssjCZg95vcdKRKDjncVttQhtrgMHbDzJMR/X4/P5160059-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-ZXzmqNg/0/K7HttnbnLwqgfML59bmJNkGQVMFf3Fv69ZQFxVF6d/X5/P5160059-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-ZXzmqNg/0/KSvHZHVsStgznZHbQk3pKkdg2n53WQkdnfPT5CT62/4K/P5160059-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-ZXzmqNg/0/MpwXxtsm5XQrZSWfFLSDVQpzmjHxnpqRddVRGRZ2W/O/P5160059.jpg",
+          "Ext": "jpg",
+          "Height": 3456,
+          "Width": 4608,
+          "Size": 6555549,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/ZXzmqNg-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/ZXzmqNg-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P5160061.jpg",
+      "Date": "2014-05-23T06:15:38+00:00",
+      "Uri": "/api/v2/album/2XfDZN/image/4ggvGpd-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-4ggvGpd/0/#size#/P5160061-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-4ggvGpd/0/Lzvdh6zThttSdRhnDXcFHwzmfVk5TNCKhvXptZjNw/Ti/P5160061-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-4ggvGpd/0/K9B2Hc646dQq5FWvkVRMcf6Fps8h84jLzcL2wpKfk/Th/P5160061-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-4ggvGpd/0/M2FMPDGVbmNXwnKXJCWjL9zZVcLZrqcWTGnF49t7n/S/P5160061-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 52369
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-4ggvGpd/0/LLSxWQcz7TFmKr8BHDqB7VD8GDTcqFmdR8CkKqzv3/M/P5160061-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 115463
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-4ggvGpd/0/LhJSVhkVwJFC8jFSFJMfsXZdSvVjVKsvHsk3ZgBkd/L/P5160061-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 197087
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-4ggvGpd/0/LHHVM9jxDRjWSWd8FGXdbQdhdfhkGnBzv3768jXLt/XL/P5160061-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-4ggvGpd/0/Kxg7WhcLsmwmCMCBrLXkrKXmfvtQrBdwmBccMqTdc/X2/P5160061-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 925027
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-4ggvGpd/0/L9kKFNPMg8v7HrSgdXMQpd6xQwsSKPvhj3GnJHgxB/X3/P5160061-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-4ggvGpd/0/Nbpz2PRMMMphcrHHq7rS2fT4hV4f3566NssZLDqMd/X4/P5160061-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-4ggvGpd/0/KK389rSpM3vTD24WNbvcFVxcG2pvtSnJwnVJJDMGb/X5/P5160061-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-4ggvGpd/0/MzmQk6P7rkPGZZnfZ6Fw6RJFnQzdcbz3ntZkrWQ8f/4K/P5160061-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-4ggvGpd/0/K6SxtbwzmT4dqcsg3kGVDmMMKwLpbTQ3W66Dz8Npb/O/P5160061.jpg",
+          "Ext": "jpg",
+          "Height": 3214,
+          "Width": 4286,
+          "Size": 7849642,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/4ggvGpd-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/4ggvGpd-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P5160070.jpg",
+      "Date": "2014-05-23T06:17:20+00:00",
+      "Uri": "/api/v2/album/2XfDZN/image/cfGK8cz-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-cfGK8cz/0/#size#/P5160070-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-cfGK8cz/0/LJjspvZqj7KjM8zJqmscfNgNXXXHDnGD3XvJJnKvB/Ti/P5160070-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-cfGK8cz/0/MMb2D7TTxxbzf4vq9pddRkxS5LSrrFnPM8b87RJhj/Th/P5160070-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-cfGK8cz/0/K84CW4zz836MRwm3gSGkZkGhtQ9wSvpGRBpknQs4t/S/P5160070-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 68490
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-cfGK8cz/0/M8rJS7jMt6xsqLfbw3g8mFs8fKLGLWZSKfLkbcQWq/M/P5160070-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 149154
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-cfGK8cz/0/LdVJM8N9K4QJDbmS5LftjqXz3Q3kPMGj7mtsnf25w/L/P5160070-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 246351
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-cfGK8cz/0/LqwNKtM5ZbdHLbdKTWJcG9rpNrQrMWHFtL7CP57GD/XL/P5160070-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-cfGK8cz/0/Mb28DbSnHx5MHF3Jv86qgT52hJsqgJcDZcVhjhnpK/X2/P5160070-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 1043974
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-cfGK8cz/0/M6PKfVQsxjP88vrjbfSwMqf4dgBT8743M9pQjL5sp/X3/P5160070-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-cfGK8cz/0/KZtH92J95m3mVrBnTS343SzFP3rDcmKxHvdzvXTfQ/X4/P5160070-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-cfGK8cz/0/KsdHp3X5SMwq976qnR72SKvm74dj3C7dCXq65tJxj/X5/P5160070-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-cfGK8cz/0/MVJWGh2S57H9CF7MwwDmQh7VvQfd54WWwMtSrZKtt/4K/P5160070-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-cfGK8cz/0/LTwsL9h52FW5KL9bX2QdqJMNBTQkzxPf4FXngn5VM/O/P5160070.jpg",
+          "Ext": "jpg",
+          "Height": 3456,
+          "Width": 4608,
+          "Size": 8820667,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/cfGK8cz-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/cfGK8cz-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P5160081.jpg",
+      "Date": "2014-05-23T06:18:56+00:00",
+      "Uri": "/api/v2/album/2XfDZN/image/z56Dbzr-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-z56Dbzr/0/#size#/P5160081-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-z56Dbzr/0/Kxss7srq3FwhqjvCcBsHmPFBtcXdCZg6BLqGBF3KS/Ti/P5160081-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-z56Dbzr/0/L53dDQRpkc7HxBKZ7xMFQR7HGpDXFgLxHLvvwRFRQ/Th/P5160081-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-z56Dbzr/0/KdRMv5DwqccvFXLVmfn5bcdZHTbbnJs8jVMsdFkqH/S/P5160081-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-z56Dbzr/0/NBT8Q5nZpctZpV7X9gwtTL7JxcMdNpp53TBLXMKB2/M/P5160081-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-z56Dbzr/0/Knt4rMXLPPjhdFJHFvK8CFhkCG9MqT8mPsTK53Dss/L/P5160081-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-z56Dbzr/0/KPg5qnwGJx6snLzm4JxZ8Tbpq5T3qtJJFkLDsj2cV/XL/P5160081-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-z56Dbzr/0/NLC7qTKmbX8fzkvcPh7vc2h9nfw428FZg46zncGX9/X2/P5160081-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-z56Dbzr/0/LW6bHhqdc6GN8vV2VFGS6DV8jFrNzMR5Vs2vbjzKN/X3/P5160081-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-z56Dbzr/0/Kb8qzNWKSKbZnBCMrJXB38CSCzJMSRHFHqfrr3PHN/X4/P5160081-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-z56Dbzr/0/KrjNLvqpQf8Z3gRXmx5LmhM9XNJBdVhNTNFc9rNHT/X5/P5160081-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-z56Dbzr/0/M636L4LVHRGLKMbZcrkpBfLGKxfVtSr8qTkcsN6RJ/4K/P5160081-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-z56Dbzr/0/NJwvLzdCkQDPJ2fWcsFjxNLBcHkR29xPtGTKWTPRp/O/P5160081.jpg",
+          "Ext": "jpg",
+          "Height": 3321,
+          "Width": 4428,
+          "Size": 8557131,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/z56Dbzr-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/z56Dbzr-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P5160136.jpg",
+      "Date": "2014-05-23T06:19:09+00:00",
+      "Uri": "/api/v2/album/2XfDZN/image/VTCMhnD-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-VTCMhnD/0/#size#/P5160136-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-VTCMhnD/0/MfjRjH88nGTvSRWmQqMQxBr5CzB4JPtDX94NvMrCX/Ti/P5160136-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-VTCMhnD/0/LGF9RdSLKLCTpZ929n546cD2Nc83GRTt9B2XdNFzJ/Th/P5160136-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-VTCMhnD/0/NKK7bDFw5Mx6qqkXTMZk3FV9VhVHrgZHZs7rS3Cgr/S/P5160136-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 77780
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-VTCMhnD/0/Ms5HvS4tgvwM6v5pRzKNvhJMGPJqHD2xJT2nGgJWJ/M/P5160136-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 155059
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-VTCMhnD/0/NJXtQ7qFDCN6K7jgCpH56NGmZbqK2JgmQcMhLxrF5/L/P5160136-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 245644
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-VTCMhnD/0/MjbrPCcTw92CchXXXvhTJCQQ29NmKmRDHrLBz3kBR/XL/P5160136-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 373092
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-VTCMhnD/0/LP3m7RtQnbZ8mHzWX5CW3tk3Nbw5zNMTP5nxz5srn/O/P5160136.jpg",
+          "Ext": "jpg",
+          "Height": 913,
+          "Width": 1218,
+          "Size": 925272,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/VTCMhnD-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/VTCMhnD-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P5160152.jpg",
+      "Date": "2014-05-23T06:19:55+00:00",
+      "Uri": "/api/v2/album/2XfDZN/image/DMVwD6b-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-DMVwD6b/0/#size#/P5160152-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-DMVwD6b/0/L89RKdpNGQNnSBqwSvKBkpZ3wQRtXzfmJcLkPTKdC/Ti/P5160152-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 12788
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-DMVwD6b/0/MsBSSL93cPx8sJNLg93P362JwK5kRVkmrBRVHbgZ4/Th/P5160152-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-DMVwD6b/0/MJ4XjswHjTLBJ4mJJzjp83fFfwCfqk7jWq4N5Qbbx/S/P5160152-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 89879
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-DMVwD6b/0/M22CBzwfjBcJw3jDfxRJs7Zh6vFnbnbtbkVZ74ttH/M/P5160152-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 183011
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-DMVwD6b/0/LHmgG79HhZNP48Sbp44qgZbT77wZvR4KqRx33wKsG/L/P5160152-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 291472
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-DMVwD6b/0/Njh9mmJPKn369ZtKTggn4w3fwDPfbLrKbTsLqdTcp/XL/P5160152-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-DMVwD6b/0/NbwvvvQZ7NxcV5RQBJbnhNM5qKKHF3LsHkfd6HNqV/X2/P5160152-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 656080
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-DMVwD6b/0/KwC4CC2TGvpqhFDtSbGDTbqvwzrGkShRbr58f4vP5/X3/P5160152-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-DMVwD6b/0/NCJZ22Xhw9XC9dks8vvDLxt2qCRnfhvS9tn66vvCK/X4/P5160152-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-DMVwD6b/0/L42tjtzPbRgq5R5x38HTSsc6fQFLJ8P5NXDhj5BpG/X5/P5160152-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-DMVwD6b/0/MNNhbKVrxgHGvfX7LZF5hbcSDCZHFKtPhbFdgJtQt/O/P5160152.jpg",
+          "Ext": "jpg",
+          "Height": 2172,
+          "Width": 2896,
+          "Size": 3940533,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/DMVwD6b-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/DMVwD6b-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P5160162.jpg",
+      "Date": "2014-05-23T06:20:19+00:00",
+      "Uri": "/api/v2/album/2XfDZN/image/dTv2HCB-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-dTv2HCB/0/#size#/P5160162-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-dTv2HCB/0/K8t9sGF59p2gnVGwtMSzLNw4LdbwGmh6cgjfFnqjd/Ti/P5160162-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 11338
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-dTv2HCB/0/KDdpRg34P2SRcqQRnJ5VGHpGR9bjVKZC4xbNBzjNL/Th/P5160162-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-dTv2HCB/0/K8qVpGG2J8htZvKtvnzgvpjGH98zhxGq2ChZzPRs2/S/P5160162-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 69485
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-dTv2HCB/0/NjJTGH8QtCN9G6KgNpzM5gj5dGG9k3bpnxJdhbnGF/M/P5160162-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 135915
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-dTv2HCB/0/KKHvCQL9zps5Q3b76CwC5hL9H9mfRpZfzczk4C2Fj/L/P5160162-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 211163
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-dTv2HCB/0/MGtzVR8xgbc2WN6nR8TdQg7RMB7p25rm2L9DfzGZ5/XL/P5160162-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-dTv2HCB/0/MPKN5rTmMN38nRRWnp7pVwKVxCtnVmD3Sw4ZL7cL9/X2/P5160162-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 477604
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-dTv2HCB/0/K2DtRg65vRjgHM9mtV9v8TPf85wxx3FLQZG9S4VsB/X3/P5160162-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-dTv2HCB/0/NXbDL7qJn6fK8bfM6b9Jb24vrF5dPq4v88V63rdRd/X4/P5160162-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-dTv2HCB/0/LStxwPjm2wbpQWg3HBDMjpXc6mLsBSH3S4FM5Dbr6/O/P5160162.jpg",
+          "Ext": "jpg",
+          "Height": 1693,
+          "Width": 2257,
+          "Size": 2031601,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/dTv2HCB-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/dTv2HCB-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P5160180.jpg",
+      "Date": "2014-05-23T06:22:05+00:00",
+      "Uri": "/api/v2/album/2XfDZN/image/cXbn4mv-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-cXbn4mv/0/#size#/P5160180-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-cXbn4mv/0/MQFNbxcDcp9nfqq98FLk9c8JNJsfXrMF6xS868hbn/Ti/P5160180-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 12425
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-cXbn4mv/0/KtZK3Cc34Kvc35MZwJzHTV5k6KL2nkQrKfvPwsKLb/Th/P5160180-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-cXbn4mv/0/L6BQ76P6nsdSpcPh7vRBK4nXpJxH9N5SgwCkggNH5/S/P5160180-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 79896
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-cXbn4mv/0/MCdWdzxzR58N2W7Qws4TnQQ5fqS8mThH8mXztQckb/M/P5160180-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 164037
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-cXbn4mv/0/K3K6r2TQW9XVmgBjVQ9CkQFr9jd7Gx6xftwVqTQVd/L/P5160180-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 262640
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-cXbn4mv/0/LMJPJsrR6pFZKgWTm75wW2PCFbQmW9vPxphf825hr/XL/P5160180-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-cXbn4mv/0/NRmKjTW4SHjGKt2Nqjrp27ZZ5V3vNKcSX4bn2tXDd/X2/P5160180-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 605982
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-cXbn4mv/0/LjcVFZGwsz5skFNsjsKvZCfmFXqCDbWStCjvwJrgb/X3/P5160180-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-cXbn4mv/0/MR4nPN2LZ4T9jTBHMDN7PV3kdSDhMshm8CNLvJ7wL/X4/P5160180-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-cXbn4mv/0/NfzwW9D3N8GvGsLvvdhPLDzXJJk94sznKxcNjmHBX/X5/P5160180-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-cXbn4mv/0/LsFkS63ms3s77QHhBtwv9X9VqnCg8Q43nMmNgdZFp/4K/P5160180-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-cXbn4mv/0/Ng2zvkRPprZJrtcMmfm4V3RnFkFJbrwBc5ZHVSPN6/O/P5160180.jpg",
+          "Ext": "jpg",
+          "Height": 3456,
+          "Width": 4608,
+          "Size": 9230397,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/cXbn4mv-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/cXbn4mv-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P5160184.jpg",
+      "Date": "2014-05-23T06:23:49+00:00",
+      "Uri": "/api/v2/album/2XfDZN/image/pRsZPD6-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-pRsZPD6/0/#size#/P5160184-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-pRsZPD6/0/MMXLhzRsh5pC6PvmxSttfpLPK4WdRScTJkJ7kxNKF/Ti/P5160184-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 10735
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-pRsZPD6/0/MPG8D9LLGxK6NxwmjWJjKCpzG28W7spDzbrBkczmc/Th/P5160184-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-pRsZPD6/0/NMFJz4T6ZJzQmvWw6w5XCVrVhJ432dgkrRK9rbj2B/S/P5160184-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 60725
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-pRsZPD6/0/Kz2tsFTMvDpBSsbwKjvWmhXJTgRQTHvZPjfzV6PQr/M/P5160184-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 125855
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-pRsZPD6/0/NDZtmZBtb5KB5mt9f9jnksVVSkPg5HTXvDF7WHtPK/L/P5160184-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 207149
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-pRsZPD6/0/MvQP72xw3xCVNJ6rR5fX83PR5W8SPBSCrJd396fXq/XL/P5160184-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-pRsZPD6/0/MFhG8p89cRFfpCv6GvPzVpxVJ9WhvjtTLkSGNTTq5/X2/P5160184-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 528295
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-pRsZPD6/0/MTjmf8qDBrGdf5w9DhnZcnZ6dwmGNjV42jMP588gC/X3/P5160184-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-pRsZPD6/0/K3cBjcwZJDdsBKSCzcpxQTwNVSnwcWqrr724S2SSk/X4/P5160184-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-pRsZPD6/0/LFpTWpRb3KSN2FcX9h7BCnFLRVR7tbKCfGDwgXW3V/X5/P5160184-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-pRsZPD6/0/K2ZGBqX2zTh9bjHphpppF4W9swx3B7SN4MdRWvWKq/4K/P5160184-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-pRsZPD6/0/KGjbmNZ5KKD7M36c4mMLT6Hn48hCtkfxLPvwfBsPb/O/P5160184.jpg",
+          "Ext": "jpg",
+          "Height": 3257,
+          "Width": 4342,
+          "Size": 8864305,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/pRsZPD6-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/pRsZPD6-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P5160193.jpg",
+      "Date": "2014-05-23T06:25:12+00:00",
+      "Uri": "/api/v2/album/2XfDZN/image/gkZX6kB-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-gkZX6kB/0/#size#/P5160193-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-gkZX6kB/0/MR2wz7mnLhrgJZdSNF6qxbtx3Mn7nLcSK53qNVtXK/Ti/P5160193-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-gkZX6kB/0/K3Z7Q4wShV8gbXmrKLJVLZTtdBjmbrsb2SZT9QSbD/Th/P5160193-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-gkZX6kB/0/NMtwwqXVRdMbKsKKRDLNbcvftJH3BSmxjTntz3jnC/S/P5160193-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 48531
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-gkZX6kB/0/LcdKcBRDbgcWqKPM5cbqH5tG2KjL7gphqnMgx4r6D/M/P5160193-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 93859
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-gkZX6kB/0/LzPstsvMmQvkfc9Ssv2fNtfkVhXQkWcPpZd7wMk4C/L/P5160193-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 148978
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-gkZX6kB/0/L27sTsr2KxpKxQ72Rq786J439svSb9Kbmdc7Gb3K8/XL/P5160193-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-gkZX6kB/0/Mjn2364J2Gs28GvcZf8r33cgxxq2RN9xFfVPSPzkb/X2/P5160193-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 379709
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-gkZX6kB/0/MkpthTszbLpRthHMm633CrZHzJ6ZrsNSVCSw9qB6m/X3/P5160193-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-gkZX6kB/0/LsVDLscGWwP922bXNbktNGhc2CLjq5jvDLLVHh3qb/X4/P5160193-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-gkZX6kB/0/K2nq5f2WhmmXcrzT4ZRRS3mtWhv3PC6hCcjC3Pj2C/X5/P5160193-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-gkZX6kB/0/KRLsghrdN88CJrVsnKn9Jmf6LSR8tgcX49TLSfNbR/4K/P5160193-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-gkZX6kB/0/LgnWCK94G4cCcLCzPDN7vsmHxkvLDv4fBBsc36R4C/O/P5160193.jpg",
+          "Ext": "jpg",
+          "Height": 2961,
+          "Width": 3948,
+          "Size": 7282771,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/gkZX6kB-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/gkZX6kB-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1623.jpg",
+      "Date": "2014-05-23T06:26:02+00:00",
+      "Uri": "/api/v2/album/2XfDZN/image/DdP4D4g-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-DdP4D4g/0/#size#/IMG_1623-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-DdP4D4g/0/NbVDLQ4TnLG2WtpsMbmsX5wrgRCRnDZGfTBnFNrqx/Ti/IMG_1623-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-DdP4D4g/0/MtXh474G3hkMkSBqJTX2F4X9njdvCdq5PPh7qqp38/Th/IMG_1623-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-DdP4D4g/0/NJM9TDZLBsQgPZQcvFdvzDNRSLPCdsJr647dH27pW/S/IMG_1623-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 61262
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-DdP4D4g/0/L492N9LWC9PH2G3PqD3QTssgGQ3BQvQNxsZ7kqW4s/M/IMG_1623-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 125835
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-DdP4D4g/0/LTdQdhnqCHsnrQTH7j93RG3HRgnpVHXttqcBwVWhS/L/IMG_1623-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 203079
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-DdP4D4g/0/M9RRF7XKvScSvTXMmfTb7sxcrqKvS29gBbQrvShqt/XL/IMG_1623-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-DdP4D4g/0/MzKvMKFTnRNf9K6RVSZ62Q6Vz639mG8nnCQ2BLkcf/X2/IMG_1623-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 822661
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-DdP4D4g/0/LTRw2H9JpCpPVGbg5vVprkqHkk52sxCWf7VX9t5pP/X3/IMG_1623-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-DdP4D4g/0/L6pQMxgDV439gBJt5sqNWc5NCFSRmqMCBVXktqGLL/X4/IMG_1623-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-DdP4D4g/0/MPzhLr3csMDjLXQBf8m5CQtN5mbk9p39zg8xpbJFg/X5/IMG_1623-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-DdP4D4g/0/LZP2kDkM2SzvPBQN6QL5KDwMmdgRWgwm6GbRD9srh/O/IMG_1623.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 4178123,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/DdP4D4g-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/DdP4D4g-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1624.jpg",
+      "Date": "2014-05-23T06:26:28+00:00",
+      "Uri": "/api/v2/album/2XfDZN/image/NtWbFPZ-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-NtWbFPZ/0/#size#/IMG_1624-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-NtWbFPZ/0/NDws7WX4PcpVswbx7NXnQB33RMdVD8SX68nsJ5NQh/Ti/IMG_1624-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-NtWbFPZ/0/KDtBRnCbCBg9bmCp6StHP5vf76Z86HTz79SC6ctZn/Th/IMG_1624-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-NtWbFPZ/0/NT9mmvS5KGX9Pf4tk8fj8Xn6NpqpdVVhvB7HLVxpd/S/IMG_1624-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 57464
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-NtWbFPZ/0/MnXc4SqJLWRRBdTG8kGB28kQ5kj3XtC4nSmwhWpjv/M/IMG_1624-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 109974
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-NtWbFPZ/0/MKB64C2XWcV6mD97FtpVdsS9DWTnvDhc4MC5b2c7k/L/IMG_1624-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 169351
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-NtWbFPZ/0/NGRwvX7FNK6x7NL6kDbgBdrV5HwJJnqMGqcmPJDfW/XL/IMG_1624-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-NtWbFPZ/0/KLtk4P48vxzXn3TC8rD7FbBczHpZvMHLJrfhLpL2h/X2/IMG_1624-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 650498
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-NtWbFPZ/0/NStDg2mjfnFBZcXTTSqvbMmjNKfxmJnzWKx8RWSjk/X3/IMG_1624-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-NtWbFPZ/0/KVgQVt8PPGGQtzj9r6tNrPJLqMHCVSwLNmHjBGqrH/X4/IMG_1624-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-NtWbFPZ/0/M7prhPJg8rjrDZvV2RKsMs9B9M5TwTDdfKsW5HVvV/X5/IMG_1624-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-NtWbFPZ/0/MSkTJ4ftNccNjKR5SVPZMgm3GJbWgcMKzR2h5QWq4/O/IMG_1624.jpg",
+          "Ext": "jpg",
+          "Height": 2312,
+          "Width": 3082,
+          "Size": 2237518,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/NtWbFPZ-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/NtWbFPZ-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1626.jpg",
+      "Date": "2014-05-23T06:27:08+00:00",
+      "Uri": "/api/v2/album/2XfDZN/image/zdLZ3Vw-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-zdLZ3Vw/0/#size#/IMG_1626-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-zdLZ3Vw/0/LCpsv5PRdsPXzrtc4g5sqk6ZG4XFm3Q8Rv9jc2crv/Ti/IMG_1626-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-zdLZ3Vw/0/LpJg2kkfHS6DkC95v3TxGBLT9tDKr9RPtMtssTn3T/Th/IMG_1626-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-zdLZ3Vw/0/Ln2gm6Z73m59RxqJJ78ZkZ67BRSG39K37C5Dvhqpg/S/IMG_1626-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 75897
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-zdLZ3Vw/0/KTbfn3NvxmShbjXvr5gQCwjwGCHRbkXBCj3qZ2H3M/M/IMG_1626-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 167274
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-zdLZ3Vw/0/KxCVHC2v4Zxc3xkTLfkxJ2bx2tbSXQkJKcRZw4bHC/L/IMG_1626-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 281787
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-zdLZ3Vw/0/KHJjPxgjBcfzWr3H7KzsqnWkBszgppFcNMb3kPQD4/XL/IMG_1626-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-zdLZ3Vw/0/L9GBPhqH6ZcWwCbQHcqvWTpn4RbFdj4RpZ2XJRnJz/X2/IMG_1626-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 1101505
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-zdLZ3Vw/0/MgXW4GgZ57BBDtNCCh3bxsQPCSshrVH6ZFgJj6c3G/X3/IMG_1626-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-zdLZ3Vw/0/MDRsGJDgZx7zqzLjRs78PDTMgjSsRPqp4qMnQRGCP/X4/IMG_1626-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-zdLZ3Vw/0/KVD6MScDsVKw59JFGNcCKvQDrJMwLQzNkPw3wjqVs/X5/IMG_1626-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-zdLZ3Vw/0/MP6TqqFb8xpcWbc2L3bJQjHkrRPbbjG6mTBBSRngw/O/IMG_1626.jpg",
+          "Ext": "jpg",
+          "Height": 2102,
+          "Width": 2803,
+          "Size": 3448953,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/zdLZ3Vw-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/zdLZ3Vw-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1634.jpg",
+      "Date": "2014-05-23T06:28:01+00:00",
+      "Uri": "/api/v2/album/2XfDZN/image/rM6s3vv-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-rM6s3vv/0/#size#/IMG_1634-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-rM6s3vv/0/Mqs6xVDt9pX8SJL92kWsg68qVM8cqm5TQKV5wSKjC/Ti/IMG_1634-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-rM6s3vv/0/MZ6GSktpDdcJ4Q6Rd3C39JX3Z4fqBmXsnsm7pPKQ6/Th/IMG_1634-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-rM6s3vv/0/NKMmXQHzXmNsn5CZpT25hjVGbXC6pxqK4fwVRrJn5/S/IMG_1634-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 73191
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-rM6s3vv/0/L9zPZjwHWSdV2NnSTwWTC2bfbDt7f7L47rT4bTzDw/M/IMG_1634-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 159635
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-rM6s3vv/0/NgQ9TFjFGnWXzH7pCwHHc5kBsSLfBLGrW49RmcJvW/L/IMG_1634-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 269030
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-rM6s3vv/0/MhGrJ4Fj98jVT62kmGZq5NB64Gw3mcMH5PZJ4Wzzd/XL/IMG_1634-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-rM6s3vv/0/L7HLwX4hHh6LhqGSmPzPs6GXTsPD4vBfnjQKKZXzL/X2/IMG_1634-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 1080241
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-rM6s3vv/0/MZJccq6sg5xg8XK6nKS27FPGVJtS9ZBjr4szCMLkG/X3/IMG_1634-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-rM6s3vv/0/NMbjszVbtKxGrv9q6br3QTttBfLmdj6n98NQGKQTm/X4/IMG_1634-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-rM6s3vv/0/LH38HPBpnwDfMVnnxZqKHX3Wn649Vr9b5rzjF59Mf/X5/IMG_1634-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-rM6s3vv/0/KJMLhqGxjHqdM67rTCpg4XgXXddWtFsBbJCF3j22c/O/IMG_1634.jpg",
+          "Ext": "jpg",
+          "Height": 2384,
+          "Width": 3179,
+          "Size": 4385911,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/rM6s3vv-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/rM6s3vv-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1637.jpg",
+      "Date": "2014-05-23T06:28:38+00:00",
+      "Uri": "/api/v2/album/2XfDZN/image/5kgx3q6-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-5kgx3q6/0/#size#/IMG_1637-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-5kgx3q6/0/KfRm6hhDxqSBQhrqSJJfTvRrZktvCcsxj5RKq7mQJ/Ti/IMG_1637-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-5kgx3q6/0/L9b2dZCSctW3pxZfWRbv3S4Rfd2cd6BvTHnqwXJ5m/Th/IMG_1637-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-5kgx3q6/0/NF7VRPkSWQc4zcLbjp8nsr6MxjD63qPsjNPbgpZtp/S/IMG_1637-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 51115
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-5kgx3q6/0/MHQ9CVNg7BwNrDcCq4DZ779dmJ6QJWVRRCGztHprp/M/IMG_1637-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 98631
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-5kgx3q6/0/LWcs5pQFbfkmCKXSrM4hf5L9frg6kvhGr7N8M562N/L/IMG_1637-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 154710
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-5kgx3q6/0/LHn7WzbPCCt3mTBGqR9tzK47bqCSmJcFkLwz3tB3D/XL/IMG_1637-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-5kgx3q6/0/MBFb6LjG6tTGCNkhPJmNd7HNRJvKKZCP589XFsScJ/X2/IMG_1637-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 650091
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-5kgx3q6/0/KVKwW4r2PgjTZrWx3tPjDVKD6jzh7BWJrmGSvbFwc/X3/IMG_1637-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-5kgx3q6/0/KqWG4skNR4X3PW8x6WMvJHLPNsT97Vxvz8KWS2wjX/X4/IMG_1637-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-5kgx3q6/0/KhH35RTqBgqfVp4RVWbL27nfQZs5k7SfJR9rZ9SCv/X5/IMG_1637-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-5kgx3q6/0/LGnbjHHDzz3PbmzXcPdHCSBRpCKz7RCDP6bZhPzdB/O/IMG_1637.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 3160319,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/5kgx3q6-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/5kgx3q6-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1642.jpg",
+      "Date": "2014-05-23T06:29:16+00:00",
+      "Uri": "/api/v2/album/2XfDZN/image/SkZJrpz-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-SkZJrpz/0/#size#/IMG_1642-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-SkZJrpz/0/KSDNfHQrdcTWzsQFkTn6QhpQMx26m4cNpKWB79hzT/Ti/IMG_1642-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-SkZJrpz/0/Kp9DcwGwRXRRXrQkPjXBjwjFZnmSsrVMLtHvd5dFW/Th/IMG_1642-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-SkZJrpz/0/MCqSs7cZ5JgVV8cnjkqLnSPd2bJkCRts4j62WD2CR/S/IMG_1642-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 56024
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-SkZJrpz/0/KVbFtXmNNKBbprHnZMRR37QLxpjh9DsMP3qbfVjz3/M/IMG_1642-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 109220
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-SkZJrpz/0/NCpcMVNPfXrkWrKr566FT8XKdG4C6s8LXPTQvgmMH/L/IMG_1642-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 169978
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-SkZJrpz/0/L5rLjgLpXV3Ct4v65kKjpjfd3TVkZTCs3j4KpQLH3/XL/IMG_1642-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-SkZJrpz/0/LdFqGHxkJSSzmzHsxd66VRtwHJrLrDTcGgxTKRPTX/X2/IMG_1642-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 677412
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-SkZJrpz/0/LPbcJxzxmGRf7tGdqrnLMtSWpmfwTSf3tJmhTvMxq/X3/IMG_1642-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-SkZJrpz/0/KrpPBPNj9sJLfFznQ32Q3MWvPnD4QWv4kLtjSJ6W8/X4/IMG_1642-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-SkZJrpz/0/MQtD6L5DPCdjgTPq2pFDmDvsnprGjQFnN79wKSq98/X5/IMG_1642-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-SkZJrpz/0/LspQxdksHB8tsFSxx8Qz3FbJkRHRdcjx9zqmMg3dr/O/IMG_1642.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 3266051,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/SkZJrpz-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/SkZJrpz-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1658.jpg",
+      "Date": "2014-05-23T06:29:50+00:00",
+      "Uri": "/api/v2/album/2XfDZN/image/5JJw8SC-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-5JJw8SC/0/#size#/IMG_1658-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-5JJw8SC/0/Kq5jfhDwQ7RC7n38nNFFrV5RJr4GdLbHD2V99bszq/Ti/IMG_1658-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-5JJw8SC/0/MnMDSskNN78xc9ShMnjNwG9WzwWsXcC9DwmF7PFhm/Th/IMG_1658-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-5JJw8SC/0/ML8mR7BPf6jvNHwqVsbx9pd6M56JkF3r5t4CCHn9Z/S/IMG_1658-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 44848
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-5JJw8SC/0/KDd2Qd6dddWGVDqbTpwbZ2GFcJcGCQ865kNqtP4RP/M/IMG_1658-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 85189
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-5JJw8SC/0/Lkj8kNQx4pqNj864QWX2r3VM9jRf5dkDWMTnD6X3K/L/IMG_1658-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 134883
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-5JJw8SC/0/LQMcRFMdJqTJtHp8dHkDbbjXGTmr5QsnTKB9ScsSB/XL/IMG_1658-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-5JJw8SC/0/K6WgTGjjLGNzXtw7hpw94Q2B4g8vdvJC2FhnbqXvd/X2/IMG_1658-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 584654
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-5JJw8SC/0/MbJGxsdrG4gWfms2Dzmrj5n8KkvKdXNwGG9NxwJ6R/X3/IMG_1658-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-5JJw8SC/0/KGR8TwM6FKqSfkTRzrcfDfkpR6Mj8z65w8mF4kVKc/X4/IMG_1658-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-5JJw8SC/0/NVjnD4M6njr8gFbjfxcJX9W93sjdWD6hzMMSq2TLq/X5/IMG_1658-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-5JJw8SC/0/LSGVxkCDLFp7DPgd9csxPjZhJqqQLCVVs6jPrGwDq/O/IMG_1658.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 2909856,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/5JJw8SC-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/5JJw8SC-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1662.jpg",
+      "Date": "2014-05-23T06:30:42+00:00",
+      "Uri": "/api/v2/album/2XfDZN/image/DrS8ZrX-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-DrS8ZrX/0/#size#/IMG_1662-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-DrS8ZrX/0/NJDDDDJvtxrwXKTBpW8NrwMLVw3N26BWX8NFxbJmH/Ti/IMG_1662-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-DrS8ZrX/0/Mh6CDVNqCQZKjsXbRSbcGHhx9bh6RKQ7Fp3JFjzKh/Th/IMG_1662-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-DrS8ZrX/0/M7mMR69VT8bHxnfq3m6Vg5N43d9G2hpBjKRtbpPGt/S/IMG_1662-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 59788
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-DrS8ZrX/0/LzNz7pXJwwZFdgW6hcgJW5Rs8g63TWcdwzjFHZd6f/M/IMG_1662-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 124323
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-DrS8ZrX/0/LGLjDDghqFhDBWSnnQM7cmbqKNtPBtBwL8m4jD6fp/L/IMG_1662-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 205461
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-DrS8ZrX/0/KsbtbQDsrjCS6JWR5tVK9LLz4wXvcgkhwJFQpBgzJ/XL/IMG_1662-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-DrS8ZrX/0/KQfgrM52BjSn32PtqWZzC69r5dhqZkD9sQrJPqk9B/X2/IMG_1662-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 863824
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-DrS8ZrX/0/Kcr6VvMwHkDqBGdTgBmfWxnbpfxcXmggQTZxqp7GZ/X3/IMG_1662-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-DrS8ZrX/0/LrMvX44smLtQsBsB2FZswSfj8K5JbRjNsvWQ3BLXb/X4/IMG_1662-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-DrS8ZrX/0/M9p2JS5KcRZSGRNvsbmxBmHBxHT4GQX7rBrHVgnvr/X5/IMG_1662-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-DrS8ZrX/0/M7JMGxZXFR2QbnVQZMb3M5SPHnV8ZP6znRCQDNBfC/O/IMG_1662.jpg",
+          "Ext": "jpg",
+          "Height": 2632,
+          "Width": 3510,
+          "Size": 4566269,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/DrS8ZrX-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/DrS8ZrX-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1671.jpg",
+      "Date": "2014-05-23T06:31:17+00:00",
+      "Uri": "/api/v2/album/2XfDZN/image/Tscn28z-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-Tscn28z/0/#size#/IMG_1671-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-Tscn28z/0/KX9mdDrBwL8vjJ5CCWPKTHZ5XGV5qxRX3LTnD5x4G/Ti/IMG_1671-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 10232
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-Tscn28z/0/MQgfLf3cPWq7BP2sj5PNv7FB58fpm4qkvPHMHvNLP/Th/IMG_1671-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-Tscn28z/0/L9BZVS9XFH2jFvLn3xcTK4ZkN3W5FKJDmkDSn9nw4/S/IMG_1671-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 62967
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-Tscn28z/0/KxVDpDjzj2TSCSJG4Pfn5P4Gc6SGhLqVFtVdSLF66/M/IMG_1671-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 130873
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-Tscn28z/0/LPj6t7bsmBQRK5HJnBdbXV7q3qDmWFGNzR9kF4Q7V/L/IMG_1671-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 214265
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-Tscn28z/0/M358krCPc9P9PKSVT6FRvHKTSDd7PHdt2zC3WHGqN/XL/IMG_1671-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 586502
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-Tscn28z/0/KTNmQThzhKSCNsFRx27dfWFCZhtdstSSv5K3shHgQ/X2/IMG_1671-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 883620
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-Tscn28z/0/MnkgvM4bFsqHrWzvNXFHkjRrdfNCC7kpvFw4s8VQ9/X3/IMG_1671-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-Tscn28z/0/KHSGD845XmFg7m9NDcjP8RNm4TBg2F3rnwTXhbCm4/X4/IMG_1671-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-Tscn28z/0/MrS47cdkFTrFZctmdTFNJrxCnTmBbcTDntfWqZ72P/X5/IMG_1671-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-Tscn28z/0/MBRPFgPw5wDXXb2JMn2BbnfdpcfK4qD7d4Jtzr7bL/O/IMG_1671.jpg",
+          "Ext": "jpg",
+          "Height": 2202,
+          "Width": 2936,
+          "Size": 2923385,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Tscn28z-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Tscn28z-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1678.jpg",
+      "Date": "2014-05-23T06:32:10+00:00",
+      "Uri": "/api/v2/album/2XfDZN/image/8CTMTD9-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-8CTMTD9/0/#size#/IMG_1678-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-8CTMTD9/0/MHNxZ33CJnD5McNVLCxSHHDx4N9rtJ8fnjVSdCKmc/Ti/IMG_1678-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 12014
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-8CTMTD9/0/MCCHv957gg9SDtKDJ6pzk2GGf449n7HvWLmdHczqG/Th/IMG_1678-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-8CTMTD9/0/M6D8D2wtFvCrgbfbGsGtpQQDhgLCNBZvSCrkNz4G5/S/IMG_1678-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 79524
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-8CTMTD9/0/MrmBjR2s4zLm73SKGtk5Fbx68F65Vh5TH75dpnmKv/M/IMG_1678-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 163285
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-8CTMTD9/0/NTX4ccqDCCnfdVSGrntVj76DrvRfcTv78pVmbNH69/L/IMG_1678-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 262912
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-8CTMTD9/0/KMPSKhgd9qgwBzLksFFdvNvvkB7rHCD73gL2CPsmp/XL/IMG_1678-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 684558
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-8CTMTD9/0/KMdTbxWXQ28LSF5gf7FJxLTMHdcCqcdxms4cvBkQf/X2/IMG_1678-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 1012649
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-8CTMTD9/0/MQP8QX386S6dnHkcBfK4C3fnSjPt37pRM4FR7Qzz6/X3/IMG_1678-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-8CTMTD9/0/KHPTcCSnm58nmjdmN9dFcWhp6BwRzqsZzNJGgn4rP/X4/IMG_1678-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-8CTMTD9/0/NB5NKdDKhNRP8nGXNPKvS8WXDcHMWBQQLCfhFrtWd/X5/IMG_1678-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-8CTMTD9/0/NB8t5B7wrM42PxqxLdMb7stXCWDtDnms8Jj6nCBfq/O/IMG_1678.jpg",
+          "Ext": "jpg",
+          "Height": 2501,
+          "Width": 3334,
+          "Size": 4502452,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/8CTMTD9-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/8CTMTD9-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1685.jpg",
+      "Date": "2014-05-23T06:33:06+00:00",
+      "Uri": "/api/v2/album/2XfDZN/image/jPx294w-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-jPx294w/0/#size#/IMG_1685-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-jPx294w/0/M2thj3FtW7c6TCcvNHz29978S5qvrMZQWhZsZhLBw/Ti/IMG_1685-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 11930
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-jPx294w/0/Kzmhdj9MXSX8nPb2LjLfhgQSrb7ZRtdB7V2fm2nX7/Th/IMG_1685-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-jPx294w/0/LwzjDMM8rPWNqnRHKmN7RtRRNMdXRkwp4vMDrWnFL/S/IMG_1685-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 77179
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-jPx294w/0/KkQv6mtJnsjtTkWkGMpmnL6LGxfN9dFtZWcSCbrT2/M/IMG_1685-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 160593
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-jPx294w/0/KQHK9n3ND9DSf4tRkjGCrwLZwwgLSqh7zFkXqHRsC/L/IMG_1685-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 261540
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-jPx294w/0/KtngRWTHWgXLX9W5NB3R7JC5pf8tZ74RGT8CGS262/XL/IMG_1685-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 682055
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-jPx294w/0/Mwnc9kqCzvPF7XVqPsfTz9SjnwT739jjhj7F6Xv2v/X2/IMG_1685-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 1012213
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-jPx294w/0/Nd6qLHCmn8w7RL4qxhm82R4X73Wd6ntpb7Rnmz5FZ/X3/IMG_1685-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-jPx294w/0/MMp8zjsxhzvpgJDhP27hJf37HMxgxDc7fr6LxXhSJ/X4/IMG_1685-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-jPx294w/0/LF7vHSnRMHBwFDXWGrcZmGkNvnWXSQGsz2kHF7xdt/X5/IMG_1685-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-jPx294w/0/KKHwgTr99fX6wHFFC895C66NQpXqbH5hmtZHNmxVb/O/IMG_1685.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 4804893,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/jPx294w-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/jPx294w-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1696.jpg",
+      "Date": "2014-05-23T06:33:57+00:00",
+      "Uri": "/api/v2/album/2XfDZN/image/4W8zWx4-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-4W8zWx4/0/#size#/IMG_1696-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-4W8zWx4/0/K3bC4BcPgmR7jTCm3JWvsnj2tTSrZDMRNrD3xqgDk/Ti/IMG_1696-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-4W8zWx4/0/KXh88zvrD9sfHWzX3pQmncMN2Nm3KvTRP5b2LFrbq/Th/IMG_1696-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-4W8zWx4/0/M3thv4HLnMpcLxKpnfjSTsftkCpGC2KFQv3Mqzggf/S/IMG_1696-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 73922
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-4W8zWx4/0/KQjkHfR9rXWTJXgz3mtXctGLHZqqwdcPH9wVgV9Ds/M/IMG_1696-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 151431
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-4W8zWx4/0/MZw6mzTZxjP6jSMD3fzprPz3zMDTmDFC5SSbNbJrC/L/IMG_1696-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 253096
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-4W8zWx4/0/MJH8fTFbkzSQ2CkVwJXkxL9gF8gX4FMqtSqDRvCPm/XL/IMG_1696-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 660118
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-4W8zWx4/0/MXDpjCMwxfM9g3krMGGNCTkF2Wrth6VjpFr7BtwdJ/X2/IMG_1696-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 984327
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-4W8zWx4/0/LH9FppQrKwCVcLh74k8XMLjmBPxwRNn5k4p3RVhHj/X3/IMG_1696-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-4W8zWx4/0/NN2jJVfbmcRmzhpSLXhvmbT7sBHxXDWz5fd4C4LXC/X4/IMG_1696-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-4W8zWx4/0/M8XVVjVkh4cnmjB5FF9b2Q22FpgNWd28gq4VCD4mk/X5/IMG_1696-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-4W8zWx4/0/Ng2fJrhZtrSF8hc4cgwKrqrLVX8gCPcJ5nr99C9Kh/O/IMG_1696.jpg",
+          "Ext": "jpg",
+          "Height": 2641,
+          "Width": 3521,
+          "Size": 4435589,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/4W8zWx4-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/4W8zWx4-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1707.jpg",
+      "Date": "2014-05-23T06:34:39+00:00",
+      "Uri": "/api/v2/album/2XfDZN/image/9H2RNjc-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-9H2RNjc/0/#size#/IMG_1707-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-9H2RNjc/0/L4BSj7BkJq4D3PkNfTxRs6f9NLTSWSmPFjBwpRq2h/Ti/IMG_1707-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-9H2RNjc/0/M9rhkCnLvJb74g4pTLvCQkRTx28446vCBsPsS2qxb/Th/IMG_1707-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-9H2RNjc/0/LTQwxpwKm3q8L5xZ8z77pn3FT43dkP2cSbBxjGfZt/S/IMG_1707-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 57505
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-9H2RNjc/0/LD2N3sBWzGm7xndrjgBCKKdPj5P577FSz3BG7bDT6/M/IMG_1707-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 111790
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-9H2RNjc/0/KSW7TGW88SZzKZg6B6dKPRTv6DQV74Pxnd342n5gq/L/IMG_1707-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 182588
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-9H2RNjc/0/KPfrnBbsLXTtNzmzqxLfT4KKPGNvStgzcTFQhTxQG/XL/IMG_1707-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 491661
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-9H2RNjc/0/KFF9k6MsXMNmC33T5VJFtwPdPW6RcrbGv3XxhMZR8/X2/IMG_1707-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 729894
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-9H2RNjc/0/L4rN9K8KKnbDHkPX7g3mTzrcwPvHxm2S24gmcbpqq/X3/IMG_1707-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-9H2RNjc/0/Lzt9WWhcdB8txxgF7GdPm5LZ3pQXZngCw2nzzX56W/X4/IMG_1707-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-9H2RNjc/0/Kd2qNSRXSk3cbTrmGn9T2mSc4b4DQVDKrt2CmWHb2/X5/IMG_1707-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-9H2RNjc/0/LjbS4wWcKHxgXcxnj5457J6NVhr2bf5dJbbbmxtcG/O/IMG_1707.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 3399313,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/9H2RNjc-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/9H2RNjc-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1708.jpg",
+      "Date": "2014-05-23T06:34:58+00:00",
+      "Uri": "/api/v2/album/2XfDZN/image/gRfjnzk-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-gRfjnzk/0/#size#/IMG_1708-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-gRfjnzk/0/NDFxwj69NmpnsgzS4snfR9QTGnmPjmxdjt2JNJX4N/Ti/IMG_1708-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-gRfjnzk/0/KnwmNk4FXkCTzN6F22VVhVTDcDXn9hdJgxsCcsCTG/Th/IMG_1708-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-gRfjnzk/0/LpFhb99wX37H8W7Zh3KrfCWR8gkJ3cwSVgg3fnGrV/S/IMG_1708-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 39195
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-gRfjnzk/0/LDz2FJtKDFqHB37NG3t2kWNrxsDr7RMXVvdCVCpXP/M/IMG_1708-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-gRfjnzk/0/M5dv4vw9s8fcQnNqMtSZfNwp4cp9btQm3kPHXcJ7F/L/IMG_1708-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 122672
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-gRfjnzk/0/M5ckjNMbSxxnvPLhkth9sQB6NF2dNJdWVwhFsrnFg/XL/IMG_1708-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 374432
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-gRfjnzk/0/NHPhjnDzfz53qWLhbkg49RL9wxXC2mJfFpxf2Xc3F/X2/IMG_1708-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 582227
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-gRfjnzk/0/Krmz5J4nCgwsGHXtnG8fwTHPQjzpDcBdF9DnfpLR2/X3/IMG_1708-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-gRfjnzk/0/K5TPSvWQ3QfKVdmj6RhhTdZsWR7p99ZDdbgp7T6jm/X4/IMG_1708-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-gRfjnzk/0/MWQKBCHMxpWXwdZRCG8XrpQnmHLLJcTQkbqwbtx6n/O/IMG_1708.jpg",
+          "Ext": "jpg",
+          "Height": 1847,
+          "Width": 2463,
+          "Size": 1557648,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/gRfjnzk-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/gRfjnzk-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1711.jpg",
+      "Date": "2014-05-23T06:35:14+00:00",
+      "Uri": "/api/v2/album/2XfDZN/image/2L8Jk6w-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-2L8Jk6w/0/#size#/IMG_1711-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-2L8Jk6w/0/KQbZfzr7dkB5wmv3vnBN9rdFF8tm4QC8vPMMjNrwJ/Ti/IMG_1711-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-2L8Jk6w/0/L7PDLWSL7QdZFNkdN9LsX2M7nV3RS2djvK3HtVcwN/Th/IMG_1711-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-2L8Jk6w/0/KqbHRphXhzfWsCq8t7QB3Rgs82gKf4TrSTzpSqgb5/S/IMG_1711-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 38988
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-2L8Jk6w/0/Kn5zBDwxBxRfmSTchG5xcSKcgZTSmtHFvddLmZT6x/M/IMG_1711-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 80195
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-2L8Jk6w/0/NJNDrqhBhNHBJLCfZWr3g34fWmh7bCSRrTJjsSkP5/L/IMG_1711-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 142489
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-2L8Jk6w/0/MhWgPb8w6W4rPX3W4mSJng3LF5vT2xHQcDNKRM429/XL/IMG_1711-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 457756
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-2L8Jk6w/0/LQWHbvPZ9L3nV8vHLBRMLVsnLhfmLRkDZWTsrM4bk/X2/IMG_1711-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 701027
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-2L8Jk6w/0/LmGpK285SvMF8B52jC7hdMpRF9s3x7f6QCDNPBXTJ/X3/IMG_1711-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-2L8Jk6w/0/K3CLHpfZL7bjvCCGLH8CnT52kS5P6QpRmg5kWWGhh/O/IMG_1711.jpg",
+          "Ext": "jpg",
+          "Height": 1265,
+          "Width": 1687,
+          "Size": 961297,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/2L8Jk6w-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/2L8Jk6w-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1717.jpg",
+      "Date": "2014-05-23T06:36:06+00:00",
+      "Uri": "/api/v2/album/2XfDZN/image/ffXQcGS-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-ffXQcGS/0/#size#/IMG_1717-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-ffXQcGS/0/Lh5ZWD3fKP3FJLHLP9xjqG6njM2Xp5DDTHHkzgRG6/Ti/IMG_1717-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-ffXQcGS/0/LVJ2cQHqVkhQD68xZDt6QHgv4qZng3pJjdknk5Xs2/Th/IMG_1717-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-ffXQcGS/0/LGWPNnp7txsvzRPsxm94vt7rFFLR6Q5Ndh2T9m4JJ/S/IMG_1717-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 63264
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-ffXQcGS/0/LZPF6DdnmXdrMd83wLcMr3tCBZ42fG5TpGtN3RXK8/M/IMG_1717-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 127039
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-ffXQcGS/0/MWxwKBdxKNJdZ9v9LGx22jp98THCXBkszFHsKvMZk/L/IMG_1717-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 211093
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-ffXQcGS/0/KZRJ7p7XFkShjsCmBt3WTTPvWPQNdmWLnrbdzLS8F/XL/IMG_1717-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 571341
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-ffXQcGS/0/Mn27RRMffTd97fwgVWchtdxNMQ2WHx7RBjZWHwbLC/X2/IMG_1717-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 852076
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-ffXQcGS/0/KjPSrSKZkp45JPXD9FMcgXFs4WXBwPrQBwrJJSZQk/X3/IMG_1717-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-ffXQcGS/0/MbGpRg5SF5mjRfdVf8GWHZFrpXCmgd6xc6VvHMsSj/X4/IMG_1717-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-ffXQcGS/0/KmKzV9VwNN84vFMfVLBRNqTx2GhjTrMfNxwQPcLZQ/X5/IMG_1717-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-ffXQcGS/0/KP2QdVrLV36Bmp9cn9RQnmNGkRdWb6v26jDTs28vq/O/IMG_1717.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 3996102,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/ffXQcGS-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/ffXQcGS-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P5170198.jpg",
+      "Date": "2014-05-23T06:37:35+00:00",
+      "Uri": "/api/v2/album/2XfDZN/image/PMJnsdd-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-PMJnsdd/0/#size#/P5170198-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-PMJnsdd/0/M4FnjZVNR7TxgTXKKmFPQ6HdtZ8PQvKNJGmFcqpq4/Ti/P5170198-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-PMJnsdd/0/M4bJ7t77gRJRDj9pxpT9bKJzxQdxJjrQcG3BMMdFR/Th/P5170198-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-PMJnsdd/0/MdX8C3BWf8m2kNkRhvTRvZfTdr5TsXZT6DWsDq3rd/S/P5170198-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 47436
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-PMJnsdd/0/MFJk6kqG25ZrXVcjz3RKG6nVLpDCgF9cXKjFMTHwP/M/P5170198-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 98505
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-PMJnsdd/0/MsngrhJ4cpPWxFHcPtrBM9Mdv2qmqpqK2CnB98mvf/L/P5170198-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 169846
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-PMJnsdd/0/Ldvmf5HcJtCJWQssBQBq3LkPgtb7WZjdSsxmWthbN/XL/P5170198-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 512318
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-PMJnsdd/0/L2xX6Z86XBVRr47fgG5kWdqPFvs4v2pw9Z2QTFCdX/X2/P5170198-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 788264
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-PMJnsdd/0/MpQxMjhd6R2N3sHpqQ7bhn5vp52gf58T3bxnXpJhg/X3/P5170198-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-PMJnsdd/0/Mvb82LmPHQfMCs9KQVLHg9W7qjMQh9D2SNS33T2WF/X4/P5170198-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-PMJnsdd/0/KJfb3Sgr2DvhqVKhvp6Zb2S3GcTWr6MzFjWmvV4G5/X5/P5170198-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-PMJnsdd/0/KQJzz36mhdcwx7G3qqP79cpTGVQ6RgkqZDkDQsrjF/4K/P5170198-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-PMJnsdd/0/MsMd6psQdzCCsG4b7LkzLjrxQfWP75D2f6zFhD3dz/O/P5170198.jpg",
+          "Ext": "jpg",
+          "Height": 3456,
+          "Width": 4608,
+          "Size": 7891436,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/PMJnsdd-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/PMJnsdd-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P5170211.jpg",
+      "Date": "2014-05-23T06:39:12+00:00",
+      "Uri": "/api/v2/album/2XfDZN/image/5kRHGb2-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-5kRHGb2/0/#size#/P5170211-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-5kRHGb2/0/LpqrxNkTBFb4LS6MM8LQLMfMBdXFnMmWtXPswtWtq/Ti/P5170211-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-5kRHGb2/0/KdqzzsSnq8h5qnNhNG8tmvBmQQN5JWWs55kLGDSZX/Th/P5170211-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-5kRHGb2/0/LxSjPRcZP2LDZTPh2pbLK4crxMtKcr5QVCsbvbpzx/S/P5170211-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 74463
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-5kRHGb2/0/KdbZgCKLCVmL9bWcqptfd7HZrVbPwWTZxZd6HnB4z/M/P5170211-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 154050
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-5kRHGb2/0/LgJ4FNs4bbgV9GXMwxG99dZFdJW2sXKhRtHf8g3ZX/L/P5170211-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 256064
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-5kRHGb2/0/LR5k8Rmkj8VpCjq6z387mDdFncdVkR5tMvpPgkZkn/XL/P5170211-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 678968
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-5kRHGb2/0/KwJBGfXWVDh6L8rrtthmq56LRFkD4tdrDXN8Jqn2w/X2/P5170211-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 1010598
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-5kRHGb2/0/M37kVX8WrSjGKdsnbN7rj57CDFC8FjWPP5b6cnF7W/X3/P5170211-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-5kRHGb2/0/LBBTXdpqPCWxj7SRr8c6k37P52Cq98GKdsPNRDjcf/X4/P5170211-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-5kRHGb2/0/K7CnLJL3jrjCbbLB52Vd9MLpZXrJ4S8SWxZmbhPL3/X5/P5170211-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-5kRHGb2/0/Mzz3Cm5Bcw85rk453sZhVhRgcgJHB4N3GtRpnw6t2/4K/P5170211-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-5kRHGb2/0/KR3VhPrnFxzgwZmbNPvfcgpG84cZ3r2tdfBqfhSc8/O/P5170211.jpg",
+          "Ext": "jpg",
+          "Height": 3456,
+          "Width": 4608,
+          "Size": 8569921,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/5kRHGb2-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/5kRHGb2-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P5170218.jpg",
+      "Date": "2014-05-23T06:40:37+00:00",
+      "Uri": "/api/v2/album/2XfDZN/image/rqBJ9GD-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-rqBJ9GD/0/#size#/P5170218-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-rqBJ9GD/0/LgxqsWhBvp3BffCZgBxM4HjTW5QQgXp5jwZZ3ZdFg/Ti/P5170218-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-rqBJ9GD/0/NNQcjc3HbWttmXTGzGCpFz6FHxcVRHqHLGJDNxRnr/Th/P5170218-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-rqBJ9GD/0/Kq4WF6WDTT4bsrbB4BMQpDd7tDw5gdgmfqM5dFTxJ/S/P5170218-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 63933
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-rqBJ9GD/0/KMcVg5hXX7HWr6FHhsLTMGwL6MMXrXtp5SgsKHN4B/M/P5170218-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 125059
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-rqBJ9GD/0/KTCjqSzc7gbDCxHkrCzGSmLf26MgzcN3SSTvcP8Bx/L/P5170218-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 198844
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-rqBJ9GD/0/NNx689Hq7cFwWR6pZX7hdXZVcMHGhmHBt6jHxn926/XL/P5170218-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 528140
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-rqBJ9GD/0/NWQz83WmZk6Mp3gp6rpn6tBdhPgwhHzf6fc2ZT5XV/X2/P5170218-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 780063
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-rqBJ9GD/0/M4fzhjtrZ6GvW3rh43n9bNGHXN3hFdvJv9KkrvqpH/X3/P5170218-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-rqBJ9GD/0/MdBRNKZrCMvNdHt2WNBt535S5mG4Tx2KLPmD3rKrF/X4/P5170218-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-rqBJ9GD/0/NSpXKZ3Vt5XxhMztgJcbf4wSnqrqGXb2TWZkLdsZh/X5/P5170218-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-rqBJ9GD/0/Mg4Xnxh7BF5mLM5Qv3CwfNF87JTjx3ZkjsHnc8MWx/4K/P5170218-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-rqBJ9GD/0/KfGbXVsgWdQZq8PZ8xwvLZD5V8nk6S25KHhCqX2Mn/O/P5170218.jpg",
+          "Ext": "jpg",
+          "Height": 3456,
+          "Width": 4608,
+          "Size": 7554262,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/rqBJ9GD-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/rqBJ9GD-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P5180220.jpg",
+      "Date": "2014-05-23T06:42:32+00:00",
+      "Uri": "/api/v2/album/2XfDZN/image/BcqkLMK-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-BcqkLMK/0/#size#/P5180220-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-BcqkLMK/0/KSWdxQLtBJVcr56W8zjrdRNs7z4p5L7v7NdDdNKKK/Ti/P5180220-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-BcqkLMK/0/Mz83CDCBDtJ7VJ8Q6qKVZNXfHqB6LMrwMVDSBXkBp/Th/P5180220-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-BcqkLMK/0/NK9dvTjkPjZ5TdQv5bVcWzkfKF5dW9gTfjMSJgnWf/S/P5180220-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 86149
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-BcqkLMK/0/LP5xHLtGGMcpC56SSPm2gQrPGFJtn8vXpZ5LvJwm8/M/P5180220-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-BcqkLMK/0/K5Nm9HgMzT3J87RFcDKV6sF8PBCdLhHggTZHKTHKM/L/P5180220-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 310496
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-BcqkLMK/0/KVD8j97hQmCHTSCscDLmvpC9dQ6HrN555nDsTLqBH/XL/P5180220-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-BcqkLMK/0/NKDXJ7XSLrJrVh598zknrNR4rxP37x3JkHHwWNnvM/X2/P5180220-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 1264579
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-BcqkLMK/0/LHFPZ6fG8ndcFSmGgPKbpBHDCNqCpnzcBL4g5FwH8/X3/P5180220-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-BcqkLMK/0/MDnCnV24DrRSMx5BLpc6GZcQcpjvXPbnggQvzP97b/X4/P5180220-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-BcqkLMK/0/MT978Lx25R9Mbvc58p3Gr4MM3VRMBj8j5FFc3MqQm/X5/P5180220-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-BcqkLMK/0/LWj4scb5WvbvWsWFHJjNfCP62wvT7zt7DkZf72DsR/4K/P5180220-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2014-ChannelIslands/i-BcqkLMK/0/KqBMXdhtxPS5pdQvhdwZZdwsXkfWNX2w2b2WzPdK8/O/P5180220.jpg",
+          "Ext": "jpg",
+          "Height": 3456,
+          "Width": 4608,
+          "Size": 10238049,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/BcqkLMK-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/BcqkLMK-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    }
+  ]
+}

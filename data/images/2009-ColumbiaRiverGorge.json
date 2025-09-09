@@ -1,0 +1,117 @@
+{
+  "UrlName": "2009-ColumbiaRiverGorge",
+  "Name": "2009-Columbia River Gorge",
+  "Uri": "/api/v2/album/X7GsZJ",
+  "Date": "2009-09-05T02:25:52+00:00",
+  "WebUri": "https://lmblevins.smugmug.com/Travel/2009-ColumbiaRiverGorge",
+  "Images": [
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "portland 005.JPG",
+      "Date": "2009-09-05T02:40:42+00:00",
+      "Uri": "/api/v2/album/X7GsZJ/image/QbTsLXV-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2009-ColumbiaRiverGorge/i-QbTsLXV/0/#size#/portland%20005-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2009-ColumbiaRiverGorge/i-QbTsLXV/0/Mtb7SMfvVG6GfnDHNNNmbL78j9KdqMCmjJ4gNpxr4/Ti/portland%20005-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2009-ColumbiaRiverGorge/i-QbTsLXV/0/K2NmTmwXfV2NN4qNK8vX9V2BkfdDsjp2SQbZNHRLD/Th/portland%20005-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 20470
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2009-ColumbiaRiverGorge/i-QbTsLXV/0/Mnx3dgBNnXP2cH7bxVpq2hf8pT5XLCJskxJWmfJLk/S/portland%20005-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 87155
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2009-ColumbiaRiverGorge/i-QbTsLXV/0/K857HQhFmVpcLj8sMNGVsGdSbzTQTdh8dHrwtG2Jg/M/portland%20005-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 185514
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2009-ColumbiaRiverGorge/i-QbTsLXV/0/LZNHFqqnf2Zz8XDRtBbXPBpJMn823Jpv7k4H3Sv6W/L/portland%20005-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 303309
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2009-ColumbiaRiverGorge/i-QbTsLXV/0/NLKsfTBSSzdgW9ZMwD6g47d5R33gdTf96WbNsLhbZ/XL/portland%20005-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 474888
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2009-ColumbiaRiverGorge/i-QbTsLXV/0/MjHx3GJKTgH38WcNbm4MK7xTCdq97zL2Mx3LxJwVs/X2/portland%20005-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2009-ColumbiaRiverGorge/i-QbTsLXV/0/M49VNWm3tLg252xDgb9wJKHBFq4ptPHL5g7gnh2DT/X3/portland%20005-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2009-ColumbiaRiverGorge/i-QbTsLXV/0/KHCvgqwF7xfVTtw5mB8BfkcPbzJh8V8XwRT7VcZ2t/X4/portland%20005-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2009-ColumbiaRiverGorge/i-QbTsLXV/0/MXd2RQL6RBpCmkzw6bx9q3dn347qgpqjKTvQn9VQR/X5/portland%20005-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2009-ColumbiaRiverGorge/i-QbTsLXV/0/LHTN6FhLgwHwtHp4QhSZZBmWSqjVDhJQFZPnncKJN/O/portland%20005.jpg",
+          "Ext": "jpg",
+          "Height": 1944,
+          "Width": 2592,
+          "Size": 2382950,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/QbTsLXV-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/QbTsLXV-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    }
+  ]
+}

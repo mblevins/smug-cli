@@ -1,0 +1,1079 @@
+{
+  "UrlName": "2008-OldIndiaPhonePics",
+  "Name": "2008-Old India Phone Pics",
+  "Uri": "/api/v2/album/64TQhD",
+  "Date": "2024-11-20T17:10:13+00:00",
+  "WebUri": "https://lmblevins.smugmug.com/Travel/2008-OldIndiaPhonePics",
+  "Images": [
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "01-28-06_0406.jpg",
+      "Date": "2024-11-20T17:42:05+00:00",
+      "Uri": "/api/v2/album/64TQhD/image/SB2mB72-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-SB2mB72/0/#size#/01-28-06_0406-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-SB2mB72/0/M4Fp6Jxz4JrgJfJsZzWtFGfPzQCVXZdvN4Prv82K8/Ti/01-28-06_0406-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 4377,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-SB2mB72/0/LvNWsGx3rG773L7HL3XDjQvKLF9nT5bkv9r7RgJtb/Th/01-28-06_0406-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 7611,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-SB2mB72/0/KJhXRkDqjqD93DGwJSWRMRCDMVvr36XCRtjMJkwt3/S/01-28-06_0406-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 26619,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-SB2mB72/0/LRbF4x7c7ZVgxr9MwRkfHxLZCGV3r72LK83Jqm8wq/M/01-28-06_0406-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 47692,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-SB2mB72/0/LKHxtP4sz4GQzGT5wtj2xNH8wv6GbWZ4Sz6Gvq7Ws/O/01-28-06_0406.jpg",
+          "Ext": "jpg",
+          "Height": 480,
+          "Width": 640,
+          "Size": 31310,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/SB2mB72-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/SB2mB72-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "01-28-06_0408.jpg",
+      "Date": "2024-11-20T17:42:05+00:00",
+      "Uri": "/api/v2/album/64TQhD/image/8gzhJ4X-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-8gzhJ4X/0/#size#/01-28-06_0408-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-8gzhJ4X/0/LmPwp7xJXHBKrRQfXPFzL8BFGcxxhzcjcbP6MrVjH/Ti/01-28-06_0408-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 4629,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-8gzhJ4X/0/L5rmKZ59gvzQC4fVGj6NhTQNx2bvWnRZxJcq6wwT6/Th/01-28-06_0408-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 8077,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-8gzhJ4X/0/MrNkJ3vpTPXMdRp6QjZ5kBGvKDxkTX98PdwsRFxCQ/S/01-28-06_0408-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 26678,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-8gzhJ4X/0/NC6jXwRKd9jMGsVGsptBMDZgPHtmmWvFQbqHQzcPk/M/01-28-06_0408-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 47961,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-8gzhJ4X/0/LFWbfMtQKf9DLfWXVxmw7qzmZz3GPNRqMHFmXnWzt/O/01-28-06_0408.jpg",
+          "Ext": "jpg",
+          "Height": 480,
+          "Width": 640,
+          "Size": 30698,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/8gzhJ4X-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/8gzhJ4X-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "01-28-06_0458.jpg",
+      "Date": "2024-11-20T17:42:04+00:00",
+      "Uri": "/api/v2/album/64TQhD/image/Td7W52G-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-Td7W52G/0/#size#/01-28-06_0458-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-Td7W52G/0/MRkTMrdfTkgvsSWZqn3Zwzqp8x2Mn6rBnL9TDctbg/Ti/01-28-06_0458-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 4392,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-Td7W52G/0/Ld5dR4Vm8wCS6njXWrjHQ7brSk4GznLDG6tmG4vjs/Th/01-28-06_0458-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 8000,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-Td7W52G/0/K3kZnvXScG69WRgzpGwLdgXXNb9pwhnJwLS3vkhg2/S/01-28-06_0458-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 29428,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-Td7W52G/0/MCrNkz8xSwgfw3sdBwK9cSXn7KLBJ2RWNBGGFbtgC/M/01-28-06_0458-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 54014,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-Td7W52G/0/LgNZMmGWZsBdh85PCB4QKNx4wf7pTJcMrmcnTLj5b/O/01-28-06_0458.jpg",
+          "Ext": "jpg",
+          "Height": 480,
+          "Width": 640,
+          "Size": 34930,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Td7W52G-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Td7W52G-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "01-28-06_2329.0.jpg",
+      "Date": "2024-11-20T17:42:06+00:00",
+      "Uri": "/api/v2/album/64TQhD/image/qLMcxGz-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-qLMcxGz/0/#size#/01-28-06_2329.0-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-qLMcxGz/0/Mfnf8SNMwJnF7LgVx9QGg84XBWDFVD4NBQ7Ns2TWn/Ti/01-28-06_2329.0-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 2565,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-qLMcxGz/0/MVgtCDJcsh5X3LTxBZ3q2F49PV7VVdzxXhZ4pSgf5/Th/01-28-06_2329.0-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 4101,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-qLMcxGz/0/MNK4JDnB8zjg5W3NC537TLh4rsk82MBnWN7tHHTHj/S/01-28-06_2329.0-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 14003,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-qLMcxGz/0/NgCzZhjdvqxsrm7XKD5wSLtD8WFghTx2WzCLC48qL/M/01-28-06_2329.0-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 24913,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-qLMcxGz/0/MVr35TQRszJz23M8MZwbDDhvmLkS6W6q3xZrpWQJ3/O/01-28-06_2329.0.jpg",
+          "Ext": "jpg",
+          "Height": 480,
+          "Width": 640,
+          "Size": 15422,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/qLMcxGz-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/qLMcxGz-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "pic1.jpg",
+      "Date": "2024-11-20T17:42:04+00:00",
+      "Uri": "/api/v2/album/64TQhD/image/RwCw5wL-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-RwCw5wL/0/#size#/pic1-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-RwCw5wL/0/L2DPZZsWCB6sK4RjDb6tMCQ9T7pc2xKzVX83Pph37/Ti/pic1-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 7546,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-RwCw5wL/0/LdQkvNjtxtS35TpH9Qq39VFZm8dNbj3LD82mZQ8wX/Th/pic1-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 13740,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-RwCw5wL/0/LzdK5RJJMRw2xgqSHP37KqDBJGGzwQPBsJ5VS9X7W/O/pic1.jpg",
+          "Ext": "jpg",
+          "Height": 228,
+          "Width": 304,
+          "Size": 17346,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/RwCw5wL-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/RwCw5wL-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "pic10.jpg",
+      "Date": "2024-11-20T17:42:06+00:00",
+      "Uri": "/api/v2/album/64TQhD/image/8RXpjCG-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-8RXpjCG/0/#size#/pic10-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-8RXpjCG/0/LLwSCBJTDcRn9MCb2HbbCZHgqzFvkXvtCPqpgsFT6/Ti/pic10-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-8RXpjCG/0/LtDGQNqW9QfwhNGXNpNS2gVpZsmw5Hv67MqHGXcHv/Th/pic10-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 6817,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-8RXpjCG/0/K2sBxQ29Fd7PwcsVKXW43MtbdP8hkXK4jX5VZ8Q9M/S/pic10-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 23393,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-8RXpjCG/0/MVHDCc63Mv7c65fXkzLSFbJSqq9k5JHVG6h4zZ37j/M/pic10-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 41629,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-8RXpjCG/0/MZshXtP3Cw6j39X7wMCdjjQ554NrmkBBmGzvP3bZT/O/pic10.jpg",
+          "Ext": "jpg",
+          "Height": 480,
+          "Width": 640,
+          "Size": 27438,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/8RXpjCG-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/8RXpjCG-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "pic11.jpg",
+      "Date": "2024-11-20T17:42:06+00:00",
+      "Uri": "/api/v2/album/64TQhD/image/k5mgRj7-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-k5mgRj7/0/#size#/pic11-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-k5mgRj7/0/NZwHt9mLrn8Q27f3t2s5F5m27rD7QTW875vJ5P5K8/Ti/pic11-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-k5mgRj7/0/LXv5Ch5ppVPMbNJxLbD7Qp9WZ3v5gLMHsF8XMQsqn/Th/pic11-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 6813,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-k5mgRj7/0/K99BzrJcmKfFMwCPCtMfhXTtF8hJz9grGV6rHjkhw/S/pic11-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 23393,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-k5mgRj7/0/LbtqH98mfrFDHqqDnhNhC7fNjLwpczLx2zvbSjstn/M/pic11-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 41627,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-k5mgRj7/0/MjXp9rhpjdhjfKX97pwcR6xhtgZFhJQszHwfW33P7/O/pic11.jpg",
+          "Ext": "jpg",
+          "Height": 480,
+          "Width": 640,
+          "Size": 27438,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/k5mgRj7-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/k5mgRj7-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "pic2.jpg",
+      "Date": "2024-11-20T17:42:03+00:00",
+      "Uri": "/api/v2/album/64TQhD/image/h3cpSzP-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-h3cpSzP/0/#size#/pic2-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-h3cpSzP/0/MLj4Qdjx3mpcxtNPDL9n6497RJwpg5qN27H2nX2Nr/Ti/pic2-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 6048,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-h3cpSzP/0/L5Rkkrpwr7hBwk9XfQZ4dN9VHD3RZv8LcDjHBkmgF/Th/pic2-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 10571,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-h3cpSzP/0/KDjZDWVZSkpxLDKnLBH9WWztmMhFvRBjqnfzdPrjZ/O/pic2.jpg",
+          "Ext": "jpg",
+          "Height": 228,
+          "Width": 304,
+          "Size": 11981,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/h3cpSzP-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/h3cpSzP-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "pic3.jpg",
+      "Date": "2024-11-20T17:42:04+00:00",
+      "Uri": "/api/v2/album/64TQhD/image/qJQHMBb-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-qJQHMBb/0/#size#/pic3-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-qJQHMBb/0/MPH8DrGpW6H2rtg8LC5ZXpswcT6JhWnTmxkzBq99f/Ti/pic3-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 4438,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-qJQHMBb/0/LpFzTLjhZLbgz9vgnBLVZk7LxhKbxRRmkPkSxr92N/Th/pic3-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 8300,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-qJQHMBb/0/KN9wzLc6jxV7TBtcsFqtcmJXkwx2grNTrSmGk5G39/S/pic3-S.jpg",
+          "Ext": "jpg",
+          "Height": 266,
+          "Width": 399,
+          "Size": 32728,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-qJQHMBb/0/MxJw4nbPtKxcpsTX9DgS6QMFMqw9CrsdNxDH9HBTT/M/pic3-M.jpg",
+          "Ext": "jpg",
+          "Height": 400,
+          "Width": 600,
+          "Size": 68114,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-qJQHMBb/0/Mj5VhbDKPNrzQpPMNpDWqfDGFSdxB64SWWQzhk4KP/L/pic3-L.jpg",
+          "Ext": "jpg",
+          "Height": 533,
+          "Width": 800,
+          "Size": 112862,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-qJQHMBb/0/KTD34HmtCCCv93SJKjbstZCgQpTjHJ8FXsLRFFLxx/XL/pic3-XL.jpg",
+          "Ext": "jpg",
+          "Height": 682,
+          "Width": 1024,
+          "Size": 137724,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-qJQHMBb/0/NKPMN9kGv4W7zfjRhTHTB24pXHT62rkwW2FDDwRjH/O/pic3.jpg",
+          "Ext": "jpg",
+          "Height": 682,
+          "Width": 1024,
+          "Size": 137626,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/qJQHMBb-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/qJQHMBb-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "pic4.jpg",
+      "Date": "2024-11-20T17:42:02+00:00",
+      "Uri": "/api/v2/album/64TQhD/image/GGtwJQ9-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-GGtwJQ9/0/#size#/pic4-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-GGtwJQ9/0/MH5nBV4Tpbdtwpb9NPJZmhBMTgmTFLPCpjCK9pKqt/Ti/pic4-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 5092,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-GGtwJQ9/0/KjhSXm3w4kzfNv6qL9V2sqgwvGsh3t5jchDv4m7pV/Th/pic4-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 9176,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-GGtwJQ9/0/KDP3jQzjbTbszzLcrrPCjCzKMCbPKhxfmrWcsDK3k/S/pic4-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 35993,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-GGtwJQ9/0/NH7N8bbZ48LFqnzmKpZrcMFtqkxsJJWjvXktndnFk/M/pic4-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 69589,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-GGtwJQ9/0/KgLK6wSNjFBF3cfkbCsZbttjKGhVtbhptCZgVcbmc/L/pic4-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 108872,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-GGtwJQ9/0/L4fWcXgS5Zk2VQrxq3hFvFJg67WSbx8WBF7Z4KGgz/XL/pic4-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 130152,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-GGtwJQ9/0/MGkm9ZtnSdj6P6MqdPhpcWbVzgt2JvC8h4w2dDGPg/O/pic4.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 130056,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/GGtwJQ9-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/GGtwJQ9-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "pic5.jpg",
+      "Date": "2024-11-20T17:42:02+00:00",
+      "Uri": "/api/v2/album/64TQhD/image/VJFmht3-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-VJFmht3/0/#size#/pic5-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-VJFmht3/0/LppNpdcc6x2hkXLShFzMDhtdMKWbF5kPhj4PCVmgB/Ti/pic5-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 5646,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-VJFmht3/0/LfpXBvm4rb7V8dWSDz3SXnqHGLQ4MQSGmzMLKZ7bC/Th/pic5-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 10525,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-VJFmht3/0/NLcwFdGb98DdjLx7SLGvKh6rsrVxr375BCHqnmrLh/S/pic5-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 39406,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-VJFmht3/0/LMVP8DKPCjNwrpWjF88Q3fZLvNvMPbww7GXRjSP4f/M/pic5-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 78121,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-VJFmht3/0/Nb4Qq2XWZzqJrjdL8TV3TQj6qbGjfZvPCMMTd339G/L/pic5-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 125668,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-VJFmht3/0/MDf4dqM7zRRWL8Tht27rtBHpSGfSFhdBBS5mCtmGD/XL/pic5-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 156314,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-VJFmht3/0/LLz34z8D8QG9CmLSsgs2PbwPX4xVr4M3pjsxZjhJD/O/pic5.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 156222,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/VJFmht3-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/VJFmht3-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "pic6.jpg",
+      "Date": "2024-11-20T17:42:02+00:00",
+      "Uri": "/api/v2/album/64TQhD/image/PWFfSVD-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-PWFfSVD/0/#size#/pic6-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-PWFfSVD/0/MJqR4fRgtQ4fJkp2JJBTTvpGgmWJWKMhS5cdW23Tv/Ti/pic6-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 4601,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-PWFfSVD/0/LrmpSg3zJzZg8QmxsffGQScCbhD6q8m9KsmGMGWVC/Th/pic6-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 8671,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-PWFfSVD/0/KSJ78XHwFgvtw2cFDv76xQjwqsVv8fxFzR3X2h2rj/S/pic6-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 34909,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-PWFfSVD/0/Mmq8JwbhWd9hJkq9TDv7jHVQHq8GQSsHpCX3Lq9F9/M/pic6-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 71823,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-PWFfSVD/0/KpF5TmDcf8x4QBt2JKQbtspVW7DqfTJJj5695QmZH/L/pic6-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 120399,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-PWFfSVD/0/KQvGMMCM7wnsmKdHNGv7mS2DPgnS6RqB5FsKwt2DQ/XL/pic6-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 154764,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-PWFfSVD/0/LCCCzKzhgMJzRCMTgmKRFtdWqWmg65gLk5cfcTgSN/O/pic6.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 154668,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/PWFfSVD-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/PWFfSVD-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "pic7.jpg",
+      "Date": "2024-11-20T17:42:07+00:00",
+      "Uri": "/api/v2/album/64TQhD/image/fJp8fTd-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-fJp8fTd/0/#size#/pic7-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-fJp8fTd/0/KJ7mRZR9TDsZGNwVJCmgqLmgB7rCnDfbzK2NzMsvJ/Ti/pic7-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 9353,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-fJp8fTd/0/NNzG6zQvW3ZtsS7QxWNzxJmzwfj2DLPM5DsS7jGjB/Th/pic7-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 18149,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-fJp8fTd/0/MtGrLgHBrBp4Jc7bwmJ5LNc6KhFjtrCDmQddG4rF5/S/pic7-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 43414,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-fJp8fTd/0/MG8cvpDsdbPTNQvVc2dVN4gPKvP57cZFfs3fFXHZL/M/pic7-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 81303,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-fJp8fTd/0/MthzR6vZLzfF84s4g4rDnKSHtMzCQQgVsCgbWf5pB/O/pic7.jpg",
+          "Ext": "jpg",
+          "Height": 480,
+          "Width": 640,
+          "Size": 51574,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/fJp8fTd-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/fJp8fTd-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "pic8.jpg",
+      "Date": "2024-11-20T17:42:07+00:00",
+      "Uri": "/api/v2/album/64TQhD/image/9zvD9Df-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-9zvD9Df/0/#size#/pic8-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-9zvD9Df/0/KhGBRGLwM7LVHc8wGzhz4TpZXpv2WfjkqSMG4WCcp/Ti/pic8-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 3763,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-9zvD9Df/0/Kc2p9KppmP7x6fTdxSCCvVVXVgDBHSZ38tkPRwJ6g/Th/pic8-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 6546,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-9zvD9Df/0/Mx24nFNmgdCJ5pMW3j3qNN8QntS22x8XZX73FrtCm/S/pic8-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 22947,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-9zvD9Df/0/LSWt4cKn2XTR4wmXcJCVdhFqvmb6D6R3Sb6nGD6pm/M/pic8-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 41424,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-9zvD9Df/0/NGsG2CXZm2DGDLWCGv9B7LsjP7vr4djtRjJDcdw68/O/pic8.jpg",
+          "Ext": "jpg",
+          "Height": 480,
+          "Width": 640,
+          "Size": 25370,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/9zvD9Df-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/9zvD9Df-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "pic9.jpg",
+      "Date": "2024-11-20T17:42:07+00:00",
+      "Uri": "/api/v2/album/64TQhD/image/pfpmLs7-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-pfpmLs7/0/#size#/pic9-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-pfpmLs7/0/NCVz4srNmZdB6TDRr4vtx9jQ547G26TNtgdDnhcX9/Ti/pic9-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 2558,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-pfpmLs7/0/KHvm73WnCcNr39knj5xWfJ5RpCLMn9Z3kj3rQDQmp/Th/pic9-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 4478,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-pfpmLs7/0/KfXdcQvKQ5mLFPMdXnGH8bj6TLH7q3RrK25FvwKgN/S/pic9-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 16451,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-pfpmLs7/0/L7KBNCHCngDsWt73CKmxRsgMTQ4K8XhSZ7kvjbd54/M/pic9-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 29099,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2008-OldIndiaPhonePics/i-pfpmLs7/0/LcL4qzpqQj2fSF3ZVcf936TF2TMCPhHJzq3hhSpnK/O/pic9.jpg",
+          "Ext": "jpg",
+          "Height": 480,
+          "Width": 640,
+          "Size": 17886,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/pfpmLs7-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/pfpmLs7-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    }
+  ]
+}

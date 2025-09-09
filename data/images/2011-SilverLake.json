@@ -1,0 +1,547 @@
+{
+  "UrlName": "2011-SilverLake",
+  "Name": "2011-Silver Lake",
+  "Uri": "/api/v2/album/Kk2wL4",
+  "Date": "2011-07-10T22:30:06+00:00",
+  "WebUri": "https://lmblevins.smugmug.com/Travel/2011-SilverLake",
+  "Images": [
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_0853",
+      "Date": "2011-07-10T22:31:02+00:00",
+      "Uri": "/api/v2/album/Kk2wL4/image/N88qzqP-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2011-SilverLake/i-N88qzqP/0/#size#/IMG_0853-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-N88qzqP/0/NgPrN6crnJkFMTFsHfnzJh7xw5M8KjFfGZL7gNb8c/Ti/IMG_0853-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-N88qzqP/0/KvxgzDFSn8b4bkMNFXDRM7D9HVHXLnZk6ZQFLndMz/Th/IMG_0853-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 13570
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-N88qzqP/0/LH42zzV9jjFxSvP2bjG3C9krcBgkFcWT7vfLJCccd/S/IMG_0853-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 50312
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-N88qzqP/0/NRs97qShbCSLKtb3qFGkhgM3zCsPDd7BdDwkjCXDJ/M/IMG_0853-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 104697
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-N88qzqP/0/LzfZWvqpqqDhPF4Dr5NrgVgNJvxjMrm6ZQ5bgccwc/L/IMG_0853-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 172611
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-N88qzqP/0/MQpM4DtqzzcxdK284KfDD6FXw8GtnW328m9j7Pr2q/XL/IMG_0853-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 273038
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-N88qzqP/0/KQng2QWF3KnHt6Q9LGqvpfpPKpTMdrdG9Z4933hr2/X2/IMG_0853-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 414024
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-N88qzqP/0/KQFNSGtLrzkq4Jf3Z88jCHKR9XnG4Cwp4dgcr689j/X3/IMG_0853-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-N88qzqP/0/Mj4QjRgSq3GLq6jRtrvwnc3mWRcccnDbM6KBvjdLL/X4/IMG_0853-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-N88qzqP/0/NXc2wDDhn9tFbZ5knvLMNdmvf2WG4hzWRN6k66Zjk/X5/IMG_0853-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-N88qzqP/0/LwcRzVFKqMwQSfW49sHp53D9BSQpPchpjNsxDvg97/O/IMG_0853.jpg",
+          "Ext": "jpg",
+          "Height": 2112,
+          "Width": 2816,
+          "Size": 1910420,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/N88qzqP-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/N88qzqP-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_0826",
+      "Date": "2011-07-10T22:31:37+00:00",
+      "Uri": "/api/v2/album/Kk2wL4/image/DMvMSnW-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2011-SilverLake/i-DMvMSnW/0/#size#/IMG_0826-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-DMvMSnW/0/KGQ9zMftP5K83MsJxx4BHjTPwvn5LsPqh47gjx7tr/Ti/IMG_0826-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-DMvMSnW/0/NW3TqHZvQn9x3sLFF7SVgQJvCrSzRhPsLFG4qDkZZ/Th/IMG_0826-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-DMvMSnW/0/KzHNtHnHn6tjmnQDJz53NFc5fcg4cSCFL4JZD9d38/S/IMG_0826-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 53032
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-DMvMSnW/0/Kkp2jJN2sfgbdHw58RhBNbn5VHdKdg6BQfgcCFD29/M/IMG_0826-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 109752
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-DMvMSnW/0/Ljzqr6XdkWzr2tfLRgP9Zv7ng9xFCB3sJKtVKzs22/L/IMG_0826-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 181016
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-DMvMSnW/0/NGbRnkGbWNXRxws7psPDg7ZRSKXmjxfvzq5R96nTC/XL/IMG_0826-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-DMvMSnW/0/Lr8pp5m3td8XtfgCDDS2kKDzWctZcMNt3KrmHsdKf/X2/IMG_0826-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 437437
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-DMvMSnW/0/MzWCkPhGjZtbn7RX4S6xvjF6KFHz7sKp856r9g5kW/X3/IMG_0826-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-DMvMSnW/0/MgtRh7Cn8jVMJcQmH9G9DfVDBGMBp468NM3FNWWbs/X4/IMG_0826-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-DMvMSnW/0/NPDxDR38SMrMwZmv39K8rhrpn9gWrjMn48j37DnTQ/X5/IMG_0826-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-DMvMSnW/0/KhKLqvsbXzr299q3wFPQfSVqRN5k799MHQBkmRJ2V/O/IMG_0826.jpg",
+          "Ext": "jpg",
+          "Height": 2112,
+          "Width": 2816,
+          "Size": 2075587,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/DMvMSnW-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/DMvMSnW-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_0842",
+      "Date": "2011-07-10T22:32:18+00:00",
+      "Uri": "/api/v2/album/Kk2wL4/image/kZBWqHC-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2011-SilverLake/i-kZBWqHC/0/#size#/IMG_0842-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-kZBWqHC/0/LpZxtxhHwch9XnbdW5Rzdb2gmqS6m7668gM42qJ6L/Ti/IMG_0842-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-kZBWqHC/0/NjfWq47j64tkvD3t2k4dVfcWxq8dzTDHscq4bJS6B/Th/IMG_0842-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-kZBWqHC/0/Kr3DBZq4xGtfSSKRtxCGcJTSknzswKHd6kgSbNGxj/S/IMG_0842-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 75134
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-kZBWqHC/0/LLL7zcdWzrwTHDqMMc5PFJ9ZHt2zDmrMM2z9k69MK/M/IMG_0842-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 157963
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-kZBWqHC/0/LMMdxZtss9JNBwLBm9pm7bKZ69JGRns7RXV38chWn/L/IMG_0842-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 258022
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-kZBWqHC/0/K2W9hwSHZwq56QfqvHwpMFrDMr3rF6Cj2dtQqB6cN/XL/IMG_0842-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-kZBWqHC/0/LFmv5n5mjjvK9sKP38cHFzsmR8mf8r7hTh9kbS6t3/X2/IMG_0842-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 601121
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-kZBWqHC/0/LLjDnk3Hp6zSh6xXHpbPgkDKZZz62DzQ3qzNpxG5H/X3/IMG_0842-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-kZBWqHC/0/LZXKpSLHrZRScJkSvN7284w2ZbtkWVjMJp6MDFv8m/X4/IMG_0842-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-kZBWqHC/0/NBQ8jpBjDdfNvJb826WRCnsPLqLdkr5h4SCSrn3FP/X5/IMG_0842-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-kZBWqHC/0/K4V7jrZBKXLRjPgqBDjbcm93Dvb7xHwP95hpj2J5T/O/IMG_0842.jpg",
+          "Ext": "jpg",
+          "Height": 2112,
+          "Width": 2816,
+          "Size": 2643125,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/kZBWqHC-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/kZBWqHC-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_0845",
+      "Date": "2011-07-10T22:32:53+00:00",
+      "Uri": "/api/v2/album/Kk2wL4/image/3m2HG94-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2011-SilverLake/i-3m2HG94/0/#size#/IMG_0845-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-3m2HG94/0/MtHtJhGGn5v3Pwm4BDKQS22Jn4qhxZ6twVz4Hvb44/Ti/IMG_0845-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-3m2HG94/0/NTm9c9st5xBgDZfZWRSp86HxJZ92ThwDtfcGcgc3p/Th/IMG_0845-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-3m2HG94/0/Kq5FWmcbvh3FHmG2vMbbGpfNbKqrDnkFxTBtqXLW4/S/IMG_0845-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 58512
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-3m2HG94/0/LHJDSjQJQLTXHPv54LWkVMQjXPtGtV2Rqf3XGf57P/M/IMG_0845-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 123723
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-3m2HG94/0/LcLqkn3rjrvpBcqnMXBqQXxmtF9PZ5bGkzHXNdBHN/L/IMG_0845-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 203249
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-3m2HG94/0/K9S9CtBtSWsKbLg4VMMpKQGz6rrPNPn72cCwqfQjm/XL/IMG_0845-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-3m2HG94/0/MzcFtqcjWMH6QrfDxzqDRWq38wJxTZFMR5vRD4KP3/X2/IMG_0845-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 487895
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-3m2HG94/0/NPqQrL4nwpm8PG4bBNsTJV2cpX6kwDTXvWgJCMzCw/X3/IMG_0845-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-3m2HG94/0/MCMGsxZcBz2zWVN2PJhDCk8r3mgCFcjWgHg9pST44/X4/IMG_0845-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-3m2HG94/0/KNtrk7jdP9q7QwnK54tL8hXbMJr8NrvcN23jGqbvC/X5/IMG_0845-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-3m2HG94/0/MKdn5cvzh6hRQDdWhW3mXFPh2459LL5rzssghjFz8/O/IMG_0845.jpg",
+          "Ext": "jpg",
+          "Height": 2112,
+          "Width": 2816,
+          "Size": 2238012,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/3m2HG94-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/3m2HG94-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_0852",
+      "Date": "2011-07-10T22:33:28+00:00",
+      "Uri": "/api/v2/album/Kk2wL4/image/VB7pVRC-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2011-SilverLake/i-VB7pVRC/0/#size#/IMG_0852-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-VB7pVRC/0/LcQ4ZT475BTxSwDSV3BCx5KZ3ttdjLC2SNKPWMNGz/Ti/IMG_0852-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-VB7pVRC/0/MN2N2NdBQhq7XbB8tm57MvJsLNn66GBqRCJxhNNsJ/Th/IMG_0852-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-VB7pVRC/0/LtjKNTLG5VwrJnPZn56TSGTGHnpgVcSMfgpMbsM54/S/IMG_0852-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 55906
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-VB7pVRC/0/NRZNsVdsF6qv3VJWStMmKpwMPFXJqJBbwpc2cnSXC/M/IMG_0852-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 117242
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-VB7pVRC/0/MtCBw8rQ5HhN8QZgVcGFVgQ4n9M8L3VZMvMsrZd3x/L/IMG_0852-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 190858
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-VB7pVRC/0/KJDR6PRTBLDk9TrXLQK22pBKkBV3RH3WcbQvrzKxv/XL/IMG_0852-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 309517
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-VB7pVRC/0/MTW8JKB9mHssqbH7MKDGQpDSXFL4BDQJ2rpjkPFf2/X2/IMG_0852-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 453481
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-VB7pVRC/0/KQt5vrrxjw69cHV2xmdNjZB8sShCStkjRxnJDgtRx/X3/IMG_0852-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-VB7pVRC/0/NK5T6VxvN4nncqqmR3gcG8Gh54XL9MbhfkgLpQm56/X4/IMG_0852-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-VB7pVRC/0/LwPPnmgjVK6vJ5KNHXRwgb8B78xv2R8sH3x97z6Zt/X5/IMG_0852-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2011-SilverLake/i-VB7pVRC/0/LSvvxVMSB8g5PS99vpTXXtGsjCGWvjGB2VqztsqCt/O/IMG_0852.jpg",
+          "Ext": "jpg",
+          "Height": 2112,
+          "Width": 2816,
+          "Size": 2139950,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/VB7pVRC-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/VB7pVRC-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    }
+  ]
+}

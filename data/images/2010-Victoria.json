@@ -1,0 +1,2913 @@
+{
+  "UrlName": "2010-Victoria",
+  "Name": "2010-Victoria",
+  "Uri": "/api/v2/album/4WKWZT",
+  "Date": "2010-08-16T03:37:44+00:00",
+  "WebUri": "https://lmblevins.smugmug.com/Travel/2010-Victoria",
+  "Images": [
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "015.JPG",
+      "Date": "2010-08-16T03:38:58+00:00",
+      "Uri": "/api/v2/album/4WKWZT/image/MLcNXM4-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-Victoria/i-MLcNXM4/0/#size#/015-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-MLcNXM4/0/Mb6tpv8CgV3BPrW9sKCftMsz8jC3wJzX6s56DDNSL/Ti/015-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 75,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-MLcNXM4/0/Kb9PxQz7TcH3cCSJVF4J5vwXtBXbqrPfdbwxxjfkR/Th/015-Th.jpg",
+          "Ext": "jpg",
+          "Height": 113,
+          "Width": 150,
+          "Size": 15497
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-MLcNXM4/0/LHFm7VZVgFX7xrMsTcTbWJq29nSkGccd2N7QN3J9c/S/015-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 69496
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-MLcNXM4/0/McRfK9xh52TCXtbdb8J2R8X7ZtTj3bsQ5nHSkxSWg/M/015-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 140158
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-MLcNXM4/0/NZ2MjLkffvrXZ98mwdJ6BTxXnvX7pbVQmv6WGKFdS/L/015-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 220429
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-MLcNXM4/0/MkfKM7HsgZRDWgQWVFgpQb7s8MCDdsW4SF58BLSpz/XL/015-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 334362
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-MLcNXM4/0/MJ2sTMFkbptKpHGhMqLLgMvXHd77Dnt4k3ZdPvLmZ/X2/015-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 728281
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-MLcNXM4/0/LnCvkvCRJXkbSGGVStRrBcHRh9JsTV7JZsH9HSVhK/X3/015-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-MLcNXM4/0/Kr2GPRZRrtZwRKn9v3P7cchq8NTKg6vppjdR6Z5Qx/X4/015-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-MLcNXM4/0/MFdwgvNvHwHtTLL9SvVBGTNrsDqmXv73tx3scF6cn/X5/015-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-MLcNXM4/0/L9fF5jGM48JWVvDt26B6DF4Vs4btVzsjsXdH9JmgC/O/015.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 4617759,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/MLcNXM4-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/MLcNXM4-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "028.JPG",
+      "Date": "2010-08-16T03:41:03+00:00",
+      "Uri": "/api/v2/album/4WKWZT/image/cHpmK5P-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-Victoria/i-cHpmK5P/0/#size#/028-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-cHpmK5P/0/MpG25h3v2m3HcJVSrVkgM2P3CH2njPHSqL86P9rpw/Ti/028-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 75,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-cHpmK5P/0/Nf2cDcKBzs6rg7dxcGx3GTdbJzNc39N7RXktRQvMW/Th/028-Th.jpg",
+          "Ext": "jpg",
+          "Height": 113,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-cHpmK5P/0/MLH7ds9k4MFjLdj3xPQG4Xwj2q4Lk6hLgG2gQxhxg/S/028-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 82409
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-cHpmK5P/0/MJ3ngpzZTzCsLjmGBHzk3bDTbHd5rDXW7bqq2JpKW/M/028-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 177287
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-cHpmK5P/0/NXrG3hng4DvjKwBTnfX3VsvVSSJv6fzxSmMPrQBHj/L/028-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 352873
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-cHpmK5P/0/LjjqX6MhDPGj4JXjk48Dnbf8SpHVdQxjQ6BdWPvvp/XL/028-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 748900
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-cHpmK5P/0/KVKPQ6cSbVg9xwk79cjfhQMpfxhbn9XWK4GSkxsd8/X2/028-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 1126295
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-cHpmK5P/0/KRmgvXdW6LPCCwtxtHvmHWc7GxMsGNQRMBxKnWq5q/X3/028-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-cHpmK5P/0/KvxLhcJMc2b4g55tNjVcjJh2gMqkfNmmMXF6QbfTt/X4/028-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-cHpmK5P/0/NQJq9N7KKSpMXRMRCMjdN3BR2Q5fbLx3vnK9K9MBD/X5/028-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-cHpmK5P/0/Mh9Xk7KGckXzD8nnRsBKPFkhH9856Cp8BCf8B4bVp/O/028.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 7817179,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/cHpmK5P-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/cHpmK5P-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "031.JPG",
+      "Date": "2010-08-16T03:42:47+00:00",
+      "Uri": "/api/v2/album/4WKWZT/image/76nRphH-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-Victoria/i-76nRphH/0/#size#/031-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-76nRphH/0/K8HTDQCThsJrntLjNvHG2PHBB7P3hrXk7JGP7jccd/Ti/031-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 75,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-76nRphH/0/KqFhjM97rZ5f76JcMBBTqgngM7ctM3959fxTv9nZP/Th/031-Th.jpg",
+          "Ext": "jpg",
+          "Height": 113,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-76nRphH/0/MBK5jKdwZh8XS34HNPMLvfT67pkvp6TjSjT5tMxKh/S/031-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 70660
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-76nRphH/0/MbxztK53K9QS9KK8TXCfPj5n8vdrkNcqMhgvVnwhH/M/031-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 128217
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-76nRphH/0/MZvpPgfc6pm6DRCczBRGC8sGZnthbpG2WtBZcW2Cp/L/031-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 213352
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-76nRphH/0/KZVG3zg89GkG7ZWhGxBS5TzQmJWTLFjVfTR5kRDmt/XL/031-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-76nRphH/0/MBRjtTjmT2vB6H8p5BkV2zmwcgV3vcTR2mpknqDdc/X2/031-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 739468
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-76nRphH/0/LNb62Mfmb4xb9mxMrHTrGVsn8zDth4nFGsS8d49Sw/X3/031-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-76nRphH/0/LPC5rDQFc9bP3tVRrsDfr6CBPzVw9CjCVb8WWtFqc/X4/031-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-76nRphH/0/MbxJCNFV9fFwCstQ4hfwGdK7k2fCdCsh3LRCfQrX6/X5/031-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-76nRphH/0/NCKDJLG4zxcdwWNJg43cS4jz9zGvJXMh4HNxX2qgb/O/031.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 5708564,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/76nRphH-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/76nRphH-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "032.JPG",
+      "Date": "2010-08-16T03:44:17+00:00",
+      "Uri": "/api/v2/album/4WKWZT/image/9Kz42jx-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-Victoria/i-9Kz42jx/0/#size#/032-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-9Kz42jx/0/K7nCpRtZsCRgMF6ZN3v64knBPvCCSVcGsrFdtL5DG/Ti/032-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 75,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-9Kz42jx/0/MmSFbmLbCkKGPLVpXPst5W8QQtrwJWDm9CznGJRf8/Th/032-Th.jpg",
+          "Ext": "jpg",
+          "Height": 113,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-9Kz42jx/0/KZ2KDLWJFchhZBWPwpLJLVVdRkdGzJFw2K67pQXCr/S/032-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 48296
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-9Kz42jx/0/L6hcd7MLfZFbGkgGZjX3Qfhw9NVbjSpPGnW8q7ZRQ/M/032-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 94365
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-9Kz42jx/0/MMLCM3vxWLkh3mx8dvPwbj28FsTFmNck9c5vg27jC/L/032-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 153743
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-9Kz42jx/0/MWdqzjW9LpT6dZwdj8nNtTfnWF38VVRc9X7kz54xT/XL/032-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 399669
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-9Kz42jx/0/LtW3s346LcDSz6J4XNqDjkwJnqLK4H6wNWdC6pdF3/X2/032-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 597191
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-9Kz42jx/0/K2SCHzzqXtxXScKPtFKgRGPLKkSX4kC2H8244RBX2/X3/032-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-9Kz42jx/0/LrHttWJnjf5nwcq7qPw6ZXmmcv3bR2gFbbrLc3bcr/X4/032-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-9Kz42jx/0/MgZjPnxzNtFFxgzCKg7rQdkcxJwM2Vp6qJWNHjQXc/X5/032-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-9Kz42jx/0/LZsQ2WThnLd48pcCtTt2jf8xvwzRrZkSDjDvd2jsr/O/032.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 4859795,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/9Kz42jx-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/9Kz42jx-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "034.JPG",
+      "Date": "2010-08-16T03:45:28+00:00",
+      "Uri": "/api/v2/album/4WKWZT/image/qBKpVxb-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-Victoria/i-qBKpVxb/0/#size#/034-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-qBKpVxb/0/KSFStpgwQQ6qwNSkh32JX4h7LjtCn5QM7Rfpxqmdc/Ti/034-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 75,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-qBKpVxb/0/L4rRDXTVB5kck43WhH78FnDNQ44FZRR9S5TLJ7g5w/Th/034-Th.jpg",
+          "Ext": "jpg",
+          "Height": 113,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-qBKpVxb/0/MgTzLmhSW54r73wMDC5z78nVptFm4MNfcLbLx4VXW/S/034-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 42299
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-qBKpVxb/0/KtQtMTBQgVrT3QR8S6PXsKW3C3Z2BRd2C69GCKZf5/M/034-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 83598
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-qBKpVxb/0/KKzWJVvQHdZBfvK3KbDXvQkrpZr66gJ7GJjT7mMqL/L/034-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 150685
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-qBKpVxb/0/KMJcdN952kFtpkD7DK9rwTSZsJ8k5ZJ6hk3XxWRDb/XL/034-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 356043
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-qBKpVxb/0/NQMndP8nGdLb6bkcPFvczTPWX2c2F5JGTsJKKd9XG/X2/034-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 534077
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-qBKpVxb/0/KffP8Tm32HjvcCJ4S8xTsrn6h7HtrHfGXw4B5Td4g/X3/034-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-qBKpVxb/0/Mdxw4PmqJ6BVRVCHNHN6tzZt5bvMSzXNCdNTHM2LG/X4/034-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-qBKpVxb/0/MtPcMMmD3Ngg7mwmVnh6f8zX3C5p4L4Lg9SkNKwRh/X5/034-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-qBKpVxb/0/L4tpFvGxsSbdsrQh7ng3Fv879nzsqXPFvgFGKghqf/O/034.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 4237365,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/qBKpVxb-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/qBKpVxb-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "035.JPG",
+      "Date": "2010-08-16T03:46:42+00:00",
+      "Uri": "/api/v2/album/4WKWZT/image/xr3SwF6-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-Victoria/i-xr3SwF6/0/#size#/035-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-xr3SwF6/0/MCjQDL7MCnh4tF5rqHr4xqDmtmwtvw3sFqNvxn6Nj/Ti/035-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 75,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-xr3SwF6/0/KZjFQ7h57kdH6v72F3gNmjbJFMJLBCTmtwJv3DR5V/Th/035-Th.jpg",
+          "Ext": "jpg",
+          "Height": 113,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-xr3SwF6/0/NVTHK6FkJMmmc3CpWMR8HsfCc4W5J2wQ7kxVTXQmS/S/035-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 45105
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-xr3SwF6/0/LnSq4xvkJrKWZnMwSh4V9qQq7mmfKVjTb4jzpvwQ6/M/035-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 88422
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-xr3SwF6/0/MdvwXcz5hmLjJtMqqgrPKcC7W6L6bhfwKj98szWrd/L/035-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 161255
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-xr3SwF6/0/MQCsG4wk4KDzG9WtNLnjWXH9QfbkvtJkfb2jJKpPt/XL/035-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 365887
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-xr3SwF6/0/MXBSp7BczXtC96cjfXwftb4KPhqGJGWhkk5zPvt2m/X2/035-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 550345
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-xr3SwF6/0/L3RDSMFdsmPwmKVjrWDmhmCJnCthWrKMTdJGZFth9/X3/035-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-xr3SwF6/0/MjT95zzC5wqC6cj3vvXPgQd8RV5mnwMTBgNXrf6Lw/X4/035-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-xr3SwF6/0/KwBtST5JpzcRvXc75hTQHBnGkfn4fxb2LhLHpnTHn/X5/035-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-xr3SwF6/0/KZZj9qP7JHTKSfs5VPvR7cb6f48F5QrqWNXdVqxDJ/O/035.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 4430975,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/xr3SwF6-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/xr3SwF6-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "036.JPG",
+      "Date": "2010-08-16T03:47:52+00:00",
+      "Uri": "/api/v2/album/4WKWZT/image/FwbTGzM-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-Victoria/i-FwbTGzM/0/#size#/036-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-FwbTGzM/0/KSDXsnhshX6Fqcx7P3XwbGTz5tLFQ3H7c75xXgfkM/Ti/036-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 75,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-FwbTGzM/0/NPtvF3Nc9Tqf4c5GJ9VXPDW9tsdVZ5ZmFQ2VnqPPw/Th/036-Th.jpg",
+          "Ext": "jpg",
+          "Height": 113,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-FwbTGzM/0/KgjkNwPpckBtffsJ6hhNVq72bfRwBX756gVJCMjrj/S/036-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 37556
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-FwbTGzM/0/KzVnRntdd9qL3r85X3sqVfR6vsWS8b3b2KCZzSFqb/M/036-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 72430
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-FwbTGzM/0/MssPQFM8Hq3Cg29K3Q9XdDzFFjS2KbVX3HQskh5Vf/L/036-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 128846
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-FwbTGzM/0/MNS2VnKhKVKL4NmrP4trBkt4XZKwqtCgXNmW5SWK2/XL/036-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 307869
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-FwbTGzM/0/LZSVV6CGVfBPfqV45TwMrpqxckH5tM9tZ542bf2jW/X2/036-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 462747
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-FwbTGzM/0/K2JsDFkQD2SFZ9c9mDjwQP6CHzzN7tgZJ8p3G4Hq5/X3/036-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-FwbTGzM/0/KnZXNZgt3Z4kM8wVkPznMCjxXSpJNZ5CFCktkbTr6/X4/036-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-FwbTGzM/0/KwxTwTwKMQDXjBPz8RX9Qs25kK55NxGn7gZszx8Q6/X5/036-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-FwbTGzM/0/LbB6d3zqnLwHhFbzcsG3THkHRLJXh5dBfP8Tgj4TX/O/036.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 3930602,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/FwbTGzM-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/FwbTGzM-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "038.JPG",
+      "Date": "2010-08-16T03:48:59+00:00",
+      "Uri": "/api/v2/album/4WKWZT/image/fGfjPzQ-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-Victoria/i-fGfjPzQ/0/#size#/038-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-fGfjPzQ/0/NWZqf4fv2sRmn7qJ95WPzQP4MTr4BKQnstKpZ2hHS/Ti/038-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 75,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-fGfjPzQ/0/KV64RMRDP6nshb7dg9Pv9kFfjBkZrB9fsFnp7TGmV/Th/038-Th.jpg",
+          "Ext": "jpg",
+          "Height": 113,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-fGfjPzQ/0/KF6L5zj4Sc9Z5GHVMM4h74dGLM9rtVSQcV56ZcZ6Q/S/038-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 45928
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-fGfjPzQ/0/LdQnh8pRztdshfX3xKLqHDPLkRvpWtDLW9T2R6MJM/M/038-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 90927
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-fGfjPzQ/0/Ms5sXsL9SM5wbbKwSnbBF5zxx7WJwQpxtd9BCj2Pq/L/038-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 167515
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-fGfjPzQ/0/LNqxQBRR8WbDxVxwXDJ8BfW2kXXg4T3FnCjBgrJkX/XL/038-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 374227
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-fGfjPzQ/0/MVzZvX8dP8Mc4P6b4dNxksHPsdrcFg7prPC48mnf4/X2/038-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 554091
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-fGfjPzQ/0/NNJp5Xc3f2qCcqgnjhZwgV3wkhDWK65xjkwknxbKj/X3/038-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-fGfjPzQ/0/L5xZmfsmBQQ7vVJKmzwTNkWQZWSSft8Fbmb22WwrB/X4/038-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-fGfjPzQ/0/M3V22gvrtRJqQv5X2Z8sRwF7vsjQhXtrCXNqt8pgj/X5/038-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-fGfjPzQ/0/Mvr4CVqZr7tKtz9dmf6TdTZRPTT6mQwsncwR5jJ8b/O/038.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 3775823,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/fGfjPzQ-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/fGfjPzQ-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "040.JPG",
+      "Date": "2010-08-16T03:49:55+00:00",
+      "Uri": "/api/v2/album/4WKWZT/image/Hv9StfL-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-Victoria/i-Hv9StfL/0/#size#/040-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-Hv9StfL/0/KcthhXXDdSkcgHW5x6RBgTQbMW8gpzSnt8NbkhJTW/Ti/040-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 75,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-Hv9StfL/0/LpRqjjpFzPcb4SqBq3BgFQt7PP6h6vnkc9L64kpfh/Th/040-Th.jpg",
+          "Ext": "jpg",
+          "Height": 113,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-Hv9StfL/0/LHbQ7WGzC2Zx43C3Czt9hFXxSvVtqgqZLQQm598Gp/S/040-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 47918
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-Hv9StfL/0/KWxcSVnmcD8G36X7VTtxt3X6cDpH6zRBPz7B9p2vp/M/040-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 83582
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-Hv9StfL/0/LPFzBv8rpDHVNdjJJvBNB6QCqg7w4BPQM9RKhWGwM/L/040-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 136934
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-Hv9StfL/0/NcS4pJfH8P27CXPqS6hGBRMVbsDfxd3vhJQHK5M2g/XL/040-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-Hv9StfL/0/L44qtzzPnwDNwb6zRPkMRjPBkhTXw25TdRzGGZvpG/X2/040-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 471300
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-Hv9StfL/0/M7PVn4MdWkvmgV4KQttk6X4JcMfntvSjXTpG97std/X3/040-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-Hv9StfL/0/KgRvqZpMnHsFKVjWGg65Psv3nbCSmwZ5gtBFBNrkS/X4/040-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-Hv9StfL/0/LNCjCw9RtrWwn4WgLNCJ9SrJK7nkDLXKqPMdcT4HB/X5/040-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-Hv9StfL/0/LMV8prvKPBG6rFwJcQ32NcwZ8F8sG3hwH8QSLrLrq/O/040.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 3235764,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Hv9StfL-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Hv9StfL-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "041.JPG",
+      "Date": "2010-08-16T03:50:59+00:00",
+      "Uri": "/api/v2/album/4WKWZT/image/Q58Lx3x-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-Victoria/i-Q58Lx3x/0/#size#/041-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-Q58Lx3x/0/NLmnRc5jpFxNsCchqhn8zWdQT2fQbNWCC7DGZR278/Ti/041-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 75,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-Q58Lx3x/0/MTZQ2TfDNdgLJ8jghgFPqKcRzJ5482L7kbrkmbBv6/Th/041-Th.jpg",
+          "Ext": "jpg",
+          "Height": 113,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-Q58Lx3x/0/LCzwJzCx4nfPtTqvkpx4KZLwMpQjgrTsQn5v5drsc/S/041-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 47914
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-Q58Lx3x/0/M8t5rG55jzLNGSqtBGHcsK5ZWrqD9VZCG6t3F8KVt/M/041-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 92826
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-Q58Lx3x/0/KwQZXV2hC9fZnPcNnWc3bP59SKRmhrktkbbMFgvZf/L/041-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 169379
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-Q58Lx3x/0/McWWhB3VfcWvvwrJ4jRJcFLpKPRv59xgMVqMVtZM7/XL/041-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 382011
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-Q58Lx3x/0/L6SMwXKzvcB9TJZS5pGddzmZBM9vTDhhwNtTGr9LS/X2/041-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 564584
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-Q58Lx3x/0/NdzJ8c3CZFT3gMFTw68Tr3JRbTwwBNv9n3K3KzKRs/X3/041-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-Q58Lx3x/0/LxsDBjxLzq59xh6ndMcc85mB4xwC9rdkvX2kx4Qnp/X4/041-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-Q58Lx3x/0/MVt2jsW7gF7xf3W8NmvGBKKZTBkRpvsXfJFqPbN3D/X5/041-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-Q58Lx3x/0/MdVtXjkg4GqnStxF2MLFVsSDSbFfL429fdrKMMQdD/O/041.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 3841542,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Q58Lx3x-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Q58Lx3x-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "042.JPG",
+      "Date": "2010-08-16T03:52:05+00:00",
+      "Uri": "/api/v2/album/4WKWZT/image/tF9RvKd-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-Victoria/i-tF9RvKd/0/#size#/042-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-tF9RvKd/0/KGgJ8kPnDmq8bdTG9FnFFJwMPz6dTbVvdKvb2qQkV/Ti/042-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 75,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-tF9RvKd/0/KW4tzvQJ7zGSXP7zW4KJH9TBjCVcLkjNHKmmkkQgC/Th/042-Th.jpg",
+          "Ext": "jpg",
+          "Height": 113,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-tF9RvKd/0/NDtz4tLHJZzX6pZTCwXfGj3PQqjwcfCTbMpsLsdgC/S/042-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 56599
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-tF9RvKd/0/LDbsDVzcxjBsXdsTLZpHTXPdhckCjHHVZc4dwRLkS/M/042-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 97873
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-tF9RvKd/0/LjHdD4nFdZfRm2p4TgkBDBh5529jC9x3wxjV39w43/L/042-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 161870
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-tF9RvKd/0/NWbqCj8qSKBnMDWXk58qZB5JXrcTsM2MJRPCrh7Fr/XL/042-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-tF9RvKd/0/KrM55pnnmfrdRPZg9NKzRJ4gbnpHHDfKPWm5rgjcb/X2/042-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 559574
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-tF9RvKd/0/Mpd3ctRmMT6Cr28twxdndWmmHbmmnCvmp4qgThLvb/X3/042-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-tF9RvKd/0/MScSXd4jJmh4bJR9gDrCLZ47288s34wptxHPn9rvv/X4/042-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-tF9RvKd/0/LsBfgHB8SDk9Z5gNXSv97RjgtQSLrXLHQvLvZ5mFb/X5/042-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-tF9RvKd/0/LnwGmbnx4pTK2HZNbWVnJFXVKzDvvz62rTL6MdZV5/O/042.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 3895733,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/tF9RvKd-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/tF9RvKd-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "043.JPG",
+      "Date": "2010-08-16T03:53:18+00:00",
+      "Uri": "/api/v2/album/4WKWZT/image/MxdNF46-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-Victoria/i-MxdNF46/0/#size#/043-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-MxdNF46/0/K5kztwpsG4bwWXGSbpb5M97LHGHTMbxhJjKNm7S5W/Ti/043-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 75,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-MxdNF46/0/KSnbGp4MfdhtcdKXpw5NJR4GpjJpQ567dRVxNKrqv/Th/043-Th.jpg",
+          "Ext": "jpg",
+          "Height": 113,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-MxdNF46/0/KbxJ7D9LNvXC2RGRqRQJrBvJsqmmCfZTLgXZnr64L/S/043-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 69702
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-MxdNF46/0/KhLXZK46rZXpmMKB45qdhrhbc5KhTqVnqzwWpjtCz/M/043-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 126566
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-MxdNF46/0/LbrFKLgJnxqcx6CGNrM9PdFfdcSthXtPtkDWBkLG2/L/043-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 207350
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-MxdNF46/0/K8sFGvh8GSGDcSnFWLSWNHTG7QpGL6TJ5CpPjHwPx/XL/043-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-MxdNF46/0/L294rxVs5hDkzpGfZNWZF32mXJHPdvkpcL9vN6QtH/X2/043-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 687816
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-MxdNF46/0/K58C92WP8d4chc2WvbLp96mVG824bMWQNT3sMQ9tL/X3/043-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-MxdNF46/0/Mn9WZjVQQ2rBGQwPf3Rn3CgDdF3vXNvmvtB3RzQFx/X4/043-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-MxdNF46/0/LCmkDTVnWtvR5BvvccrSzK4WsS3vdtfhfVQ2fNhQR/X5/043-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-MxdNF46/0/NjPt7tqg4W4L5dkWbD5h7jz9Qwkh4P8QKcJNQWHQV/O/043.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 4466616,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/MxdNF46-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/MxdNF46-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "044.JPG",
+      "Date": "2010-08-16T03:54:28+00:00",
+      "Uri": "/api/v2/album/4WKWZT/image/gKDdcRK-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-Victoria/i-gKDdcRK/0/#size#/044-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-gKDdcRK/0/NLBQmHKTCBzPWq3sdGHLWhFgKh3XTDV5m9QX5RzJJ/Ti/044-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 75,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-gKDdcRK/0/MXTSrzF6Hj3VSgNmr7qffFtxScMDBjVL86xFVPbQK/Th/044-Th.jpg",
+          "Ext": "jpg",
+          "Height": 113,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-gKDdcRK/0/M7RQJmVVJwf2C2sMpVJQrCMp4GWwQB3GPLfpZrhpz/S/044-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 55798
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-gKDdcRK/0/NF7zfkrfHp2MqMnnZ73Twt2hXv3PTkvN92Fks5dz8/M/044-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 99407
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-gKDdcRK/0/LSPp2Bwbk86CZr3Mnt3tzVdzhZCKtC23n5XvJPVt2/L/044-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 166461
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-gKDdcRK/0/K2mQmg8VLGpdcmx8kqmCSLQkDmG3d3vwgrFZPnRtQ/XL/044-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-gKDdcRK/0/NGCnTFW27kLhWSmv9GTLRGm4LDBXF9JMN8frW83tZ/X2/044-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 629691
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-gKDdcRK/0/MtggK94PjbMZwPMTThhNKWfQ5VNqkN6kPxHBPk98X/X3/044-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-gKDdcRK/0/MQ4XxjvMn39vzzxHtdF9htRv4gcLKkB3jMQJGmfN3/X4/044-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-gKDdcRK/0/LdrDJg3GrwQgTx3vQhBDfGGv9nh473ZpNKJLPRWjk/X5/044-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-gKDdcRK/0/M8RsQDzC7h4Pg6RC64dTf9QGXq64RXPH7g6FMLCXh/O/044.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 4156629,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/gKDdcRK-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/gKDdcRK-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "045.JPG",
+      "Date": "2010-08-16T03:55:41+00:00",
+      "Uri": "/api/v2/album/4WKWZT/image/JRmL6cX-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-Victoria/i-JRmL6cX/0/#size#/045-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-JRmL6cX/0/Lnn5vPbXq65Vx2kNV98QJKjx3Qw5pmszG8wg3dq6N/Ti/045-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 75,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-JRmL6cX/0/KVqJTbBrDPSHXNKqRw7j5JBTL3xMz92j34fB6mcDb/Th/045-Th.jpg",
+          "Ext": "jpg",
+          "Height": 113,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-JRmL6cX/0/KfttTMtBbw9nC369zvztGVHSkPX7DktgZdbnvWpJQ/S/045-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 60588
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-JRmL6cX/0/M4tLP5wrjknXG5sjchFnsdHpK7L34HCMnWKM85Rx5/M/045-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 110176
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-JRmL6cX/0/LSMvQBkj7Qj4L8ZzVNNDJhVFktJFq5kc29pNHkzHD/L/045-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 183253
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-JRmL6cX/0/Kntxk97Snh52HQxTGqFSWdRx8cZcv5DV3W3XnQQ7x/XL/045-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-JRmL6cX/0/LBq3tWrQ2TXSk9nTJDVcHjXDgFwxzhmZrcDZJPb8x/X2/045-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 629953
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-JRmL6cX/0/Nf6PbCZdphJBZpZCqgZhtrnP3Vt45VCMQQvRpG8cP/X3/045-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-JRmL6cX/0/L2cs8JNSWsxJ4h5LqqzqxHqpCgVx3cX5wHvPGfQHL/X4/045-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-JRmL6cX/0/NQq7zHCVMv746c59gHdxmX9hGDLmC8GcWfN3wxf4h/X5/045-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-JRmL6cX/0/M6tHFwF5Sdgwczdbk968nqQzpX8fvtmwXML9wSccf/O/045.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 4337712,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/JRmL6cX-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/JRmL6cX-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "048.JPG",
+      "Date": "2010-08-16T03:57:18+00:00",
+      "Uri": "/api/v2/album/4WKWZT/image/QK6qCxs-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-Victoria/i-QK6qCxs/0/#size#/048-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-QK6qCxs/0/L9nvLsgrrKdFtKw68f2R97bTNbKvdkMRHfn8TCdnJ/Ti/048-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 75,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-QK6qCxs/0/KKSTdXjqr83js7SWRRfdChDJzgxbNtDNBXFXFrQ2G/Th/048-Th.jpg",
+          "Ext": "jpg",
+          "Height": 113,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-QK6qCxs/0/MqsXdhwdBKz5NwN6LnTCnLGG6WzvxtwwZTh3jhkHv/S/048-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 58334
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-QK6qCxs/0/Mjb4KfskxghFzSM9MgsnP3jjC9Zj2jk5ZWsBJfVrW/M/048-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 120998
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-QK6qCxs/0/KjKx4J6fqdNkRZLdfcGjM2VFjsfbXpnqgbnBCG8R2/L/048-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 229947
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-QK6qCxs/0/KFrr2LHfnvFxFNjt4fbDkMNS4nTzzz6j67hGNsbCd/XL/048-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 519335
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-QK6qCxs/0/NLzgqgsCQ7dSt4NMsGFq4ccBZKT7kkm79NPhzdcjk/X2/048-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 778844
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-QK6qCxs/0/L7Tk3vW4C4GsbkVdjFktMT5GRX82nv5VjBDg3BRkg/X3/048-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-QK6qCxs/0/NF5W9BqmwNt95Th4GmWd8DgGDhMPbkmQD7XgMjsRk/X4/048-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-QK6qCxs/0/MJMBrhgRD8ZMvQ9gBLQ3XXrhzGnFpZfX2S9Xrctvn/X5/048-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-QK6qCxs/0/KNLskxCM2CqXG9qWBSjRWfB5gGkQTGtK4t6PwJLpf/O/048.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 5393759,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/QK6qCxs-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/QK6qCxs-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "052.JPG",
+      "Date": "2010-08-16T03:59:01+00:00",
+      "Uri": "/api/v2/album/4WKWZT/image/GBj6Zq8-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-Victoria/i-GBj6Zq8/0/#size#/052-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-GBj6Zq8/0/MkjF8DQ24MtWX4Gbp469Q2bvNXRXT4rQLGddqTFRt/Ti/052-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 75,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-GBj6Zq8/0/MB6rz5PFtxVMQFxsM2k6mg8Vwp4gbvrFbbq6j4xdn/Th/052-Th.jpg",
+          "Ext": "jpg",
+          "Height": 113,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-GBj6Zq8/0/KhMFNH66rsbRQHFw5LFFtDRCqvchpFVJkgHmptNpN/S/052-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 74345
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-GBj6Zq8/0/Ln8xzShMb9ZzxDrxD3TjQvZmHhPdKzQdSKvJtF4KW/M/052-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 142998
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-GBj6Zq8/0/MCmLb4Dxvj3HJ7tWcTcTpHNqbg2NSr5fCBj9HtCh6/L/052-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 258243
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-GBj6Zq8/0/MPsdJNLzsWCwxxBbMdCPqL5JKKMgMJkTTbWXgJN3h/XL/052-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-GBj6Zq8/0/MPT7NPKDtrbjSwkmmbTbSGN8bHZcGZbFncv4JssmQ/X2/052-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 880529
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-GBj6Zq8/0/LrdFkCwtJp6C8zVtF5wLgSNN4npNXMj4X46MSddhG/X3/052-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-GBj6Zq8/0/LgVGtTWRKm2ctVzbCFzLHjWdLSCQnfpRv49MtGS7C/X4/052-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-GBj6Zq8/0/M7fwZMHNrGH9s8XScChc9VqWpMZCFd2dG4gh3KN4M/X5/052-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-GBj6Zq8/0/MgDWPWNr3STxrSmd3rBkKS56Rw8ch2RP8x544xqnW/O/052.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 6318646,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/GBj6Zq8-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/GBj6Zq8-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "053.JPG",
+      "Date": "2010-08-16T04:01:34+00:00",
+      "Uri": "/api/v2/album/4WKWZT/image/kb6x2Hx-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-Victoria/i-kb6x2Hx/0/#size#/053-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-kb6x2Hx/0/Lxs3cpR92h7Rj85ZKLhfRqFzTDJtpK3qsnVkDJH8V/Ti/053-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 75,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-kb6x2Hx/0/M8hcGjQPRLb6vzjmxjKgCdqzLsSZMwbS4GQvZ7F9B/Th/053-Th.jpg",
+          "Ext": "jpg",
+          "Height": 113,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-kb6x2Hx/0/LG3dGsJgTpJhJHhQmNVB9whJpvDfSWb3WHc5SJcVS/S/053-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 91793
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-kb6x2Hx/0/KVB7Xb7jQKCmsMhW8VsKdvr7TGFqwMV8Z3NcBh8fq/M/053-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 184410
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-kb6x2Hx/0/LNCdjzCrVr5rWJ6jNXwb5NqNcZ473mSVktzb6VsWT/L/053-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 346736
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-kb6x2Hx/0/KQ5GzGM9ZQSkDG7Kv342QjrwJPQ8RSNTZbCCZbdr2/XL/053-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-kb6x2Hx/0/Mb9rS23QLDPm4v9bPF4nf7QK6rdpxB6jRM9nHWrgc/X2/053-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 1182831
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-kb6x2Hx/0/Kh32KJHQPbrR8NTbC46gX8BsHLnRLtBw7N7qnSVhQ/X3/053-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-kb6x2Hx/0/MZx5mSkvR88BCCvvfDDmjDnGZkg6FbTjKrhHR8n8k/X4/053-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-kb6x2Hx/0/KPLshvWFt4pkjH7PJpXgWRQqCcjHvpRF8RFDGTdPb/X5/053-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-kb6x2Hx/0/Kw8WDjf7TxQppSddbB2RMzjRLtWjXSP5w5qGZSSw3/O/053.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 9583752,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/kb6x2Hx-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/kb6x2Hx-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "056.JPG",
+      "Date": "2010-08-16T04:03:11+00:00",
+      "Uri": "/api/v2/album/4WKWZT/image/h5BKVkv-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-Victoria/i-h5BKVkv/0/#size#/056-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-h5BKVkv/0/NbCDmCB6gwFSpV5pBnmq85j3DsqDh32Jd356CQfwn/Ti/056-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 75,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-h5BKVkv/0/MsgpsHhDKChdpsnV2wdsZJh5j4QrWTjxZKzccZnXV/Th/056-Th.jpg",
+          "Ext": "jpg",
+          "Height": 113,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-h5BKVkv/0/MBVQ33P7VMLhzqvhqzRjSJrcdQW57gMbxvmMqCBrd/S/056-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 70578
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-h5BKVkv/0/LLLkLPQNKpnwpZZtGNB3QB6bkD4J4SPj6JgkB56Xs/M/056-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 147369
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-h5BKVkv/0/MZGHbpKLDvSsnSZhCL4tCchnwBtkJtvkp55bMc9BD/L/056-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 281866
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-h5BKVkv/0/MMxBZ9GQ4NQJNSj5jptkNHmF3Zbr9rKQhX5m2Mm63/XL/056-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 616849
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-h5BKVkv/0/M2LSbZFGtvnVZ9ZmKwKwnGLPgvwmC9mQrcJ7BhKDt/X2/056-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 904177
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-h5BKVkv/0/LBxfCBrf4bCCCrDmZg8ZD9V8gZN8vqQpj2QgkPszB/X3/056-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-h5BKVkv/0/K73kqGd9tbvcc3xpt6VJ2k6tRW7SSfZCCZQZTT54X/X4/056-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-h5BKVkv/0/MFbN3W8Bx7TmswNk6DXDTn7BJsvbRdCDvRwgX6mHT/X5/056-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-h5BKVkv/0/KFgVrBB2RgMNNSNxk8cBBWTCqhNzBRGc29NzjSXTG/O/056.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 5489408,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/h5BKVkv-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/h5BKVkv-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "058.JPG",
+      "Date": "2010-08-16T04:05:01+00:00",
+      "Uri": "/api/v2/album/4WKWZT/image/7KsNSLn-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-Victoria/i-7KsNSLn/0/#size#/058-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-7KsNSLn/0/KW6Crc5mCGJJvWqZv9jxq2nTVbCmXTgSjG4bRZWDf/Ti/058-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 75,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-7KsNSLn/0/NCV2wGtjpLgdL9bKqVZ75V8CZBw42GnJ5BRJjmm5w/Th/058-Th.jpg",
+          "Ext": "jpg",
+          "Height": 113,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-7KsNSLn/0/KXWTGW4HxsHfPS4mqwqwmjJ9VkVfrh3WDVGvn8gJg/S/058-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 84066
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-7KsNSLn/0/MSBP4tZqP4fMpc79JqsbFGB3WmcjLQxnTzPgtnv5f/M/058-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 165383
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-7KsNSLn/0/LTFgBpsJp2BfxkwHMdGHLTc2Tzg5xGjhzHJjj2GFp/L/058-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 302493
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-7KsNSLn/0/MpX3gBH2RPBGfpSWTzKqctn9Wv9Dvj47w5xJhWNGZ/XL/058-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-7KsNSLn/0/KxHrsV5k72V2D77WnvzpkZPf5pT8jjQS9vQG5ctD7/X2/058-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 1015192
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-7KsNSLn/0/KrDNpBZCt9HLVHXg5QW63jWGVK97RrXtW6DPJ7H6T/X3/058-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-7KsNSLn/0/KxjjTWGvJn4GQz46HvzcqF38JLdpCPpTK6n6QSPkn/X4/058-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-7KsNSLn/0/KVfsck7VkdzbkD5HdWMW7PwvwnnRF4bPvdJpNR5Xp/X5/058-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-7KsNSLn/0/K3vLNR8p95ZzKTRfvHjpMJwsT8LnbQkDJnjqxVPP6/O/058.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 6778092,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/7KsNSLn-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/7KsNSLn-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "059.JPG",
+      "Date": "2010-08-16T04:06:02+00:00",
+      "Uri": "/api/v2/album/4WKWZT/image/t4MFZf4-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-Victoria/i-t4MFZf4/0/#size#/059-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-t4MFZf4/0/LrNMNgDqW4CcGZqLSJfSnnkXtCRKSL8TGkXZGL94D/Ti/059-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 75,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-t4MFZf4/0/KJJvcwrMMR2pVx9JvvTzdpg6XgmxqFPmNbpGgDxFP/Th/059-Th.jpg",
+          "Ext": "jpg",
+          "Height": 113,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-t4MFZf4/0/LBHmWkMnHvZZHmTxPC6GrnCWWxGCHNQmV8rVJTRvg/S/059-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 33191
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-t4MFZf4/0/M8DHzVp4qxRgrzM84wKnDrZ4VXsM56hSTwNSPzMK8/M/059-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 65601
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-t4MFZf4/0/LmFTf39SXp9fNZxdBhSTVJvTW5KVg4hRCMPrVhKJr/L/059-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 127162
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-t4MFZf4/0/MJFGQvvzjj3XNmnKwSL7kfKCG5MH8dFt6j9BPkMZm/XL/059-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 306727
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-t4MFZf4/0/Kn82Z5VS86bwJctGQQgdC7zmzCHckmGgRJ6VqwZnw/X2/059-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 466754
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-t4MFZf4/0/LngrMPb793v8NCd7cRjdJBxGFfkK6Z7m9hThbcrGS/X3/059-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-t4MFZf4/0/Mtft9nRBNqQc3m7SXcvfdBRx77rnvRNh6GRX8PCpN/X4/059-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-t4MFZf4/0/MwBb7JLR59cspvpct3v9JzwFKLCbXXK4Vqpz6tsKf/X5/059-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-t4MFZf4/0/M2JBNFpGjKsxd4ppBThd3q6J82WNNGkPvdmNxBFpb/O/059.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 3699330,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/t4MFZf4-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/t4MFZf4-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "136.JPG",
+      "Date": "2010-08-16T04:43:13+00:00",
+      "Uri": "/api/v2/album/4WKWZT/image/PgkbrvN-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-Victoria/i-PgkbrvN/0/#size#/136-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-PgkbrvN/0/KRcZqRs657cCNMMHWfpHWhqtKKc9GQ4pq7dn8gKfk/Ti/136-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 75,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-PgkbrvN/0/NXppQ6h3fWFbSmcTD8WptBkh2CsmNZCT2764sm5rD/Th/136-Th.jpg",
+          "Ext": "jpg",
+          "Height": 113,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-PgkbrvN/0/NQW3zdcZzsdZFrNJPv7mrXVFLxwQ2bJfGvSb2hM3f/S/136-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 29634
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-PgkbrvN/0/Lb88R5V5sfNdH478zhZFvffvsGbdHLx7njSpM49Wn/M/136-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 58284
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-PgkbrvN/0/M3cxnL4VzwKtZvPbKwvJKG3Nm5LtJgfJhQr3gwD7c/L/136-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 110037
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-PgkbrvN/0/L8F7bZDgKFt4TZLPXdJmthDfnC5bdjg2pCXw7BwT8/XL/136-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 301653
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-PgkbrvN/0/LnhZHG7PVmDdN2c7pZKpHnZN2gpSN2VjSzJffftkF/X2/136-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 454832
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-PgkbrvN/0/NMB447s8z7dRQc9ZNpkMPcc86RxtcFZnSm6hRKqnk/X3/136-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-PgkbrvN/0/MCPcf6t97xdF9wkZZsmVSxDwTPVqz54PmQKDfNq5d/X4/136-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-PgkbrvN/0/MxLKmpX9bLHgtbfxjc35RQFgnHM5fVWqcmTKpzFTt/X5/136-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-PgkbrvN/0/LdXD8TK26LQcpKMKF6BQTcsT3Bs4FFMWrPS9wRfxc/O/136.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 3054575,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/PgkbrvN-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/PgkbrvN-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "140.JPG",
+      "Date": "2010-08-16T04:44:19+00:00",
+      "Uri": "/api/v2/album/4WKWZT/image/tNvzLph-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-Victoria/i-tNvzLph/0/#size#/140-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-tNvzLph/0/M3C6XLfL9VmfPXjdrLHSpqNFvpWk4wCVmtz3zBjgB/Ti/140-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 75,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-tNvzLph/0/MF4BVDdzcXnrkSXsZtmRvZjB22cJT83TqqntvZPSx/Th/140-Th.jpg",
+          "Ext": "jpg",
+          "Height": 113,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-tNvzLph/0/MRKRrH2WsTGnwLCBC8ZZH8Hj6s8dbTfp6nvBg5Jwt/S/140-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 51298
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-tNvzLph/0/LwbvP98bvWnbTD4nqr84tFn7fn4m8rbHCKZs2JKRg/M/140-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 96356
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-tNvzLph/0/LxCpdKzjfLNKCbkTMNzp7B7HMdNfbm32WrcF7jhj2/L/140-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 173149
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-tNvzLph/0/KxNgmFnTxPRMwmSj2GmZdWhXsnnVBVWPHvqpm6zX5/XL/140-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-tNvzLph/0/MJzzX3tXBrfFtnZsKJc4MW48zrd5xjDp29pP94Q9M/X2/140-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 652929
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-tNvzLph/0/NZcn5TrzPJDZQ3wsfwspFZKmXPtjFmSPnJzHzbkVp/X3/140-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-tNvzLph/0/NWHh984dP26ZzdxHznBnWKj4TStQvRtDg774Zbq5n/X4/140-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-tNvzLph/0/LFz45f46FLgkL46PCC35QTFQNqGVnfNnXbBWJtw9n/X5/140-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-tNvzLph/0/KFCjcX6zSg7f9dp3hd7kGPQMZX483Mj8Mmp9JprPP/O/140.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 3640282,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/tNvzLph-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/tNvzLph-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "141.JPG",
+      "Date": "2010-08-16T04:45:14+00:00",
+      "Uri": "/api/v2/album/4WKWZT/image/BG2JX23-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-Victoria/i-BG2JX23/0/#size#/141-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-BG2JX23/0/Mkhb2Nqfdv5GwJJr39r3sQFjmV32TsQsNQNRjzGQ3/Ti/141-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 75,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-BG2JX23/0/MHtHW6RqPkLWCZkqcCcGchngDRLMhXhxK4gDqz9v6/Th/141-Th.jpg",
+          "Ext": "jpg",
+          "Height": 113,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-BG2JX23/0/Lm3Ds8W5r6F6NrXXZrmk8bjrsh9Rr2qvwt5fCXLVQ/S/141-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 55104
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-BG2JX23/0/KqJWNqzq5bQB8nQH6D46WG8LvZQHjn3Z7FtQsMZPx/M/141-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 98687
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-BG2JX23/0/M7HDMkGvRZ8mhFMV6Fm9PZ8ZbD6tgLp94TGHMgzZf/L/141-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 162467
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-BG2JX23/0/KbcG94dPtstkHFd6czvhdVbB2t5nwhqbFbKSKdvqt/XL/141-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-BG2JX23/0/Mn5Psh9kS8dFDMFNXH6DMwqsZ98FsWkWp26sqffjj/X2/141-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 600177
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-BG2JX23/0/MXKMb7JSpsGRtmMv4tZKk8GDDMzjhvwt68b42Ksxp/X3/141-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-BG2JX23/0/MP3JJjk96S8wqhKQNhHNRKmk2mN5RqRJshwZnjkKq/X4/141-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-BG2JX23/0/MmpBqPgmBspKpbbTP9pRVM2HHXTBx4P6GJF9GQzxS/X5/141-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-BG2JX23/0/KKBDKKHZtwGwnF7PBFLVkSHLP3Shb9FkxMDLq68SK/O/141.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 3315049,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/BG2JX23-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/BG2JX23-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "143.JPG",
+      "Date": "2010-08-16T04:46:02+00:00",
+      "Uri": "/api/v2/album/4WKWZT/image/VRsX2Vf-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-Victoria/i-VRsX2Vf/0/#size#/143-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-VRsX2Vf/0/NPGfdVM8zfsqf6D8T4bG4Xx5LRnGTFZhnVRWRNTRJ/Ti/143-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 75,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-VRsX2Vf/0/LCth4gnGXrbWKc2FMK8CcFRp46rDWdTRBTR57tj6L/Th/143-Th.jpg",
+          "Ext": "jpg",
+          "Height": 113,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-VRsX2Vf/0/MrWBwHHFTnCxz34tNCjQGrFRfPbD2sC6kTwCngT8Q/S/143-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 28569
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-VRsX2Vf/0/LmfvdcT8mx9WTW77GXfP4wwpHhhkGPVGGF4KJRKS2/M/143-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 57599
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-VRsX2Vf/0/KPCbh6NZ7kXhjmdjdhdsDkDp4w5P4xD3KF2Xm4Bmm/L/143-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 105408
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-VRsX2Vf/0/Lqsp5bZ5GpH6Wk2hq6Pm55ftMN7D3jqXPKNhZ5C53/XL/143-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 151317
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-VRsX2Vf/0/MdnHGPdGD3xvB2rdbs9Rz9M8Pk4N53hjmfthH93rN/X2/143-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 440605
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-VRsX2Vf/0/KSsxpbnMHTCdsQz4SW9N2HwkKzWtRbS4n7rfZrKGc/X3/143-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-VRsX2Vf/0/Kd65Rk7j2tCVTJBQfbqT37P9G9vjWzhN7BtJDNFvP/X4/143-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-VRsX2Vf/0/LJKBcbtwv7WJpHdZD2VLzzKZMJctQB83pDPdzxJ76/X5/143-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-VRsX2Vf/0/LhKxttSBfDt7gsx9c9h6SzBxLC4khCqN5CnGdnv8C/O/143.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 2723157,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/VRsX2Vf-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/VRsX2Vf-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "144.JPG",
+      "Date": "2010-08-16T04:47:06+00:00",
+      "Uri": "/api/v2/album/4WKWZT/image/rSJQqVb-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-Victoria/i-rSJQqVb/0/#size#/144-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-rSJQqVb/0/LfPTG8SnLL4BLT3HRW9CWk69hGJGrThMdzVvHHhbS/Ti/144-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 75,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-rSJQqVb/0/KJNt7MZS5d4HDQFQfTmDPdjsgx77NFM6jSqVDt6Dm/Th/144-Th.jpg",
+          "Ext": "jpg",
+          "Height": 113,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-rSJQqVb/0/NFnqM9VxDGxCV4Q4Pnx9MWXX6d5t5KN7zTnhH6qLv/S/144-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 26626
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-rSJQqVb/0/NTfZsHK87d32F2tTBWnHtsr8r4DCGXHxdNhcH3mKN/M/144-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 56440
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-rSJQqVb/0/KR3DstWwr6JCzJ9Wc7xFt6LxwpLpgBMHrQLSb4W82/L/144-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 95412
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-rSJQqVb/0/K5z5VdHb2gRdjnZffxgHZGmPPNQPDsBZCVHffgdSR/XL/144-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-rSJQqVb/0/LZSjqxNtWKFC962rCdkLS3CN5CX7vf68GRMQQVT7C/X2/144-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 246946
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-rSJQqVb/0/McXJkJ8WgsH8Wcqwgn5BwGhVkt5nSztFn385NSMxm/X3/144-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-rSJQqVb/0/LLrWhfDsFPLvQ7kLFxPHP2hBqzScbWrHWV23RVNnD/X4/144-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-rSJQqVb/0/MxhjbVj3pMmHzrRMFRR6FLBLPqXF824MCnJTwvfzP/X5/144-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-rSJQqVb/0/NLpTPLkhtR4DDvLNptDTCfMxfzQbLZMdXkf3bGKn8/O/144.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 3743035,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/rSJQqVb-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/rSJQqVb-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "150.JPG",
+      "Date": "2010-08-16T04:48:10+00:00",
+      "Uri": "/api/v2/album/4WKWZT/image/ZQ9KqJn-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-Victoria/i-ZQ9KqJn/0/#size#/150-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-ZQ9KqJn/0/LQBrf3Wx7GqgVcCtFX9qQBv7G6g7KmNPvhqGKr5S8/Ti/150-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 75,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-ZQ9KqJn/0/K8NrjL4FFDk9GTRXZZNGNFZGwQ2r9ftbxqhdGNVkt/Th/150-Th.jpg",
+          "Ext": "jpg",
+          "Height": 113,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-ZQ9KqJn/0/LRwmm27s7sb9s4KtdnQG3jTBJxdLM86wP4fhLkXG8/S/150-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 33203
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-ZQ9KqJn/0/MrLbr95J47LcmNLd8xS4JpSnQphJ9XwVqnrzN6cRS/M/150-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 68015
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-ZQ9KqJn/0/LZVz6cVFD8LjkGdqWNJ5srvPwzpqLWbs4PXB4WnD7/L/150-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 129884
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-ZQ9KqJn/0/KMfWgjwrPZmmBbpW9TbVPHVwRPPC9GWv52RbG3g3P/XL/150-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 330112
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-ZQ9KqJn/0/KxT5FFR7rDNN27HrWc4cJPwsvKXrmmZdVLNcRKwpX/X2/150-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 507046
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-ZQ9KqJn/0/KmgPHQMPSMgjX5VLwwDPhTMnJQ86r9fNx9NvKLPBV/X3/150-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-ZQ9KqJn/0/LKZpMKbFpMjtsr7rnPVdskJG6MxbbHjdWRmWWnKJ9/X4/150-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-ZQ9KqJn/0/M5LmfvbZXDQDjHgdqWJCdbp9ndmBKSzGQrp4csNMN/X5/150-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-ZQ9KqJn/0/KZJFVVV7D2XS2GQZqw26hQ22MqHvsVP7rKLw8T6Dd/O/150.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 3941027,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/ZQ9KqJn-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/ZQ9KqJn-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "153.JPG",
+      "Date": "2010-08-16T04:49:14+00:00",
+      "Uri": "/api/v2/album/4WKWZT/image/NC4s4fS-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-Victoria/i-NC4s4fS/0/#size#/153-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-NC4s4fS/0/M4fNw4fRwm92Q6TbLdn59CDXHXB8tbcbkX7Qtn3cZ/Ti/153-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 75,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-NC4s4fS/0/KMvVZtcHXX2BJtQpHDp7Cf7vVN9GDgjSbqTj7vgM4/Th/153-Th.jpg",
+          "Ext": "jpg",
+          "Height": 113,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-NC4s4fS/0/Lgzb4sX4ZnFs37XpJNZGT6CQFHVCkXVZBxQ9Rgc5W/S/153-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 59339
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-NC4s4fS/0/NCHxdj9KkQ53H7gkHSTWxJmV7jvKm8scQRfdVv8JW/M/153-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 105455
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-NC4s4fS/0/Lfb7jQvkz2B7t9tXwW6nsTBmSgbL3Gnf6xnSpshMs/L/153-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 178302
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-NC4s4fS/0/MgFTjMqz4cLJqNr3tKKPX7tNs3hztnBfvgtwHNMJf/XL/153-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-NC4s4fS/0/KSz92CRkQtrddqtbRPMjzNCHwBpXwRWL2whnkW3WT/X2/153-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 643470
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-NC4s4fS/0/LTLsNtwtLcKc3FScTFDGfxQB79BxCNmM3r84KpqJw/X3/153-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-NC4s4fS/0/KszbDFMjbzg4x5mf8J488nHQHtHVS3RFQ2GFbzQTr/X4/153-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-NC4s4fS/0/NdGwjcgjRdKCL22kML9cpCj2zvj5FK4JV5R6Z237x/X5/153-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-Victoria/i-NC4s4fS/0/NQ9ZxfDmTdVqkMd9kN7vK7Tx89fsdDbGrWFVPW2QT/O/153.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 3909539,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/NC4s4fS-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/NC4s4fS-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    }
+  ]
+}

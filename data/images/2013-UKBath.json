@@ -1,0 +1,813 @@
+{
+  "UrlName": "2013-UKBath",
+  "Name": "2013-UK Bath",
+  "Uri": "/api/v2/album/vBqFbX",
+  "Date": "2013-08-24T19:34:51+00:00",
+  "WebUri": "https://lmblevins.smugmug.com/Travel/2013-UKBath",
+  "Images": [
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8100335.jpg",
+      "Date": "2013-08-24T20:57:10+00:00",
+      "Uri": "/api/v2/album/vBqFbX/image/xnFKNgX-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKBath/i-xnFKNgX/0/#size#/P8100335-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-xnFKNgX/0/KXrXkmDMHDJ9sqksJTPJsFvpqstfmTJtFXpMkvFTn/Ti/P8100335-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-xnFKNgX/0/LWxbMhct2rP78DwDFLSRrR5Vwh9RSNKjt2WPxPzRX/Th/P8100335-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 13708
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-xnFKNgX/0/KzCHt75DmTGvBCK8b5F3DMGcdx8Kf2w4xCnLfrHPQ/S/P8100335-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 44626
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-xnFKNgX/0/NRDpx4dVRJCKkJJp6zGsVvzv7NR545CNWCCc2LkrT/M/P8100335-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 83270
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-xnFKNgX/0/K3Kd57hMJ6j55KppqK2t5m92jCSwRFDZNcmGjMxL8/L/P8100335-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 130351
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-xnFKNgX/0/Lpm8FXTKPDhq8dsVjhPSt5P4s6RfDw3LHsGPsgkQG/XL/P8100335-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 201732
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-xnFKNgX/0/K92C8gBrGvszF4gVMDnmrdF3fkXx7bpDPqbJcmgsD/X2/P8100335-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 298780
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-xnFKNgX/0/Kfm75XBjzM9Nb5j5cZ3SSwVtvTn3MVpW8StCD9QwF/X3/P8100335-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-xnFKNgX/0/KLvCXNqnTWVssgvfc9h8zFVhdRwmtqSn7ctg2VFfB/X4/P8100335-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-xnFKNgX/0/Lhr9X6JvJQQMggCwMxfHhnCjBm8NPVxjtMssS8VCX/X5/P8100335-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-xnFKNgX/0/NRjD6PFG23rz5GJj4Vpd7PN6gLJRhD4FjDbjj5XZt/4K/P8100335-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-xnFKNgX/0/KPzMTwDk4SDTTmxzhPBfMXcTxVGxJ8FCms2qsgmZ9/O/P8100335.jpg",
+          "Ext": "jpg",
+          "Height": 3175,
+          "Width": 4233,
+          "Size": 5425545,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/xnFKNgX-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/xnFKNgX-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8100343.jpg",
+      "Date": "2013-08-24T21:00:05+00:00",
+      "Uri": "/api/v2/album/vBqFbX/image/FF5dJSB-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKBath/i-FF5dJSB/0/#size#/P8100343-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-FF5dJSB/0/LfnWCBDv7fGFkJ4z8RpCPWS4zz9ng7s2dWcrp4Gvs/Ti/P8100343-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 11645
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-FF5dJSB/0/LjmxMNWGm5bxGCVwRwWpXv4mVpp6QVP2cvPJXfC3d/Th/P8100343-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-FF5dJSB/0/Lv8VVFhHB6jKvtVvBbWQ5qWv82ZwzTqLj9qpV8jtz/S/P8100343-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 79171
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-FF5dJSB/0/KWnB5PVfj2ZZQpxW76LBLFgPFsZ4vPzr92XPRK3qC/M/P8100343-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 173771
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-FF5dJSB/0/KVLDHwVwTFq7hCgh4bpKGd7XMRcW5wPBSTFMtrZ2s/L/P8100343-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 290564
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-FF5dJSB/0/NhZ3Q8jPfczNhPJDJLZS2cf4cGg726bKGvSN7c9rv/XL/P8100343-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-FF5dJSB/0/Md2b3LmfzqXT4rrXmnrqgr3zq5sDCLrXsCvkZJhNW/X2/P8100343-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 743565
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-FF5dJSB/0/K8c4gD8jLg9cfXmFnBcKDscfFsjNj9S86MV3T7QCm/X3/P8100343-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-FF5dJSB/0/KqB46g6ccQcHkb7PqPgTq4gNJxPMSd2PFFQhjtLvp/X4/P8100343-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-FF5dJSB/0/NR8ND7r44Lqz4zBtTpsBJsmWKPFqPkxMj4DznHrgB/X5/P8100343-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-FF5dJSB/0/KSR6RZfDhwMKgKWrhtJqs5vtJLsZ7HcpWgq4P66Kz/4K/P8100343-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-FF5dJSB/0/MHRKmVNxQpLf8FCQmbBbmcGbGHm5P98J5SQBwp6Q9/O/P8100343.jpg",
+          "Ext": "jpg",
+          "Height": 3456,
+          "Width": 4608,
+          "Size": 11263610,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/FF5dJSB-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/FF5dJSB-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8100345.jpg",
+      "Date": "2013-08-24T21:02:14+00:00",
+      "Uri": "/api/v2/album/vBqFbX/image/4phRD4M-1",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKBath/i-4phRD4M/1/#size#/P8100345-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-4phRD4M/1/KWBF9M6mjX6n2RVpkxm5XJvKkjKj6n3CVRDSJx5wv/Ti/P8100345-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 10014
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-4phRD4M/1/Kd7mjhFnkLm2HQw8shfdvgtnTTNhtGgfgjFjnrqJS/Th/P8100345-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-4phRD4M/1/KSSfwhTVRHnPzrDd7rZwgMCwDPFbSbkTz8PzKMrPW/S/P8100345-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 60177
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-4phRD4M/1/Lskmc3cpDKGN4PFDhGrkW9RkmDPXkCbfXr2qmPSDW/M/P8100345-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 126014
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-4phRD4M/1/M8x23B6PLJktHbzJCmP62rVD4tjShNphc22CNrhkf/L/P8100345-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 203085
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-4phRD4M/1/KpLrNvVQh8rVD7Cd63p7CxqDzdWHCD5PMpcRGVLWP/XL/P8100345-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 344252
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-4phRD4M/1/L96s9cV8gFnXHR35LDjSstDSW6Dq9375sP3CFMqhq/X2/P8100345-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 504845
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-4phRD4M/1/KGCbjTXq8hTPDf47VbbsqskBBBzHrfcpGd3XrF3JK/X3/P8100345-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-4phRD4M/1/MFtffv66GDz48B8fBRk94QzDBGxHHfkv6WbZHRbZp/X4/P8100345-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-4phRD4M/1/MSSP6TNQQVZQ3kVLWqGGpH9jXS9z5kvhGZMHpMTmL/X5/P8100345-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-4phRD4M/1/LTgTx539vhcFLnRgD7tZp3b7xhj3fqwzRvHpTrk58/4K/P8100345-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-4phRD4M/1/NRpt6h7rL4xvLbVdDHZMmtqS6CsRr3gJ4dTXnQxRg/O/P8100345.jpg",
+          "Ext": "jpg",
+          "Height": 3456,
+          "Width": 4608,
+          "Size": 8455533,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/4phRD4M-1!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/4phRD4M-1!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8100357.jpg",
+      "Date": "2013-08-24T21:03:54+00:00",
+      "Uri": "/api/v2/album/vBqFbX/image/6bJ8Cb9-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKBath/i-6bJ8Cb9/0/#size#/P8100357-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-6bJ8Cb9/0/K2R8QwPS6BZWbR8HjQpDSSMZ5PqB7VxcsJqP8JcJ3/Ti/P8100357-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 10473
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-6bJ8Cb9/0/KjbXr4h3t4FDD7VJ2ScbXjL49Vc2NDQ7kDdMvjZGd/Th/P8100357-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-6bJ8Cb9/0/NVvDRNKB2w2XbgxQG5KtrFnDFmH2ghpZNXhQz2KDQ/S/P8100357-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 61333
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-6bJ8Cb9/0/MHCG2X6j8BXXc43ZbFRCvBmMcMxfGJ5H3CkvFLX4D/M/P8100357-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 122918
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-6bJ8Cb9/0/LRHPbsC8VV89RwWJ4CbW7853695JvHGnCC4wkZ25S/L/P8100357-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 192145
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-6bJ8Cb9/0/LtJXc88rthDLbJqTGKbFh33MrZszNkCw7ZDNX9SNM/XL/P8100357-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-6bJ8Cb9/0/NGgxs3SqmXVjbwJfF3Pfr3NGHcSjJTGCpQJmQqwTp/X2/P8100357-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 444085
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-6bJ8Cb9/0/KTJfcX89XwtQ9sc8qKjcR5d396CCNn3Tm74ZVGqLb/X3/P8100357-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-6bJ8Cb9/0/NRcq7SgtfpFqZDHZvgTn2JT9RxtdDHrcFsG6RqkXM/X4/P8100357-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-6bJ8Cb9/0/NcpZSRH65GD8CbrhfCJ4B5rGsZVR3wkq5Md4q8mZZ/X5/P8100357-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-6bJ8Cb9/0/MrSnRvsKdKw2FpZ7tZ7hvMWNF2dmKDGWpqr7Gqt7t/4K/P8100357-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-6bJ8Cb9/0/LT6wkmBRq9XfR4R6tQsxXW9zQqBT3mnKbqrPf3CBd/O/P8100357.jpg",
+          "Ext": "jpg",
+          "Height": 3312,
+          "Width": 4416,
+          "Size": 6468696,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/6bJ8Cb9-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/6bJ8Cb9-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8100359.jpg",
+      "Date": "2013-08-24T21:05:33+00:00",
+      "Uri": "/api/v2/album/vBqFbX/image/B9tzFwD-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKBath/i-B9tzFwD/0/#size#/P8100359-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-B9tzFwD/0/MsnfcQb5kKJs4v7ptbQVKsQxSpTknR4p5BBH6t9Th/Ti/P8100359-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-B9tzFwD/0/LcTv9X6LrKwg8258WnxDfm3h85T4jjFvwSDBMSkKk/Th/P8100359-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-B9tzFwD/0/KN8Jxk575zVkGFHgV7ZvVrxxHv59C5mf4TRV2RHdp/S/P8100359-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 59864
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-B9tzFwD/0/NGKK88Dbj4GttSKfpSZVqRcXp6RP4W9Jb9XrpdwKf/M/P8100359-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 119190
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-B9tzFwD/0/LqgNcKGvLNwtkKKLBLrgCc9LVrgKqrfsZXVDPcBH9/L/P8100359-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 185864
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-B9tzFwD/0/LWHDtpDHkzXzm5v5LDnDR6XtfRQT7NXFn6HhnrGPV/XL/P8100359-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-B9tzFwD/0/KQNBfzv2t3ZT4XskKgdzjqBG87cksCHXjzm2jSZqL/X2/P8100359-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 419884
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-B9tzFwD/0/NNHGv9qjTFCP522dcxSQGpGxMvJxx73tdZZcdVKkJ/X3/P8100359-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-B9tzFwD/0/LthHdLWcTxm9kCt7bVfLd6Tz254NDf6nRts53nJtz/X4/P8100359-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-B9tzFwD/0/MrzHZBvWkdN4DLP2wG9L3LML97BDTDjX8GzqGvdQB/X5/P8100359-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-B9tzFwD/0/LPRd7zpsdcd2gsxL6P82RjZQWxNn57BFdzsjb87dP/4K/P8100359-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-B9tzFwD/0/NDK2pWVGrpXC3T5xMMmhJvNddCwgvcMM5cmk66Nsn/O/P8100359.jpg",
+          "Ext": "jpg",
+          "Height": 3328,
+          "Width": 4437,
+          "Size": 6517502,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/B9tzFwD-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/B9tzFwD-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8110363.jpg",
+      "Date": "2013-08-24T21:07:17+00:00",
+      "Uri": "/api/v2/album/vBqFbX/image/CMKkxNv-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKBath/i-CMKkxNv/0/#size#/P8110363-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-CMKkxNv/0/LNPHVmqjX6WDVvnLQzKrVKGqwRgLsbdGZPCVWkt5f/Ti/P8110363-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-CMKkxNv/0/KLBhZNbF49tb5S9VHDSzVrtS233QZjc6gFRvSr2NK/Th/P8110363-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-CMKkxNv/0/KnSMvvNJL73bKLwx7TFwwz2kHW8jtcWGgVkVxxBzD/S/P8110363-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 68987
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-CMKkxNv/0/LBjsfSc3hdrB6wpfTDBkRq533vwfsMH6nsTdSfQcK/M/P8110363-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-CMKkxNv/0/MjHtV3ms7XBjZqz8V87hQkCZ7mDpV8R47vg6MPs5k/L/P8110363-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 217056
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-CMKkxNv/0/LftGdfvVhMb68Lgn3N3J6twB5xxt33rGBqmq62MgW/XL/P8110363-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 353274
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-CMKkxNv/0/LPRRtjMw7jNfFMnwDfzZNTmzJqkN4RQhpzKhBNwTP/X2/P8110363-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 502022
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-CMKkxNv/0/MH5Mt9DdrTNJPq6LWvXnrmdWMrdcBJ67RVhkLZCvC/X3/P8110363-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-CMKkxNv/0/LSDRvDD96jPsbd6Xh8zWtCFPT6PqRv9DW9GBbn7Lb/X4/P8110363-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-CMKkxNv/0/NCsPHqMVdNfNttC3TX5FdqKX644Q7W8nr4HfFGLpL/X5/P8110363-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-CMKkxNv/0/LJ7jX9G5Mn6pfD9cMSvBNkGd2xnCgtJHGz5nLTgvP/4K/P8110363-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-CMKkxNv/0/MJ85ShNhH8rjcTSPHWGKB8qV4NwVdP7s973tCZcqz/O/P8110363.jpg",
+          "Ext": "jpg",
+          "Height": 3356,
+          "Width": 4475,
+          "Size": 6785745,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/CMKkxNv-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/CMKkxNv-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8110366.jpg",
+      "Date": "2013-08-24T21:08:41+00:00",
+      "Uri": "/api/v2/album/vBqFbX/image/5qHSShr-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKBath/i-5qHSShr/0/#size#/P8110366-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-5qHSShr/0/MVzbvQx98h3BhSjDL5dHDQ8nMxkcLXhcGbrVNBkJn/Ti/P8110366-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-5qHSShr/0/K6JszjVnVNq8KPKcxm8CSKP32zr9VNMLnnSKT8Srm/Th/P8110366-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-5qHSShr/0/Mb94CCghm5MX9GjrGxdGGMj2hXJfB8vStGvSTvDSj/S/P8110366-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 69545
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-5qHSShr/0/Ms39Zss9zcDH9SSrwmGC5gXwkdmHHp6XcRhHrFLHz/M/P8110366-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-5qHSShr/0/NCPLkkgzLtq8C5PnScbLfXR5gpsgR5P7Q6ssHRbdT/L/P8110366-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 207843
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-5qHSShr/0/MczQXKkS5pRTfq5BJhWVLsnJDVLKJkzhsRSVWSKkX/XL/P8110366-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 327130
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-5qHSShr/0/K9MWPc4sxx9bbcjn2T9vNVJ2WTRHCz5MS4LjhXgXD/X2/P8110366-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 457984
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-5qHSShr/0/NbcctbLdVLsGM99NXGw7sRLRzmnJrhv392S7PVPX6/X3/P8110366-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-5qHSShr/0/KF5HmSZVqNDcDpsGdnb9mcwbtPjHTkqZKJJXjs4Zd/X4/P8110366-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-5qHSShr/0/Mk9wx6vMnfXVrWJ68W9sw863zMqWgS48pGp5693Lz/X5/P8110366-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-5qHSShr/0/NR9tGnxFtwMTcVXfWft3MhrDbcLgJ6FB7RsFKXqdz/4K/P8110366-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKBath/i-5qHSShr/0/KcnhbRv2Vw5cLrGcpDSq6zbbXVJjfPpB3wKfWPKdS/O/P8110366.jpg",
+          "Ext": "jpg",
+          "Height": 3054,
+          "Width": 4072,
+          "Size": 5266395,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/5qHSShr-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/5qHSShr-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    }
+  ]
+}

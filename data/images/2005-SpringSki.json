@@ -1,0 +1,340 @@
+{
+  "UrlName": "2005-SpringSki",
+  "Name": "2005-Spring Ski",
+  "Uri": "/api/v2/album/ZpGfLn",
+  "Date": "2008-04-12T18:16:50+00:00",
+  "WebUri": "https://lmblevins.smugmug.com/Travel/2005-SpringSki",
+  "Images": [
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "100_0013.jpg",
+      "Date": "2008-04-12T18:16:56+00:00",
+      "Uri": "/api/v2/album/ZpGfLn/image/mR8XRSJ-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-SpringSki/i-mR8XRSJ/0/#size#/100_0013-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-SpringSki/i-mR8XRSJ/0/MNxLpXcK77C577pZCmBKV43tJHtf52pbrvjS8VzkJ/Ti/100_0013-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-SpringSki/i-mR8XRSJ/0/LxZ7vtMFvvhFwJ7VL8x7FwVc2ggLwkVt59CgS8WDS/Th/100_0013-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 14995
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-SpringSki/i-mR8XRSJ/0/MjF7bKDT3SthbDn6SLQX3QpwVsnffmMnSdvx9DjHD/S/100_0013-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 77765
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-SpringSki/i-mR8XRSJ/0/NTWZWhRNGC2LzMLJnMjc3DvRwh5K82KHvGH3sN9XD/O/100_0013.jpg",
+          "Ext": "jpg",
+          "Height": 375,
+          "Width": 500,
+          "Size": 64002,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/mR8XRSJ-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/mR8XRSJ-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "100_0012.jpg",
+      "Date": "2008-04-12T18:16:56+00:00",
+      "Uri": "/api/v2/album/ZpGfLn/image/Dz6Lfkq-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-SpringSki/i-Dz6Lfkq/0/#size#/100_0012-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-SpringSki/i-Dz6Lfkq/0/L6SJ9L2jdgFGFGrSWPxKf3rtX37CnM7gnPBqmXhXR/Ti/100_0012-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-SpringSki/i-Dz6Lfkq/0/MBLkn92Rk8JKVpxdz3DkT29njXKKJ7stqzL37gwRW/Th/100_0012-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-SpringSki/i-Dz6Lfkq/0/K7JJWsdT4W3V5298kNNFBC292f9qgtVggqHp8637d/S/100_0012-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 74620
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-SpringSki/i-Dz6Lfkq/0/MbWjFvWz96mPRFzXKcgmdX66w4tGbXnn6Wqmqz3Mx/O/100_0012.jpg",
+          "Ext": "jpg",
+          "Height": 375,
+          "Width": 500,
+          "Size": 58743,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Dz6Lfkq-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Dz6Lfkq-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "100_0023.jpg",
+      "Date": "2008-04-12T18:16:59+00:00",
+      "Uri": "/api/v2/album/ZpGfLn/image/khPRWRw-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-SpringSki/i-khPRWRw/0/#size#/100_0023-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-SpringSki/i-khPRWRw/0/K8bMb9pWTPqvchj2X7643dPNjgvqVMpSfmfJwfGjR/Ti/100_0023-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-SpringSki/i-khPRWRw/0/KHK2gdL6Rf8qTQnjk3pGQZb7NmcKRnxHznPPRD6Qc/Th/100_0023-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-SpringSki/i-khPRWRw/0/MsbQnqrnQqD3v5Q4XCVddKw8CXdW6jX5XRWPmDLSB/S/100_0023-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 68443
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-SpringSki/i-khPRWRw/0/KznKcDS43wRKbwT6zVKpHDBKjK2vG4GnLntFDXmNk/O/100_0023.jpg",
+          "Ext": "jpg",
+          "Height": 375,
+          "Width": 500,
+          "Size": 54039,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/khPRWRw-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/khPRWRw-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "100_0018.jpg",
+      "Date": "2008-04-12T18:16:59+00:00",
+      "Uri": "/api/v2/album/ZpGfLn/image/RmTx9L7-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-SpringSki/i-RmTx9L7/0/#size#/100_0018-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-SpringSki/i-RmTx9L7/0/MtqDvvm99CTDFjqnM3jh5B69cGtQqbP3nXLfJPXmd/Ti/100_0018-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-SpringSki/i-RmTx9L7/0/KZnLx8kWb4kHxwn8m2twJxhbbnfNzPrtvT76XvS7k/Th/100_0018-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-SpringSki/i-RmTx9L7/0/MZrHvTdW4kxzHBLtbHFcFT5dtGqsW5Zd8KHrMzNSd/S/100_0018-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 111547
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-SpringSki/i-RmTx9L7/0/MxW22ms5qKcjq2bswPtgcTqXjRBqrSfD4J4b8dFFr/O/100_0018.jpg",
+          "Ext": "jpg",
+          "Height": 375,
+          "Width": 500,
+          "Size": 99890,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/RmTx9L7-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/RmTx9L7-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "100_0026.jpg",
+      "Date": "2008-04-12T18:17:04+00:00",
+      "Uri": "/api/v2/album/ZpGfLn/image/MzCjR7c-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-SpringSki/i-MzCjR7c/0/#size#/100_0026-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-SpringSki/i-MzCjR7c/0/KsCGs2Vg925GCr8Xbj2QHLn5vPbtmFnq4D4ZKNXgj/Ti/100_0026-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-SpringSki/i-MzCjR7c/0/NhJs2Jv8DKDDWCNCkGSMzpfs3MS7846SHFdGwsVCf/Th/100_0026-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-SpringSki/i-MzCjR7c/0/NMhc5mW5wGLN8cLqjCcgLRx8WrKCGNgRWZHSLvcXq/S/100_0026-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 93984
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-SpringSki/i-MzCjR7c/0/L7dLDk65KFqSRWm78KNGqg9tpGKCKWVmcBwSs499S/O/100_0026.jpg",
+          "Ext": "jpg",
+          "Height": 375,
+          "Width": 500,
+          "Size": 84781,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/MzCjR7c-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/MzCjR7c-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "100_0025.jpg",
+      "Date": "2008-04-12T18:17:03+00:00",
+      "Uri": "/api/v2/album/ZpGfLn/image/N5h5XK7-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-SpringSki/i-N5h5XK7/0/#size#/100_0025-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-SpringSki/i-N5h5XK7/0/KZ9tqpQWKQ7Jr8NVCHcqLgG2ngdMn6MWfQLmRJLSP/Ti/100_0025-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-SpringSki/i-N5h5XK7/0/LWgct29XW3DrWLJcT2wh8cjcz6nKbLWHtrL485dSd/Th/100_0025-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-SpringSki/i-N5h5XK7/0/KSpzNmKQnkkXnLnL23v9pwN3BXkgW6t9H5tkv9wmz/S/100_0025-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 79195
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-SpringSki/i-N5h5XK7/0/KhrdNqMVRjKds5f9ZmFNtHqch9Cxtfppx3VjGrhxr/O/100_0025.jpg",
+          "Ext": "jpg",
+          "Height": 375,
+          "Width": 500,
+          "Size": 66938,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/N5h5XK7-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/N5h5XK7-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    }
+  ]
+}

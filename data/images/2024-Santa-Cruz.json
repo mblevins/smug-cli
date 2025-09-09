@@ -1,0 +1,4904 @@
+{
+  "UrlName": "2024-Santa-Cruz",
+  "Name": "2024-Santa-Cruz",
+  "Uri": "/api/v2/album/dBQ4NH",
+  "Date": "2025-08-18T18:46:36+00:00",
+  "WebUri": "https://lmblevins.smugmug.com/Travel/2024-Santa-Cruz",
+  "Images": [
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_1948.jpg",
+      "Date": "2025-08-18T18:48:47+00:00",
+      "Uri": "/api/v2/album/dBQ4NH/image/d8K8W4Z-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-d8K8W4Z/0/#size#/M_IMG_1948-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-d8K8W4Z/0/M68sd25tqcThp9CBQ73krzW7G8hGcPqqZPRh7hSNC/Ti/M_IMG_1948-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-d8K8W4Z/0/MdcZmvgRs9XNrRhfPr38b3CCGHzMWHcLMRChSGNNb/Th/M_IMG_1948-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-d8K8W4Z/0/LwzfjCqbDNxWC6zNNztMbnm9cwwZ8JHvpNWKvpsqc/S/M_IMG_1948-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 57431,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-d8K8W4Z/0/LGGVjTwmKKnkrSzqffTZnP7SqXgWhxRNLHHj3vvLH/M/M_IMG_1948-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-d8K8W4Z/0/K4ftxFqjrgfmbQMMCmQKGS8DD9dwnvFKdGRzFTQp3/L/M_IMG_1948-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-d8K8W4Z/0/KxJHmvM27F3CDpwfcPHnrC6CS3ggR3kW8BGDkmn2B/XL/M_IMG_1948-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 257993,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-d8K8W4Z/0/LnTvp5SsN2c2vG3QB9fjgv7VDjMbTG6qrVqhh4KtJ/X2/M_IMG_1948-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-d8K8W4Z/0/KpzbNC9sV8SjKMgrpkvnNX9WX2ktQP6SNhhLHKDJp/X3/M_IMG_1948-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-d8K8W4Z/0/MvcbH3wLZ3Vx9wMpqJPQnVnqs47Nnh9GGJtjmrxv8/X4/M_IMG_1948-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-d8K8W4Z/0/K8dwKCR7zpHwfSK7n2nNvgK7MQ8GFcHw3p4nZCsV2/X5/M_IMG_1948-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-d8K8W4Z/0/KdMnbwdS3xtccXN5nqhTG78KPNW4scQ9bLpxr7VqJ/4K/M_IMG_1948-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-d8K8W4Z/0/KXHkFp6VM9gcPZx947t5XnRvHtnNT9TpzKw7TMTMC/O/M_IMG_1948.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 4105724,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/d8K8W4Z-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/d8K8W4Z-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "38.480930555556",
+      "Longitude": "-120.84845",
+      "FileName": "L_IMG_5747.jpg",
+      "Date": "2025-08-18T18:48:43+00:00",
+      "Uri": "/api/v2/album/dBQ4NH/image/gDs4NVD-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-gDs4NVD/0/#size#/L_IMG_5747-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-gDs4NVD/0/KR6mDrH53mwLSddzXzvf65xXZKFbwRWksvFWtbDbx/Ti/L_IMG_5747-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-gDs4NVD/0/Kv2bw3wZTsJsKPqMK8D4NRFhns5CkBKDGczbsKtLP/Th/L_IMG_5747-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-gDs4NVD/0/LGnphmfLSkx8VVdwNKSFKvPLx8xCw6PGrTKPQbkHw/S/L_IMG_5747-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 43875,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-gDs4NVD/0/LtwRf85FV2p3BWv6q4Fwg58PZCQqcT5XfNd7CFn8Q/M/L_IMG_5747-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-gDs4NVD/0/KSkXxfNKszN9w7DTHPbxMxv3PPWtmJvsSKnJSJnmV/L/L_IMG_5747-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-gDs4NVD/0/KKCgFVSrfMNht6xDVxqhc3ktMKwc6bSmNzBXfH2Qp/XL/L_IMG_5747-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 191489,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-gDs4NVD/0/Lt4MkNksDshJGNJxd4RBvgttH5Lb4kdVbGsdTkJ9t/X2/L_IMG_5747-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-gDs4NVD/0/KzzmqtxwZvLLLDbbr8bDMZkRPgqdqHcJW2DFdFG7s/X3/L_IMG_5747-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-gDs4NVD/0/MvRgcgGxcXXPDjDVpRrG8p83N6qfPFx7vtvd3zqVN/X4/L_IMG_5747-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-gDs4NVD/0/NdTkQjz6QQxw4nnXbWd9LfdMg9mMwng3dhHsWGCrF/X5/L_IMG_5747-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-gDs4NVD/0/KSrJjB7DVPTSjkKWvdzxtxHpR49JrRdSDNdq7Tpkq/4K/L_IMG_5747-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-gDs4NVD/0/NPksDwLjVwtgJ2H6wGCkpCbkPBRrpCGL8cdhGRjWb/O/L_IMG_5747.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 3663748,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/gDs4NVD-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/gDs4NVD-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_0043 (1).jpg",
+      "Date": "2025-08-18T18:48:38+00:00",
+      "Uri": "/api/v2/album/dBQ4NH/image/xMWng2q-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-xMWng2q/0/#size#/M_IMG_0043%20%281%29-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSize5K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-xMWng2q/0/NZCw59gX9WQ5PX5mm2SpMT6x5WN6KQL8TpxFDTDrP/Ti/M_IMG_0043%20%281%29-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-xMWng2q/0/KTFngFw5FCxWGsbJjB3P54H4vp7J5XnzqtLFJQ2cv/Th/M_IMG_0043%20%281%29-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-xMWng2q/0/MmgcDZGHFTLD4rt5NhpsbmM27wTZqpWDPMhfcvwm2/S/M_IMG_0043%20%281%29-S.jpg",
+          "Ext": "jpg",
+          "Height": 267,
+          "Width": 400,
+          "Size": 59201,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-xMWng2q/0/LsXMqfKMn54P8md46f7GX6hCBCGTH87DWXKRjNb96/M/M_IMG_0043%20%281%29-M.jpg",
+          "Ext": "jpg",
+          "Height": 400,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-xMWng2q/0/LgPQKjsG8k9n7FQnXpjrhkPNR8LG47hDBTjqcRrwr/L/M_IMG_0043%20%281%29-L.jpg",
+          "Ext": "jpg",
+          "Height": 534,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-xMWng2q/0/LG43FGmH6XVqKKtWWxrq3RNCQx4jNCPBvfR3CLvfL/XL/M_IMG_0043%20%281%29-XL.jpg",
+          "Ext": "jpg",
+          "Height": 683,
+          "Width": 1024,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-xMWng2q/0/Mk6Rks7HKdp3v3JXp3HP6zgRX27SqSnpHJKFZkXHk/X2/M_IMG_0043%20%281%29-X2.jpg",
+          "Ext": "jpg",
+          "Height": 854,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-xMWng2q/0/NbnkG522sXgnWdHLcVXgFTMhNXxpVmxM3PbF9BVJm/X3/M_IMG_0043%20%281%29-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1067,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-xMWng2q/0/LBnH9sXQ3NbrSZWXBg5jPdSjLxWcT49Jpw4Fg5Ctw/X4/M_IMG_0043%20%281%29-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1366,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-xMWng2q/0/LCXSXNw2xqhL2P3H62QnkhZgSGJsqFrZ282F26XK2/X5/M_IMG_0043%20%281%29-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1708,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-xMWng2q/0/NBzT5xJcqPqdJJMBX47ZVCdKCsWHZQL5fpwqRTBdB/4K/M_IMG_0043%20%281%29-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2561,
+          "Width": 3840,
+          "Size": 2563269,
+          "Watermarked": false
+        },
+        "ImageSize5K": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-xMWng2q/0/NZ8KL5k8r9BsRVFbxFT6z87LWnJNV96vGB3gjHSg8/5K/M_IMG_0043%20%281%29-5K.jpg",
+          "Ext": "jpg",
+          "Height": 3415,
+          "Width": 5120,
+          "Size": 4577201,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-xMWng2q/0/NhFtnqLXkBXPrsT6BMgzKNDw7WG6PpB5MjCnpnWjn/O/M_IMG_0043%20%281%29.jpg",
+          "Ext": "jpg",
+          "Height": 5464,
+          "Width": 8192,
+          "Size": 14328193,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/xMWng2q-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/xMWng2q-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_0045.jpg",
+      "Date": "2025-08-18T18:48:45+00:00",
+      "Uri": "/api/v2/album/dBQ4NH/image/m6RRnPZ-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-m6RRnPZ/0/#size#/M_IMG_0045-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSize5K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-m6RRnPZ/0/Lx7NPmggP7X3gnKStFJcTQKBMZpwWfbtQWFF4W2Hb/Ti/M_IMG_0045-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-m6RRnPZ/0/KSjRJZffjWG5kRPqjzdZz88LZP3pP8VvH9B7LGbP4/Th/M_IMG_0045-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-m6RRnPZ/0/MJsr8xMmhFtBMX3XHcFkxh4wpRPn5xs4KCzdZmGz7/S/M_IMG_0045-S.jpg",
+          "Ext": "jpg",
+          "Height": 267,
+          "Width": 400,
+          "Size": 60547,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-m6RRnPZ/0/KS7j684FMw9PHDZ2SsQKgvVHk87PMsV4xddP6V6Nk/M/M_IMG_0045-M.jpg",
+          "Ext": "jpg",
+          "Height": 400,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-m6RRnPZ/0/LMxfrFWSp6kx5spDKSgj5HKfFfp3vKKcmDRQS3zSP/L/M_IMG_0045-L.jpg",
+          "Ext": "jpg",
+          "Height": 534,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-m6RRnPZ/0/MbXR8BPMjqXPxJ6LdnDSHK8gjxwqWtCbgKkL4h8vK/XL/M_IMG_0045-XL.jpg",
+          "Ext": "jpg",
+          "Height": 683,
+          "Width": 1024,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-m6RRnPZ/0/LbsvTN6xLw62Qqmr6Ktv6RJrzSpW2WJjjVCdpvTcH/X2/M_IMG_0045-X2.jpg",
+          "Ext": "jpg",
+          "Height": 854,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-m6RRnPZ/0/M25sdM3RPsdsrQgV5jfj28MsHtf7p2JmcGGbDmTBM/X3/M_IMG_0045-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1067,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-m6RRnPZ/0/K8snDQgJQLS99dpStSjKp2RkSnQKfPv9W7JxS6Lxc/X4/M_IMG_0045-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1366,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-m6RRnPZ/0/Kpfpgjnw35kcXXT5vpHk5fqB2LCbKH8d3ng2z85sf/X5/M_IMG_0045-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1708,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-m6RRnPZ/0/NWXVVMf23DvFrV3HkS6TgHv64K9rRc4tk73Rgf698/4K/M_IMG_0045-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2561,
+          "Width": 3840,
+          "Size": 3189077,
+          "Watermarked": false
+        },
+        "ImageSize5K": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-m6RRnPZ/0/MnMvfMDdxhNQnm5SkScBntRFw4H697LxFrsDbVqkS/5K/M_IMG_0045-5K.jpg",
+          "Ext": "jpg",
+          "Height": 3415,
+          "Width": 5120,
+          "Size": 5744402,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-m6RRnPZ/0/L6vxKRRsF7Wbff35JjrwMFKBWS6sgzVMj5ZRMDhzv/O/M_IMG_0045.jpg",
+          "Ext": "jpg",
+          "Height": 5464,
+          "Width": 8192,
+          "Size": 17597944,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/m6RRnPZ-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/m6RRnPZ-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_0039 (1).jpg",
+      "Date": "2025-08-18T18:48:24+00:00",
+      "Uri": "/api/v2/album/dBQ4NH/image/zrp6ZTq-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-zrp6ZTq/0/#size#/M_IMG_0039%20%281%29-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-zrp6ZTq/0/KPPS6ZHS4zcGB8LzBfVnMvfTn5rxdBq3z7QFZfCXH/Ti/M_IMG_0039%20%281%29-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-zrp6ZTq/0/KKZ2v7wnMk7jGmnxxzPzq3WTkLLKWG2x7wxgrDfVQ/Th/M_IMG_0039%20%281%29-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-zrp6ZTq/0/M7wDXg4n8bTzmcZRmptMKJtZFGZdQtR5R59pvN79w/S/M_IMG_0039%20%281%29-S.jpg",
+          "Ext": "jpg",
+          "Height": 267,
+          "Width": 400,
+          "Size": 59241,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-zrp6ZTq/0/KHnmXhpfwTLR5wX95bRrww7GNfG3R3XwgJVnNJ4zZ/M/M_IMG_0039%20%281%29-M.jpg",
+          "Ext": "jpg",
+          "Height": 400,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-zrp6ZTq/0/LGn7sCSff6RXfb2hbL5nbKrPpB4kgTMhnDwdN9gxL/L/M_IMG_0039%20%281%29-L.jpg",
+          "Ext": "jpg",
+          "Height": 533,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-zrp6ZTq/0/Kj2hqjqh267tbM3L7Ljt7nwBfLhRdRkwc6R462RXz/XL/M_IMG_0039%20%281%29-XL.jpg",
+          "Ext": "jpg",
+          "Height": 683,
+          "Width": 1024,
+          "Size": 292817,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-zrp6ZTq/0/KQpvntDjnZbnQmc79Lkv4W8TGRxjM7MbdqB7fbMWS/X2/M_IMG_0039%20%281%29-X2.jpg",
+          "Ext": "jpg",
+          "Height": 854,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-zrp6ZTq/0/M6T8gw6wvgWZpRQnVZMQcP3D9jjKVRktjDDTXPsL8/X3/M_IMG_0039%20%281%29-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1067,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-zrp6ZTq/0/LBJ5kVzgbpChZ22RGHQztVh6JRWQz4jB4cXgN4czz/X4/M_IMG_0039%20%281%29-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1366,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-zrp6ZTq/0/KVcVW4zHQ7fXF5m6qHNHSPt7XTSjvwwwVf7g5Q7CL/O/M_IMG_0039%20%281%29.jpg",
+          "Ext": "jpg",
+          "Height": 1535,
+          "Width": 2302,
+          "Size": 1510423,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/zrp6ZTq-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/zrp6ZTq-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_0031 (1).jpg",
+      "Date": "2025-08-18T18:48:37+00:00",
+      "Uri": "/api/v2/album/dBQ4NH/image/x4WJ3qb-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-x4WJ3qb/0/#size#/M_IMG_0031%20%281%29-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSize5K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-x4WJ3qb/0/K75qLc5m7gDMw9vvfmHTBhqQxSq6BmRJwFX7z7Bsx/Ti/M_IMG_0031%20%281%29-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-x4WJ3qb/0/LbfLKCB5QgD2bhSfQk8Xvz4FPdt34v4Rqfvs8dXxH/Th/M_IMG_0031%20%281%29-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-x4WJ3qb/0/Lc95dx5n3TKxSH3rrK2ns3pXCvqXGg3gfcWLXthqF/S/M_IMG_0031%20%281%29-S.jpg",
+          "Ext": "jpg",
+          "Height": 267,
+          "Width": 400,
+          "Size": 65293,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-x4WJ3qb/0/KQ6nQkHVBMM79PrCjcgbf6KrkftcGB6B8wj4F5bJh/M/M_IMG_0031%20%281%29-M.jpg",
+          "Ext": "jpg",
+          "Height": 400,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-x4WJ3qb/0/LbVwRCZbSFH2kPzgzm9LZHtxTTqmr4DnL9xKBFhG2/L/M_IMG_0031%20%281%29-L.jpg",
+          "Ext": "jpg",
+          "Height": 534,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-x4WJ3qb/0/Ln4v9NmhJCmFC549rrmsBS2nwMRDqPfRJcQFfC72D/XL/M_IMG_0031%20%281%29-XL.jpg",
+          "Ext": "jpg",
+          "Height": 683,
+          "Width": 1024,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-x4WJ3qb/0/LJNvfJWqRzK7dNCkqZmXBqDHTtQLJZLS8xHLZmdQG/X2/M_IMG_0031%20%281%29-X2.jpg",
+          "Ext": "jpg",
+          "Height": 854,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-x4WJ3qb/0/MMjHVLtkP6wzwmkcKvjvqpzJ4wxwd7VVTSQJ5c9q9/X3/M_IMG_0031%20%281%29-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1067,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-x4WJ3qb/0/MDk7Cnt2v7HDpSNBszBtff2dp2FVgHK5cGvQKLRZD/X4/M_IMG_0031%20%281%29-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1366,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-x4WJ3qb/0/MKs9RHqxxssR48x6WHCm8hqDzFwJT946rL2jrRd49/X5/M_IMG_0031%20%281%29-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1708,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-x4WJ3qb/0/KKD5jdmVnvWjxQQQxqKMLkHjkg5Wszt9mRh8QZw5X/4K/M_IMG_0031%20%281%29-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2561,
+          "Width": 3840,
+          "Size": 3239943,
+          "Watermarked": false
+        },
+        "ImageSize5K": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-x4WJ3qb/0/NW5skFmM92TvsP9rhDkTpvJ39j3rT9k52BtBMgqbM/5K/M_IMG_0031%20%281%29-5K.jpg",
+          "Ext": "jpg",
+          "Height": 3415,
+          "Width": 5120,
+          "Size": 5649264,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-x4WJ3qb/0/LHH2cvL49nvk5hgqr99dj75DTJB3LzKttS9BSJdDM/O/M_IMG_0031%20%281%29.jpg",
+          "Ext": "jpg",
+          "Height": 5464,
+          "Width": 8192,
+          "Size": 16545110,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/x4WJ3qb-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/x4WJ3qb-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_0029.jpg",
+      "Date": "2025-08-18T18:48:21+00:00",
+      "Uri": "/api/v2/album/dBQ4NH/image/Mv2rkWs-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-Mv2rkWs/0/#size#/M_IMG_0029-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-Mv2rkWs/0/LBvnLVZfXrtTxWP5cSz7Sp8tM2MX8gFt8QFGppDMs/Ti/M_IMG_0029-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-Mv2rkWs/0/LJkm8Fk8hdfBDrjN9tnj87WL2pdNP9N5RG9dcQrN3/Th/M_IMG_0029-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-Mv2rkWs/0/MDJPqxrnq8mqkqxmPSZ2z75fT8Xg9NKHRkjTTfgHr/S/M_IMG_0029-S.jpg",
+          "Ext": "jpg",
+          "Height": 267,
+          "Width": 400,
+          "Size": 66894,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-Mv2rkWs/0/K7KFkjJWM5McKrvWLMPQQQvswhc3K4mmHC5LgkgRL/M/M_IMG_0029-M.jpg",
+          "Ext": "jpg",
+          "Height": 400,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-Mv2rkWs/0/MMLdfbmvfz3DzkwJtKPtQ6c3hC4bfq8VKqJhLZQ4R/L/M_IMG_0029-L.jpg",
+          "Ext": "jpg",
+          "Height": 533,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-Mv2rkWs/0/KdTV5drvj6D6LCNbp5Hwpgjbqk9pJmvgcwdgbsxX3/XL/M_IMG_0029-XL.jpg",
+          "Ext": "jpg",
+          "Height": 683,
+          "Width": 1024,
+          "Size": 347178,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-Mv2rkWs/0/LL2frhRNmjf7KsPGrk4wnjzBWf8n7nj77vPKb4bD7/X2/M_IMG_0029-X2.jpg",
+          "Ext": "jpg",
+          "Height": 854,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-Mv2rkWs/0/K79BVvHZXvv9c4TNQD7MWD3gVtFr6nJGn3nJRDqM4/X3/M_IMG_0029-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1067,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-Mv2rkWs/0/MqKGCsr39D5dT3pVw3PcffzJ4SpBCwSKDxs59ZbZs/X4/M_IMG_0029-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1366,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-Mv2rkWs/0/Mpg9mZCHBb9765Pkw47BtWzdGqP5wP9zGQQSKVr88/O/M_IMG_0029.jpg",
+          "Ext": "jpg",
+          "Height": 1535,
+          "Width": 2302,
+          "Size": 1817226,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Mv2rkWs-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Mv2rkWs-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_0028 (1).jpg",
+      "Date": "2025-08-18T18:48:46+00:00",
+      "Uri": "/api/v2/album/dBQ4NH/image/nC3Xrzg-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-nC3Xrzg/0/#size#/M_IMG_0028%20%281%29-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSize5K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-nC3Xrzg/0/KTxwbw25LCzQQ2ZtQFLPBShJ3NtW4DRgSWJwpN6g4/Ti/M_IMG_0028%20%281%29-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-nC3Xrzg/0/LzqFLXmQtKGJNg9cnVCV79q6hHd29tCvkmPt4QnQK/Th/M_IMG_0028%20%281%29-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-nC3Xrzg/0/KJj6dqLGmsHPgT48dCCz5xzWTZ8KL63HmrWL435BG/S/M_IMG_0028%20%281%29-S.jpg",
+          "Ext": "jpg",
+          "Height": 267,
+          "Width": 400,
+          "Size": 78917,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-nC3Xrzg/0/NCcmGCrVFCMdXk3LFvm5J7jJf4NdhgWgjNHGXw5S7/M/M_IMG_0028%20%281%29-M.jpg",
+          "Ext": "jpg",
+          "Height": 400,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-nC3Xrzg/0/LS79Fv8C4KxgrHPv55qXWDHc5BSBKC54C97j9Q9R3/L/M_IMG_0028%20%281%29-L.jpg",
+          "Ext": "jpg",
+          "Height": 534,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-nC3Xrzg/0/MDVPdjQH76rZKZstnH68PqnqZJx3t3tzVQ9HqMsWd/XL/M_IMG_0028%20%281%29-XL.jpg",
+          "Ext": "jpg",
+          "Height": 683,
+          "Width": 1024,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-nC3Xrzg/0/KpPj6mHxzXrqPQjfqS6ZQtDs5wtvtCM4wNf8RQr45/X2/M_IMG_0028%20%281%29-X2.jpg",
+          "Ext": "jpg",
+          "Height": 854,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-nC3Xrzg/0/LCvXsxJDjjLSrsVbHkxM2FrJC8nc9mJNXn9k4dJw5/X3/M_IMG_0028%20%281%29-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1067,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-nC3Xrzg/0/Nf77rWLqrrZ8mfdcbHxfSw6LQfZGzGhsGg5Mh2v9D/X4/M_IMG_0028%20%281%29-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1366,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-nC3Xrzg/0/KtcXnH45D3BSgX49gfk2tKQvjgngCPxpttpWMDSmd/X5/M_IMG_0028%20%281%29-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1708,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-nC3Xrzg/0/KzzZfkkjCBjTnKpWn2Qtt2kR7Ss43SKLvhpJmb9Q3/4K/M_IMG_0028%20%281%29-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2561,
+          "Width": 3840,
+          "Size": 4598820,
+          "Watermarked": false
+        },
+        "ImageSize5K": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-nC3Xrzg/0/MSVHcTTmgZpnF35Ww6Nxq2q4BzRCLwsjvSFzJW9HF/5K/M_IMG_0028%20%281%29-5K.jpg",
+          "Ext": "jpg",
+          "Height": 3415,
+          "Width": 5120,
+          "Size": 7791909,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-nC3Xrzg/0/NCh8TJsFFTTxD46xMcQKRpbTLRbPwtrQQ6XGvxfRX/O/M_IMG_0028%20%281%29.jpg",
+          "Ext": "jpg",
+          "Height": 5464,
+          "Width": 8192,
+          "Size": 20956566,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/nC3Xrzg-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/nC3Xrzg-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_0027.jpg",
+      "Date": "2025-08-18T18:48:17+00:00",
+      "Uri": "/api/v2/album/dBQ4NH/image/k56QNmB-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-k56QNmB/0/#size#/M_IMG_0027-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-k56QNmB/0/LKS7qTP3csfFqzPfCJrXjjW78qckjzcgKxQjHv78J/Ti/M_IMG_0027-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-k56QNmB/0/L6xB2snsQFZnkdpF3fj5ssT2dhSLLb7VJVKBFQKtv/Th/M_IMG_0027-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-k56QNmB/0/KSpQVp3BzFRr2vPnZmM58TJddHj2r8LVVthspnrPt/S/M_IMG_0027-S.jpg",
+          "Ext": "jpg",
+          "Height": 267,
+          "Width": 400,
+          "Size": 74656,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-k56QNmB/0/NGcwNzhkhHBmJh6gdQhkjDkHDdwvjrkgKBtNMqBpK/M/M_IMG_0027-M.jpg",
+          "Ext": "jpg",
+          "Height": 400,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-k56QNmB/0/KNWc3BXkS3TMvZBT9GVJGLKcmDT8MKgfSSJCzX4ZM/L/M_IMG_0027-L.jpg",
+          "Ext": "jpg",
+          "Height": 533,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-k56QNmB/0/KMBtr2Jw4CMGTNc3s2qRwM84QxpMtZknnm5Jtmdcf/XL/M_IMG_0027-XL.jpg",
+          "Ext": "jpg",
+          "Height": 683,
+          "Width": 1024,
+          "Size": 431098,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-k56QNmB/0/LFtkCTcQjJrLx2QJ43S6wD79C6S2vjKGxf52Rwqnk/X2/M_IMG_0027-X2.jpg",
+          "Ext": "jpg",
+          "Height": 854,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-k56QNmB/0/LFpcCfZcrcKFSfQv5pK573V7fLmgQKpPR79XNP48w/X3/M_IMG_0027-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1067,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-k56QNmB/0/Mkmsk2rTzbKrzGvvhk4Td7n3LxkRmMFZmfXVD2hKL/X4/M_IMG_0027-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1366,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-k56QNmB/0/M38xkJKPqLhmcrGxLVPbBQXZr6VggXNP3HJg9CtkJ/O/M_IMG_0027.jpg",
+          "Ext": "jpg",
+          "Height": 1535,
+          "Width": 2302,
+          "Size": 2274306,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/k56QNmB-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/k56QNmB-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_0025.jpg",
+      "Date": "2025-08-18T18:48:22+00:00",
+      "Uri": "/api/v2/album/dBQ4NH/image/HPb9NR6-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-HPb9NR6/0/#size#/M_IMG_0025-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSize5K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-HPb9NR6/0/NDwLGg5h9qgvQPHQF256ZHthPqVQkCt3fKqFSm8qj/Ti/M_IMG_0025-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-HPb9NR6/0/McwkPJg4zBhKmDhN6JgWFqwnC9QcrVkn2KTN4sGht/Th/M_IMG_0025-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-HPb9NR6/0/MNvMJtN5d3f7P6rvVPVjswHWcqnSVwxRTTKjRf2WM/S/M_IMG_0025-S.jpg",
+          "Ext": "jpg",
+          "Height": 267,
+          "Width": 400,
+          "Size": 54148,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-HPb9NR6/0/KQkhqWkmr2JDwFM2nMRBLMqT4GLwkMf5mhRJ7shr2/M/M_IMG_0025-M.jpg",
+          "Ext": "jpg",
+          "Height": 400,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-HPb9NR6/0/NQSsggJhXQHr46JzSx49jBBWtzjMxGQMs6ww6nnfb/L/M_IMG_0025-L.jpg",
+          "Ext": "jpg",
+          "Height": 534,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-HPb9NR6/0/KG8BQtpTnRJ87MhL3LzvmvmstW4QQZTDsBLPhcXGG/XL/M_IMG_0025-XL.jpg",
+          "Ext": "jpg",
+          "Height": 683,
+          "Width": 1024,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-HPb9NR6/0/M4gZQxLqbV4XPbXFsQF28fvrKQcjWtmcqGSKV7sjs/X2/M_IMG_0025-X2.jpg",
+          "Ext": "jpg",
+          "Height": 854,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-HPb9NR6/0/L7BFX7NMCDJ8dvdJCx6jZ5XMfTvx4LHP5XNHpnNVN/X3/M_IMG_0025-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1067,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-HPb9NR6/0/NHdpG2PpsNGzHV7X34DN8RTHDvtVH98kx78xdwVHq/X4/M_IMG_0025-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1366,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-HPb9NR6/0/LZQSV9PVz69r2G3K2QHCrRtNwZ25dMwQTbqqbbRxF/X5/M_IMG_0025-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1708,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-HPb9NR6/0/LTGQtqLqbFB9LN7WR4Z6FWQdmt2HsRC7kDGq8rXHT/4K/M_IMG_0025-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2561,
+          "Width": 3840,
+          "Size": 1826790,
+          "Watermarked": false
+        },
+        "ImageSize5K": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-HPb9NR6/0/LhW3WRZxmP6zMDkqdJHC4Hhgfn9pVBpF9LGLj8n7V/5K/M_IMG_0025-5K.jpg",
+          "Ext": "jpg",
+          "Height": 3415,
+          "Width": 5120,
+          "Size": 3220231,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-HPb9NR6/0/LbVT8t4FtkFZmDwWf95hnZ7VD7jkTff784CR9rRm8/O/M_IMG_0025.jpg",
+          "Ext": "jpg",
+          "Height": 5464,
+          "Width": 8192,
+          "Size": 10586609,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/HPb9NR6-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/HPb9NR6-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_0024 (1).jpg",
+      "Date": "2025-08-18T18:48:20+00:00",
+      "Uri": "/api/v2/album/dBQ4NH/image/fQJLhTG-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-fQJLhTG/0/#size#/M_IMG_0024%20%281%29-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSize5K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-fQJLhTG/0/LNzdqkfDkTrLh43jJ9mPzZSWsfxnXSbhhzQQwff4Q/Ti/M_IMG_0024%20%281%29-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-fQJLhTG/0/LBZnmWqZBDTjZDF5H9gRMq4rcJ2LvtGXTpp8zP2qc/Th/M_IMG_0024%20%281%29-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-fQJLhTG/0/MsgLfbMvxtzb3HW46hsQqRrXTLFxdvWkWTgS8XsFF/S/M_IMG_0024%20%281%29-S.jpg",
+          "Ext": "jpg",
+          "Height": 267,
+          "Width": 400,
+          "Size": 54771,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-fQJLhTG/0/L6H9GG2c5pDPvT9XrFw82Mxz9dNHmwczkc68dHdjr/M/M_IMG_0024%20%281%29-M.jpg",
+          "Ext": "jpg",
+          "Height": 400,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-fQJLhTG/0/MtxK4xT3q6wjhzCS7DWKPNX9nq4WFjRtRMgcpSCDM/L/M_IMG_0024%20%281%29-L.jpg",
+          "Ext": "jpg",
+          "Height": 534,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-fQJLhTG/0/K4B5QzLTcM2xggF4GDchz5vb25rkgnqWfhPcHgvxv/XL/M_IMG_0024%20%281%29-XL.jpg",
+          "Ext": "jpg",
+          "Height": 683,
+          "Width": 1024,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-fQJLhTG/0/MNDpTPLfZJqd4znzFTcTd4vBThQdznhdmVW9RfbwV/X2/M_IMG_0024%20%281%29-X2.jpg",
+          "Ext": "jpg",
+          "Height": 854,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-fQJLhTG/0/NN5BGbw9kHdg7MRZCjqs64DB7G2G5NDSG8hBDw2Tn/X3/M_IMG_0024%20%281%29-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1067,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-fQJLhTG/0/K9Gxnh82SFvVkj9MHJH7V4KWTxjrzWVKHL9vcnWxD/X4/M_IMG_0024%20%281%29-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1366,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-fQJLhTG/0/NhmVP4CsNxNbRn36wMWKzzt36h9WQTTGrzMKh7xB5/X5/M_IMG_0024%20%281%29-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1708,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-fQJLhTG/0/NW2ZQ7LTRZRdK2N2vMxkD3FdZv29M52gqP2wrfMs7/4K/M_IMG_0024%20%281%29-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2561,
+          "Width": 3840,
+          "Size": 2175981,
+          "Watermarked": false
+        },
+        "ImageSize5K": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-fQJLhTG/0/KdKHhjxG8nJcZQVxzCGKD5J4R98Zzd9PLVsnsSsWT/5K/M_IMG_0024%20%281%29-5K.jpg",
+          "Ext": "jpg",
+          "Height": 3415,
+          "Width": 5120,
+          "Size": 3730390,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-fQJLhTG/0/LqQfs9TckBPNbK5VJZvqGjTvz7S24ggHn28mQSxxs/O/M_IMG_0024%20%281%29.jpg",
+          "Ext": "jpg",
+          "Height": 5464,
+          "Width": 8192,
+          "Size": 11310097,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/fQJLhTG-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/fQJLhTG-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_0047 (1).jpg",
+      "Date": "2025-08-18T18:48:32+00:00",
+      "Uri": "/api/v2/album/dBQ4NH/image/fpZRcQC-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-fpZRcQC/0/#size#/M_IMG_0047%20%281%29-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSize5K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-fpZRcQC/0/K2cDkmGPSrcnrPQCjbPK8HNVP5cdScR6KF59FvmZs/Ti/M_IMG_0047%20%281%29-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-fpZRcQC/0/KrmCDPTC6XDSmT7sfhp3NzpsgZM7wd2Tb4QJQ78Jj/Th/M_IMG_0047%20%281%29-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-fpZRcQC/0/MnNM4w22KrB6tNMN7WjJpRv5wgrhhT8gBv9pfMgcB/S/M_IMG_0047%20%281%29-S.jpg",
+          "Ext": "jpg",
+          "Height": 267,
+          "Width": 400,
+          "Size": 51882,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-fpZRcQC/0/KbQkL2R7T4Zr65RMGvdbmVXMGbrRg5bNCLN742S7V/M/M_IMG_0047%20%281%29-M.jpg",
+          "Ext": "jpg",
+          "Height": 400,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-fpZRcQC/0/Mk8KhKJ4NVfpKXDdXrgCdHbm583CktPmxQ7rVX9b4/L/M_IMG_0047%20%281%29-L.jpg",
+          "Ext": "jpg",
+          "Height": 534,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-fpZRcQC/0/NTQGkPTCzMfF4PG3JvMJ25FSH5pKDg9VTqmKFwzJX/XL/M_IMG_0047%20%281%29-XL.jpg",
+          "Ext": "jpg",
+          "Height": 683,
+          "Width": 1024,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-fpZRcQC/0/L4VrS9Rz6JWP6zzmz4Fr6f6PvNFRfnFp4gKvFzz7J/X2/M_IMG_0047%20%281%29-X2.jpg",
+          "Ext": "jpg",
+          "Height": 854,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-fpZRcQC/0/L25pzwGczNgQcdBxzpq5XBdv2CZsK5ZQJ8qHcr68b/X3/M_IMG_0047%20%281%29-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1067,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-fpZRcQC/0/KRSKxn9DF7HRn8J3VG3NHhwp48KGsQjxJ3T95J5wz/X4/M_IMG_0047%20%281%29-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1366,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-fpZRcQC/0/NRTj3Gq9hrVhTBtdLzvJ7h4gjtNwW82tbnJN2qjWG/X5/M_IMG_0047%20%281%29-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1708,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-fpZRcQC/0/MxpwrpMhcwKdQSf8gSWc786GBWGVNWDzRtqDgHqmF/4K/M_IMG_0047%20%281%29-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2561,
+          "Width": 3840,
+          "Size": 1982049,
+          "Watermarked": false
+        },
+        "ImageSize5K": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-fpZRcQC/0/KmnNBr4MTc6h3n356ZbzSBfn7H4tK5Hcqz7HkQXz2/5K/M_IMG_0047%20%281%29-5K.jpg",
+          "Ext": "jpg",
+          "Height": 3415,
+          "Width": 5120,
+          "Size": 3590655,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-fpZRcQC/0/L2hW9t2Q6ZTGKGKctS8z6VSCVrnDr75LpvQm83P5X/O/M_IMG_0047%20%281%29.jpg",
+          "Ext": "jpg",
+          "Height": 5464,
+          "Width": 8192,
+          "Size": 11934592,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/fpZRcQC-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/fpZRcQC-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "36.951702777778",
+      "Longitude": "-122.02605555556",
+      "FileName": "L_IMG_5756.jpg",
+      "Date": "2025-08-18T18:48:16+00:00",
+      "Uri": "/api/v2/album/dBQ4NH/image/RFcZ8dN-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-RFcZ8dN/0/#size#/L_IMG_5756-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-RFcZ8dN/0/MfVzKbFfbvRSzNsDjSxcLgcMdTqVVBZv4jPckWVx2/Ti/L_IMG_5756-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-RFcZ8dN/0/KrZCxtgxQqz8LTqXzTjPFhjb5MHC9ff7TwVtJBN8N/Th/L_IMG_5756-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-RFcZ8dN/0/LRfPVdLNPRt79f8G9Wxx2p3rbW8CtRPrLmn9VT3Dn/S/L_IMG_5756-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 37385,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-RFcZ8dN/0/NPxsjt5t3gwWXZCF2NCWvX5PJcQTkdwm3XCjNpRtc/M/L_IMG_5756-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-RFcZ8dN/0/LC3VFQfpzvKqtgj5RtwtWXLnwjnmLhpkRgwftrdVk/L/L_IMG_5756-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-RFcZ8dN/0/KvZbZ23bTsjnP7XNjX97bDnZqj9sP33qhrVppzWMb/XL/L_IMG_5756-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 180897,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-RFcZ8dN/0/K3rbqFZ8J8LLZfcNmmzBhQhBt8gGxdbqWC5bXTFWR/X2/L_IMG_5756-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-RFcZ8dN/0/LNRbvZwbsWL7tfVXcFP2c2VPZR7rKXZw2d54mrz88/X3/L_IMG_5756-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-RFcZ8dN/0/LTDc3xBrnRc7Z7V327CTMQZpQRSBQhzCG7XFdSmdz/X4/L_IMG_5756-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-RFcZ8dN/0/KzqwpkvRxG7bNFCRL2w2ttQzgsnbPm7KKg4RnRgX6/X5/L_IMG_5756-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-RFcZ8dN/0/MvH6Bx53vs7nRNWRnnjG2rGXRdMxgLJtWmFJjHp6d/4K/L_IMG_5756-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-RFcZ8dN/0/Mw2sFSzGB2jjNMWWpsFK24ZFCbgc2rmsk5wtb7gND/O/L_IMG_5756.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 2815149,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/RFcZ8dN-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/RFcZ8dN-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "36.952897222222",
+      "Longitude": "-122.03668888889",
+      "FileName": "L_IMG_5762.jpg",
+      "Date": "2025-08-18T18:48:13+00:00",
+      "Uri": "/api/v2/album/dBQ4NH/image/NTKFCrv-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-NTKFCrv/0/#size#/L_IMG_5762-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-NTKFCrv/0/LqwqmFdTdCDrkGWGtfKP4BC5FgKHtXwJGPVBC8SgX/Ti/L_IMG_5762-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-NTKFCrv/0/MMv8TTBS9F2F4bd9fccZQV4vcKhHqCc45nC9TKkkR/Th/L_IMG_5762-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-NTKFCrv/0/MVLDFzd7nskWk85gjBr6Dnb49TzMVDgX6vQdGFqfh/S/L_IMG_5762-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Size": 32417,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-NTKFCrv/0/K2vbj33nvT9GpVtjQBDWsPcNTBshnTsHJDqGDs4NR/M/L_IMG_5762-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-NTKFCrv/0/MqHDjLkszbZNkNFVX2rtDt23RkvddDnB8XNBZvKF8/L/L_IMG_5762-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-NTKFCrv/0/NbzsFSVFXG24HdB4LgK86FHnxKkphC2vd5w6FB4Cq/XL/L_IMG_5762-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 159173,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-NTKFCrv/0/KRWtHmdGpghShFp3t3DxGv2PjX8RJrpCSVkMVNwVF/X2/L_IMG_5762-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-NTKFCrv/0/MKqX5xNkFKznMQpc32f94HzPQPKPzfGRW6GVJdG32/X3/L_IMG_5762-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-NTKFCrv/0/KWdGdKqJZSG3mnRbzPhhZXnvv8CgjqQWTDM4rzNbJ/X4/L_IMG_5762-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-NTKFCrv/0/MgnpDw45bdbnJ33BqBsxT3vHPns7FJ5fcCCPZMMds/X5/L_IMG_5762-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-NTKFCrv/0/MwC4XpWTjs3jWDXjJdN6rJVF2t7XJXv4rMsGzT8C2/4K/L_IMG_5762-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-NTKFCrv/0/LsP7PKrgvF9hQBtBbLKkqkvm7T2Vcc6zdKGqQDFbp/O/L_IMG_5762.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 4296711,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/NTKFCrv-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/NTKFCrv-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "36.952152777778",
+      "Longitude": "-122.02897777778",
+      "FileName": "L_IMG_5768.jpg",
+      "Date": "2025-08-18T18:48:10+00:00",
+      "Uri": "/api/v2/album/dBQ4NH/image/RKPxgkQ-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-RKPxgkQ/0/#size#/L_IMG_5768-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-RKPxgkQ/0/MThtdbQRVHQPVBCjP9kRLDSWgbHVVHkMmVkRdmcqN/Ti/L_IMG_5768-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-RKPxgkQ/0/MGKtTgjFjSfB8Gn3DfzMV42pdh2Lvs7BhXFSWcHss/Th/L_IMG_5768-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-RKPxgkQ/0/MSWD7PxkPDMbf3DRWGmFQSXKwV5j5xmJ74WRQqqw5/S/L_IMG_5768-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 79583,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-RKPxgkQ/0/NLPHcVBxBq5sXLMHvfLJv4H3hqPhBnDSj7w2zzFfg/M/L_IMG_5768-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-RKPxgkQ/0/Mcddk9vBQqTrrVMvCzr8wFwTcSsBNDxrCWLsw35QZ/L/L_IMG_5768-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-RKPxgkQ/0/LjwmH3NtSRbfQ8f4LSLhC5hPTHqB4mNnsmGSWCrWH/XL/L_IMG_5768-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 446827,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-RKPxgkQ/0/MmnxT4pNTVKC6ndFWL6H6Gf8FvTkdh5cDZmtB2cJR/X2/L_IMG_5768-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-RKPxgkQ/0/NDhWsFj8NBhjBx6c2qbRCd8Rt2vgxNDDXP27ZGWgP/X3/L_IMG_5768-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-RKPxgkQ/0/L3TSRbThLpJWD8pf8vq7vPxZRcdC68zwz3GXtnHjB/X4/L_IMG_5768-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-RKPxgkQ/0/LXfSjrsSx4qcBNVtFL6N8mRZdB7Cc3bDS3RbNcgsx/X5/L_IMG_5768-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-RKPxgkQ/0/M3KMTWkXQpVpFJMbt95KprBLGKhTMcn5czwd5x7dc/4K/L_IMG_5768-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-RKPxgkQ/0/MkNj2FNVHcqkq46sDsfvdxrRXnssG3Mm4prrXGQtB/O/L_IMG_5768.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 6585602,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/RKPxgkQ-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/RKPxgkQ-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "36.982833333333",
+      "Longitude": "-122.04425833333",
+      "FileName": "L_IMG_5775.jpg",
+      "Date": "2025-08-18T18:48:05+00:00",
+      "Uri": "/api/v2/album/dBQ4NH/image/8tfJ77z-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-8tfJ77z/0/#size#/L_IMG_5775-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-8tfJ77z/0/MDDtqmc6x8B2psC4WT7fqnknShrXZgXQMnPFrPSJV/Ti/L_IMG_5775-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-8tfJ77z/0/NMjVg69rBWn7pQ3PV6JmZVqZwSw8qN5cc3wS4JdC9/Th/L_IMG_5775-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-8tfJ77z/0/NMHKqxnxbNwZx8JvpxfTNZpfGTMx6XXvVgHtTrPWL/S/L_IMG_5775-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Size": 34370,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-8tfJ77z/0/LNDrq6NBQ43VtDMP3ML94j7r3QLt5CsLvnPbTJHjq/M/L_IMG_5775-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-8tfJ77z/0/LQRn6K7Dn5FSwHQ4zjskL6sQvPbKngDFmhrp9B52G/L/L_IMG_5775-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-8tfJ77z/0/Lf8FBGcp97G867Q3s6jxhvr4psgG5LZgF2W3BWddJ/XL/L_IMG_5775-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 129394,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-8tfJ77z/0/LrtdsTWmdwK3sH3KszZgDQrG2BLGGKZj9Ptqv4D7d/X2/L_IMG_5775-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-8tfJ77z/0/LhHfZ4QBNQVkJpkzJHjjr7Qx3tX9s5Cqg9MH83LVQ/X3/L_IMG_5775-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-8tfJ77z/0/MJf3N8TbZB2mxRP68J6zwfV79s7LQLsBJm5Xxqpwz/X4/L_IMG_5775-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-8tfJ77z/0/Ktc6sNHKFBCgw5GsD2Kw8qwtkDFhR5wNdcGWQHp5w/X5/L_IMG_5775-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-8tfJ77z/0/MbfWGX8vpZFFcmtDN2ksTwn2XbKGNSVtN3ws7fzs8/4K/L_IMG_5775-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-8tfJ77z/0/NWBQjtrzLRhjzQFhg8N6Fpht5pPVr8nQq8nV9PcLs/O/L_IMG_5775.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 2321055,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/8tfJ77z-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/8tfJ77z-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "36.982894444444",
+      "Longitude": "-122.04422777778",
+      "FileName": "L_IMG_5777.jpg",
+      "Date": "2025-08-18T18:48:07+00:00",
+      "Uri": "/api/v2/album/dBQ4NH/image/wp6sPZL-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-wp6sPZL/0/#size#/L_IMG_5777-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-wp6sPZL/0/LnvQv9dWf2CBwQ5SFmN4ZjrDTnrj4k3rkN9LZKfNK/Ti/L_IMG_5777-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-wp6sPZL/0/NKNLdB2RKGG5DXzMvRBmq4FCnR7QThDG6SncF9gHd/Th/L_IMG_5777-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-wp6sPZL/0/MmtKhxrpr8Lr2Cnwr8hLrPDkCv9WnHHLcN4xNKLQ9/S/L_IMG_5777-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Size": 59470,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-wp6sPZL/0/LNjzk7gpFNk7Pv4j33T5vXRZjfTPfSvQmp8jfVH6F/M/L_IMG_5777-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-wp6sPZL/0/MRrzxMqZnMLSbXMs2HLs7hvrqSWxbxHwx3vHwMwSC/L/L_IMG_5777-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-wp6sPZL/0/KqDpPfJL6Kwg9W8DXzWJtR4c3N4P9fpFgCsrpBKcQ/XL/L_IMG_5777-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 234207,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-wp6sPZL/0/MFmMv5bZNm68gPd2PqN9F4P9XKp3CQjnZqDvzhzGd/X2/L_IMG_5777-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-wp6sPZL/0/LRWz5qqMNKDj64DgNBXw9VbDKXLFDJ9LRBFvXvNMG/X3/L_IMG_5777-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-wp6sPZL/0/Kp8WFjkXx7nmhw5vfSStDkqcwCJbm7dtMQJR4n3nB/X4/L_IMG_5777-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-wp6sPZL/0/NHQP2CdD3MXQfBQVZXQkthh6ZgT3NZkzzZB6v9zJg/X5/L_IMG_5777-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-wp6sPZL/0/Lb2kMRDV3LfwprLL62d4jWjZgxVmFRh6d7wkskQtf/4K/L_IMG_5777-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-wp6sPZL/0/MD2T95fq7bfTFddpdk9Dtw4SQkm8XwnksqQJxhCKw/O/L_IMG_5777.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 5116942,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/wp6sPZL-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/wp6sPZL-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "36.982802777778",
+      "Longitude": "-122.04426666667",
+      "FileName": "L_IMG_5779.jpg",
+      "Date": "2025-08-18T18:48:02+00:00",
+      "Uri": "/api/v2/album/dBQ4NH/image/TSmMh3k-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-TSmMh3k/0/#size#/L_IMG_5779-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-TSmMh3k/0/LCHVHF6s3nfhQV7nT24vsDM6P8gmNcsDCpPDdMLdS/Ti/L_IMG_5779-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-TSmMh3k/0/KGgnb4VxBPjXMrKp8N5TgVpXcDjDbVcCVGQcv6dKs/Th/L_IMG_5779-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-TSmMh3k/0/MNGrb66qGsdHLPM5RTcmKBtwcQNrTLSq2VZZXPfsC/S/L_IMG_5779-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Size": 53449,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-TSmMh3k/0/NZvPWrDdznrqTG984CtHSghX5bDRwgJS7DsjZJCS9/M/L_IMG_5779-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-TSmMh3k/0/Kxs89zf845z45DQh2zSLw9mC3nPZXWd3cMR4TXM68/L/L_IMG_5779-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-TSmMh3k/0/KgV9784RzSmSRgw9qvVQMK9Tbc7ncWLG6J54r3PFM/XL/L_IMG_5779-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 209403,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-TSmMh3k/0/KX9wwMHBqPNwSBnDnPwwmJSjPNKGXVNR4k4bkpVTm/X2/L_IMG_5779-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-TSmMh3k/0/LDZfzPKwGK9Wq8397ntgJ3z34jRwwZK4Lv83Rpstk/X3/L_IMG_5779-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-TSmMh3k/0/Kv2tTLf2zKtZSBvZqxZmVSkLWFqnBtR3FSJz8Kch8/X4/L_IMG_5779-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-TSmMh3k/0/LzZq9H8k6HNhBvnvrgphXJDD3vds9WHsSdNjjwsTg/X5/L_IMG_5779-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-TSmMh3k/0/NXqXZVc9k7gw2LKNRmrQq3VKGVnjtDNGszs3rHjX2/4K/L_IMG_5779-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-TSmMh3k/0/MGQfvm5FZkPvthZgW8w7sx693ZPHF4qC4x2CTNJmR/O/L_IMG_5779.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 4373469,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/TSmMh3k-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/TSmMh3k-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "36.982930555556",
+      "Longitude": "-122.04409722222",
+      "FileName": "L_IMG_5780.jpg",
+      "Date": "2025-08-18T18:48:08+00:00",
+      "Uri": "/api/v2/album/dBQ4NH/image/KKB2Hqf-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-KKB2Hqf/0/#size#/L_IMG_5780-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-KKB2Hqf/0/MxjL8hVBQq9wfxsd6h9LntxPfQFFdSzZFNxBB3vqF/Ti/L_IMG_5780-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-KKB2Hqf/0/KLwXXbTbLbfMcXvj4FkVLCJSzCcpVZzhCqCV6B8sP/Th/L_IMG_5780-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-KKB2Hqf/0/KS729Cz7K9GfXj9g39pV55CZGZ6cjjdp9G5GWBm6b/S/L_IMG_5780-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Size": 63380,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-KKB2Hqf/0/K7DMhhMBRLpx6pB9kqFfvFmNFv3X4qzcZS9NNd8fc/M/L_IMG_5780-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-KKB2Hqf/0/KGZpfq76KcDpxtL9jJKs4Z8LJBNm3TKs3jFnJJBFT/L/L_IMG_5780-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-KKB2Hqf/0/KbrPmgPmFjr3z3t56PpmmkZQMnMFtS5FLG5h6Srht/XL/L_IMG_5780-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 362146,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-KKB2Hqf/0/L55fBCLXkcVmzqrvCvQxRLfV9w52hQMLgrgSW2vWR/X2/L_IMG_5780-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-KKB2Hqf/0/LV9DXmkHgXVhJDcKT94LMcbNQbB42dFKbcMC7pPz3/X3/L_IMG_5780-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-KKB2Hqf/0/KwDSQB3k4GSmfSmbpfgHJFwNFMLN7xJgdCddbPdds/X4/L_IMG_5780-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-KKB2Hqf/0/MCQx5VbQBqJ3kHZzKhddVQDW8qJPHZm4wxNtt5pVH/X5/L_IMG_5780-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-KKB2Hqf/0/KvRrW5BTBPMwJbgrZFBj8rv9TVS4nRQxRckKZfHrp/4K/L_IMG_5780-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-KKB2Hqf/0/MTc9zMtqrMfXPCQHvBZndzCsLtzGmDsNTPqsK3XwV/O/L_IMG_5780.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 9786932,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/KKB2Hqf-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/KKB2Hqf-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_1957.jpg",
+      "Date": "2025-08-18T18:47:57+00:00",
+      "Uri": "/api/v2/album/dBQ4NH/image/RpCzQ3W-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-RpCzQ3W/0/#size#/M_IMG_1957-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-RpCzQ3W/0/NFRxD83ZBsVzkNPZzzkZ5LBFh7jRnGsB7VJHqHHgV/Ti/M_IMG_1957-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-RpCzQ3W/0/KSHXMsTck9Jd8qpgL8Z34jDn8QFPN3FLHJzRbCqcW/Th/M_IMG_1957-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-RpCzQ3W/0/LVT9c82nW8tbj3G3mZ9BGD86Hw4Wx5H2CRCQ94k7z/S/M_IMG_1957-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 64982,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-RpCzQ3W/0/Kvh4kbJ98gztRTMmMdSjQ8hpNqpdHCQwmq9WjbXGM/M/M_IMG_1957-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-RpCzQ3W/0/KZRSsDgvQTX9SwVPhLGqNqWb63ndKXNpVp8tNHpb5/L/M_IMG_1957-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-RpCzQ3W/0/NQhTFzG2ZWkbvKgQthmWL9St6J5sWcsCBDKvs9nKK/XL/M_IMG_1957-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 279827,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-RpCzQ3W/0/L7vXdq4PHf32ZXKMCC66DdgmXVH3BZgzVgcxdbGWF/X2/M_IMG_1957-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-RpCzQ3W/0/KKjhSm2Cm3w4Wqm4prGZt6sbWqV6DsSMMbpRGsRmk/X3/M_IMG_1957-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-RpCzQ3W/0/Lt7nnnKpXsrhQcWBLTj5vZvHnVRwHvrpgDdJtp7LZ/O/M_IMG_1957.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 1309219,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/RpCzQ3W-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/RpCzQ3W-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "36.982677777778",
+      "Longitude": "-122.04444166667",
+      "FileName": "L_IMG_5789.jpg",
+      "Date": "2025-08-18T18:48:08+00:00",
+      "Uri": "/api/v2/album/dBQ4NH/image/JRQtDZh-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-JRQtDZh/0/#size#/L_IMG_5789-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-JRQtDZh/0/Lr4vswtSqShrpHpWkFfP5SF8hg2D7fcZS84rp66mN/Ti/L_IMG_5789-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-JRQtDZh/0/Mm8sJZCGbCnZZC9THjGKHWMKMp9zhFgTcSQ2fKxhq/Th/L_IMG_5789-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-JRQtDZh/0/KmX6GPhdNMnphrTfgvkkzkp9LdSsJZHWdQ33L72sG/S/L_IMG_5789-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Size": 51590,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-JRQtDZh/0/KSNPrnXbbMJj4V2VwjnzW3C7LCRGbgRZhkmB36MRk/M/L_IMG_5789-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-JRQtDZh/0/LPV2xHTZKJSJ3JH6VgWZ7sFThbRmdn4cMTCT7rXr7/L/L_IMG_5789-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-JRQtDZh/0/K9Pxf6sjsCfBKs4SzWXk9RdDTJBVDTjZj82z3CQzB/XL/L_IMG_5789-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 291551,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-JRQtDZh/0/KS4hrbc9LgQfkhsmtcHxtFWHqRKB5XpGcC3TM4FDg/X2/L_IMG_5789-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-JRQtDZh/0/K2Lsf2Jp2NJtRJ9sGjKkZF3BrF2cxmv758J3MFWQb/X3/L_IMG_5789-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-JRQtDZh/0/NHrTWcbZLFdWnms5fm6rnpqgrNSHCckWk7mmNWMLz/X4/L_IMG_5789-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-JRQtDZh/0/MtFLc2qHT6jpVpMdP9ZSWrmBw3H9QqfG3s3PmXFpJ/X5/L_IMG_5789-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-JRQtDZh/0/M2NjnvQNpzrJMPMHJRZkvZmPPzGNmLcgqCG7hMCtF/4K/L_IMG_5789-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-JRQtDZh/0/MJhzjnWzmS6CVcqXzQq77MH2DskrqzRB8vRxmCRmF/O/L_IMG_5789.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 7800540,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/JRQtDZh-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/JRQtDZh-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "36.984977777778",
+      "Longitude": "-122.04686111111",
+      "FileName": "L_IMG_5790.jpg",
+      "Date": "2025-08-18T18:48:00+00:00",
+      "Uri": "/api/v2/album/dBQ4NH/image/CqGPqCn-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-CqGPqCn/0/#size#/L_IMG_5790-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-CqGPqCn/0/KpL9rZBP7Cvk6sv5nbfZDKw5KCwMLqWHBqgcbL2GH/Ti/L_IMG_5790-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-CqGPqCn/0/NTdw75Z6p9qmvkszF7NKXjrxwbhpG2FPsW35ftnXM/Th/L_IMG_5790-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-CqGPqCn/0/LrGrjsF3r6Jn47b49M7gScM32Zh5KCwXmmbqjHfTm/S/L_IMG_5790-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Size": 43057,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-CqGPqCn/0/NBMfVFMX4cq3rhVHFK4FDgnJSLF52VpNPMXHG6LN2/M/L_IMG_5790-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-CqGPqCn/0/L85m6bQcnMZDsXgMLZpPhgh7Hs9PqsTQmJL6TPdbg/L/L_IMG_5790-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-CqGPqCn/0/MSnq7pt2rVKbMbVZZg2kj6tV45V5dTCfNVR74pf33/XL/L_IMG_5790-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 249487,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-CqGPqCn/0/MLvd7gH45B7jn7mNrRkpT987XZhwshqS32rhvZVbr/X2/L_IMG_5790-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-CqGPqCn/0/NW6BqFvLWXq9NbLGvWZVHvTgGx7H5kFwP6CZnZT2T/X3/L_IMG_5790-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-CqGPqCn/0/KjP9r3h8zMrRknWmcRf54nHXL7GWVcqX5H6LwsxPc/X4/L_IMG_5790-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-CqGPqCn/0/KWvhnVgtQBcCn7zzQ89B7zkM7PtnnSBNGCTrm6q8m/X5/L_IMG_5790-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-CqGPqCn/0/Kk7TMmzf8PKPcQqN7WnLfpfVX7cPfc5zcVQZJmMTk/4K/L_IMG_5790-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-CqGPqCn/0/LCzG9B9k24NX4HDZV6zjnv3DsrQhZx3Z9HcwVDZp9/O/L_IMG_5790.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 8111195,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/CqGPqCn-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/CqGPqCn-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_1963.jpg",
+      "Date": "2025-08-18T18:47:52+00:00",
+      "Uri": "/api/v2/album/dBQ4NH/image/hVqJsbk-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-hVqJsbk/0/#size#/M_IMG_1963-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-hVqJsbk/0/KjbSX6zPSjmNQFmHJVbzcJDNk5x4Q9XJCbhmgjRxH/Ti/M_IMG_1963-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-hVqJsbk/0/KRJkq6RvddQf8WVnwcgTd5MnK4TSvZ9XZXTRD2Lz5/Th/M_IMG_1963-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-hVqJsbk/0/Lcj4RTzJLxVhgPdkKMxH6GfxvmfTxr3TmKB7NQ8fZ/S/M_IMG_1963-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 54005,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-hVqJsbk/0/KPWK6WL5ZCsX57VZTs6xfdNvHRcNGT666gqpL7kZp/M/M_IMG_1963-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-hVqJsbk/0/MBGzZhc43drZ328737r2rxfqMpHrNL3P5QtKh7tJk/L/M_IMG_1963-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-hVqJsbk/0/MmgfbTtxG48kZL8XNwzBNx64sNfbdcvttnbgcpt7f/XL/M_IMG_1963-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 248011,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-hVqJsbk/0/MhC6Dm3n8Z9mp8h7h3vkWCJDvnH5dvNSSzjnSq6Ns/X2/M_IMG_1963-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-hVqJsbk/0/Lg4q4vmBpW5sc6CVZdG48XDNkm9RtrKMzZw9FvVG5/X3/M_IMG_1963-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-hVqJsbk/0/LcjKF7R679dtXBDxHpKwPNzVh9n6zHn3d24Fg32gS/X4/M_IMG_1963-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-hVqJsbk/0/NdGrvSf5STmpLG7NNxZrpR6L4jMFgZpTCGPfvzV8T/X5/M_IMG_1963-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-hVqJsbk/0/MmZg63kFc2vXKwGsbN6bfC4TVMGc9z4F73HVCVt53/4K/M_IMG_1963-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-hVqJsbk/0/Mvqqvz55c6rnT6mHhc7XLk36qKPBDCtjLvCFT6QSF/O/M_IMG_1963.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 3717562,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/hVqJsbk-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/hVqJsbk-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "36.961555555556",
+      "Longitude": "-122.02500277778",
+      "FileName": "L_IMG_5803.jpg",
+      "Date": "2025-08-18T18:47:53+00:00",
+      "Uri": "/api/v2/album/dBQ4NH/image/BXfVSKR-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-BXfVSKR/0/#size#/L_IMG_5803-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-BXfVSKR/0/KkhSWjWw8CFQqPZtDVKLfx44kCfMWNKmgnqPhMkGt/Ti/L_IMG_5803-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-BXfVSKR/0/NPHqdGZBStXNbSHswBfJZsNCPVQ5mB4RB3tBg6nbw/Th/L_IMG_5803-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-BXfVSKR/0/NhbzkRWXCnxJhNgBngRpfmRzhMZqpMggvCCLRC9s7/S/L_IMG_5803-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 41674,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-BXfVSKR/0/M538XDrC3NkW2XxrQjqMKWjLvLM8kdB57t7VQq554/M/L_IMG_5803-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-BXfVSKR/0/MBMCC2WKZfcQDxFCRSgz2NvN4W2HHT8mb6cVmBhxX/L/L_IMG_5803-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-BXfVSKR/0/Kc6j6WnjnjJnxcmVZCqhD8rqbXSRSSfhjBWHFJDpr/XL/L_IMG_5803-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 196314,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-BXfVSKR/0/LhDJwS4kSTMdL823N8gDv5kMZC2gZd5XtWLfJhM2K/X2/L_IMG_5803-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-BXfVSKR/0/LnJG9m2DgN5Gj42VhHrHNCdtpCrnBswLpxgCRV5RK/X3/L_IMG_5803-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-BXfVSKR/0/Lt8r3DXZ9ZCXF2LGLmv8J9NW8rP4rvwDT4VDQx739/X4/L_IMG_5803-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-BXfVSKR/0/LZLC9GBPgjkxLnMm8GmDpxZzNccp2DvxDZ35hGzcV/X5/L_IMG_5803-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-BXfVSKR/0/MnkbWP7M5bxVz8WmjFSnKBCtLBFwRKmSHsW3sk6sT/4K/L_IMG_5803-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-BXfVSKR/0/MMRcjjwRrZT2DhbwScBvN9vNqRW5zPqCc666f2qPc/O/L_IMG_5803.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 3021347,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/BXfVSKR-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/BXfVSKR-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "36.961569444444",
+      "Longitude": "-122.02500833333",
+      "FileName": "L_IMG_5805.jpg",
+      "Date": "2025-08-18T18:47:56+00:00",
+      "Uri": "/api/v2/album/dBQ4NH/image/zJMXCpn-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-zJMXCpn/0/#size#/L_IMG_5805-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-zJMXCpn/0/MrBwbRQm97TFw5nvLXJWPQbCvL6sVNRqTcZCmr9mw/Ti/L_IMG_5805-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-zJMXCpn/0/MsCGgPzBSVjNrnvCpZzckvCR7zK3kh9CnmBDQLFZx/Th/L_IMG_5805-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-zJMXCpn/0/NMLSTfCHDRmqNv29dxhwbjDB96Bgb4QzPxs7CJCX3/S/L_IMG_5805-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Size": 35450,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-zJMXCpn/0/NJvQ6m2tzgppS6RCtPMdhKLJPC9zGnGMpnGqRSjJs/M/L_IMG_5805-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-zJMXCpn/0/M8FTdLr3NfszddCXWCPZdpsn5Dgrwx3xdQzJ3qgJ2/L/L_IMG_5805-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-zJMXCpn/0/MD8Wbwq32d4dp5b6LWGPwMNb6Zs6bx3zPwcZtC96t/XL/L_IMG_5805-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 165286,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-zJMXCpn/0/MKLC9Qzb8cb2CDv6rP4CwQGhKjQqvhs39pVSkPgv2/X2/L_IMG_5805-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-zJMXCpn/0/L5F6pBHrdRCPSdK4ZWdGhcRncBGTQ5CTGXgQgHBzg/X3/L_IMG_5805-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-zJMXCpn/0/K3Krx9W44FPcmcXcS9GKjHFGHK6K6GK36pTzthrvp/X4/L_IMG_5805-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-zJMXCpn/0/NhStwGcLb3ZFxp6fB3V8Jwtw4KZhJkHzd9WL8ZLhh/X5/L_IMG_5805-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-zJMXCpn/0/MQJpw7hSwg2rGGtqkdsXDPq2CS9WLQnFXKbVPJ9wZ/4K/L_IMG_5805-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-zJMXCpn/0/K4bwRmsLKcVHZBNsqhBGDCqDVDHZRXqWLwfKcMbpW/O/L_IMG_5805.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 4915555,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/zJMXCpn-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/zJMXCpn-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_0042.jpg",
+      "Date": "2025-08-18T18:48:10+00:00",
+      "Uri": "/api/v2/album/dBQ4NH/image/Z9d6tgn-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-Z9d6tgn/0/#size#/M_IMG_0042-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSize5K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-Z9d6tgn/0/MmVR2Zdk89WNmv7rrRC3kJpk2Twx7bJvmdC5wpLXF/Ti/M_IMG_0042-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-Z9d6tgn/0/M78d57Zm3tWSwBSZzmHTp4KtvG5XghFGbTprJMndH/Th/M_IMG_0042-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-Z9d6tgn/0/MQrMHCxqQDmTdPnXjHKxNVwZCjCcKTj9QTB9WcrJK/S/M_IMG_0042-S.jpg",
+          "Ext": "jpg",
+          "Height": 267,
+          "Width": 400,
+          "Size": 47944,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-Z9d6tgn/0/MsZ4jm6rwQ2VzNhKj3qJQN6Wm782Z2wXpTWCrGTmt/M/M_IMG_0042-M.jpg",
+          "Ext": "jpg",
+          "Height": 400,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-Z9d6tgn/0/MvF6ML4qfpWZnC8MrmKmntxWN7dPj6KR4ftZtmg9P/L/M_IMG_0042-L.jpg",
+          "Ext": "jpg",
+          "Height": 534,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-Z9d6tgn/0/KHCWpLfXBtCbkC7JMQCcVrBtQ9qxDkZZWq2t6k6Jc/XL/M_IMG_0042-XL.jpg",
+          "Ext": "jpg",
+          "Height": 683,
+          "Width": 1024,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-Z9d6tgn/0/K2hTb36dVtFrtJKKDFmFnPdPHS4R7TJkJRJjJzHrf/X2/M_IMG_0042-X2.jpg",
+          "Ext": "jpg",
+          "Height": 854,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-Z9d6tgn/0/L52xR8vdCBmPmQmx5SwNGDc3VNH3v3hSHRFtFRSc2/X3/M_IMG_0042-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1067,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-Z9d6tgn/0/MxtnGhQPK8HmtghqrLLGvrFKghxKQh79hfwmMqb7k/X4/M_IMG_0042-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1366,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-Z9d6tgn/0/M6DxNBLBKtg3MQQ3TqMNG7JDpbhPsGb9P4BdtR74L/X5/M_IMG_0042-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1708,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-Z9d6tgn/0/KvWD7kQD6RdZZWzHCj5tXJdJvg3QCXtZ8Zrj3DFMZ/4K/M_IMG_0042-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2561,
+          "Width": 3840,
+          "Size": 2326970,
+          "Watermarked": false
+        },
+        "ImageSize5K": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-Z9d6tgn/0/MZDNWmR2jnzK3CQGbHL7KKHd2jKfm2qqZJ2HWSJ76/5K/M_IMG_0042-5K.jpg",
+          "Ext": "jpg",
+          "Height": 3415,
+          "Width": 5120,
+          "Size": 4729756,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-Z9d6tgn/0/K2PCm8tjWbdjn5VGRq2drDDssVRvDDX6p7CqMk5X7/O/M_IMG_0042.jpg",
+          "Ext": "jpg",
+          "Height": 5464,
+          "Width": 8192,
+          "Size": 19034813,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Z9d6tgn-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Z9d6tgn-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "36.961558333333",
+      "Longitude": "-122.02504722222",
+      "FileName": "L_IMG_5813.jpg",
+      "Date": "2025-08-18T18:47:48+00:00",
+      "Uri": "/api/v2/album/dBQ4NH/image/vd2TfqB-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-vd2TfqB/0/#size#/L_IMG_5813-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-vd2TfqB/0/LZfDcfSjVghVCWGBzhvH48BcJ7HmRv5MSZVcvft4M/Ti/L_IMG_5813-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-vd2TfqB/0/MMDxVQF6x9Mg5btcXLj3wMNZpBJvdkcQ55jVdGm6n/Th/L_IMG_5813-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-vd2TfqB/0/Kff8zWLgbnLPbCBzjRcnxfFMTxfLdnTWQXnWJTD5L/S/L_IMG_5813-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 33660,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-vd2TfqB/0/Mq5cC5vNFRMt55zXwQNmk7kd8dgFhSFtr7Hxr3Khp/M/L_IMG_5813-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-vd2TfqB/0/M9K3QvpM6n29p579cPHN2bRxkVQNVqCCsV6cvxSh9/L/L_IMG_5813-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-vd2TfqB/0/KxqbVkQXJh74mhNTHPS3bfXT8KtJ9Hv5nN8P7dLmr/XL/L_IMG_5813-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 162802,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-vd2TfqB/0/KKFZvDtMC5xC7Ms8zpWDgkscb68P3Rz9wdt3qLXQG/X2/L_IMG_5813-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-vd2TfqB/0/KhFx5xvk9d2HqDHVJcXHtWkhDFB9FjgLqgZsK7TvW/X3/L_IMG_5813-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-vd2TfqB/0/MzknfScGFMzcWkbb5fJwZ5Q6nnSrrZkmPNSswf6Dv/X4/L_IMG_5813-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-vd2TfqB/0/KvLdbCQQvhFrfqNhfHKfTGq9MmZzJKMH9QszsCBNv/X5/L_IMG_5813-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-vd2TfqB/0/NTvKBnRjWJ7prwnxBDngcLvnBxsfJZMrjXH8CD6J3/4K/L_IMG_5813-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-vd2TfqB/0/LZhB6QJ2qgXNBz4NJnfPSWNVpRhtBx78rf7XmsQHF/O/L_IMG_5813.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 2663645,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/vd2TfqB-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/vd2TfqB-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "37.765155555556",
+      "Longitude": "-122.47718888889",
+      "FileName": "L_IMG_5814.jpg",
+      "Date": "2025-08-18T18:47:48+00:00",
+      "Uri": "/api/v2/album/dBQ4NH/image/DBw4nSQ-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-DBw4nSQ/0/#size#/L_IMG_5814-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-DBw4nSQ/0/Lx3z8KtrMdmccFPMQkWv8TP5KRSmZK3z89gXmGbfQ/Ti/L_IMG_5814-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-DBw4nSQ/0/KmCfBQtdp9VXQtNKv6VfRQh8z9kQPWVSn7LZ3STxK/Th/L_IMG_5814-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-DBw4nSQ/0/MVLpRq9DRsTk2TT4bNLkkfmM9rn2DD9vvhmX5GRqx/S/L_IMG_5814-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 48139,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-DBw4nSQ/0/KT74bPtSqKxGbMN6nXKxTvv6MR8NfhMWqcM3hw4s4/M/L_IMG_5814-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-DBw4nSQ/0/KqFn5B8V3fGmTdSTfBRSnKX8vrHh395P7jmBmJB3Q/L/L_IMG_5814-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-DBw4nSQ/0/K2wfRNwgsTzPHjh4tJgjK3jgBVVpPtF2f239VLC2g/XL/L_IMG_5814-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 210438,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-DBw4nSQ/0/KHX3nHknHm7gV8zhTPrwmZDc4dBBmfphLW3CwXzRm/X2/L_IMG_5814-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-DBw4nSQ/0/Mkjg9F2KZCKDsPdGG4759wmKKxfdQc9ssqmxgrVsx/X3/L_IMG_5814-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-DBw4nSQ/0/MtxtmmW9QG6kd65xmWvPCpZfmk5SzhBxSGbqZ4nDd/X4/L_IMG_5814-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-DBw4nSQ/0/MSrt9d3JcR2Vfd6Hb4FVvbq2H2xTzPL2wdRq8k7QN/X5/L_IMG_5814-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-DBw4nSQ/0/MKvVwnt4H2VVkKpzMK6G2CbmZPTGXFzc9gQBvqM45/4K/L_IMG_5814-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-DBw4nSQ/0/KH6WctS8qzVbFBS9gRDDL75Fh78cCdHC6kc6frX8B/O/L_IMG_5814.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 3350510,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/DBw4nSQ-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/DBw4nSQ-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "37.810177777778",
+      "Longitude": "-122.47735555556",
+      "FileName": "L_IMG_5823.jpg",
+      "Date": "2025-08-18T18:47:47+00:00",
+      "Uri": "/api/v2/album/dBQ4NH/image/cK357jv-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-cK357jv/0/#size#/L_IMG_5823-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-cK357jv/0/LhDJtGTmr6R23Pq5VmBLXSMkkqbrK7GZtCQHdbhPV/Ti/L_IMG_5823-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-cK357jv/0/L6X94gSnp9qvPgS8SQ58ztW4jLhh3K6ZDJMk77TVv/Th/L_IMG_5823-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-cK357jv/0/Kz4XxsG8RcDMVL4vWxbhCKWqPLt2Lmgj552FNJGkQ/S/L_IMG_5823-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Size": 29439,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-cK357jv/0/KPfrGKSXR4rvz54J4WnR2M5QR9zpkb2G3MmtPnnB9/M/L_IMG_5823-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-cK357jv/0/KmKLcwDCJzhvsb7P6ZpFQgQjV5DnSMLPXJpTCbBNx/L/L_IMG_5823-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-cK357jv/0/MHG4HMWv3fkh6BB7T7WbX2q6RhkkHpzfCr9WrgQjP/XL/L_IMG_5823-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 105138,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-cK357jv/0/KF7B2Sv4C2q3mwH5JfWcjvL67T9wnqgW424NmcjXN/X2/L_IMG_5823-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-cK357jv/0/KFPW45HbrNNXmG6NGwCMrkH8nWHh5KWhHb2zjDwvv/X3/L_IMG_5823-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-cK357jv/0/MWC9bv9p9pt6vVV4TJqv6kttkbBLdJ4QfbnPGHHcJ/X4/L_IMG_5823-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-cK357jv/0/MXgSwWBBwn3pSVMgvVT5T4nzK6rn86kh5RqtVLk23/X5/L_IMG_5823-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-cK357jv/0/KdTDLzFd6j2sTwKPNSbbLzv3bJ4QwWMnTs6mjGCKB/4K/L_IMG_5823-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-cK357jv/0/MbgnWqh5SVtTJMqBSnRDLphSckwVT33Rx4w3xswDf/O/L_IMG_5823.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 2633854,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/cK357jv-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/cK357jv-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "37.826922222222",
+      "Longitude": "-122.479325",
+      "FileName": "L_IMG_5828.jpg",
+      "Date": "2025-08-18T18:47:47+00:00",
+      "Uri": "/api/v2/album/dBQ4NH/image/qn6xsB5-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-qn6xsB5/0/#size#/L_IMG_5828-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-qn6xsB5/0/LKHc2FHqps7242DvbrCmCm8mfVtGxPzHCGrWNw2V5/Ti/L_IMG_5828-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-qn6xsB5/0/Ln8q38SQwKZZRxcgXkC4jT94zjrK9V4z6ctcZ3v5J/Th/L_IMG_5828-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-qn6xsB5/0/Kn6rVQ8ps93vDq89XSGMM9XBF6MnC5fR7JL9DLj8t/S/L_IMG_5828-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 51630,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-qn6xsB5/0/Nf8hdmdQ4ZGcnFbFHcKwdbffn2zPNpJqskDXFdXw7/M/L_IMG_5828-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-qn6xsB5/0/MZFFFvfWwXSjphH3VRnWn8LX9pJMt559G2K9bf3tm/L/L_IMG_5828-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-qn6xsB5/0/L8tqbX6qBBXHxHwS4B326c9mJ85DMwj658gBQr4vL/XL/L_IMG_5828-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 210868,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-qn6xsB5/0/NLWM2HGQZRn7rVx2KjnrjR8L5MR4CMCL9gcjvz5k7/X2/L_IMG_5828-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-qn6xsB5/0/Lx4pC8tLkj8GvwtLFfK7hpsJvR64tZSBWwnKWSRJ4/X3/L_IMG_5828-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-qn6xsB5/0/K7mjswBXcpd5XkwgJwvxsK64w8d9DRFXgq8F9Sr4Q/X4/L_IMG_5828-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-qn6xsB5/0/L8jvx3nxp3L3Nh5GrGSPPfmdk8SdT9BxQ8LJBDxt9/X5/L_IMG_5828-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-qn6xsB5/0/Kf4tdVhVMR5bpm7KFzVv3Dzp3H3vVrmJMG3fwkRKd/4K/L_IMG_5828-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-qn6xsB5/0/KLxVc5PwvbWftrSTkbtVCjMRwZSBxc3WSww4TdfPv/O/L_IMG_5828.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 2915505,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/qn6xsB5-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/qn6xsB5-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "40.804252777778",
+      "Longitude": "-124.17015833333",
+      "FileName": "L_IMG_5830.jpg",
+      "Date": "2025-08-18T18:47:48+00:00",
+      "Uri": "/api/v2/album/dBQ4NH/image/WxQwGSX-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-WxQwGSX/0/#size#/L_IMG_5830-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-WxQwGSX/0/KmBqG4dSSh9fNdrKk6pnhqMGHMqfFW5DpbVzzJX4M/Ti/L_IMG_5830-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-WxQwGSX/0/MPBrNWDCM4XXR6wjKLLg6MFXL47zfNmQqvg22zT93/Th/L_IMG_5830-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-WxQwGSX/0/L7fPRZzHJt7qTCLk8SHVgFfsWfhGd52DzHxNwQXSW/S/L_IMG_5830-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-WxQwGSX/0/L99MtLkbKJMTRp8zdG99ShsHG6JJ9rrBsgTgsbZtr/M/L_IMG_5830-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-WxQwGSX/0/LD6nnCS2tTJ52zZRz5qzpsZCtTf2NB5jcgtt5DbB8/L/L_IMG_5830-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-WxQwGSX/0/NWMMDq3C4HL2HxkWgdwWGzThnsB69Gr3hxPj7d5Nr/XL/L_IMG_5830-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 255275,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-WxQwGSX/0/Lb4K6Dj6LHgwrvCmRfwv6Rk5jJ4FJS9MSgqt3FjHL/X2/L_IMG_5830-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-WxQwGSX/0/LkMjngfrzPd8TMd7t2KSV4pSddBtpt56mvhhzgJhG/X3/L_IMG_5830-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-WxQwGSX/0/MbdT7gbSf6f8gsLjqhv2LzqXpP2cLZTkSK8smqNTr/X4/L_IMG_5830-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-WxQwGSX/0/LH4NPnx3VPPGT72DszHRwVWnfnmgGKCrNDWZ3KPfz/X5/L_IMG_5830-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-WxQwGSX/0/NW8GdNmBtnbdNdbPJMfHMK8KTdkcNn592P45g4Gxc/4K/L_IMG_5830-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-WxQwGSX/0/LxJLFWNXrfPnS3wV9nBvwnm2LxrCmJmDr48HHjs3H/O/L_IMG_5830.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 3724403,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/WxQwGSX-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/WxQwGSX-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "40.803916666667",
+      "Longitude": "-124.16986944444",
+      "FileName": "L_IMG_5837.jpg",
+      "Date": "2025-08-18T18:47:45+00:00",
+      "Uri": "/api/v2/album/dBQ4NH/image/dJ5qxXL-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-dJ5qxXL/0/#size#/L_IMG_5837-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-dJ5qxXL/0/KmfgCkQHnKcD44MtQLNndhNRwbPgk7KjQXCZfgvD3/Ti/L_IMG_5837-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-dJ5qxXL/0/KPXHRV53XQDGg8G8NsHfLmsR4wW5j7P9F9mXFV2J6/Th/L_IMG_5837-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-dJ5qxXL/0/Mf4XgK4nZLdrLdjBZrhXJtkZBpFvs7DTdSGDF2jBJ/S/L_IMG_5837-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-dJ5qxXL/0/LVdTvhj5kvTbkQzNn9xnP5xVXDntfrSF7MfmQTXZs/M/L_IMG_5837-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-dJ5qxXL/0/NX583WmXqtXgF4tj3gvwWhzRD4MVxtpL2LjkgnpXS/L/L_IMG_5837-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-dJ5qxXL/0/KDH8ttTbD5zZ64mdmm8bPKkKLxzLksfDtK74kkMsx/XL/L_IMG_5837-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 173759,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-dJ5qxXL/0/Kxk68w3gp243pm5BLfqkBrcPmCkVnbJ6BFBWHv9ns/X2/L_IMG_5837-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-dJ5qxXL/0/NMBkXzMtnbD5ThfR5hw3rPLT3bPNtzFvk6PjGRJ9w/X3/L_IMG_5837-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-dJ5qxXL/0/KsWN2gSLFHv76MdznNRLCHk2nM3NdM46v3ZdQcBnN/X4/L_IMG_5837-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-dJ5qxXL/0/Kgx2rFvz9fNRNm6PFsMng4m9jzNFMZGMT9H5TnncL/X5/L_IMG_5837-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-dJ5qxXL/0/NBJFMLmhR7R6LwSjs6ck9hn9dWKwxsf4wj7QB6Txs/4K/L_IMG_5837-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-dJ5qxXL/0/MVJfwmj8zRFrvwS9sNRHfBcdLXFhz85wvbg8dHzNh/O/L_IMG_5837.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 4257876,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/dJ5qxXL-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/dJ5qxXL-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "40.805461111111",
+      "Longitude": "-124.15907222222",
+      "FileName": "L_IMG_5838.jpg",
+      "Date": "2025-08-18T18:47:41+00:00",
+      "Uri": "/api/v2/album/dBQ4NH/image/MzrktZC-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-MzrktZC/0/#size#/L_IMG_5838-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-MzrktZC/0/KNMG7Zhk7drMcCfxG7h8pb9xv5pFLxbNKjvZDC8Cb/Ti/L_IMG_5838-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-MzrktZC/0/LkWpLnDsSNQgdK3WcSB6bcw7VqT8qPd574QkqtT2b/Th/L_IMG_5838-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-MzrktZC/0/KmzTZCMzb4wJ6DQNRvMVTGd5nfJjVKxNRQJz5zJSn/S/L_IMG_5838-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 223,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-MzrktZC/0/Mvrb8f8zLtp25WD2xLLdbs63S4DmHgJddnNkqk9wp/M/L_IMG_5838-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 335,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-MzrktZC/0/LSZDW23PTSzCK8TFjwB2FwMgNqWk33M5xqM7dBDFN/L/L_IMG_5838-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 446,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-MzrktZC/0/LJdrZZCChwMcJN2TMzhVCZpbWxxfJSM3vQ9C4SZBt/XL/L_IMG_5838-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 571,
+          "Size": 175789,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-MzrktZC/0/MrTQ2hF5s8Nwzdb6wZ4T4wrGv7V6TLChSGdgs5FwL/X2/L_IMG_5838-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 714,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-MzrktZC/0/Lrp5ZThR976Kfw7gx7ptN9gVZLdmCJXmK2CWzrZQR/X3/L_IMG_5838-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 893,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-MzrktZC/0/NhJ84Sb36S2bRKG7WHdnv4qZ8Rm6gBCRMZd8BmqrD/X4/L_IMG_5838-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1523,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-MzrktZC/0/K2PSHqDt9JwFzKzdZ5qJZS4jKxXh2dwtRXdrBR6Nk/X5/L_IMG_5838-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1904,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-MzrktZC/0/Nd663DM662bnGrmfSZrpXWQLLv435cK9KfTRdhgzd/4K/L_IMG_5838-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2856,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-MzrktZC/0/L5w9hqPLLnrpKKgk7HgHZLtMrSm5cGvXKjLsDNtmk/O/L_IMG_5838.jpg",
+          "Ext": "jpg",
+          "Height": 3985,
+          "Width": 2964,
+          "Size": 4249545,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/MzrktZC-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/MzrktZC-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "41.359525",
+      "Longitude": "-124.02378888889",
+      "FileName": "L_IMG_5844.jpg",
+      "Date": "2025-08-18T18:47:42+00:00",
+      "Uri": "/api/v2/album/dBQ4NH/image/4gn7JNn-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-4gn7JNn/0/#size#/L_IMG_5844-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-4gn7JNn/0/LHXGCLsNWX9LLzPQ3mZCZk5J7kVbRpMF7mnFMM999/Ti/L_IMG_5844-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-4gn7JNn/0/KRDcHfK3JZKD35Vr3fvMhbfqDMwqnzxtnBRnzN4mK/Th/L_IMG_5844-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-4gn7JNn/0/MtfSr9rXGpKfqmj2Lgn5z4hRrhZgScH7r4p64zVNh/S/L_IMG_5844-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-4gn7JNn/0/LhWGT84RZQx98T7bPXdKr9MLHfvsSCvWJ4VgfDTQn/M/L_IMG_5844-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-4gn7JNn/0/MJgGr8hZHgjtBH9RCqKr83qVp63H82HSccBzTnWxz/L/L_IMG_5844-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-4gn7JNn/0/LPN2MtBGfZm5dDQxfBm5hzRrCGRBhkFD9tgcdKnKs/XL/L_IMG_5844-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 288150,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-4gn7JNn/0/LqG49mQpm49DPMQXTK3MnXvW59HCqsMbbnJvrxXsW/X2/L_IMG_5844-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-4gn7JNn/0/M9T737N7QJ49KHzmcpkzB3n6vCcjLZ28LmwSbpd8W/X3/L_IMG_5844-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-4gn7JNn/0/L7FBJSJ35dqzNG3TjqTzDd3XPC8BRmL9X3Vf2LDh9/X4/L_IMG_5844-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-4gn7JNn/0/MVMvV5LW4b4ZVzWM2P8TndJfrKh7qxd7Db35gWR46/X5/L_IMG_5844-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-4gn7JNn/0/MVpnvc9RdJ7W6sL3rpWkHJ9fQgfVm63QTJL4sBQLS/4K/L_IMG_5844-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-4gn7JNn/0/ML2zmqLwBmNXgBXNchQxtXhvjVMd5wLwKcSLmZgm4/O/L_IMG_5844.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 4762880,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/4gn7JNn-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/4gn7JNn-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_0038.jpg",
+      "Date": "2025-08-18T18:47:30+00:00",
+      "Uri": "/api/v2/album/dBQ4NH/image/QhdRF6f-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-QhdRF6f/0/#size#/M_IMG_0038-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-QhdRF6f/0/MFfZQpZXWWJ9CZbMZ9tjtp4VDNQBd3xtcQhMf7dD4/Ti/M_IMG_0038-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-QhdRF6f/0/MshtR7c43MxpQjnnFpbpZD7BXP4pFgQ7S94WnbGKC/Th/M_IMG_0038-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-QhdRF6f/0/Ms6bk64fmbd6wxcSndHZXNK5zdWxJ2NBVvpvFBxqP/S/M_IMG_0038-S.jpg",
+          "Ext": "jpg",
+          "Height": 267,
+          "Width": 400,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-QhdRF6f/0/Lk6DTLjRmNtQ7gHLXXKfJg44KHLZJr486TVfb28wB/M/M_IMG_0038-M.jpg",
+          "Ext": "jpg",
+          "Height": 400,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-QhdRF6f/0/NXrTgTD2sj384qxQzgTRV2fpjRnN7QHttw3LT4DXT/L/M_IMG_0038-L.jpg",
+          "Ext": "jpg",
+          "Height": 533,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-QhdRF6f/0/KrJRzQ3cwshBc7H6rLHCFznSCJ5HdCWmQ5X7MmDxp/XL/M_IMG_0038-XL.jpg",
+          "Ext": "jpg",
+          "Height": 683,
+          "Width": 1024,
+          "Size": 265954,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-QhdRF6f/0/NK2QX8rm6Hs5kmdjfskDCMdSZ5rNVqn7xvZBFKZwv/X2/M_IMG_0038-X2.jpg",
+          "Ext": "jpg",
+          "Height": 854,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-QhdRF6f/0/LnzwJGnDHx7LTKLDNTnjVfj5zGSDhVm2CQdkxfw2B/X3/M_IMG_0038-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1067,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-QhdRF6f/0/NDF887XjFh6g5bX3GPv3NSjVVWjkktzcdhv6n5QTk/X4/M_IMG_0038-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1366,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-QhdRF6f/0/NSFxzZbsJjcq63WzbmdT3cFfqxmbwDr3nTmfPg58F/O/M_IMG_0038.jpg",
+          "Ext": "jpg",
+          "Height": 1535,
+          "Width": 2302,
+          "Size": 1364582,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/QhdRF6f-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/QhdRF6f-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "41.359497222222",
+      "Longitude": "-124.02381111111",
+      "FileName": "L_IMG_5854.jpg",
+      "Date": "2025-08-18T18:47:30+00:00",
+      "Uri": "/api/v2/album/dBQ4NH/image/7VMrzPn-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-7VMrzPn/0/#size#/L_IMG_5854-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-7VMrzPn/0/LqPmg4MvXLCLgh2H4gJ2VrHbRN7Wmr7Thc3Vdsr25/Ti/L_IMG_5854-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-7VMrzPn/0/L2z9hxsFsxfRFMmNDtdSsDvhKJq2TD86p3wzfkFZV/Th/L_IMG_5854-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-7VMrzPn/0/LDd3Tmdjr2vCkB8r9b4vHhNDb8rVfj6Xx42CHBhsd/S/L_IMG_5854-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-7VMrzPn/0/MScqdFJB3F84mzVFN4skNCLG4fqzdPC99hFXBmRSj/M/L_IMG_5854-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-7VMrzPn/0/LHCtmkCZbZmPwdXsXC2DKMMSQCXJHgPVCQKtJ79RR/L/L_IMG_5854-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-7VMrzPn/0/LdXsvVtfTGcbzX6HCBGk4DbsrdntdNx9hGWZ8M9Th/XL/L_IMG_5854-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 287778,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-7VMrzPn/0/LXbtDJZvgzWpXSSJQCRGNjzJdVLLmdWTnTkS5pNV3/X2/L_IMG_5854-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-7VMrzPn/0/Mr8J9ntzwDd3tBsLD9wfjxVnzm47S36B2J9WdHn7R/X3/L_IMG_5854-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-7VMrzPn/0/Kd34cTZvGzcDPWfZWPcWQqJjJ8hW8Nmn28dqPLT8m/X4/L_IMG_5854-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-7VMrzPn/0/MvfgPWnb5zhMZt2Gd7xXBNq2PWZF5bxmHLm2r5rJb/X5/L_IMG_5854-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-7VMrzPn/0/KZdQzBbgVS4wh9GsvRhZQvJR227Ztdkhf9wLBZtf6/4K/L_IMG_5854-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-7VMrzPn/0/MW3RbPgLRV2NQtqDk4vJkcSQVdwzB43KM46VQrRfN/O/L_IMG_5854.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 4701570,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/7VMrzPn-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/7VMrzPn-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "42.376688888889",
+      "Longitude": "-124.409325",
+      "FileName": "L_IMG_5856.jpg",
+      "Date": "2025-08-18T18:47:41+00:00",
+      "Uri": "/api/v2/album/dBQ4NH/image/WDWphSp-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-WDWphSp/0/#size#/L_IMG_5856-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-WDWphSp/0/KGLGWN9hJtjzwXhhDXBVvZPXRh2zNJvmkzsnHttPn/Ti/L_IMG_5856-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-WDWphSp/0/NCtdbPknFQJKLqRScfzf59xBp2pZvDJ4GxMd968ST/Th/L_IMG_5856-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-WDWphSp/0/MqtbpkQ3HqHPwngJHXkvcH35j66pmrvDd9pdkqvJs/S/L_IMG_5856-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-WDWphSp/0/NKtgSZvKRhWfNmdhJnkhV2ZGhCKf5QzFtHvMdBHrc/M/L_IMG_5856-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-WDWphSp/0/KwsSj45wVRNNQ65WLGmGFRsHHwCvDF8NgXND5652m/L/L_IMG_5856-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-WDWphSp/0/LV8zTs2LCcLZFTHHjmtJxR4XDPcDpXbj2R9SJWX3Q/XL/L_IMG_5856-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 333796,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-WDWphSp/0/LS77cSPqw2MwGPgvq8WnB3GZMM2gDcmWWxjsqTmPB/X2/L_IMG_5856-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-WDWphSp/0/NDS3TrqSHQM7VW5bW57M4CHcT4hHDJvNbS8RwQTq6/X3/L_IMG_5856-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-WDWphSp/0/KngVJH7sZxpFsGfsc4KBqhJtBj8z7vVv6krntgGLs/X4/L_IMG_5856-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-WDWphSp/0/LrJQQ7CQqN4ZJ4P9G6Jj2BCKz3LWsJDvVSQQqLWfj/X5/L_IMG_5856-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-WDWphSp/0/LT8xKPxgNW93BKR4bkqwR7Q4zVB3PBQBjhBqmLRMZ/4K/L_IMG_5856-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-WDWphSp/0/MSrfmLLRntGDCPJCrzp9xNSkb2pw2kjWQnWkxk7Xt/O/L_IMG_5856.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 4904646,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/WDWphSp-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/WDWphSp-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "42.377852777778",
+      "Longitude": "-124.40805",
+      "FileName": "L_IMG_5857.jpg",
+      "Date": "2025-08-18T18:47:39+00:00",
+      "Uri": "/api/v2/album/dBQ4NH/image/vmWKbm2-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-vmWKbm2/0/#size#/L_IMG_5857-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-vmWKbm2/0/K52D6rHczWbSMm9dDMb3tsdqKdrtNhGXX3Hj7k4G2/Ti/L_IMG_5857-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-vmWKbm2/0/MndJPWTj2cx56Txqg7Sn7mbLL7nV84NqBqWKsvT2M/Th/L_IMG_5857-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-vmWKbm2/0/LG26HwBKMLx323v9fFpMrJfwhSgL6r6g5w8K4Q9z6/S/L_IMG_5857-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-vmWKbm2/0/LDX45Gx3sdQfbgrwBmG224c2n8CHgQMHcN5x7kkp6/M/L_IMG_5857-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-vmWKbm2/0/Lr73RZCkPPB7BWvsR3jRhTkS7kq4JvBWHbVnrPmD6/L/L_IMG_5857-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-vmWKbm2/0/KdkdnXXSPt2GZQhVXfHSwPvdwXFxQ5QFXrwqRxZnm/XL/L_IMG_5857-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 330479,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-vmWKbm2/0/MdThZ9mtDb5dzDVHv7ZHJhzbFpsWk2hppSzsQt8mx/X2/L_IMG_5857-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-vmWKbm2/0/M97d8dbJXKqVwGhQ8qtZX6LrjgMJCrvXw7wXpC946/X3/L_IMG_5857-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-vmWKbm2/0/NDfKFMGMGpRS7kGfjrBQCT3DMspQvK25cgKCBcCtV/X4/L_IMG_5857-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-vmWKbm2/0/KpMFz8rxT48DdXK2xbSg93vBSnx5P9jgGnCqMTwJB/X5/L_IMG_5857-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-vmWKbm2/0/MTHnrBFzpBXbgwjp2bs4b8MLzMBbsNv3nXM5ZNrJQ/4K/L_IMG_5857-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-vmWKbm2/0/MLPJtw6Q8h8jZK7jq7wFZBgjpZp9fwnbVbPXmzD7L/O/L_IMG_5857.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 8355543,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/vmWKbm2-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/vmWKbm2-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "42.377347222222",
+      "Longitude": "-124.40918055556",
+      "FileName": "L_IMG_5870.jpg",
+      "Date": "2025-08-18T18:47:23+00:00",
+      "Uri": "/api/v2/album/dBQ4NH/image/tw4CdgF-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-tw4CdgF/0/#size#/L_IMG_5870-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-tw4CdgF/0/LxC9vv7chcXCPRhG9NC4srVPvkNM4FMqm4LCc8rMS/Ti/L_IMG_5870-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-tw4CdgF/0/M2C9QQbPL4SqkBDG8RQKgs9DhWDCxmWfTfLrbgPkN/Th/L_IMG_5870-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 22907,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-tw4CdgF/0/Kd7PB7v3mVSScS6Ss5QxwfFhrL5bX4ZGtsFxBkPFQ/S/L_IMG_5870-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-tw4CdgF/0/LTkn7H37dRXGzJ33Gw8QKjvhWjDRTMZV3ZDrXCMKD/M/L_IMG_5870-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-tw4CdgF/0/KFnTzGSHsSWLNxHdMnmSJpwfTKMDvLr2DrQCdcMs5/L/L_IMG_5870-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-tw4CdgF/0/MWVdMzf28tDHBdgfj9Q4FftG7ZsnxKLNKHHVZB3Th/XL/L_IMG_5870-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 171477,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-tw4CdgF/0/MPXfgBGw7g6xCQNZvK5BGp9ptrj4kb739MWt4bnH2/X2/L_IMG_5870-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-tw4CdgF/0/KgLNvTQcjmw4zR2BBBcP3p6dwzFpxx68ZD9VCrbLN/X3/L_IMG_5870-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-tw4CdgF/0/LLCtd3q67wNCFRDQbnMTZdcGQrv9vW9rzKWQVMWRq/X4/L_IMG_5870-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-tw4CdgF/0/LBn8sZFm5qBtnMzXxb4VN7knwXB8TNQ3sF4hBk5Zv/X5/L_IMG_5870-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-tw4CdgF/0/NhgvbhSJVfXvVRcbMn47c7HgkrMf3sGP8CQjq6Pk3/4K/L_IMG_5870-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-tw4CdgF/0/Lx2ZfLv3DnCfnzgVqzt5M33tV8jSx9kfbTc7bWTHR/O/L_IMG_5870.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 4001230,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/tw4CdgF-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/tw4CdgF-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "43.118908333333",
+      "Longitude": "-124.41477222222",
+      "FileName": "L_IMG_5879.jpg",
+      "Date": "2025-08-18T18:47:40+00:00",
+      "Uri": "/api/v2/album/dBQ4NH/image/T58sjXS-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-T58sjXS/0/#size#/L_IMG_5879-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-T58sjXS/0/NFZTMhBMDhxPNPC5CRCpqfDGxCSHQCCN3fb4CCfDq/Ti/L_IMG_5879-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-T58sjXS/0/LcVqpDj5kPBHgK7szW62GgQBjswngjVtDWCsLxMd6/Th/L_IMG_5879-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-T58sjXS/0/KHN5tXWkZRTgcK9j6JcCbBSGjGKMZdGKVMqGqJbkZ/S/L_IMG_5879-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-T58sjXS/0/L9jRJCJGRJdLNr5Tq68hq99ZBZbLCgLCtjqbTpCPk/M/L_IMG_5879-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-T58sjXS/0/MK6dgWQXmj48sqmq2vDLCqddM7rpZvtXJpBqk3qdC/L/L_IMG_5879-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-T58sjXS/0/LZZMfh7FsR6nLx3KVKcpwtwbGJbxGTcDKNTNGDmjb/XL/L_IMG_5879-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 269661,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-T58sjXS/0/MXZkqJR7Rm6Wx7qMh6xSQQQmkVj8Z6KmXF9LKM4bF/X2/L_IMG_5879-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-T58sjXS/0/KRzWVcPkDhfpDLPmpCVTjd6fDJ2cZqPC85C9DvD9Q/X3/L_IMG_5879-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-T58sjXS/0/NCNR5vmmGgTN9FMHrZZ6dsQrHFx4drfChTd9ZcNJ9/X4/L_IMG_5879-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-T58sjXS/0/KWBf4BhzLWRVqsxfFCmd4DNppJgkPMF2TW6zTtc28/X5/L_IMG_5879-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-T58sjXS/0/K8r2C4sbgNdFFGGmBxQTCfKBSKx8Sqh9hK8r6zpZL/4K/L_IMG_5879-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2024-Santa-Cruz/i-T58sjXS/0/MG7MJbPzPLbDZddNmntXF5kGB9cpgN8zgNNgs6JJG/O/L_IMG_5879.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 4166276,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/T58sjXS-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/T58sjXS-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    }
+  ]
+}

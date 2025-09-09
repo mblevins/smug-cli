@@ -1,0 +1,2285 @@
+{
+  "UrlName": "2025-Seattle",
+  "Name": "2025-Seattle",
+  "Uri": "/api/v2/album/zZx7SM",
+  "Date": "2025-08-24T00:18:57+00:00",
+  "WebUri": "https://lmblevins.smugmug.com/Travel/2025-Seattle",
+  "Images": [
+    {
+      "Latitude": "47.601863888889",
+      "Longitude": "-122.33603611111",
+      "FileName": "L_IMG_6737.jpg",
+      "Date": "2025-08-24T00:19:49+00:00",
+      "Uri": "/api/v2/album/zZx7SM/image/288X6mB-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Seattle/i-288X6mB/0/#size#/L_IMG_6737-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-288X6mB/0/LPhfpPNzNfFtBWcLpt4ngm9p2m778Fbg92Rw5kQHW/Ti/L_IMG_6737-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-288X6mB/0/KtnRC8CcsbD6gk6rPrPhwKSBXJwxqP43VGd6TsSCb/Th/L_IMG_6737-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 19793,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-288X6mB/0/NNFdCGPn9WXSbFNZBHSQVDKRsFjbGTKQJWxb6d9ng/S/L_IMG_6737-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 47889,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-288X6mB/0/L4s9htrJxtCWhBs9bvJ9f5cMtVSkLSMKTNG3kL5ws/M/L_IMG_6737-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 84775,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-288X6mB/0/NdzXcPLkLQwrFBs3KDdZ7NXQsb5sT9HpxpxZcSRjg/L/L_IMG_6737-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 130569,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-288X6mB/0/NKXN979ZvR6mLTJGnSMFBphZpf8JJp8qFnJznn69c/XL/L_IMG_6737-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 191784,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-288X6mB/0/MpTmV7kwdzVXPpNNKJK7mHmPbQvNncN6Hg4pFHGXq/X2/L_IMG_6737-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-288X6mB/0/NVjQKPskbvFxPzt68dzbkN9nLxPNmRXNGQjvLGF4k/X3/L_IMG_6737-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-288X6mB/0/KWBxbx2CMQXFwfsmQNmzCjR4FnmhbkJ8WLjFJF5G6/X4/L_IMG_6737-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-288X6mB/0/Mhk6gVHhG2mNBmdMjbbcPCGfqpWcTFf4cJ5HP3D7Z/X5/L_IMG_6737-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-288X6mB/0/M9WsM2D9rq4sFBCq4ZcdgKhxGPvTWKW2k8gsKVVQ6/4K/L_IMG_6737-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-288X6mB/0/K5NkhLnGJVBkNCFXnPdDgPzRpgjsbTp8RjSjGTszL/O/L_IMG_6737.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 3167913,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/288X6mB-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/288X6mB-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "47.601863888889",
+      "Longitude": "-122.33601388889",
+      "FileName": "L_IMG_6738.jpg",
+      "Date": "2025-08-24T00:19:47+00:00",
+      "Uri": "/api/v2/album/zZx7SM/image/ppmwCzp-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Seattle/i-ppmwCzp/0/#size#/L_IMG_6738-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-ppmwCzp/0/M85HksqqcVRn92XtGN33rPG56NFwDMKHhfMg5JjGg/Ti/L_IMG_6738-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-ppmwCzp/0/LJww3wQhjJCDG4CWrTfhKhs7vfQsgTHJLFJf8H6DL/Th/L_IMG_6738-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 19411,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-ppmwCzp/0/LWNqbq8hwMPfJC6LJkjgjVrv4TcBTKSdqXT86Nrbk/S/L_IMG_6738-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 49344,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-ppmwCzp/0/LGPVQ3vp3zKDdWNGDDLxF8dn3dSTHZ3gdGmCbk2RN/M/L_IMG_6738-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 88139,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-ppmwCzp/0/KRFB9KfQfQzW24SRMNjXHP2v35Df4N7LBsJ6nC6VX/L/L_IMG_6738-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 136320,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-ppmwCzp/0/McrJX3Hxk6KvHSM6HPQs7pWR5WWg9KrDh5Vdwbw9Z/XL/L_IMG_6738-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 199767,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-ppmwCzp/0/LD3Sbq3xXMgSvxBQzJwXsnjchQ8hBQSQmFWzRMhGW/X2/L_IMG_6738-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-ppmwCzp/0/MwkrXrf87Hfv8V325WTtzzVj2wkkMgWF4gDfP2gn7/X3/L_IMG_6738-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-ppmwCzp/0/NL2WvD9JzqVn3z2MQQ8tgRbBvr57psvbVwVkcVZQz/X4/L_IMG_6738-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-ppmwCzp/0/LnNDrrpWP7834vfBDzdStJjcbcHPc9hzNqLdFshsb/X5/L_IMG_6738-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-ppmwCzp/0/LRWdjXNBRxwprGrL3RQpQqM82FFtp5v3CKnPPLkjx/4K/L_IMG_6738-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-ppmwCzp/0/NRXTQBS4MWVMFq2m8KTrdqMB9pwwTdcHF9TzKsbNp/O/L_IMG_6738.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 3408513,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/ppmwCzp-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/ppmwCzp-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "47.601861111111",
+      "Longitude": "-122.33610555556",
+      "FileName": "L_IMG_6739.jpg",
+      "Date": "2025-08-24T00:19:46+00:00",
+      "Uri": "/api/v2/album/zZx7SM/image/9qPcGxZ-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Seattle/i-9qPcGxZ/0/#size#/L_IMG_6739-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-9qPcGxZ/0/LrmGbXbxCQHpnq8x977gjzP6rr7wg4kWT3wxvw2HP/Ti/L_IMG_6739-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-9qPcGxZ/0/K4ZxLG3zSQP4PzXHFNMfQfdbjL6zvJgqrCfNLnXj2/Th/L_IMG_6739-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 18438,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-9qPcGxZ/0/LbJZvB75pLcWJmHpDpbxSvhWFC7vpPmGNZQSGdWZj/S/L_IMG_6739-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 43344,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-9qPcGxZ/0/KTDWhkJcpkBkFx8vfF7B4SFBTFgHkV88CXhpBWfJ9/M/L_IMG_6739-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 75486,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-9qPcGxZ/0/KKMfjF4cG3gvQX6McjX5jjwCKD9FK5VLpSNn7Mgnt/L/L_IMG_6739-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 114929,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-9qPcGxZ/0/MfJMBFXbVrMnbXTJrf92TggBjJrdjsDXGSv6J2d74/XL/L_IMG_6739-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 166609,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-9qPcGxZ/0/M2xbFfKczxVB4JwrfZq6PqqmSg7P94FNWzT24sLsn/X2/L_IMG_6739-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-9qPcGxZ/0/LgXF4Cqmxr7jVqTGMPj3xQML8Ks9zBsJWXSHXczkg/X3/L_IMG_6739-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-9qPcGxZ/0/KX7SwthCvVFQqDHdBJ22dQW39C2FHbq2kwFDFGSRk/X4/L_IMG_6739-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-9qPcGxZ/0/KJC8k8MNznPLvsXGvHsJWhvXJ8hZ3rktPD4bzTsCH/X5/L_IMG_6739-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-9qPcGxZ/0/KKGxkbxzjcf7rTMsBFdSsrSm4MdFhH3nBdvqP6mkd/4K/L_IMG_6739-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-9qPcGxZ/0/LqXVmXFK7Z42wTxF33WKxCMVrMhFCrq76bXvbtv9f/O/L_IMG_6739.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 2945985,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/9qPcGxZ-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/9qPcGxZ-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_2722.jpg",
+      "Date": "2025-08-24T00:19:47+00:00",
+      "Uri": "/api/v2/album/zZx7SM/image/m4X9k44-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Seattle/i-m4X9k44/0/#size#/M_IMG_2722-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSize5K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-m4X9k44/0/KpGsmpcSRCsVMCCSc3rWDCZHGDQtd3gpQtK2rc74G/Ti/M_IMG_2722-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-m4X9k44/0/LGSqFpQ22HMB22gtCpqCC6NkJPVdH3NLPRxHS4MqG/Th/M_IMG_2722-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 21511,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-m4X9k44/0/K2gc7CnRcBvP9QLVzrKcZ7JcVLx8pqZjrxmRZJwTH/S/M_IMG_2722-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 63209,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-m4X9k44/0/LnNqKQSwFj5jKV6WG4zjdNtkfh5f8bR3PZWwrVpFk/M/M_IMG_2722-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 120647,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-m4X9k44/0/NPzCtfZ9ZdwVPt6mcB8Sbvh5v2z5STh75qhg84VQK/L/M_IMG_2722-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 192166,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-m4X9k44/0/NFcxKGvFfHttrPhKcgzCTGTzVSmVqWSZCgzRxQwgD/XL/M_IMG_2722-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 286857,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-m4X9k44/0/LbT5C9cR4v87mz6kZkLCmCLSN2hrf4zbWMHwLhFFb/X2/M_IMG_2722-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-m4X9k44/0/MV77jHH5j8c8GQKspXT3xWXQzW6SGLCNHXKP9vMk2/X3/M_IMG_2722-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-m4X9k44/0/L3TkdLd78JVmrXGwsZztTQTJGVRX4PgCZkT42sN2n/X4/M_IMG_2722-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-m4X9k44/0/NFKDhcXMbcW59Nkzdr5TszJDPW7sT3wBk3KjFHt7T/X5/M_IMG_2722-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-m4X9k44/0/KxQZFzxwmBdvdcn955gLqBj9jdHtGn3fgMbPzm5Ds/4K/M_IMG_2722-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSize5K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-m4X9k44/0/KZFHc9zM4PnNdw6RrbsfgWRPkXBtV34TmcgQTtJcn/5K/M_IMG_2722-5K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 5120,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-m4X9k44/0/L2rpNdq3wsWLT3pDNz8HwVbbjc938VKcP9KQrCzZb/O/M_IMG_2722.jpg",
+          "Ext": "jpg",
+          "Height": 4284,
+          "Width": 5712,
+          "Size": 6439261,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/m4X9k44-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/m4X9k44-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_2724.jpg",
+      "Date": "2025-08-24T00:19:44+00:00",
+      "Uri": "/api/v2/album/zZx7SM/image/3H6Sf7Z-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Seattle/i-3H6Sf7Z/0/#size#/M_IMG_2724-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-3H6Sf7Z/0/Mb2tFMLbp2mJQrRxPjxwshTJxVhKP3zqWRTF2QzLV/Ti/M_IMG_2724-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-3H6Sf7Z/0/Knd7jdPN9cKZRmV7Tzvq3Fvb6C7K3cZ8ZSzVvkwrZ/Th/M_IMG_2724-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 20091,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-3H6Sf7Z/0/NbXHFhDWCPFmBwfJ3RtfJ4rRXbNZw377PHcqw87FJ/S/M_IMG_2724-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 53229,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-3H6Sf7Z/0/LXhFVGLNsK5HqkqHVcdndnctVktF94kr5zDztzZvG/M/M_IMG_2724-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 98615,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-3H6Sf7Z/0/LpqJVPhZxSJmgFSGhJmRTgq7mC6GD9wc7bzh6sBsc/L/M_IMG_2724-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 155704,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-3H6Sf7Z/0/LwkRzthwVxkfrxRNvKRWDqrFCRWGL8thqnVLqZLwV/XL/M_IMG_2724-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 232643,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-3H6Sf7Z/0/KQgqJwTTkfm28BdgN6QKKbHLNNq3mZ6QqFVqnV95V/X2/M_IMG_2724-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-3H6Sf7Z/0/MdgMxXGk3H3x7QSx3kS6stXqswsgS3tW6vsQDKXkK/X3/M_IMG_2724-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-3H6Sf7Z/0/Kch4GFqRRPb4TvmJFZ66PQsdnxts9q6J9rwwPWzgq/X4/M_IMG_2724-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-3H6Sf7Z/0/LpvJm97RZX2GvgXtqcHp7fbVLFZdQ8xHT8BbLqJVq/X5/M_IMG_2724-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-3H6Sf7Z/0/Mb42mbk9dfCWrBfTvZqjwW3bRvCKQj2qgXLLc7d7V/4K/M_IMG_2724-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-3H6Sf7Z/0/KpxDNkCM9LqGVj6Q2TR3xBMnzPQV2Rs29LgVVSKpQ/O/M_IMG_2724.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 2990894,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/3H6Sf7Z-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/3H6Sf7Z-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "47.603416666667",
+      "Longitude": "-122.33824166667",
+      "FileName": "L_IMG_6749.jpg",
+      "Date": "2025-08-24T00:19:46+00:00",
+      "Uri": "/api/v2/album/zZx7SM/image/X9S6cx6-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Seattle/i-X9S6cx6/0/#size#/L_IMG_6749-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-X9S6cx6/0/KGPbsSkqXhKtdGbj2PRj9H6p8BL7dBzs2VCbPhbtC/Ti/L_IMG_6749-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-X9S6cx6/0/MK4nnjnMP5bZSWTDdR4pGZNCn9zFdD8GTBgzFTB8q/Th/L_IMG_6749-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 24870,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-X9S6cx6/0/LLr5szWfk5dg4p6BCFZJNTrFdwdqS37qN4hV23TfW/S/L_IMG_6749-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Size": 53986,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-X9S6cx6/0/NK3284zX5BVWNhJgjCbgGsXHdLns95MDrFHQ3f9nt/M/L_IMG_6749-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Size": 107092,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-X9S6cx6/0/NJmKkNjfLN4d3fgbTWjRMNMq2JQVrXmFFzBJC5z4q/L/L_IMG_6749-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Size": 177112,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-X9S6cx6/0/MVDpQJckfNw26v5sDJM5RNLXbpmRnRH3dKhLvWNzQ/XL/L_IMG_6749-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 282606,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-X9S6cx6/0/KtSp6KMz7ScSRm4xqgC9T8tWfvh7vhrg45X9tcvzX/X2/L_IMG_6749-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-X9S6cx6/0/L5B24x4h6qZMJJM3WzNH7FwPrPmVdbDZx9s4K4qrP/X3/L_IMG_6749-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-X9S6cx6/0/NTXKxVvdmZ6kXsrMkqwJDwncxnNbQQSGfFQmcJkjL/X4/L_IMG_6749-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-X9S6cx6/0/NZXZpLSBT4Cj5q4LfRFVdPtvvRbnHmdKsmbTqXsS6/X5/L_IMG_6749-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-X9S6cx6/0/Lp6QVB4KjTRnNgSW5Mr5NS3DLCG7F8Xxdfp25zj4Q/4K/L_IMG_6749-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-X9S6cx6/0/KTxJjHwJn8thjz6DsXBs7bMKjLtwfspLRmgx5rZgN/O/L_IMG_6749.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 6800977,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/X9S6cx6-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/X9S6cx6-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "47.601863888889",
+      "Longitude": "-122.33605833333",
+      "FileName": "L_IMG_6750.jpg",
+      "Date": "2025-08-24T00:19:45+00:00",
+      "Uri": "/api/v2/album/zZx7SM/image/x8f3S3b-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Seattle/i-x8f3S3b/0/#size#/L_IMG_6750-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-x8f3S3b/0/L2QTH94DNGdgbrFqHq4QLC98QfWDTf82WBCkXhmfH/Ti/L_IMG_6750-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-x8f3S3b/0/L5rmwH4WSXRJJSFn9kQB6zK8QXjRPSXmHwGRz7ZSb/Th/L_IMG_6750-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 18080,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-x8f3S3b/0/KJCxtFZ6GcPxhRvbnL9KQdq8qJQVqLt3qM3V3tdLD/S/L_IMG_6750-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Size": 29568,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-x8f3S3b/0/MwkkQD7WGCPwPtbWRWw3f9b4xXGpD32hkjMVpj2Kv/M/L_IMG_6750-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Size": 48773,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-x8f3S3b/0/NCKZbQ4Bd4RXGrR4T9SZFjzDSfVfNPX2sdn3Dt4QR/L/L_IMG_6750-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Size": 71748,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-x8f3S3b/0/K7nXcMmFBv6bgxrdsn8ZsnLGGBXk6VTm55Ss99XkW/XL/L_IMG_6750-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 101468,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-x8f3S3b/0/MF5snWx6vsJX35KpS9K4cSphjDPzc5jz35dSH9wtx/X2/L_IMG_6750-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-x8f3S3b/0/KKFrHHbJmpmJdTdwMGPQ9Jj4gcRRpLCh8q3LJHwrf/X3/L_IMG_6750-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-x8f3S3b/0/NDK8mtRMLwBsf46rhPp4Wpzdg7nF5j8kjnBfZWWM5/X4/L_IMG_6750-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-x8f3S3b/0/K6kpqg9zJgPF8ZqH7qHNnnxPcjwQcHq6LcrjPxjRK/X5/L_IMG_6750-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-x8f3S3b/0/M78F6ScVLFmmKJ2dwVpb7fdq2L8p4Sg5rV7HrM7nW/4K/L_IMG_6750-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-x8f3S3b/0/NXWwNBCgMR3Z73hP6kBdxL2TXpdBKs3bqPgD2vrCx/O/L_IMG_6750.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 2895307,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/x8f3S3b-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/x8f3S3b-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_2735.jpg",
+      "Date": "2025-08-24T00:19:41+00:00",
+      "Uri": "/api/v2/album/zZx7SM/image/mChCFGS-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Seattle/i-mChCFGS/0/#size#/M_IMG_2735-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-mChCFGS/0/LNj4rwBr5B8vZ52QDKQZ6dKr7L8ZCz8TRcJswLqtW/Ti/M_IMG_2735-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-mChCFGS/0/Nc6RnQXkNBr5c6C7t39mbzJjPtRKWPwV98wj6tRgv/Th/M_IMG_2735-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 20663,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-mChCFGS/0/LCvSpPn4dNWNC9dbRRs8PwD8PhPwzTx9m9rdKsWd3/S/M_IMG_2735-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 55593,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-mChCFGS/0/LmqxnqQDNxcSWDFRg9Kq8t58Lr98R4McC2mHGTn8p/M/M_IMG_2735-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 105573,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-mChCFGS/0/Mq6cz7cJ3h4WL4D7R6qKgVknmsXCCb6mNn8mnqmF7/L/M_IMG_2735-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 171275,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-mChCFGS/0/LdxgrfrzRvTJHMbvcXqXfPsgfMSn3mSx5SDZZvLLt/XL/M_IMG_2735-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 264142,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-mChCFGS/0/K8QKzHNrGstz9T42fGCZjzQkvKz7pNK8D5rFN8TQ5/X2/M_IMG_2735-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-mChCFGS/0/KM3F9JfrXr9gDXWNNLWRxfCXh6rD5GmpZ756wtGJ5/X3/M_IMG_2735-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-mChCFGS/0/MQBXdcBrbJvMT8h4fBvKbhwMtpmfvGFN8BDQdPMLK/X4/M_IMG_2735-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-mChCFGS/0/LtBHJgndjg5s78ZJnHnDJ7kmRWdjKjc2FbVNJQmmD/X5/M_IMG_2735-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-mChCFGS/0/LXdcckxx2ShkSLw3hHK7njqhHmgqwSKdcGjKFJdmc/4K/M_IMG_2735-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-mChCFGS/0/KwG3W6QwBt3BQ2kcXJtsBdDPtZhRRz8FTGVjjLjgT/O/M_IMG_2735.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 3362432,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/mChCFGS-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/mChCFGS-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "47.609405555556",
+      "Longitude": "-122.34288888889",
+      "FileName": "L_IMG_6755.jpg",
+      "Date": "2025-08-24T00:19:42+00:00",
+      "Uri": "/api/v2/album/zZx7SM/image/jG56b9T-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Seattle/i-jG56b9T/0/#size#/L_IMG_6755-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-jG56b9T/0/MTzKMMG6fBCpSrp8Zghwkqz6Rx6MHRK68MmS4HxNk/Ti/L_IMG_6755-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-jG56b9T/0/MsDfjJfnsm36BLMgfq4hHDKHWpqrQgGjNVFn5ZPFR/Th/L_IMG_6755-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 21629,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-jG56b9T/0/Kc5Vxntr6pdVQxHDnjwdq5kMBcjHhwbDPBQx8cR8r/S/L_IMG_6755-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 62520,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-jG56b9T/0/MqjrZcqQfrbRJS4KPLgZPxfV5p8mgLjrKFBqVqzkN/M/L_IMG_6755-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 120697,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-jG56b9T/0/LMMwbXB2gk4BvwMZK6Rhfq2jkLST3jt4D4Pfd2Pth/L/L_IMG_6755-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 196059,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-jG56b9T/0/MWGrCNcgfKWVrN4xjCbVXH8JHkbxsmVNjpp93Jr9T/XL/L_IMG_6755-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 304799,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-jG56b9T/0/KzkNTj4VzvkpwmppRGCvSjQmTZCVJ4sVbFPCcp6Rh/X2/L_IMG_6755-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-jG56b9T/0/NgwmFDhpX2ZXrxgCKtkqFsWQzVvdLTGxQfWn2GLDV/X3/L_IMG_6755-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-jG56b9T/0/Lw4qkV3tdt5FNGKVfJmhN2f4LR3z7zSMWqXPKCq4b/X4/L_IMG_6755-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-jG56b9T/0/Lj5b7PHVTR7CKqs8GKPW3dnrxRthmLsx7xJjmMFCt/X5/L_IMG_6755-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-jG56b9T/0/MXFt6QKdP6Wx9LqL5sNVgzNC79DzQs4jZLkDT9sMt/4K/L_IMG_6755-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-jG56b9T/0/M3XMZqWc6LqjjxMzn8jK3NpJ2w4Ls88h54XwgnmXq/O/L_IMG_6755.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 4379069,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/jG56b9T-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/jG56b9T-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "47.602988888889",
+      "Longitude": "-122.34024166667",
+      "FileName": "L_IMG_6762.jpg",
+      "Date": "2025-08-24T00:19:40+00:00",
+      "Uri": "/api/v2/album/zZx7SM/image/BV6zDsf-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Seattle/i-BV6zDsf/0/#size#/L_IMG_6762-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-BV6zDsf/0/MhL3Ljmk844dkD96Kgmkn5tkMHT2s9hwKnxVbXCxr/Ti/L_IMG_6762-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-BV6zDsf/0/KmgV9SWSWGzxkpfLHFKW3cSqnb83F2Mc7cDQfFwjq/Th/L_IMG_6762-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 18748,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-BV6zDsf/0/NjQvRQxdZCCJfXg82Br2NrhCLTRmFmbGM9Bkwp4Wm/S/L_IMG_6762-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 51898,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-BV6zDsf/0/LW7jtXbrHT8PpM2pWxCVtkTbMk7mcdk93FL4WxBRf/M/L_IMG_6762-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 100660,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-BV6zDsf/0/KW2Zm5KkcRwfmQxw7SQDzTgHTw7vnVs5MbhbCrBdC/L/L_IMG_6762-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 165702,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-BV6zDsf/0/NP6QW43KJNr7Hk9JKRqgZmdkBfKsNRCNFg7QCJDWt/XL/L_IMG_6762-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 260455,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-BV6zDsf/0/MpSKxQFH4KjhQtxT2mpn4dwSVPgWbWcZRKFRFsmMT/X2/L_IMG_6762-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-BV6zDsf/0/MTRMDSRMs8WLhtBPZQCsdfTx7bRGfSr8ttMrHLs3s/X3/L_IMG_6762-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-BV6zDsf/0/Mzc6jQTGZG7nJtTNJXhgffPWLCnTnJHwLBMzKg9kG/X4/L_IMG_6762-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-BV6zDsf/0/KMQ4rzvjQqMn5skBdhrvpFVzfBgpMNdqXsvWTbjk7/X5/L_IMG_6762-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-BV6zDsf/0/LfxD74pzLwmbTJWF4jNrFWmh2kJdZXTHM4RmnDkL9/4K/L_IMG_6762-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-BV6zDsf/0/M8xgKL7p5K7MRrHV8DrVZHLDj9nfLKBJ8PSk3pFzT/O/L_IMG_6762.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 3955125,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/BV6zDsf-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/BV6zDsf-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_2741.jpg",
+      "Date": "2025-08-24T00:19:41+00:00",
+      "Uri": "/api/v2/album/zZx7SM/image/zm442fJ-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Seattle/i-zm442fJ/0/#size#/M_IMG_2741-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-zm442fJ/0/K7Jz9sjDzrWMmxMgqCT2QRfzwpHGxBPM7m3wfBkNd/Ti/M_IMG_2741-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-zm442fJ/0/MnpWXdrZcWnhgHFXw8cchtJQ8CVxmWrNZQxcJTmbB/Th/M_IMG_2741-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 18058,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-zm442fJ/0/M255GjCsrjtgkRs2MbWZ5NPf2hqGM4Pdm8dw7SCCj/S/M_IMG_2741-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 47835,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-zm442fJ/0/LnBbRNrgdqz3cchFsLKbVBvvck5qd23kwhf43WGrF/M/M_IMG_2741-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 94982,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-zm442fJ/0/K7VnSKH3s9fpKq8Zz5Dg3RBwLHDMSF3CmSg3954ch/L/M_IMG_2741-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 158614,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-zm442fJ/0/MCQzzcfRNBp4JtDWBSPNt44Bxk3rLwtqwLTN5tdQB/XL/M_IMG_2741-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 251062,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-zm442fJ/0/Lp8pWBW6TMtsCSdXtSdqrCmjbbMVFBtXDnnfVbB3P/X2/M_IMG_2741-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-zm442fJ/0/NSNWwJtPmdBqDXk5ncZcCQ7NTxbgtwsT4K5LVtR73/X3/M_IMG_2741-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-zm442fJ/0/KtP65BvzxZPbHWS94GpdjFbZwM6C7cwZT6mnM453P/X4/M_IMG_2741-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-zm442fJ/0/MWh7q874c49Kf6FrjBprWQ6JpvhGXp5R7Wz39xk39/X5/M_IMG_2741-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-zm442fJ/0/LxqKKTkK2dkTJJXD8P4J6ztD7gpHMbj66ZVQcnSx5/4K/M_IMG_2741-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-zm442fJ/0/NKSjRw82gRdhVqvxrFD2NMJqwJcb9h7rCxgZ3qgs4/O/M_IMG_2741.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 3686613,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/zm442fJ-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/zm442fJ-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "47.603008333333",
+      "Longitude": "-122.34030833333",
+      "FileName": "L_IMG_6763.jpg",
+      "Date": "2025-08-24T00:19:40+00:00",
+      "Uri": "/api/v2/album/zZx7SM/image/M4rvhdt-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Seattle/i-M4rvhdt/0/#size#/L_IMG_6763-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-M4rvhdt/0/ML7c3Ttt6tLXTtSkkKwp5Td76LLBZX3hVzm4zTqFK/Ti/L_IMG_6763-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-M4rvhdt/0/KcVDTfv4DrvzpXr59WjQV8nmdnrcts8Gx5gBGrrJr/Th/L_IMG_6763-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 22581,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-M4rvhdt/0/NTwfRFHWsvrdfhXMTxSHxbzjxvRznthFw63dcd2BB/S/L_IMG_6763-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Size": 42598,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-M4rvhdt/0/Mn9h5z2Hkvq92zxkxmXm9HbGQ8wBm6ctCxptX957P/M/L_IMG_6763-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Size": 79098,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-M4rvhdt/0/KVvWm3k4mdMqHCTLMfBDkM2pMgbGz7J5mmQdwXw39/L/L_IMG_6763-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Size": 126869,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-M4rvhdt/0/M97kQL7P5MCgmpmCWpDGf3vwZX583D949CGSMzv23/XL/L_IMG_6763-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 190839,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-M4rvhdt/0/KsvfV7BD5kdzmQzS3NgTTc9BV7LgbzWRZF4jCrBfR/X2/L_IMG_6763-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-M4rvhdt/0/NHxXV8j3XGSGDzNN7KgLwLFHVmVFxHdgfGvfcqCgx/X3/L_IMG_6763-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-M4rvhdt/0/Kbb54TW77X79KFRTsXsNnF8hqZmmBtdjbhzzMhpsF/X4/L_IMG_6763-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-M4rvhdt/0/LtXvzkn4N9SmLXTsStsVDSp3ttP29rCFRFBxxxJL3/X5/L_IMG_6763-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-M4rvhdt/0/LX8pQLNfdzH42SVM7fLDgnWxwXqgSGn4GmBS2W8rS/4K/L_IMG_6763-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-M4rvhdt/0/LLJLVfS54749kgzsS4tNw6WSGzkcbmbXNtMmffs28/O/L_IMG_6763.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 4383793,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/M4rvhdt-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/M4rvhdt-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "47.603580555556",
+      "Longitude": "-122.34838055556",
+      "FileName": "L_IMG_6766.jpg",
+      "Date": "2025-08-24T00:19:37+00:00",
+      "Uri": "/api/v2/album/zZx7SM/image/XcTKmq6-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Seattle/i-XcTKmq6/0/#size#/L_IMG_6766-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-XcTKmq6/0/MWzPHSzbQpmR7M9BmLzRS3kV3Qkcn3XcvvTjjpsBz/Ti/L_IMG_6766-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-XcTKmq6/0/LxDht7RsRkvTN2LC7DzbCkWsqWhZbPF8ZssbQMg22/Th/L_IMG_6766-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 17980,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-XcTKmq6/0/KqrV4SP3nwztff62DX782m2ZrvSDnrVgr2vL2dVL5/S/L_IMG_6766-S.jpg",
+          "Ext": "jpg",
+          "Height": 296,
+          "Width": 400,
+          "Size": 46504,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-XcTKmq6/0/LGpsNqMP3xqpL3rgMXR9vfg3GhBKT7WtwS34p6WCH/M/L_IMG_6766-M.jpg",
+          "Ext": "jpg",
+          "Height": 444,
+          "Width": 600,
+          "Size": 89370,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-XcTKmq6/0/Kz9FRXrQWkt9zpwRLCJnmHrnhqQ4dz8HLcKmrjLHq/L/L_IMG_6766-L.jpg",
+          "Ext": "jpg",
+          "Height": 592,
+          "Width": 800,
+          "Size": 143609,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-XcTKmq6/0/KKqt2bPpszRqWjkBLRLmjJRkdfGtxfc6K73K5ZH9D/XL/L_IMG_6766-XL.jpg",
+          "Ext": "jpg",
+          "Height": 758,
+          "Width": 1024,
+          "Size": 221757,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-XcTKmq6/0/LQ7tjVT2Gfnp2qZPnNXHGGG8HFc5zsZ2QDm64CdG9/X2/L_IMG_6766-X2.jpg",
+          "Ext": "jpg",
+          "Height": 948,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-XcTKmq6/0/KW8s8ZB5gcnCk7btHrTJ56L2dnk53JLx87C5RscHv/X3/L_IMG_6766-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1185,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-XcTKmq6/0/M4MSrPpbwCdbFt4CMn7JjzwR6V6M2kzkMGBJHch2k/X4/L_IMG_6766-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1517,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-XcTKmq6/0/NJGnVZ7TX5QKfKpG8x9ZzPs83zqjN47RVckGXxLHK/X5/L_IMG_6766-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1896,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-XcTKmq6/0/Nf5TRxXCtwD5WknphrhDqdpJsN2RjGDtT4XJzKcHb/4K/L_IMG_6766-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2844,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-XcTKmq6/0/KjbpCBRVm2JP3sRHMFC9HN7JsDDjw4CC9BhG66J9C/O/L_IMG_6766.jpg",
+          "Ext": "jpg",
+          "Height": 2938,
+          "Width": 3967,
+          "Size": 2685428,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/XcTKmq6-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/XcTKmq6-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_2748.jpg",
+      "Date": "2025-08-24T00:19:34+00:00",
+      "Uri": "/api/v2/album/zZx7SM/image/9pfm6sb-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Seattle/i-9pfm6sb/0/#size#/M_IMG_2748-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-9pfm6sb/0/Kv6Q94tqBDhnxqtjC2s3fgSWWv6dskNPfPDzZvfdK/Ti/M_IMG_2748-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-9pfm6sb/0/NWxvkVZcXcmFRN47vcF8BsZkfZ3ZCgg27QNHNJzxS/Th/M_IMG_2748-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 20112,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-9pfm6sb/0/Km2PptkPpwmXnwJTbtmCTCrScQZ4QRdR9DBSXrKN8/S/M_IMG_2748-S.jpg",
+          "Ext": "jpg",
+          "Height": 297,
+          "Width": 400,
+          "Size": 54568,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-9pfm6sb/0/K34htf9VgxBKSJz56gvnXqdG8rXWmkW6TtzF6hFKw/M/M_IMG_2748-M.jpg",
+          "Ext": "jpg",
+          "Height": 446,
+          "Width": 600,
+          "Size": 104339,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-9pfm6sb/0/MhW72zNfw6gk3jH68XvTD9D8SzKrGTN3fJWc5CRq3/L/M_IMG_2748-L.jpg",
+          "Ext": "jpg",
+          "Height": 594,
+          "Width": 799,
+          "Size": 171169,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-9pfm6sb/0/MPnrwHjCqWLvzRrWCJ62XkgzJhtjnmzwDV6ddmFpT/XL/M_IMG_2748-XL.jpg",
+          "Ext": "jpg",
+          "Height": 761,
+          "Width": 1024,
+          "Size": 265904,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-9pfm6sb/0/MzHX76WZJc2ZgwcNNHGG3Wh39cSzzxNkb97p2qt6x/X2/M_IMG_2748-X2.jpg",
+          "Ext": "jpg",
+          "Height": 951,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-9pfm6sb/0/L5MZ3BGQMbbQfs2MV87gbsX74BzgNcbnhwM4F6WXd/X3/M_IMG_2748-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1189,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-9pfm6sb/0/KjNLBKrXg3Cj8mBZLG4R8GhLJGmRhsW4mXvwLP936/X4/M_IMG_2748-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1521,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-9pfm6sb/0/MKwQ8zWg4cFmR8XTMhbntScZFBc8LmbTSGM4rnBmV/X5/M_IMG_2748-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1902,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-9pfm6sb/0/LCdmxN9FkGCzBHqCDHX5mwKfWHwdZC2z9DmgCQ64K/4K/M_IMG_2748-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2853,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-9pfm6sb/0/MqmTNrJ5pKmh56zmhxs48xhMWTtcpPjBpgpzXNDPD/O/M_IMG_2748.jpg",
+          "Ext": "jpg",
+          "Height": 2958,
+          "Width": 3982,
+          "Size": 3747810,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/9pfm6sb-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/9pfm6sb-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "47.601077777778",
+      "Longitude": "-122.41767777778",
+      "FileName": "L_IMG_6769.jpg",
+      "Date": "2025-08-24T00:19:36+00:00",
+      "Uri": "/api/v2/album/zZx7SM/image/LKxM6bH-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Seattle/i-LKxM6bH/0/#size#/L_IMG_6769-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-LKxM6bH/0/M44pMqwLqwgkXQNgNj462B4LMt74j6V3LmtJbbm3X/Ti/L_IMG_6769-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-LKxM6bH/0/Md8VC3RrpqRCVQ2mJRpMpSpRTX28zLbv46r5cJk7G/Th/L_IMG_6769-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 18065,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-LKxM6bH/0/KvX3CQt6kDg5pZVQ7gWbNFfBG75w7s2W7PDrdPdpP/S/L_IMG_6769-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 48775,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-LKxM6bH/0/L4ghJwpqLctQLSkRJkgqPgpTmDdpjS7DFW488pc9R/M/L_IMG_6769-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 96443,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-LKxM6bH/0/LNnkSjfZMxHPVSsVGtSx5z98jzDbtWWdCmd8jDLBV/L/L_IMG_6769-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 161309,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-LKxM6bH/0/MrcN69ScsFTrmHp7r7GCdKKS4nSJT93HPSgHvWpgr/XL/L_IMG_6769-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 258522,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-LKxM6bH/0/LPFfXPzwqFt9gGF5fWktftcKKLTZMpmjdNHRLq4zw/X2/L_IMG_6769-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-LKxM6bH/0/LbPbBjT7LHVKBkv8wKrWvZsqv2vZnkZRH97zB7Sxb/X3/L_IMG_6769-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-LKxM6bH/0/LJRCrsGbF25wrTP9mZmmtrDqMzsr8xCh4M9VZdzHK/X4/L_IMG_6769-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-LKxM6bH/0/NKCDmzv8mCM4QGM6QJStDF2ppPVp8DnBgFxMMh8f9/X5/L_IMG_6769-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-LKxM6bH/0/Ndhw66kwqDmV6Qzm8VSctfM3tRB3tpsvQFdmpmXb7/4K/L_IMG_6769-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-LKxM6bH/0/K3RxKTDrQTNZ6W2XCc78LfxWPG2v9ZLRbJpDwvPcx/O/L_IMG_6769.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 4305946,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/LKxM6bH-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/LKxM6bH-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_2754.jpg",
+      "Date": "2025-08-24T00:19:36+00:00",
+      "Uri": "/api/v2/album/zZx7SM/image/nzjKKJp-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Seattle/i-nzjKKJp/0/#size#/M_IMG_2754-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-nzjKKJp/0/K5R5JcBPhVn9Pgb8TjSCZhrW7TrdDRxXp6zrGVdfD/Ti/M_IMG_2754-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-nzjKKJp/0/KNcXph7Vb3M8VDtddL7Dmg7MRDr99pwbjvHVPzLD9/Th/M_IMG_2754-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 24816,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-nzjKKJp/0/LrwKLr8H2LLnhHf2VC5X6XMg22P3Bv2B2wBMhZ5Dh/S/M_IMG_2754-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 73135,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-nzjKKJp/0/KxWKP3FKMQpTmHrhNwrZGXZKKsHrrf6hKvTQNX7wp/M/M_IMG_2754-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 140341,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-nzjKKJp/0/LnFt97VVhnqz4RDJp5BsCDDpXQBfcgNzTBVfPMzxg/L/M_IMG_2754-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 224884,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-nzjKKJp/0/KWjsXsCQHSdNGpDKhPHVPnPbNwzK6PkMbKjbNrhf7/XL/M_IMG_2754-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 343307,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-nzjKKJp/0/LdLr8tFqKkBGhrNSwfBrDLpnBsJKFgtWpDNfMwK8q/X2/M_IMG_2754-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-nzjKKJp/0/LLxXhnfKxNp5bk9ZPGBCDrWNvRTH34Jmx5Q9sKnrD/X3/M_IMG_2754-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-nzjKKJp/0/MKZP59MrgmLsgp5HnSnzp93R6VJ8hwpjhNGg6GMZW/X4/M_IMG_2754-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-nzjKKJp/0/LSnDKck8Mf7VrbZ8b4DG9BknTLhh4h8ZFH2bwxm2M/X5/M_IMG_2754-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-nzjKKJp/0/M26hxS8ZTxkwj792rcN72dKMcbnfMVzfgzS2xMT3R/4K/M_IMG_2754-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-nzjKKJp/0/KKr4Ztms9mXh5rxjgWm7nrL6N3FQgq5P5QK2RT2pp/O/M_IMG_2754.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 4506831,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/nzjKKJp-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/nzjKKJp-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_2756.jpg",
+      "Date": "2025-08-24T00:19:29+00:00",
+      "Uri": "/api/v2/album/zZx7SM/image/KXwnDQF-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Seattle/i-KXwnDQF/0/#size#/M_IMG_2756-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-KXwnDQF/0/KdXgq6mCTT58BD9sNDpkkmBsJJXnvjfrSJcsJG47D/Ti/M_IMG_2756-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-KXwnDQF/0/KKfpN5fcCJxVFp93C89jj8ZG2mntDgDgfwJJnsSz3/Th/M_IMG_2756-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 16773,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-KXwnDQF/0/Ms6LDZ84DRZ37r4JBV8LFcZ9rTQSrKtXmCpBCkHMh/S/M_IMG_2756-S.jpg",
+          "Ext": "jpg",
+          "Height": 297,
+          "Width": 400,
+          "Size": 44615,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-KXwnDQF/0/Lz2szH32jtn9rpNw28kZtcnmPz7xsbd3CBq49cB5X/M/M_IMG_2756-M.jpg",
+          "Ext": "jpg",
+          "Height": 445,
+          "Width": 600,
+          "Size": 90312,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-KXwnDQF/0/KxBdQcvs4DxbRD95K9BxqqhXR2ZTP27MCKNWJkvbh/L/M_IMG_2756-L.jpg",
+          "Ext": "jpg",
+          "Height": 594,
+          "Width": 800,
+          "Size": 153923,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-KXwnDQF/0/NGjwBX3974z9zvNsHWZGxHBw2R4P6Q2gg6g8tHd8N/XL/M_IMG_2756-XL.jpg",
+          "Ext": "jpg",
+          "Height": 760,
+          "Width": 1024,
+          "Size": 242972,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-KXwnDQF/0/NgS9WKtcNbDkPmL73LMMH2RCb638hVqXLNRCD9JkX/X2/M_IMG_2756-X2.jpg",
+          "Ext": "jpg",
+          "Height": 950,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-KXwnDQF/0/MBQSbRNvNnrLCSshXxqgX6XBqX2G8KgvzHtjn3Nn6/X3/M_IMG_2756-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1188,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-KXwnDQF/0/MJVHzGMkGqcTzTbw7KDnhskqLbwgtjkvvnXTc2f2S/X4/M_IMG_2756-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1521,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-KXwnDQF/0/LtvqGBh9hFQTTzKhqCgDwBktB6qqVkQPSWPn45LWw/X5/M_IMG_2756-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1901,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-KXwnDQF/0/MBTjcjnBcDkC3nwcM66PGG2PCN6qrMW8QzXMZrf2X/4K/M_IMG_2756-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2851,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-KXwnDQF/0/NXbGnxtpGK4WvXmntbNDxmfGpzXpqBmWmxGSbcLfj/O/M_IMG_2756.jpg",
+          "Ext": "jpg",
+          "Height": 2946,
+          "Width": 3968,
+          "Size": 3846181,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/KXwnDQF-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/KXwnDQF-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_2758.jpg",
+      "Date": "2025-08-24T00:19:36+00:00",
+      "Uri": "/api/v2/album/zZx7SM/image/Hd8M9mw-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Seattle/i-Hd8M9mw/0/#size#/M_IMG_2758-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-Hd8M9mw/0/L72jQnJTqmFVchLJcsfBkQQ73MQSptHjZTDm5bChF/Ti/M_IMG_2758-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-Hd8M9mw/0/KHLSpHbWrsHPwQ27HWXNrKQg8J9BkCmq9qntBL5BK/Th/M_IMG_2758-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 25253,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-Hd8M9mw/0/Mt52gzGPx7NZ8PVBsrbCpNjqBGPv5DcXktfMJ622s/S/M_IMG_2758-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Size": 53266,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-Hd8M9mw/0/K8sDdg5sJVwxNbtt5Bvd34xdBPj7JPLp5bZLrpXRx/M/M_IMG_2758-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Size": 104957,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-Hd8M9mw/0/M2SFQ7mNtpSt6tpHHLtTWKZNsT4L899BrxfH6pk5X/L/M_IMG_2758-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Size": 172685,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-Hd8M9mw/0/KXDgFp5Vvgksw2FB5Wv6TR9tSwPTNFDMpkkCkTr3x/XL/M_IMG_2758-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 275171,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-Hd8M9mw/0/NM332GSWrbh8v6ZTjwr45mCffcHrcK855BCZWDLw2/X2/M_IMG_2758-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-Hd8M9mw/0/NFdRF3GGpwDrXg9c92L4DLhPbvB7ft3BsdvzFN7TZ/X3/M_IMG_2758-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-Hd8M9mw/0/MT7z74vjqbWK39JsM86ZKmJHnWjjsr3JcJWpJNZrR/X4/M_IMG_2758-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-Hd8M9mw/0/KFBn7kktGgD5GHLHZc5CPG7rWCLLxFHxGjnJ5JkJ3/X5/M_IMG_2758-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-Hd8M9mw/0/MFSLQCbXcZtqLDm32N25XSmhMqJ3CGDz4t3pLw7hF/4K/M_IMG_2758-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Seattle/i-Hd8M9mw/0/KnqNn9MjFtK6wKxcPXLZ9ZFFfv6ZjfRTX2xsmCWGg/O/M_IMG_2758.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 5483774,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Hd8M9mw-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Hd8M9mw-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    }
+  ]
+}

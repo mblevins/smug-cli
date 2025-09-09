@@ -1,0 +1,766 @@
+{
+  "UrlName": "2005-July4thHike",
+  "Name": "2005-July 4th Hike",
+  "Uri": "/api/v2/album/rsQh6X",
+  "Date": "2008-04-12T18:20:46+00:00",
+  "WebUri": "https://lmblevins.smugmug.com/Travel/2005-July4thHike",
+  "Images": [
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "103_0374.JPG",
+      "Date": "2008-04-12T18:20:51+00:00",
+      "Uri": "/api/v2/album/rsQh6X/image/pzbqMSW-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-July4thHike/i-pzbqMSW/0/#size#/103_0374-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-pzbqMSW/0/K5FG4gPWStBPk5dcm7PpKxqXgmM5KpknG9hJFrhgm/Ti/103_0374-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-pzbqMSW/0/KmRwJrRFBLZK3rvfJf54FvSJnrzzqBD3q9nH2Dwxw/Th/103_0374-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 11508
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-pzbqMSW/0/Mq8CP9WCVBZMg237hsXHqh2t3Vpf8ndCN7GTwJVt3/S/103_0374-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 72313
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-pzbqMSW/0/NWskrsSs4x84j7jgng9JL6Jvh2TNkdhqrRxsJmhGt/M/103_0374-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 150840
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-pzbqMSW/0/KtRXMc8hn7h5VvTkkdSFRhn6k9Kz5NvRR6Hhds5c7/L/103_0374-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 249352
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-pzbqMSW/0/Kk9t8HvCJGrrXcvt7JKBTq7SsZpWQgRZstbn5Dvth/XL/103_0374-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 522975
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-pzbqMSW/0/LPHKBgn8Bg9cx4Rr4ZZQXSph22WmXRhSZxbP6jfGv/X2/103_0374-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 778068
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-pzbqMSW/0/Lrnh9TWRJ5J2XnKprbfTS5PScpxvzRgkHmXcDrMjX/X3/103_0374-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-pzbqMSW/0/LsFnTSP6qPLfZ6cGLr59k3dJD3HF4B8PbZVBpgL9s/O/103_0374.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 521960,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/pzbqMSW-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/pzbqMSW-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "103_0375.JPG",
+      "Date": "2008-04-12T18:20:50+00:00",
+      "Uri": "/api/v2/album/rsQh6X/image/bddDXsC-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-July4thHike/i-bddDXsC/0/#size#/103_0375-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-bddDXsC/0/Lh6wJmvkCJ2zTZ5LCHcFgwNdNmNJgPkKrS6G8nNMN/Ti/103_0375-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-bddDXsC/0/Ld42DXWV8RPpN5GDGjqw4QMJT9Tg2xQQ42rfXjxrR/Th/103_0375-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 13606
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-bddDXsC/0/LZCKkjdFpPvzmxj95Xd8577TCsCdsQjRR6HpBqbH6/S/103_0375-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 50031
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-bddDXsC/0/NWrwBv83DCfHkM4JS9MvSw33VtN4SQFh4xD5Dzf2S/M/103_0375-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 102972
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-bddDXsC/0/MhMFBSSR8vdkSJVZH5GNFMtRnWM7JdW6gtBxTjCG8/L/103_0375-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 166509
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-bddDXsC/0/KWp9nrq5xpggDkkK6RkKdHBmkbqnD5KDPNSPnmdBG/XL/103_0375-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 240147
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-bddDXsC/0/MTDBCnhSvxD3JB8cXgW69b79qMzWRZDG95JQFvLcZ/X2/103_0375-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 542487
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-bddDXsC/0/M4Z6Xgt69LLxCSDrkF8GzBT2ftcbhL2p6KQPNFjXd/X3/103_0375-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-bddDXsC/0/LNWtDPWrGbXwQ6CX7hG8t54TQJKGbRjNBms2VTRkv/O/103_0375.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 303303,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/bddDXsC-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/bddDXsC-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "103_0378.JPG",
+      "Date": "2008-04-12T18:20:53+00:00",
+      "Uri": "/api/v2/album/rsQh6X/image/Rcn86sV-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-July4thHike/i-Rcn86sV/0/#size#/103_0378-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-Rcn86sV/0/MwVh57htTvRDHDBbT3T4tGPq3snZvXRtR5S6F64gB/Ti/103_0378-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-Rcn86sV/0/L8jzF7jM7tm656qgRMhkPFtHf54DTnzNkmkDHzHNp/Th/103_0378-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-Rcn86sV/0/Nh7T9rgk6fpWxQ5bqRhM6f5dzQLKg2xLf9q95f5SK/S/103_0378-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 47644
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-Rcn86sV/0/NXQMQnZ5LX2rWbmgG6H7ZVzGRZx2bN5NbfwqpLCgr/M/103_0378-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 99006
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-Rcn86sV/0/Mmt7Kf37rfDqjmhNr39WhjFtH54QLsDfXtxgXwnvM/L/103_0378-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 159495
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-Rcn86sV/0/MMz3qfCzbmWNbj3fLrqWPJtbsjmgz8nvCfJ4PKq7P/XL/103_0378-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 241626
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-Rcn86sV/0/MD26MWnRZpC6WvZSgkh4MVHSxVrTgRVTNXS2vc2Qq/X2/103_0378-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 357510
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-Rcn86sV/0/McRm35t9MLsjvnczLgfxZf4pFFDKZSpVDnpXRf4TH/X3/103_0378-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-Rcn86sV/0/LjRRhm49n7NdCrn4chMhLGscFgBWXZC8pRbfNXGKv/O/103_0378.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 284211,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Rcn86sV-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Rcn86sV-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "103_0376.JPG",
+      "Date": "2008-04-12T18:20:52+00:00",
+      "Uri": "/api/v2/album/rsQh6X/image/BCPNcsq-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-July4thHike/i-BCPNcsq/0/#size#/103_0376-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-BCPNcsq/0/NT4dWPwSBcPzK4dnLfVKLt6DP96FBTDP97LD72tnC/Ti/103_0376-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 8376
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-BCPNcsq/0/L6GJF65pGFJChJ4kft9S4BJGJD7XcjnnCMB5Lgbnj/Th/103_0376-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-BCPNcsq/0/KR39Pjz8QTzKRWLm5hchLCR7G4LJsWM24MLkDfJW2/S/103_0376-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 45845
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-BCPNcsq/0/L4J8Xz48Sg2T8zBKQjSF86ZG4HBG8CNhHMnsc4X5D/M/103_0376-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 94511
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-BCPNcsq/0/KdB7ddzDkxvdbR9FBrpvC6BDrjJSFZGMbNwWTnWw6/L/103_0376-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 152270
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-BCPNcsq/0/L3PPPdKf84Q8zR9xzXK2NfpLjLPPszgQbWDK26dhS/XL/103_0376-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 228126
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-BCPNcsq/0/Kd7btZv2KKn6sfcKzVkr3CmQ9B478qTZ8hkbgtfX3/X2/103_0376-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 337931
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-BCPNcsq/0/MVLqFzM6ktRMGTQgKk7QtxDMTVT3pmmZh9JQ3Qwgc/X3/103_0376-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-BCPNcsq/0/LNxvBsJDk2G7PbWVB87gST37Zk92T5BdLf66JhX6k/O/103_0376.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 273163,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/BCPNcsq-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/BCPNcsq-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "103_0380.JPG",
+      "Date": "2008-04-12T18:20:55+00:00",
+      "Uri": "/api/v2/album/rsQh6X/image/xGVt7XT-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-July4thHike/i-xGVt7XT/0/#size#/103_0380-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-xGVt7XT/0/MS5Z9r2GrxHkLj28ZsVj7nktLxmBZLFrXNZnrQpFq/Ti/103_0380-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 9248
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-xGVt7XT/0/K8sbQhstcfGjnZqNzzhD8NKpJL782pd2sgsbJMHqQ/Th/103_0380-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-xGVt7XT/0/LtZgtMhCWwSS5TP7q6mR7SKCt4ZXrfjfxn74ghS9R/S/103_0380-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 54117
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-xGVt7XT/0/MbmLSxG75m7QGZRjrNf6mqHbqWMJvdWFJQbStsZG3/M/103_0380-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 111327
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-xGVt7XT/0/LJ58xssk2BnKn28NWLvPvb2qG5MCZgCMgn9N9vsFL/L/103_0380-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 180170
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-xGVt7XT/0/KrrDrXbLLsxBj8qNKDRz3TFXGHFgqCFfRNfmPj524/XL/103_0380-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 273256
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-xGVt7XT/0/MhLrZn7QN28xRxwmKRfNqRZB9V4BMmjJv33CthNBp/X2/103_0380-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 404577
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-xGVt7XT/0/MzKhhhSJ8GgLRJ6q2fjctWZqsgzDP3T5bXkhLR2XM/X3/103_0380-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-xGVt7XT/0/Lg5CGhbHvWcZNFDQKTMG5cKz8VKf8KPLVzQxXbFnk/O/103_0380.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 348721,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/xGVt7XT-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/xGVt7XT-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "103_0381.JPG",
+      "Date": "2008-04-12T18:21:21+00:00",
+      "Uri": "/api/v2/album/rsQh6X/image/CHPFwpV-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-July4thHike/i-CHPFwpV/0/#size#/103_0381-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-CHPFwpV/0/MLHjZNWDsx7CZG3z2QbQ7Hz39ZHrx9gGHX2rrtT2g/Ti/103_0381-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 8570
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-CHPFwpV/0/M9SwQJKJ56SJ3TbSZvLs5mWNZjnZzQGC2fSZWSTzz/Th/103_0381-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-CHPFwpV/0/MFh8rGkHWD6jKXbKFscg7KzS4HNBxB8PRF6jV3NJX/S/103_0381-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 48645
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-CHPFwpV/0/LmsVw6Zjmtc3qPR2R3FtKGJdMvgKJVVFFhJD9gfBD/M/103_0381-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 101570
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-CHPFwpV/0/LzkdPJHK34znKq55sp86DTktwNd8RztQ5h5RP8rTQ/L/103_0381-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 164314
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-CHPFwpV/0/KRPb7kzDn9snLZLKxBzGC6SbXsnGTZqbpGFjRPhr4/XL/103_0381-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 252255
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-CHPFwpV/0/Lz3tcgWZpW5wXPPkxsVb9M5r2QnnBxtLpzqtQVvTt/X2/103_0381-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 372718
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-CHPFwpV/0/KLxT5MqFX6zM3CTS5vRVW7jWWchkVsZ8JJgJxCPBK/X3/103_0381-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-CHPFwpV/0/LZhLcTMzFDstMpFMzLKs99GBPw2GHhhtBwhqXDn3C/O/103_0381.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 320153,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/CHPFwpV-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/CHPFwpV-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "103_0382.JPG",
+      "Date": "2008-04-12T18:21:20+00:00",
+      "Uri": "/api/v2/album/rsQh6X/image/2rWdvnT-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-July4thHike/i-2rWdvnT/0/#size#/103_0382-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-2rWdvnT/0/Mbtsw64j8H2H75zb2kv64MCNf7hwqrVbRwK7VRcTQ/Ti/103_0382-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-2rWdvnT/0/LZntMQn4Xp27XLXbkCwDXjKSbZQHJwjmrB3CTnPvc/Th/103_0382-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-2rWdvnT/0/MF23F97WTPHRCBcBkgCQtZrRVCdGC6tXh573jVgjS/S/103_0382-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 50147
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-2rWdvnT/0/LcfMNJWtDGrgpq35Htvp7FV8dnv4tqkn2CPd35msT/M/103_0382-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 104686
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-2rWdvnT/0/MK27tCp2J3B7SKhNSW6rSXdg446qfxqhkCJBHTLCs/L/103_0382-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 170255
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-2rWdvnT/0/MgCqHZNR7r5nP86MMThQZp68dBD9g9dw7szMBXzks/XL/103_0382-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 260001
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-2rWdvnT/0/K7P9pRDm6hXCMG2fdcH2BZssG3G7RRXg7df6tgTh3/X2/103_0382-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 383989
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-2rWdvnT/0/LnvDjkxCsSZcRC7DnJ3RmNf9Cck4MCmf8KDFBxcKD/X3/103_0382-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-2rWdvnT/0/LJPWTtmzbrJHFW7jLDfWm9q6R7Cgg4nh7rqQN6fDF/O/103_0382.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 329133,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/2rWdvnT-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/2rWdvnT-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "103_0385.JPG",
+      "Date": "2008-04-12T18:21:23+00:00",
+      "Uri": "/api/v2/album/rsQh6X/image/7Xhhr4S-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-July4thHike/i-7Xhhr4S/0/#size#/103_0385-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-7Xhhr4S/0/Lk4hD8WHLg5zFhJXgrp4K57r4ZKg8G5XQkVjtBpDr/Ti/103_0385-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-7Xhhr4S/0/NZR8fn39BwcM46h5GDrSxWZWRpx5rcB7jpJzPqJv5/Th/103_0385-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-7Xhhr4S/0/MsmtnDntVFwKH5vgTJDcpNkxm2zrnFV7X4f8fXp6T/S/103_0385-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 51469
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-7Xhhr4S/0/LXGzPLnMK7cqWwtr6m6vRkgRXQPZ8ZJR6NrKCXVm3/M/103_0385-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 108374
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-7Xhhr4S/0/M3ZRGL6MvpKPGNDrPGH28CvbNbKjH3V6RZdSRn8ck/L/103_0385-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 176425
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-7Xhhr4S/0/M94jhVvxNdkG8wG3W2XKVgbv4PSdM4pZvnFwHrWKB/XL/103_0385-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 271641
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-7Xhhr4S/0/LdV5gWJ6p3SrcMzkcxMGTHKXgdF7ns4NQZLzRnjPm/X2/103_0385-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 400989
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-7Xhhr4S/0/KvNdRWfDRFHPCXs6vWdTsSGhCLbZWcg9ndpXX5SFD/X3/103_0385-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-July4thHike/i-7Xhhr4S/0/MkjNRhCFHbhCT6L238xCrx6k2fMs9pXnqWHVh2Bdc/O/103_0385.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 333539,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/7Xhhr4S-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/7Xhhr4S-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,670 @@
+{
+  "UrlName": "2005-Strawberry",
+  "Name": "2005-Strawberry",
+  "Uri": "/api/v2/album/zLfZ9f",
+  "Date": "2008-04-12T18:18:43+00:00",
+  "WebUri": "https://lmblevins.smugmug.com/Travel/2005-Strawberry",
+  "Images": [
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "100_0075.jpg",
+      "Date": "2008-04-12T18:18:51+00:00",
+      "Uri": "/api/v2/album/zLfZ9f/image/mkpr4Hq-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-Strawberry/i-mkpr4Hq/0/#size#/100_0075-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-mkpr4Hq/0/MFLcGTtK6nQCZ7qD4vHWb39LZjnnqgPTHtZMRrvFd/Ti/100_0075-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-mkpr4Hq/0/MHVgSB2shMhWnHw54pz4zjr9nTCF7K3MrQG223mCX/Th/100_0075-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 21326
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-mkpr4Hq/0/KSJV7K6w4R8GhnxqmgfMDSJ2K9Gf2fQJDNkHqmFLF/S/100_0075-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 134796
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-mkpr4Hq/0/NCkQ5sKFRt8nsdPn4qC937HWWcVqnscCnD9vB75T8/O/100_0075.jpg",
+          "Ext": "jpg",
+          "Height": 375,
+          "Width": 500,
+          "Size": 118505,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/mkpr4Hq-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/mkpr4Hq-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "100_0077.jpg",
+      "Date": "2008-04-12T18:18:51+00:00",
+      "Uri": "/api/v2/album/zLfZ9f/image/d9Zxmzn-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-Strawberry/i-d9Zxmzn/0/#size#/100_0077-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-d9Zxmzn/0/KzKtXfZfx3B8zVmgFP22D4M7ck728JjRMvXBZj2QM/Ti/100_0077-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-d9Zxmzn/0/LMFJTQ9N98CBJZZtfsX8BxCdXRcpJjrGPQkGWbm58/Th/100_0077-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-d9Zxmzn/0/NPCW6d8x7jMqk9gHv7XkCKRrB5pTMm6579J4q59jG/S/100_0077-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 121871
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-d9Zxmzn/0/LjRh2SqNtqLq38qVWGbqsWcD7Rc7spxg9Xf9sZP2H/O/100_0077.jpg",
+          "Ext": "jpg",
+          "Height": 375,
+          "Width": 500,
+          "Size": 105846,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/d9Zxmzn-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/d9Zxmzn-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "100_0079.jpg",
+      "Date": "2008-04-12T18:18:53+00:00",
+      "Uri": "/api/v2/album/zLfZ9f/image/BZJWzfm-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-Strawberry/i-BZJWzfm/0/#size#/100_0079-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-BZJWzfm/0/Kk2B7xXj8xstwmnC57hjmDM32HkWnXBHhRHNTR4mX/Ti/100_0079-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-BZJWzfm/0/MB3s4GgNtPF3cDR5gQpjb84pJ6HdtXfh5M3tQXWht/Th/100_0079-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-BZJWzfm/0/KVQHVrx68jkBjLsS7dcz2B45rzKbBRZpWP8kWDHL3/S/100_0079-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 119849
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-BZJWzfm/0/KkqFtRGkpT5rMR2c5fdFpmkXst3TqpvqNMx2XgqkJ/O/100_0079.jpg",
+          "Ext": "jpg",
+          "Height": 375,
+          "Width": 500,
+          "Size": 100197,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/BZJWzfm-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/BZJWzfm-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "100_0078.jpg",
+      "Date": "2008-04-12T18:18:53+00:00",
+      "Uri": "/api/v2/album/zLfZ9f/image/W468DBX-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-Strawberry/i-W468DBX/0/#size#/100_0078-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-W468DBX/0/KQQZdv76NNS7B86x4krPFt35ZGG4p58qbscvBhwRt/Ti/100_0078-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-W468DBX/0/LVKWxqrk6Z87n2RZ3J5LNHp4f3qQBvbbbnL8V9xJD/Th/100_0078-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-W468DBX/0/KNKmpbnd32p6RWTrNmM4RbRz2MZTM2S2Vf3pXBVFH/S/100_0078-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 100573
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-W468DBX/0/KxwPzGLdVWfPJkKS6TKSs93CST2c2b9zGhmLks4RM/O/100_0078.jpg",
+          "Ext": "jpg",
+          "Height": 375,
+          "Width": 500,
+          "Size": 83049,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/W468DBX-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/W468DBX-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "100_0081.jpg",
+      "Date": "2008-04-12T18:18:56+00:00",
+      "Uri": "/api/v2/album/zLfZ9f/image/CsNNbHX-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-Strawberry/i-CsNNbHX/0/#size#/100_0081-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-CsNNbHX/0/Kf4VQfRHq8mtJjkFGXxsjZKzF7zNF3rLW6cx4NZHg/Ti/100_0081-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-CsNNbHX/0/MnZ2MMg5Kfw5prKfzGrkn9McrTC5dr3VnkhZvkFpQ/Th/100_0081-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-CsNNbHX/0/LbRvBZ78QGpZn9fpFmdL5gFpCjcdFWvk3x2mJ3s6h/S/100_0081-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 86606
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-CsNNbHX/0/KmTMNPxgmGVxsgpWzTb6rPwCJ32jQwSDNfknxR4tG/O/100_0081.jpg",
+          "Ext": "jpg",
+          "Height": 375,
+          "Width": 500,
+          "Size": 69625,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/CsNNbHX-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/CsNNbHX-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "100_0080.jpg",
+      "Date": "2008-04-12T18:18:56+00:00",
+      "Uri": "/api/v2/album/zLfZ9f/image/Wfjf3Dc-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-Strawberry/i-Wfjf3Dc/0/#size#/100_0080-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-Wfjf3Dc/0/MCRNLZ4JFkDr96KZMz9KvhpPKs4HsPs5CGnzKFKKg/Ti/100_0080-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-Wfjf3Dc/0/LZFtD3wxXnCj4QmBwrLS3dLWVhxSsJd8H62cGQr8V/Th/100_0080-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-Wfjf3Dc/0/Ljkdq6p2ksL43kcV7FK3RnWWBJ6nGbQM88zNSMcDW/S/100_0080-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 103620
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-Wfjf3Dc/0/LVgzqcp4f8s9ZvHK6VJnZq8pwDQ6FTtMjhSQrMz5L/O/100_0080.jpg",
+          "Ext": "jpg",
+          "Height": 375,
+          "Width": 500,
+          "Size": 85547,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Wfjf3Dc-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Wfjf3Dc-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "100_0084.jpg",
+      "Date": "2008-04-12T18:18:59+00:00",
+      "Uri": "/api/v2/album/zLfZ9f/image/sjt3Pmk-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-Strawberry/i-sjt3Pmk/0/#size#/100_0084-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-sjt3Pmk/0/LhrWttdNm3FpTpxWhrsJ7rVL7SdqPnqqLh4vpb3xp/Ti/100_0084-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-sjt3Pmk/0/NJbcrq92z4nc8sXMzj4tq3D3RcQzBB6L86mFwPZwL/Th/100_0084-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-sjt3Pmk/0/NMMQtbwrxWcQQMjMQDrXN3R93zFmhGMtvwQ4bb9MW/S/100_0084-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 89088
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-sjt3Pmk/0/K629zbSZBgRknqVf6hJjwDWHV5vmhrBjQVxRL9GMt/O/100_0084.jpg",
+          "Ext": "jpg",
+          "Height": 375,
+          "Width": 500,
+          "Size": 71902,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/sjt3Pmk-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/sjt3Pmk-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "100_0083.jpg",
+      "Date": "2008-04-12T18:18:59+00:00",
+      "Uri": "/api/v2/album/zLfZ9f/image/TLsmQZC-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-Strawberry/i-TLsmQZC/0/#size#/100_0083-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-TLsmQZC/0/MmXj37Sf9ZCbWDdL9pTgCd86xxj6HcmDDkqZXVxvz/Ti/100_0083-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-TLsmQZC/0/MWhqWcBcPMt4cDB6cTCBTSnZhnxpGf7qMns4zRsXW/Th/100_0083-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-TLsmQZC/0/MkSXg3SWM5NKnQbq7dCkCjPBjqbn6JZ7hMJVXG3N2/S/100_0083-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 124754
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-TLsmQZC/0/NZv76LWSn4DCL8wLXMRk67wfv96vjSxzFfxKwGjxv/O/100_0083.jpg",
+          "Ext": "jpg",
+          "Height": 375,
+          "Width": 500,
+          "Size": 104696,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/TLsmQZC-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/TLsmQZC-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "101_0101.jpg",
+      "Date": "2008-04-12T18:19:02+00:00",
+      "Uri": "/api/v2/album/zLfZ9f/image/BsdpmGc-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-Strawberry/i-BsdpmGc/0/#size#/101_0101-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-BsdpmGc/0/LWbjNc3ZxBPq7tTnJL9R6xBgg6dKSJFRKwgCZbFjs/Ti/101_0101-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-BsdpmGc/0/LRXmFS2t6kqWdJ5XhTwB8R8m945f9432dbqS5KsWZ/Th/101_0101-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-BsdpmGc/0/LmjSXjwSgffQP9qGPNrRXwFvqrCtJJg2hf2tPqWWs/S/101_0101-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 113569
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-BsdpmGc/0/KgMCnBfh2XJ2xHjnXhrpFC792D8KLMxVDZg8nqd23/O/101_0101.jpg",
+          "Ext": "jpg",
+          "Height": 375,
+          "Width": 500,
+          "Size": 92982,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/BsdpmGc-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/BsdpmGc-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "100_0087.jpg",
+      "Date": "2008-04-12T18:19:02+00:00",
+      "Uri": "/api/v2/album/zLfZ9f/image/mdHwmLv-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-Strawberry/i-mdHwmLv/0/#size#/100_0087-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-mdHwmLv/0/KbhsqrzvQvN72Lz7VBpZ3Fm7CF4dVwmDLZ5cmkzhc/Ti/100_0087-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-mdHwmLv/0/KKJ8kkXFzc38SphDBDzVM2FX7GSmHzNwL3vjcpZ9S/Th/100_0087-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-mdHwmLv/0/KT8ftkpRNDHHgdVgvRgX6CMQWLnXC8fps5jWkfQnN/S/100_0087-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 78508
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-mdHwmLv/0/KQPL384K76GWWWJxVqnVNLb4G3Z7PTGJPhH4vkMMF/O/100_0087.jpg",
+          "Ext": "jpg",
+          "Height": 375,
+          "Width": 500,
+          "Size": 62119,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/mdHwmLv-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/mdHwmLv-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "101_0112.jpg",
+      "Date": "2008-04-12T18:19:04+00:00",
+      "Uri": "/api/v2/album/zLfZ9f/image/8rkHsNf-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-Strawberry/i-8rkHsNf/0/#size#/101_0112-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-8rkHsNf/0/LBF5jttD9NqTw44CMjxG3VCqFwg64F38ScfZfwcbw/Ti/101_0112-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-8rkHsNf/0/KbVcsPxNnwHGBL65xkP9nwQSKX4KwNLH2r3CbTxDN/Th/101_0112-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-8rkHsNf/0/K7fp7xBP8TFZWQgsW4kRQJ5DVKwr6hhHmj5jJRJ6M/S/101_0112-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 93174
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-8rkHsNf/0/NNWLGRNnHCzS7QhMsCqJb2w23PNtwrgWdQ2t2Bncv/O/101_0112.jpg",
+          "Ext": "jpg",
+          "Height": 375,
+          "Width": 500,
+          "Size": 77515,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/8rkHsNf-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/8rkHsNf-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "101_0105.jpg",
+      "Date": "2008-04-12T18:19:04+00:00",
+      "Uri": "/api/v2/album/zLfZ9f/image/p6XBjLh-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-Strawberry/i-p6XBjLh/0/#size#/101_0105-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-p6XBjLh/0/LCcz75v44NZ5Ght9mxJrJMmHGZ5ZdDfdSjG4wdDBZ/Ti/101_0105-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-p6XBjLh/0/McKsGhGhrdJZbQq62SxVCN5cfrxPcNTmSfd6sZZRf/Th/101_0105-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-p6XBjLh/0/MvZjwhV36SdZsKhgK8gkSn5CCcnBDR4kR68s6HC4P/S/101_0105-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 121841
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-Strawberry/i-p6XBjLh/0/LMKg8wBTGrJsfP6LnnfPtHk7PC38Trq4xCH8Z8MCv/O/101_0105.jpg",
+          "Ext": "jpg",
+          "Height": 375,
+          "Width": 500,
+          "Size": 100697,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/p6XBjLh-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/p6XBjLh-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    }
+  ]
+}

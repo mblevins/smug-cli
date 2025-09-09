@@ -1,0 +1,4765 @@
+{
+  "UrlName": "2005-PeelerLakeBackpacking",
+  "Name": "2005-Peeler Lake Backpacking",
+  "Uri": "/api/v2/album/5qR45K",
+  "Date": "2008-04-12T18:22:50+00:00",
+  "WebUri": "https://lmblevins.smugmug.com/Travel/2005-PeelerLakeBackpacking",
+  "Images": [
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0576.JPG",
+      "Date": "2008-04-12T18:22:57+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/hFF7Q4V-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-hFF7Q4V/0/#size#/105_0576-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-hFF7Q4V/0/KthWfRHKqs2KWdsFPfKrcsD8MS6f6hpWsgnQbpLW5/Ti/105_0576-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-hFF7Q4V/0/KzWFzpQQ3XkDkR38NSnVdt5fzw62q6cvdpkjS3z8G/Th/105_0576-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 17714
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-hFF7Q4V/0/LWxk9rBnmfNHK96mq3g2vXcZs8zSFVcWmN85k8g8s/S/105_0576-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 66047
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-hFF7Q4V/0/LLqgHWRCvvFrqxxvzmD6Jj4wMwvs44h4cDVTCghwc/M/105_0576-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 130682
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-hFF7Q4V/0/NPQ8zvvxcng89kHgvpczcb5wcfpgM4QDkGpfT5W39/L/105_0576-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 206761
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-hFF7Q4V/0/LCjHmxP6pjNSxfDjXQGLsBPZzfzGBG9NDXHpZX2Qz/XL/105_0576-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 292463
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-hFF7Q4V/0/Nfk9rvPpMSpmhxsj6mXNQNtCKb3ShfmFJ2bMz2S7j/X2/105_0576-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 611110
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-hFF7Q4V/0/K3vjvsJM2P43kmKKcmQHjz8HgkBkCxT49bfS9R2bq/X3/105_0576-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-hFF7Q4V/0/KrTPd9b463RP98wKLtHqRfNgsMTD2Xm9NPc76Zn7T/O/105_0576.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 347997,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/hFF7Q4V-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/hFF7Q4V-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0578.JPG",
+      "Date": "2008-04-12T18:22:58+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/Tz9jMZk-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-Tz9jMZk/0/#size#/105_0578-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-Tz9jMZk/0/KL9QNNH6776LRcRkQJjFJqXwGz4sqMpb3M6GCkQkT/Ti/105_0578-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-Tz9jMZk/0/LkbkDb9kvTjSgBsMdZ69MHVzLGxBVjXTmL7gDdWxJ/Th/105_0578-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-Tz9jMZk/0/NC62wZdrzfFZkqCLLDqMTCD22vWxmFZF23LMX52dm/S/105_0578-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 65869
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-Tz9jMZk/0/NVLP7sc2vXsQM6Z3wrTR2cgnvVTSTvcpBw4wctqHx/M/105_0578-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 151188
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-Tz9jMZk/0/MBFvQGVzPZHcv2Dg75bcrcxgZLzbn6CqbVdDjV7ZP/L/105_0578-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 310571
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-Tz9jMZk/0/KTHMS5MWGfnQ8mj3tTjNjKQ2rrvnZG7QXV6c6jvt9/XL/105_0578-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 624114
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-Tz9jMZk/0/MDXrJMfNcMnHg7HqWCf4LtxdtVpsZvFrPb4MzFShJ/X2/105_0578-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 911640
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-Tz9jMZk/0/KQp3MpwWDQsMB2tHGwpBHFCfJqp43NRG7wm3WwJ2w/X3/105_0578-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-Tz9jMZk/0/LtpvVHnTnhv7rMp29q3ptQC6HLhFzTK4TKSrC3J5c/X4/105_0578-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-Tz9jMZk/0/MQPR2cQs9pPQHmKgL7sRc8Lk8SCCfVmwnxfTVhXvV/O/105_0578.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 722099,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Tz9jMZk-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Tz9jMZk-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0581.JPG",
+      "Date": "2008-04-12T18:23:03+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/LN257CN-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-LN257CN/0/#size#/105_0581-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-LN257CN/0/LRp7z6ZZTTLmdx37dQ2zZcg7QXDwTDhFLsmjKNf9b/Ti/105_0581-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-LN257CN/0/KkSx37zhH3nFJmcm644fdCDg6cm4L5br77gfxCkM3/Th/105_0581-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-LN257CN/0/MtCXhHZmD54vt8khNgnCR2ZSFCznPPDf29cfcVKRb/S/105_0581-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 54922
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-LN257CN/0/LhHTpV4tnmHCw39DbbLKVQRXb7FM6CVq2qd29mLhs/M/105_0581-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 111440
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-LN257CN/0/LtHwFbhKpL96cntXxsBrFWX8MmdCDLTnF8s7RGwMn/L/105_0581-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 224237
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-LN257CN/0/NTrqLnKjwSksM7hCNjHjRG5TstxBPtGXf9Rq6p3Mj/XL/105_0581-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 451689
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-LN257CN/0/Lq9LBj7J3MHrCq5B2NQPXkFxjFZ6BNWNfn9L4W8Cs/X2/105_0581-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 652955
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-LN257CN/0/KfGQJ7PScNrx4Ctx2kZHG4zBWHRjZ7L4tHB9cFw8x/X3/105_0581-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-LN257CN/0/KqLsHNMF9hprQJDq5D6RdXwBpd99DfQG3WLp4qdZW/O/105_0581.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 371587,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/LN257CN-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/LN257CN-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0580.JPG",
+      "Date": "2008-04-12T18:23:02+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/mjvGxG8-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-mjvGxG8/0/#size#/105_0580-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-mjvGxG8/0/MxFSTQ2vwQQdfbDgZMHh8SXzZPsmt6vvJW59mxQGq/Ti/105_0580-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-mjvGxG8/0/LbRH4LCZjgXJFZ9s3Kvq4jsRfvX497G79p7VkgZVM/Th/105_0580-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-mjvGxG8/0/MFVnxcqFFM7STQKLDSqmV6sVT7WPRhfVzz678Jp4R/S/105_0580-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 65178
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-mjvGxG8/0/LPB77RQ7dwFNxNsp74gMxVZWDg5VDd2FKWx4dkGmB/M/105_0580-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 149403
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-mjvGxG8/0/KtxjzMPLkFVddRFDmcXCkCTgfHmVRFDgF9B7xqzzj/L/105_0580-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 304862
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-mjvGxG8/0/MRHHWV7pfdftHVZQRptHNkpGcvCh3kvdkrZPvSjfd/XL/105_0580-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 620764
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-mjvGxG8/0/L427vrfPf7tS8jN3JSbbKJHQWVZ8PcwRXvJpL8w4s/X2/105_0580-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 912919
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-mjvGxG8/0/KS5HV8pXgCVQ8SK7MFrKch65ngfjkWwdpmp3Kq842/X3/105_0580-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-mjvGxG8/0/LwRK9fCnv2Hv9DdcnH4SHkTWcJrJ6zQcMCgtTMHGB/X4/105_0580-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-mjvGxG8/0/MHbj34R4ggrdbFhVLrVXdVhsg48WrTT5cxw8CqG4P/O/105_0580.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 731751,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/mjvGxG8-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/mjvGxG8-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0584.JPG",
+      "Date": "2008-04-12T18:23:06+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/JTVRGC6-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-JTVRGC6/0/#size#/105_0584-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-JTVRGC6/0/MMpSgjjHRBcpkxghNLQkSDpSK7kNDdcrtZ5kKWfbt/Ti/105_0584-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-JTVRGC6/0/Mx4kDmb5rTKV6JgJVWxBDz7CgCsghHh9mFxsQtMhQ/Th/105_0584-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-JTVRGC6/0/KQCj8dVnFjqCfQtz3f8s38kX4SqMZSMTd8Dgb8fjj/S/105_0584-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 46098
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-JTVRGC6/0/MWGk3xjBJBvG6C3LfL6SDgtjVQ4dWGTVkmxDLDJtr/M/105_0584-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 102317
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-JTVRGC6/0/KMC4kSLm4Np2Xphr2PgQh4grkK23hncdmQDBJNHLj/L/105_0584-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 212467
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-JTVRGC6/0/LB5kX4KV3w7dzVdFCShQ9kTdRcFwg62Z8nk2cW24H/XL/105_0584-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 447049
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-JTVRGC6/0/KcTXZRXF9LwqTH97PWckbdQbBMgdXkDJDgGZbR6RX/X2/105_0584-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 669782
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-JTVRGC6/0/NQPVdBxztDSZb5qKPQzGjGqzkm6kZbqQFhVfxgWN6/X3/105_0584-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-JTVRGC6/0/MCK9ZRVFHM2S4zMtX6TvVR4hJCvfFrQtxQZddbP3Q/O/105_0584.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 455143,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/JTVRGC6-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/JTVRGC6-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0582.JPG",
+      "Date": "2008-04-12T18:23:06+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/BWr299X-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-BWr299X/0/#size#/105_0582-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-BWr299X/0/KsZQvB3Wh425D8WQ5BCd2fggFBP2xqC4MLc4r7JFn/Ti/105_0582-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-BWr299X/0/MS8TKhXHhfLdQJqVPtsPNvdnBNFRcSp7zBHjLsvgh/Th/105_0582-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-BWr299X/0/MCLPsWdTm4X74Hhn7K4ZJQM9bfp6Tj4h2CM6grscZ/S/105_0582-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 55331
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-BWr299X/0/KJ76bzcNsjj6tSBNQGtNJcpGStBqLNJ2MQbJqvThW/M/105_0582-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 91434
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-BWr299X/0/Mnz77s8wDVLWKbZ3tnXxHXNtKgbztptk8h7dkLkbM/L/105_0582-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 191195
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-BWr299X/0/KDqQGNHrbZKVh6qT96HLDwXPSg9ptBRdHvxxzZWdm/XL/105_0582-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 403101
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-BWr299X/0/MXb8d6FjND6F4gS7bJsspkzkqmJCHMdrKtg3FgHzj/X2/105_0582-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 602639
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-BWr299X/0/LzC6JtSLjhhXmmXNkRKhZ2T498QGDsn9WfHLPQxcw/X3/105_0582-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-BWr299X/0/LcTdMKjRL6zzQ9GwXWnDdXdtk7dcc8dxFM629ZNxj/O/105_0582.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 382177,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/BWr299X-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/BWr299X-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0586.JPG",
+      "Date": "2008-04-12T18:23:09+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/NTp42Dr-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-NTp42Dr/0/#size#/105_0586-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-NTp42Dr/0/MsZc5Frx9mMP8R4zfzbMdrsFKFGn7xjsMrNKnC7S4/Ti/105_0586-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-NTp42Dr/0/L3Pr7FVfGDpqBL7v3R5NW7r6cNnPQxj76nmT7WQt3/Th/105_0586-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-NTp42Dr/0/Nd22QgVzFwc7ZQc8bJZ2wjMC2bSSPjM3J8zzXxjCc/S/105_0586-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 51785
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-NTp42Dr/0/MVBBFDmhLwwWRKRNdF8hxD8zNR2C3vzFcg9QWFXtT/M/105_0586-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 115482
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-NTp42Dr/0/NHCr6xr3C6vWzHMg22mGbh2TC6SN4dXScL99ZqjSk/L/105_0586-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 236588
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-NTp42Dr/0/LDjWZ6gC2HV79444GNHfg67vnD6rpQXcNvh7JTFLF/XL/105_0586-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 507590
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-NTp42Dr/0/LFp7XzfHZ6chzsvG9KkmdwZmNkzHSx5JWVbFvQF8m/X2/105_0586-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-NTp42Dr/0/NdzpkDDT82Nj5CLp3pd3JsRMBTX9sgJvx6CHvnjkQ/X3/105_0586-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-NTp42Dr/0/MT2bDPrgRdVSjt6V8JjJ6Hb29zQcNKk7hLn6mLHZR/O/105_0586.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 495602,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/NTp42Dr-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/NTp42Dr-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0587.JPG",
+      "Date": "2008-04-12T18:23:10+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/LttPj8N-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-LttPj8N/0/#size#/105_0587-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-LttPj8N/0/NQKntT3VRBJqBrCn9qfK257sVf4gXjchvSghGzpMH/Ti/105_0587-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-LttPj8N/0/LBg9xxfCMs8hbQz63gZBBrvbHfVLd9NzkcrCCG2Jx/Th/105_0587-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-LttPj8N/0/KqVZfhNTXcSgJhLpBHR4f9LDzsNgVchgLBCrb6v6F/S/105_0587-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 53771
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-LttPj8N/0/LFFqPD5xCPgc6LTf8rbp9Lr7M7D4jJ4RW5v5Kc7jS/M/105_0587-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 121601
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-LttPj8N/0/KjC9dxZQsKCh3Tk2q3RjHGn46HtpJRx9RhFnfpL8S/L/105_0587-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 255262
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-LttPj8N/0/KvBRbHMhFCtrXFkntp2XzXM2Wp2XC55SV2XsRC3Tj/XL/105_0587-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 539430
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-LttPj8N/0/L9GC3Fz6NbtqQh2ZM4m6RZHhw9xvGQT7dHqFc8vrD/X2/105_0587-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-LttPj8N/0/KmVLFccR66NDDbknLWnCn5HDzXCrdNLjwcp7MPdG6/X3/105_0587-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-LttPj8N/0/KH6wZ5Bt3M3ZszB8TMSxjVmp8Vb2L7s8RRnXC363Q/O/105_0587.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 555624,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/LttPj8N-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/LttPj8N-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0589.JPG",
+      "Date": "2008-04-12T18:23:14+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/GnnNpXX-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-GnnNpXX/0/#size#/105_0589-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-GnnNpXX/0/MjTTVLFx9VQv2hXtS59Lm4PhgCTLm86Krb4WwpLgG/Ti/105_0589-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-GnnNpXX/0/KkwvXqR3jcFS2mLQVWMpPbx9GcJKFDVFw7tLN8fHj/Th/105_0589-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-GnnNpXX/0/KNvz3Jxt3Cm3PqP8SLg5xS2FNJKqn3WgQs7S8sZWm/S/105_0589-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 46192
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-GnnNpXX/0/LSH9Z5jL9xC3Z2XQSQwNV2KgwdcfnbHW3VP6VKJ2Z/M/105_0589-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 105813
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-GnnNpXX/0/LfXM48Hfbb7KBCDzdRPx3JBxtTm6353zvrvL4dwxS/L/105_0589-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 224361
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-GnnNpXX/0/MNKQD4Nd9PxzDZdNTbxRdZX2gqf7MphcQvwKHB2xB/XL/105_0589-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 488108
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-GnnNpXX/0/KhkXh4MJZ5h9jhtkJ6NBZGnXrqtnL6Mbj4FhP8bwX/X2/105_0589-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-GnnNpXX/0/M3Lfn5S3XTtwjPjMkkdGsCgHmhdHZpvXTpCb6p87F/X3/105_0589-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-GnnNpXX/0/KkG87HwgdrtqdV3Dbm38wcNBMMJMzjc5WpxdNNjmD/O/105_0589.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 459163,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/GnnNpXX-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/GnnNpXX-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0588.JPG",
+      "Date": "2008-04-12T18:23:13+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/RPNDf5B-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-RPNDf5B/0/#size#/105_0588-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-RPNDf5B/0/LFDHMH4KH7FDX4sRrmxWfVSS2tV78mWX6WnsZmPxg/Ti/105_0588-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-RPNDf5B/0/LFWJVQrM4g2PqQjBHVk5N7xgTtLX8WWLwqKMgqsmg/Th/105_0588-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-RPNDf5B/0/KrW68gVVbRSw3S3vWthhSbnGDKtrXG4gG9JQ3RPvr/S/105_0588-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 39090
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-RPNDf5B/0/MGCp3szwJh6cMfhX4VsFVwJqsT5sscSQdcnRN487h/M/105_0588-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 96132
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-RPNDf5B/0/KRQ5vprdP2cBNTSj2WxNXvKpBnj3xtV2qPwRxWwWt/L/105_0588-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 208020
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-RPNDf5B/0/MsNnR4ffgsqZqqqJcSc9CTvGwm2ZfKxZmSztqnnBs/XL/105_0588-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 466604
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-RPNDf5B/0/LdZ8sJStBVnTNXDqFzfDJvM7cRjBR3PbXGM2GgmrP/X2/105_0588-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-RPNDf5B/0/KRHFxjKRFVxBkBq5sBg8hsFX7xsGNFwMgCTjGRgJm/X3/105_0588-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-RPNDf5B/0/KjLdrvRT5H9fBPWRgx4Kk7JDmkvCQW3SkhvjDQZZw/O/105_0588.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 441767,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/RPNDf5B-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/RPNDf5B-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0595.JPG",
+      "Date": "2008-04-12T18:23:18+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/9PcpwXT-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-9PcpwXT/0/#size#/105_0595-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-9PcpwXT/0/LV7mHX4wH5r3jZkpqwsb5Ng5srKjMVCWZsnkWC6WD/Ti/105_0595-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-9PcpwXT/0/KD3cs6QWcs6c2hCXgZWxtznRRrTkRZdm6vdnsNMXZ/Th/105_0595-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-9PcpwXT/0/M9C8gVmSRfpDhBJFRdzS36kkKFGzCgQJMRZZPkSH6/S/105_0595-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 60344
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-9PcpwXT/0/LFq48JCQFQ9ZJV8fc8gKCPVBh3XfSdTn9NwHTZZ5T/M/105_0595-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 132183
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-9PcpwXT/0/LbXrDCw4XJsQDjJrL7cWFjdV7nvQ8RCRbM2g2bNc2/L/105_0595-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 259141
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-9PcpwXT/0/K6fHc6wNZ7GZJp3qsnjz2tVFcTqRgdkk36Sf7k9RQ/XL/105_0595-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 523215
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-9PcpwXT/0/LzVHXfV7RGWWDdcxSRmgKJ39Xt6QcMCTC7nHRpqsp/X2/105_0595-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-9PcpwXT/0/KHCsb5Zgzc8dh44m6w9NbGnmF6RnjFZ6TWQc6rfvB/X3/105_0595-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-9PcpwXT/0/MBcLn2N9C8Z63Z7PFcPSPJxfZv7N2FvCG3zGcKCvC/X4/105_0595-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-9PcpwXT/0/LWQr6wvb37wh5TtDH4c6V2nfgfzBjdRG34v998r3K/O/105_0595.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 528570,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/9PcpwXT-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/9PcpwXT-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0593.JPG",
+      "Date": "2008-04-12T18:23:17+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/b2NbJ5w-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-b2NbJ5w/0/#size#/105_0593-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-b2NbJ5w/0/KR65kT4NCMzPLpbMwZxw9cwCsKh6DDXpNMmqZNnHG/Ti/105_0593-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-b2NbJ5w/0/MpHnBJT8Snv8Fj5KPFkngxGWgVkWKfPCpLXCS9wc6/Th/105_0593-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-b2NbJ5w/0/KRgsM32JTDXxPtkFT2FJSRC2M4GvbWGmgbV6wkSK4/S/105_0593-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 67686
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-b2NbJ5w/0/KmQ73BRjNFL8f9bPrmMZsWtTh9FM29SxLNLTg5L8j/M/105_0593-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 154139
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-b2NbJ5w/0/K7MRd35nBQzF6M7nm7WPWwCWhX2SqDn6ZsnfLKxsT/L/105_0593-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 317155
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-b2NbJ5w/0/MnDzv6S5jwmRBjQzrdss5X2ct68hhM6pGgGWmMKdM/XL/105_0593-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 637314
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-b2NbJ5w/0/NPkTgc4Wfpmg4CQt779DW3ZcLwVZsqtPRcbRxjbsB/X2/105_0593-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-b2NbJ5w/0/MXmGPbJPGq6HCSjdf8N32c2HkdSTQsVZBkT5fGJfF/X3/105_0593-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-b2NbJ5w/0/LQNV2Gcwn3hm97tzc7gt3F3bz422KLQggsCgNn7PP/X4/105_0593-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-b2NbJ5w/0/L6hdNpWrcDBr539vGmSQQwMtgFVX4t8s92Br2D8xm/O/105_0593.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 740804,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/b2NbJ5w-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/b2NbJ5w-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0596.JPG",
+      "Date": "2008-04-12T18:23:21+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/ZhKRQKT-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-ZhKRQKT/0/#size#/105_0596-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-ZhKRQKT/0/NVRLNXQXmH6mV9vSNZXcnKsBrH9Wr7vRBRD25pp83/Ti/105_0596-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-ZhKRQKT/0/NNT58VgHGQWdxxxZmc9Q42HgqbGJngkzfWXhfRQxK/Th/105_0596-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-ZhKRQKT/0/MCBR3FFWkkLHQSJ49ZJ4vTHLcvz2VRZ2LZ2XJrVZN/S/105_0596-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 56867
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-ZhKRQKT/0/KR4WgBFCPnPG7rPkHWKmxFFJnD96MgM9NSj3c3VCt/M/105_0596-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 126197
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-ZhKRQKT/0/K483NFXGchMMg9cBc5KCcTbHwCZXJXNR2Gx4qHHgt/L/105_0596-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 254328
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-ZhKRQKT/0/NZNv76VvGLZKWqh2HFddGVS76kcpF6cmn2kXXZLnf/XL/105_0596-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 533012
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-ZhKRQKT/0/LgLGgX8PDNz54pMnBJcXJ32c3C6rQMkS294qvQDB5/X2/105_0596-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-ZhKRQKT/0/LBGTd4mGQHdCSZgBZHmBQmcD8DLbX9M7mJQbdR9P2/X3/105_0596-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-ZhKRQKT/0/KmNVjDFD3QfC2WWbtZcCDnD2bpNM7DCQv9vCGLs78/O/105_0596.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 557655,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/ZhKRQKT-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/ZhKRQKT-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0597.JPG",
+      "Date": "2008-04-12T18:23:21+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/XnTDskk-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-XnTDskk/0/#size#/105_0597-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-XnTDskk/0/Nch8Hj3GthmqmR2P9Kzk2MdQRkt5FZNDmGf3tMGrZ/Ti/105_0597-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-XnTDskk/0/MBFvqKK8HxNfzT5bS8tqQpkrRQQb54pDW3nP5HXDG/Th/105_0597-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-XnTDskk/0/NCbsSwqmMb7bw3vW5PCwrmxWkqGG799cxgN9nfLmq/S/105_0597-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 61699
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-XnTDskk/0/KcVZtngz5s75L2hkxpn6t5QpPRFVHSfZxPvgmFJzk/M/105_0597-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 130354
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-XnTDskk/0/K9BJZ5NZMTvwdz9sTf2HpxzXWRTq64mw9RZGmj48F/L/105_0597-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 262680
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-XnTDskk/0/LfQrrcpJrx4gnNdpW8B288qsSXxTH2CmFKPcZcwrm/XL/105_0597-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 526358
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-XnTDskk/0/KDd6bSmK2Cr6gqDVPh9bgDnPmWVbLXMB9xWbC2vb5/X2/105_0597-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-XnTDskk/0/MhtXdK7B4rtpPGcvBnFCgdr44G6vdTkSFS9rZdtTv/X3/105_0597-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-XnTDskk/0/LC2282KwgcxB9hFdxJjcNHXqW8Z2M225jkg893Kxj/O/105_0597.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 476311,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/XnTDskk-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/XnTDskk-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0600.JPG",
+      "Date": "2008-04-12T18:23:24+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/2bNVnbc-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-2bNVnbc/0/#size#/105_0600-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-2bNVnbc/0/NNdq55PD4tknd2Dm3PsN3LwWDxHLjfPvwM7dwdRt8/Ti/105_0600-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-2bNVnbc/0/KSHbkQNQ4hWjmqSSkXLK2qjNJWwrPHkxHj3dSM4H7/Th/105_0600-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-2bNVnbc/0/KzQf3CXJ6zzkqgsDRLBWRq25nwBkmdZxnmKWxvb2k/S/105_0600-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 57922
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-2bNVnbc/0/KXPwXbs4d6fQvLNQQQMbq9Z97bDG4NnvfjbRkxhbB/M/105_0600-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 128212
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-2bNVnbc/0/MmbhR47wkPtPW2H6P9DsWCsrtCg4PngZK5f3KSzrK/L/105_0600-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 265091
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-2bNVnbc/0/MJjGjXwT357RDm6bpGrxfS3zqRCpfmJwGPx7Jn89f/XL/105_0600-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 537853
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-2bNVnbc/0/KS7VXbgrp6zWdSrTWkBdvHZtjxrbJdsbbgf39brj8/X2/105_0600-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-2bNVnbc/0/LCP6zVQjVnTqxHT78wDZDqRkRknPPXhs36dZ3ZgkL/X3/105_0600-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-2bNVnbc/0/MGNqvXv8f4T5v3Nb9DktJsJ8ML4d8N9HHX356wRj3/O/105_0600.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 576836,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/2bNVnbc-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/2bNVnbc-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "106_0602.JPG",
+      "Date": "2008-04-12T18:23:44+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/nrgw5MC-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-nrgw5MC/0/#size#/106_0602-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-nrgw5MC/0/Lfnj8vhMSD5wWbt56s43BRrn8BKsXmck5CbmQSNjC/Ti/106_0602-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-nrgw5MC/0/MQMGZqdK2bVfvM7zrJ7XjF2Fj7CtGr3VmMqHqNZT4/Th/106_0602-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-nrgw5MC/0/L2WdfKKWqHPHVRnHNvLTfjdfnqgJxsJT4nxxBrKSd/S/106_0602-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 56515
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-nrgw5MC/0/L6Zr7v9B7PXbzsFMvRVwcV3tWgd6Mx4c9q3Qs97mG/M/106_0602-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 123918
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-nrgw5MC/0/LMjhWpP7FdvvdpwtdCNbW3m9Xf5Zgnk6sRbhsZX8N/L/106_0602-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 256093
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-nrgw5MC/0/LzKmXQJxrHp6nNMKk4z8jqH9VTLqvR3LN5jDPhdBt/XL/106_0602-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 516997
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-nrgw5MC/0/MSxFBhKnK9CQJF9mJPTsB7phNx3qBVGbhr4625xmK/X2/106_0602-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-nrgw5MC/0/KhbfHcD6cxF9gj9Z4sfLnmvSh3TQqQ7x7rtthJXFM/X3/106_0602-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-nrgw5MC/0/LMqJpstrdgSPhDtFfBhkgjJCvt6gvMF6VBtX8zs6Z/O/106_0602.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 526170,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/nrgw5MC-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/nrgw5MC-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "106_0601.JPG",
+      "Date": "2008-04-12T18:23:44+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/ZRTmGDx-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-ZRTmGDx/0/#size#/106_0601-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-ZRTmGDx/0/KSLSpZhzjxkzxWV9ssTwMm975FSdkkMHgrpFGPnQK/Ti/106_0601-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-ZRTmGDx/0/ND8J7732kHnFZS8B7Nr5Z3BqswZ8CSCk9pj3LpmRp/Th/106_0601-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-ZRTmGDx/0/Kd4HDhkpV2VrDmxxQftXsTK4qn7jDWPDWVqx9cCgC/S/106_0601-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 75811
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-ZRTmGDx/0/Mpr3C73FDMsLgQgMmbRbmdpsNSV5txb9fBXD5BFKZ/M/106_0601-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 154209
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-ZRTmGDx/0/MwR89Xt3ZFWkh9M6FbGd4hdzMPzwPNpRMWkVGh38S/L/106_0601-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 251604
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-ZRTmGDx/0/MZ2GQBWj5MJMGFzJSDBVF6PN3bSbGC4tQkc54zvNR/XL/106_0601-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-ZRTmGDx/0/Lk7MBHFjDSLp8RfKFSJXMnSZSvDT5SM8NvzRzgCbH/X2/106_0601-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-ZRTmGDx/0/MQk5dHcL4SLxGRJ8Rr3jVJjB8SbzdKvMT9xrnxp2h/X3/106_0601-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Size": 712568
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-ZRTmGDx/0/LrJS4sXDSZtxRBNsnRkpCG2Z8vdt5MB6dLRC8R742/X4/106_0601-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-ZRTmGDx/0/MvKJ8WkMRdCFHrkPtCfsXrmqWMDtKKJBdgtBn5F69/O/106_0601.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 481604,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/ZRTmGDx-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/ZRTmGDx-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "106_0604.JPG",
+      "Date": "2008-04-12T18:23:48+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/KwNwxvW-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-KwNwxvW/0/#size#/106_0604-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-KwNwxvW/0/Lctkj6mZxjPWKtLzr5KRfFXLwNd6CjWmX9JMXPJC6/Ti/106_0604-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-KwNwxvW/0/LPV7BJcr35HLVkXbR4VbSqCrZK57XqdqXPpGdcFvB/Th/106_0604-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-KwNwxvW/0/KxFdT8ZzB3TWgkBFwDpxkFtMpJ6T6T93sWCRpX8CN/S/106_0604-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 57627
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-KwNwxvW/0/NG6NwjPp6RJG9St2FBszgFgv6XWFBFSVfcMPLpDpx/M/106_0604-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 129812
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-KwNwxvW/0/KdvTxG3JQJrcjccD5ZpxbLL4QMP7Pn5vPQ83qQ6qQ/L/106_0604-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 270988
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-KwNwxvW/0/LbXdqjT7ZDFDVDfSdJgh3HsD4sMh64cRXnqPTLZ4q/XL/106_0604-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 561020
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-KwNwxvW/0/MZBqb285XSjJkm8mJkrBVM6k4hGfmZ53dDtqbGWkh/X2/106_0604-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-KwNwxvW/0/NM9PG7LHtcghcz74tLNq629BQf6FP8fC4bhGKpkZb/X3/106_0604-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-KwNwxvW/0/NVCWVZ9R6cQFr327BTLgHNxhTLZSqtNPCQPRPGzw7/O/106_0604.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 553577,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/KwNwxvW-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/KwNwxvW-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "106_0603.JPG",
+      "Date": "2008-04-12T18:23:47+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/P54j9Dm-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-P54j9Dm/0/#size#/106_0603-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-P54j9Dm/0/L6pnPVBkcKwGZxnjkLmW6NJFdK2dcFxrwKwHtd66w/Ti/106_0603-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-P54j9Dm/0/Lr4RDrvtQrSGTcZpRHhrwXpx35X6SPQkMN8xGwVRL/Th/106_0603-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-P54j9Dm/0/LDXhxL9ZtmXmX4t87sv7vDjXVHdnzsM37vgcfzHG9/S/106_0603-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 63410
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-P54j9Dm/0/McMwVx7B8dFqTMvCsp8ftBpHMSKXjRnPCC793BJGM/M/106_0603-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 107384
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-P54j9Dm/0/KN4vc2PzpXJ8RtNMTvT9t2Qh6DcT5QCPcGt89MGrB/L/106_0603-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 225813
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-P54j9Dm/0/Mb6Qg7vzgBP4hTVN3FkRjcSq4TX3xjfJbMqdWDw5g/XL/106_0603-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 469259
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-P54j9Dm/0/Mf9F7wHBPBWrK3KpFfLQ74S7q7tRRMTD84t7fss26/X2/106_0603-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-P54j9Dm/0/MCfdQK4rFG34vK6786HC22NzTv8ZgbfP6sXpsjPGP/X3/106_0603-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-P54j9Dm/0/MTrCvHjwmQNwNpCPz8mxPCLLCzWvqHG4tdJgPDNK3/O/106_0603.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 471481,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/P54j9Dm-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/P54j9Dm-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "106_0607.JPG",
+      "Date": "2008-04-12T18:23:51+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/xX8dcTN-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-xX8dcTN/0/#size#/106_0607-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-xX8dcTN/0/LsBjvNTGj8v6gbSwGBcQTDwS8GPjPzD44xJm456V3/Ti/106_0607-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-xX8dcTN/0/LNsxMJB9Nd2Z35ksn9F334w4c8C4ZNFZRkMFKxmFL/Th/106_0607-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-xX8dcTN/0/LxbTxmKPzmcqL5LBnmtsZ2NrkB43tzvhXtkTLWbbD/S/106_0607-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 68635
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-xX8dcTN/0/Nf9ZCrW7HkmCf32kgfBt2mWCFWrP9bJSkGvcbwcFZ/M/106_0607-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 117802
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-xX8dcTN/0/LjhcCccjB662TfdS8JrtR8hhGkv2S3rJSzzZ6BbCM/L/106_0607-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 246094
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-xX8dcTN/0/MN4pk4k3d2ZdPhJmPb982rT9P3V3HwRDzSmqFK3Xj/XL/106_0607-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 515476
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-xX8dcTN/0/KGSC4qG4Xs5D7Sz64NZrnVvVpRh6v5s9b42ZCxJGt/X2/106_0607-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-xX8dcTN/0/MZ2tDnTQqM8KL7BWFTSxzjq2hfgHbkjKkpZDF2634/X3/106_0607-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-xX8dcTN/0/Mpv5ZRzK2JqR4Mfh5JtR8bRVNQV3LLG9SCSJc4LNH/O/106_0607.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 534185,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/xX8dcTN-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/xX8dcTN-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "106_0605.JPG",
+      "Date": "2008-04-12T18:23:51+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/kLmKWhq-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-kLmKWhq/0/#size#/106_0605-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-kLmKWhq/0/MhDPnKssTwHmtsshPVVZmWNm943nXMz2w9SpMTSK8/Ti/106_0605-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-kLmKWhq/0/KDNvpcQR5jdvBsTk7dSwmPHbZJjtxT9Xs849mDGSB/Th/106_0605-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-kLmKWhq/0/LBbg6NNNvHWsrXj2wTTWGcbrTqkzj6x7ptm59Hsqm/S/106_0605-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 66269
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-kLmKWhq/0/MjQ7tFhd7SZTsjLVFRhW8qMtrnrpXB2gdX9Gz3BBv/M/106_0605-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 114538
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-kLmKWhq/0/Kd8r3Kmm45gH6XvcqzPgfH35hMm4VQpM6Mnpnm2Hs/L/106_0605-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 237151
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-kLmKWhq/0/LSzpSKcZkkHd5JvXLPwQVTpQWRdLDsJ3MxhDZTDMP/XL/106_0605-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 503887
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-kLmKWhq/0/LJtfdvqzvqTkSNKkW8nPGc8h6ZX6SFjwKss5Gd7FK/X2/106_0605-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-kLmKWhq/0/NFtVMG7gKbvq7Lr2d46JxpVkms3DTHZnj65BBdMNt/X3/106_0605-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-kLmKWhq/0/MSNr242fcsw7tDtfC5mfbzhtwSZHMmKMfvjMQ35g5/O/106_0605.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 483414,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/kLmKWhq-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/kLmKWhq-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "106_0609.JPG",
+      "Date": "2008-04-12T18:23:53+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/87ZwVpX-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-87ZwVpX/0/#size#/106_0609-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-87ZwVpX/0/NSGxH7v5qrtHXLnkqFgrtNgpKhnk72MRMSdtJ7Trp/Ti/106_0609-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-87ZwVpX/0/L2qjSv5pgcm47vPq852qh2vsd6RXtWPTSrWdCLNwQ/Th/106_0609-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-87ZwVpX/0/M5cnjNXZ5n3wG9gLNN3Z6Mn92v3TpX4fJkChJTPdk/S/106_0609-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 72029
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-87ZwVpX/0/Ndhv3qZMXfVSDwX3J7MDvHwGJZqKWbRD6LJmrpWqz/M/106_0609-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 133033
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-87ZwVpX/0/MGXXQVmKqfWKk2BvvSXVzdVmtFNwtKDFVC4TkJDXc/L/106_0609-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 265735
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-87ZwVpX/0/ND5dMwKShxjjbnFZRMHkNVBRhfxtBdVvBHJnFngpK/XL/106_0609-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 552626
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-87ZwVpX/0/KT2hf7rLG35pGCVjD6BhbbdFDmTskqLgFzZRv239Z/X2/106_0609-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-87ZwVpX/0/MK3Gm5qtcHxZf98NsT4p5wHDMSrZMqvJjgdj9nPp2/X3/106_0609-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-87ZwVpX/0/KGhjm6v7z9C6hwmFfkZ7k8pRPtMnfZ6zw2nPxsHf4/X4/106_0609-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-87ZwVpX/0/Mr3jtJDJ7Rf22DG3THDMtWD6bKZMPRbzzkn83DqBN/O/106_0609.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 584464,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/87ZwVpX-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/87ZwVpX-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "106_0610.JPG",
+      "Date": "2008-04-12T18:23:55+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/shZ5bCB-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-shZ5bCB/0/#size#/106_0610-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-shZ5bCB/0/L74jKnrZnfsmHb859W6cbqJv6hhjFS7dHr94qKqVt/Ti/106_0610-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-shZ5bCB/0/KRx9hN5w4XZSM28QN9wt5rgDFqZdSsdpVvPpd8DkK/Th/106_0610-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-shZ5bCB/0/MmMwrrs9fsNK9rrLQ8TjPhTW688ckNhjKLP6cnLbN/S/106_0610-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 68458
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-shZ5bCB/0/NQvPmnvwMTBgBhwtMgPPHtSvnt9kMCLVzFwTwcCNp/M/106_0610-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 120759
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-shZ5bCB/0/K3fFR23CBmqM4VbVXJc36MvxWSbWr3q6hvFKhSNVp/L/106_0610-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 244858
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-shZ5bCB/0/MvFzTCnCJ2vkTqJbDhNMNWBmKBMkvQ4ngCdrjmqw3/XL/106_0610-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 526107
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-shZ5bCB/0/NhMdX4XDPZXK7mVFxhKkXNfbWqWVTGMNwK3XL9sB9/X2/106_0610-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-shZ5bCB/0/Mg6CMWfppjhHqKfKNRwCNTJcBWzZ9d3m9s7Xjbzf9/X3/106_0610-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-shZ5bCB/0/KrRKbCWgQ8bFwdXD5NQmrCK3qkbJmsR6h8ZBGhgTk/O/106_0610.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 548129,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/shZ5bCB-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/shZ5bCB-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "106_0621.JPG",
+      "Date": "2008-04-12T18:23:58+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/KpzK3b7-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-KpzK3b7/0/#size#/106_0621-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-KpzK3b7/0/ML47vNmbbptdvwDRg324zSXNs9CBnpmsPbX6vK6cN/Ti/106_0621-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-KpzK3b7/0/M93rFRPkD9BZQBpDjQB8k73wrfrNf9KBwS4dXfSBP/Th/106_0621-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-KpzK3b7/0/KL3c5V9nq2WmHP4jrjk68qWZtNJVHv6gKCQ9dd88g/S/106_0621-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 43693
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-KpzK3b7/0/LgWSkghw8gmLSkmxHWj7LQvkcWmD9Nxnr6BtcG2J6/M/106_0621-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 69232
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-KpzK3b7/0/LcMVGfgKxTbjCWQX2VrtkmX2cgKbk3q63snQHRh8W/L/106_0621-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 155162
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-KpzK3b7/0/KPf7r44ctppPjxSrptFxqZ8w2PdcP3dw4FqwGj9QM/XL/106_0621-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 347528
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-KpzK3b7/0/Lk7d9w4QdqC34NK6jRhsR7MWr8BVn4vz7Mz2cJ4JZ/X2/106_0621-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-KpzK3b7/0/Mb5WdmD3kQD43gvWgFVDL7rzX9xgM88rNR5nczv6S/X3/106_0621-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-KpzK3b7/0/LQNvnjH84Hc7DKdFDkzSzsFP5ZLZB2h5rpkGDTdNs/O/106_0621.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 284218,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/KpzK3b7-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/KpzK3b7-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "106_0615.JPG",
+      "Date": "2008-04-12T18:23:56+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/BH9nbxq-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-BH9nbxq/0/#size#/106_0615-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-BH9nbxq/0/MBkwTT4FB4D9Rj77n8n9dFpC7q5DwSspBLq3msHbv/Ti/106_0615-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-BH9nbxq/0/MCKSMZjk2PnvM5h8LgbF7kQVqvt3KDMsHSH6s7n9D/Th/106_0615-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-BH9nbxq/0/KV5JSPdH3tTs8qKRSWMtM9rj7CtwcQQtpgJWJcMRd/S/106_0615-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 52895
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-BH9nbxq/0/K4h362B73mFcb7cXC2Nn8g7rJzLQTf9mVRwkL65kx/M/106_0615-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 121012
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-BH9nbxq/0/KtN4hkPhtNgcFvsWkLWGFsbB5K7vtK5HRhBcj55K9/L/106_0615-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 198854
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-BH9nbxq/0/KmkGbcjdH2jVTmXWN8LFggtNCvTrvxGSdFf2P5Q34/XL/106_0615-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 524382
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-BH9nbxq/0/K3rsZ7Bcgmd4tvXqfVSjdbHZ6sz5VCLKNPKqxTMb5/X2/106_0615-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-BH9nbxq/0/KhwjdkJfm4GnZRmfXXJGBhF8fX3kbm9JHBmTggXFv/X3/106_0615-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-BH9nbxq/0/Kdx9d3qj3V9JGRnwwW5cpL9B25skfdd7CNrFQxqVF/O/106_0615.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 514070,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/BH9nbxq-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/BH9nbxq-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "106_0625.JPG",
+      "Date": "2008-04-12T18:24:00+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/Nkvzg2v-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-Nkvzg2v/0/#size#/106_0625-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-Nkvzg2v/0/KXhnx3Pgf9Tx5pgzXZsFBxbs3CDcDbJfTXKmsPxKT/Ti/106_0625-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-Nkvzg2v/0/MSfCVGCd62NqjXTcCHRRGzTDPsD5nFnpQdvz5mw7D/Th/106_0625-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-Nkvzg2v/0/NZbVxGZNdDLXPCH6SGsdKctFs82Xdq5PrqTLQVKwn/S/106_0625-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 45543
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-Nkvzg2v/0/MmZ39KpRgVfMgrdK3KGFRvwFgzK6RntxZvwV4W6s9/M/106_0625-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 81819
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-Nkvzg2v/0/LSDpjBgXvmBXkFBjGQFgtTKrkFWjpFmv774cvDVr2/L/106_0625-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 164073
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-Nkvzg2v/0/KXGt54mqbjctJg2R2JdB4r2qnGKHVFbNGdgpq4Rrz/XL/106_0625-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 378741
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-Nkvzg2v/0/MZLj2f69NKzcJCtgzmQnBK8chqk9jrCv5NC85g7nX/X2/106_0625-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-Nkvzg2v/0/KPVxnK3BsSF356H2G7SPQ5vW9m85jFDTF32Brk9VP/X3/106_0625-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-Nkvzg2v/0/NhwQpmbwCPFHF2XxfLLKhqXTtqKP4ScjF4J6Ghc2N/O/106_0625.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 383108,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Nkvzg2v-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Nkvzg2v-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "106_0628.JPG",
+      "Date": "2008-04-12T18:24:00+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/x42zCkt-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-x42zCkt/0/#size#/106_0628-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-x42zCkt/0/KjP6kJ4R7MwgW57BD8NM3pQGGDDKmMmsPdrms3wM8/Ti/106_0628-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-x42zCkt/0/MqSpfwpt8xBrRJhKbQhQdpTHkTCMRJSztvQRK3WtW/Th/106_0628-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-x42zCkt/0/KNzbT2GJVSkZJckBNVztspJZ9sxkzGGnksgWJsxZ6/S/106_0628-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 54317
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-x42zCkt/0/K5Ppg55RJfP2Rkfs2Bxt4Gg4Vk6s6TvXNZrBkWC3f/M/106_0628-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 93302
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-x42zCkt/0/NBszxNVbN2Dm5JfVCP4Bk7BTwCVRd8qnrCfv97JZT/L/106_0628-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 197830
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-x42zCkt/0/KpHVDtph4rGVhsZXD7Cm9tngSSBnTk3k4s9hbdNHW/XL/106_0628-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 435889
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-x42zCkt/0/KvRK47wF3C2jMQfsW58pCQSRdbJZb7ftbZ833stKm/X2/106_0628-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-x42zCkt/0/LdM8p3dV4frd34jPKxn7jBFWmNPFMQSqvKVLWRZVw/X3/106_0628-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-x42zCkt/0/MSzXWD9rvjwfJBwKXJ4Pnt6cv4HvtSGKX8VRcbPR2/O/106_0628.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 416218,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/x42zCkt-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/x42zCkt-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "106_0629.JPG",
+      "Date": "2008-04-12T18:24:02+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/wDgr9PW-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-wDgr9PW/0/#size#/106_0629-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-wDgr9PW/0/NbSPBpPZJ7F5zDxWXjX3FPjqTM2RRnTXbMs8DmPDw/Ti/106_0629-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-wDgr9PW/0/KvMdjCH6vRPPdf3sVD2zLVsNSHGSHWtTDC2BcN5wC/Th/106_0629-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-wDgr9PW/0/KMFbRBr39HXtTPqQwLzvqggz6HjK7Bx2MpmSsFdZS/S/106_0629-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 49584
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-wDgr9PW/0/NV8S8Bf2crSDk4MT7RmcDFfwFJj9QwHQmqzBxHSvw/M/106_0629-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 86306
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-wDgr9PW/0/LvJbnRHV2t7WpNFrdrhWCxMfTVcwvfFg5jm9ZgxPW/L/106_0629-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 187119
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-wDgr9PW/0/MRxfVM23LwBnRKLRTt5k348mMnWJC7wRWxgxDPMLJ/XL/106_0629-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 417393
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-wDgr9PW/0/Lh3jWxkxHX8VrhpQX9TJwB6fBZdDBKTVFjBCXh8cD/X2/106_0629-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-wDgr9PW/0/Krjw9RtbZvkVGQ2Nr9SVGszv6KHPNX68L244xCx9r/X3/106_0629-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-wDgr9PW/0/Mc6kLsqgVwPBzr3cMGWp8XRQXKM6sphDR4zDbj6JS/O/106_0629.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 377438,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/wDgr9PW-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/wDgr9PW-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "106_0630.JPG",
+      "Date": "2008-04-12T18:24:03+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/vzs5F3g-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-vzs5F3g/0/#size#/106_0630-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-vzs5F3g/0/KgPWMX98jM4QWPvJLqgMMM6PL4S579kNKwvFbX7MH/Ti/106_0630-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-vzs5F3g/0/NZT7GXc3S25H67v94f8cJhHvCNMVhTLQLXCw8B85H/Th/106_0630-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-vzs5F3g/0/MXQvQkV7GPdnKL9zHrBXTk6GhqvMq5VR3hswWpjH5/S/106_0630-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 59578
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-vzs5F3g/0/NFjvR8698vKJV6VwJBh7QVd2N54R5XspRbwxXK6MR/M/106_0630-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 101077
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-vzs5F3g/0/NCfPdwmjBtJmHfcCnPFGx23hcwMwCHJ6pXpWK2P9g/L/106_0630-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 217217
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-vzs5F3g/0/L7nbgKHdt87pKffZgWmvnLjnxVq9sxqqkfQpFwfFX/XL/106_0630-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 459515
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-vzs5F3g/0/M6jzkvZcjZk3sh3gFkTKThJN9KDc6QpffZmPpzrvF/X2/106_0630-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-vzs5F3g/0/Lh3rmxswN9JFj6QQzCcwhfm8KSGMLTBT5RBjP34SP/X3/106_0630-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-vzs5F3g/0/KG6ZTjGqNvW4dqCbRn5PJG4Kkbt6VZRsDXSSQkgkb/O/106_0630.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 450195,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/vzs5F3g-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/vzs5F3g-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "106_0631.JPG",
+      "Date": "2008-04-12T18:24:05+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/2d2j5MM-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-2d2j5MM/0/#size#/106_0631-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-2d2j5MM/0/KLpgwdVprvwHJQSF7Jx3hm5g5FvPbsvWp7fcxFbB9/Ti/106_0631-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-2d2j5MM/0/NNJVdLv3WFSW8TGZB9J8jKJwFSJWtM76dXRbB3Pf3/Th/106_0631-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-2d2j5MM/0/NfskZsH43H3GFDsbT5xSmfCj8ztJmWkP4rRChvL4P/S/106_0631-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 45093
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-2d2j5MM/0/LMhcj86rsBkj6PmzCDsm2NBFrG24kgcXQ4MhLBJ22/M/106_0631-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 73609
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-2d2j5MM/0/MCcvxtMXgRjDZbFGcStMqcstwsWWpbnJ4GvZ8MFvQ/L/106_0631-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 162404
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-2d2j5MM/0/KHR8425nSsZSmNPphrMmV8XXHHHfCNLnFRKFTmvRb/XL/106_0631-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 350072
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-2d2j5MM/0/Km4g8DKjRMGDLBjv8vP8sHQDfwJHtj3qwWQ8FxFnb/X2/106_0631-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-2d2j5MM/0/KzZ5g25btX7G9MG5Z3FVCt9XjRqd8dC8cLQbgkm33/X3/106_0631-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-2d2j5MM/0/NNXcmqBpJ76wQWCkgzzkNv3HWXKxkwhkFwm56Cfgf/O/106_0631.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 305851,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/2d2j5MM-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/2d2j5MM-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "106_0632.JPG",
+      "Date": "2008-04-12T18:24:07+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/wHXrkvp-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-wHXrkvp/0/#size#/106_0632-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-wHXrkvp/0/L47dfPZjbPF9Nfn9x7WGs4P6nWwzFGZ5WhvTNCdfB/Ti/106_0632-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-wHXrkvp/0/KSdDZ5HcBNV4TVFsvhMhKK4T3GTCGNHXzd9BVw8Fj/Th/106_0632-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-wHXrkvp/0/LjhSZXqBZStBzt8JSXMcbmMtc4DRPgjXKCnNdXzTV/S/106_0632-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 57297
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-wHXrkvp/0/K3TBrVT4Vm9TtxNMJTmtCzjV3Qgr8sDpGkCkdtQ2F/M/106_0632-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 100393
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-wHXrkvp/0/LhgS9N78bLsBDS7XB6TvZtKZTFsVg4vNGnLpm6TvH/L/106_0632-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 207745
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-wHXrkvp/0/MHcVRNRCkRB4jhVmtH9QwWzqB2vKb8JQ4bzCRfnww/XL/106_0632-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 437186
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-wHXrkvp/0/KThxwnnzDc6sXhgxW3DjDZ6PwtPrmjtWZ5WSqCVZ8/X2/106_0632-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-wHXrkvp/0/KTV2PJ8s6c3nd4n8GRDgvHN3R9XF8PCSLznzmmbDL/X3/106_0632-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-wHXrkvp/0/LGm7MTZtRJrBM2V9p93GHgCpDCRn3wD8Cw5XRJfdB/O/106_0632.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 462740,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/wHXrkvp-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/wHXrkvp-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "106_0633.JPG",
+      "Date": "2008-04-12T18:24:08+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/LggFzGM-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-LggFzGM/0/#size#/106_0633-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-LggFzGM/0/K3gvVRFxfHdJhXnjvvwFn4pCTfCpmwtqGgVwzkCVp/Ti/106_0633-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-LggFzGM/0/NMbDXK5WJrc2wBqF8csMSPXdCrnfcg5Sz84p4XPZH/Th/106_0633-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-LggFzGM/0/MLhF4mMJFFB3bjDQ9BJm3b6DvFqVhfc5JXGFSCqZH/S/106_0633-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 57099
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-LggFzGM/0/MJNgLGp2K6KS6jmssd2Twx2vc33zrTM6r6WC4RKFW/M/106_0633-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 99038
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-LggFzGM/0/Kr7pgxJ9BFJ77ZjDfSHV6n6hdss4n5xDVbNBzCmTd/L/106_0633-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 206931
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-LggFzGM/0/LLkgmQCzhWrqdt4kfLcsxzd3H7NpZh6PP9nDD8dcr/XL/106_0633-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 435418
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-LggFzGM/0/M8shMxPFvBCw28dX7CpRW5HtDgqvtQCSGx65wfCHs/X2/106_0633-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 660647
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-LggFzGM/0/K9vJ6gZQ9jR8DDH4x8nKzHKSn7rhq9WrMqjk7f2gP/X3/106_0633-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-LggFzGM/0/KqsMgpBGKfVgTCf8bsWTmTp7p5CgqbjkQ5KS7mZDf/O/106_0633.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 458127,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/LggFzGM-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/LggFzGM-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "106_0634.JPG",
+      "Date": "2008-04-12T18:24:10+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/bcpBJBv-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-bcpBJBv/0/#size#/106_0634-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-bcpBJBv/0/KZCTWLBTQr8f8MKpNpZpJV2FzFmMX5FmqTfsCqt6X/Ti/106_0634-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 5084
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-bcpBJBv/0/L7BnLcX5C4x4ZVMCtvt9LsnCRLrXZKF7pcLNgvNn8/Th/106_0634-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-bcpBJBv/0/M7zkqQzPWWX9PMWbCtsHW78f6rJCQPsDbH3Cv9NL6/S/106_0634-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 58397
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-bcpBJBv/0/K6mmnzNJJGFgNMJFMNSkwpDPHrKBTFX3c2vdcz6pf/M/106_0634-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 102866
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-bcpBJBv/0/L9Q9kj8MLh6tx3wfxGNPKcm4gTrrtpg7FTSv3JbdF/L/106_0634-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 218398
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-bcpBJBv/0/LznxzM2Qmhz4MxxpQhSR3MDxrWRLgwMjvZQdMk73g/XL/106_0634-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 462529
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-bcpBJBv/0/NbwTMJcG5LGGgR3HdTRpS5N3c6q35WF4LKk7QTkp5/X2/106_0634-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 701684
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-bcpBJBv/0/KfmZPFKjTtJVz2GbFwvQc6bkXMCMF7rjWhj9DjdbT/X3/106_0634-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-bcpBJBv/0/MZmrHjgfXVbVLH3sr3TsSn4j5sTbC6sjNZv8tDgSX/O/106_0634.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 485401,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/bcpBJBv-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/bcpBJBv-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "106_0635.JPG",
+      "Date": "2008-04-12T18:24:12+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/K8Hb4Cv-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-K8Hb4Cv/0/#size#/106_0635-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-K8Hb4Cv/0/L6GRxr4r8XWPC4RS87MZzXkHDXHSzGffLnpKN7T5b/Ti/106_0635-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 7150
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-K8Hb4Cv/0/NXBJ3zLK3nbF8MKVkqPr9kvVnNz7DBPKbtgcQttDV/Th/106_0635-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-K8Hb4Cv/0/MGbD89cJMNJdjjc9sPFZVz9McTpHgccPNJ56LFt8F/S/106_0635-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 82512
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-K8Hb4Cv/0/L6HQHDL69wHPn33fxMgMCBp6FMRhwFcZvRrxGpzrR/M/106_0635-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 142497
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-K8Hb4Cv/0/NT6TvGLCHwf67sX3f7XN5dcpwPdgqNTNrpCjZNccW/L/106_0635-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 276142
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-K8Hb4Cv/0/NMfv3CC3Qx9gTxsmSSKpnhp87gsp5hzwL6bp8DLJQ/XL/106_0635-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 538565
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-K8Hb4Cv/0/NHgthp2vDXsprLq7TmX8N8XhSGZFTVzmTGrWGzMHK/X2/106_0635-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 754328
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-K8Hb4Cv/0/KVz4FCCW2dTCDhz533x2smMh4JJv2wDnDvfvhvwPH/X3/106_0635-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-K8Hb4Cv/0/Ms9PqRK8mgVPXmcqH29qfWLgpZN95knvPCBtwmVtK/X4/106_0635-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-K8Hb4Cv/0/MFknN7SGkMLpgMxTtqjgkPsjXR83kDrpNjZK98b7d/O/106_0635.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 535068,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/K8Hb4Cv-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/K8Hb4Cv-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "106_0638.JPG",
+      "Date": "2008-04-12T18:24:14+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/Jr9JRPr-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-Jr9JRPr/0/#size#/106_0638-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-Jr9JRPr/0/L5WXsFPsZv73nfhxv42MBGVGNvkqCmFBqR6x9gwtq/Ti/106_0638-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 6697
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-Jr9JRPr/0/NR7tMdGpn47cKFdBvrW6bdrDWJFC57Q9wNFdT4FvD/Th/106_0638-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-Jr9JRPr/0/KZhVtBkTDWrwHjqs7LtnBN5cKKZGdbqPdmHVG77JT/S/106_0638-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 79715
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-Jr9JRPr/0/Kx5ZWQ9K2x8bCPpxc8vrfFQXkmKjRHFWJhTSCHkR6/M/106_0638-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 131582
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-Jr9JRPr/0/MCZtScFXp58qC7sPfZ7SnSKkzj47vGnVpRVvPMPCP/L/106_0638-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 276764
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-Jr9JRPr/0/KX4dc6FchqPRVZ7TnNZ9xW7GQt9cC3ZGBjZVHtssh/XL/106_0638-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 566706
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-Jr9JRPr/0/LpGzCPCxL6tGFJmHsmjjRcTKpLMcKvCszVVgnCRwR/X2/106_0638-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 850305
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-Jr9JRPr/0/KDr28X6wznCBwm9mzw3DbkGQbbfwCBxMtXgGxjf7S/X3/106_0638-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-Jr9JRPr/0/MjVc8KnBphcT3TJXCm7xxfZFbm9wFGtbq5nLkfL3w/O/106_0638.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 593119,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Jr9JRPr-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Jr9JRPr-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "106_0639.JPG",
+      "Date": "2008-04-12T18:24:15+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/2MkM7gr-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-2MkM7gr/0/#size#/106_0639-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-2MkM7gr/0/KkWKLzngjp5m27nffzbWn7gvrwp3NMC8cmQcQfrDt/Ti/106_0639-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-2MkM7gr/0/MwXNBcPXts9F89X44HGmBtC76xd2Gmj5LkMTZmGZP/Th/106_0639-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-2MkM7gr/0/LSTfGQng6VsbrzKcNzjvQn4RnWKnXj2dwHxCfzrqJ/S/106_0639-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 60637
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-2MkM7gr/0/MBgxZG3PLr5n8MpvvcsRTxrSgnLqT4MDLVGN6VJ7W/M/106_0639-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 134334
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-2MkM7gr/0/NfmzrvBM68ZkJHJXr5cJTsbzktN5b88kgHXFNdg5m/L/106_0639-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 232627
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-2MkM7gr/0/LNJqBBH2mgKTmr9nkddTX8GsmdzFFxQ7KpdgrQK3R/XL/106_0639-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 575872
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-2MkM7gr/0/K6K6MXMpFtGnfchLFLtTBmpcMC3JxC5TZhDXztRdv/X2/106_0639-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 865523
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-2MkM7gr/0/Lcb9rmJJ6WRCPf7Djmn7xzpSf2z9fvq5ttS8JS28x/X3/106_0639-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-2MkM7gr/0/K7DgjWvwhFr2ZbxtXqZmnW2gKhkKSjxqm4md7XmSz/O/106_0639.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 625323,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/2MkM7gr-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/2MkM7gr-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "106_0641.JPG",
+      "Date": "2008-04-12T18:24:18+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/7M3KTMj-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-7M3KTMj/0/#size#/106_0641-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-7M3KTMj/0/Kwq6crQn4Ldd3N7x83rWtChPdMJFngxGFhpWqTLQF/Ti/106_0641-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-7M3KTMj/0/K5p6WPXX3237P5tDJgwMKkpNLdZJKq9V8kf5Tsd8w/Th/106_0641-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-7M3KTMj/0/MxLVWncK3G8gLvwc6JRW993CGcc5cpBrHrsw8sKbx/S/106_0641-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 43873
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-7M3KTMj/0/KwGTj4MJfH7jHdGfHh5zm37HQ25XLcBBwQrj4T5Ks/M/106_0641-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 93569
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-7M3KTMj/0/MGQs7gWq3xrwdB95CPKGZJHLNMq6qfrBbwWCxK4TP/L/106_0641-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 157867
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-7M3KTMj/0/KPkxtZTZzh2Z9ggL4Jz9wPxrVvf3h73f8FH967Lfq/XL/106_0641-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 391374
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-7M3KTMj/0/KS2ZRM3zqPWzRJgJtvwsSqc4SPdDwLQwsd2DNgvQW/X2/106_0641-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 581183
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-7M3KTMj/0/KvX4JQpGBV95tWGFmFQhNTgLK9rGhPQP9m6vJ4sx5/X3/106_0641-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-7M3KTMj/0/Lgnv3ndfd76f3dqTLPkL8mjjGN7Bg8vWkrtCfRhwR/O/106_0641.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 368928,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/7M3KTMj-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/7M3KTMj-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "106_0640.JPG",
+      "Date": "2008-04-12T18:24:18+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/8f2hjVm-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-8f2hjVm/0/#size#/106_0640-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-8f2hjVm/0/LT6gTswDcjHpp92P4xqnDTMBfgB5rQZWvHtZbxMmZ/Ti/106_0640-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-8f2hjVm/0/LBH36N5vmfh9q9jtpNWxkGtDBVRQR5zHZZ8mPDVRd/Th/106_0640-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-8f2hjVm/0/Lh9t3jDQ8tFMpKPMJ2rwfnG3KHb4L8XHdFfV4ZZW9/S/106_0640-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 47096
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-8f2hjVm/0/LjjwDLMWqw2Z8dTsqdnwkdCWSdKP4K7ZFM4TVSNmP/M/106_0640-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 100801
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-8f2hjVm/0/KRMrKh9Tznqjq3fxxQMpMPPKqwjN36WbxZcT3F8h2/L/106_0640-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 168663
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-8f2hjVm/0/NDFm998n4c2RdJHmF2C54CcBMJrTQmp6JDZppx6dq/XL/106_0640-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 412922
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-8f2hjVm/0/MxMRGbQmqbrn83k4W53knp5VnZfNtmdZRFz9RdksQ/X2/106_0640-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 604890
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-8f2hjVm/0/LwzJxSBddkJ63rPK2TfLZFkVpRR7fQrXWQq4MJHWV/X3/106_0640-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-8f2hjVm/0/M6TpwjgmqL2SPT8JVXctT3Xp7hJcXrqhPPhRtKbdv/O/106_0640.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 382274,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/8f2hjVm-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/8f2hjVm-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "106_0667.JPG",
+      "Date": "2008-04-12T18:24:21+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/jczxqhH-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-jczxqhH/0/#size#/106_0667-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-jczxqhH/0/KmSLN92GsmC2nsmfDvFxPFmQMkRvTBHVcskxzvBdD/Ti/106_0667-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-jczxqhH/0/LHV55jhPXbG29ndkxQMdw2gQgn5z52s9QxMp29pk8/Th/106_0667-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-jczxqhH/0/NBjGZ63qz4DJj83mwhg2hsbcfmBQFCVtV6rDpGjQW/S/106_0667-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 42845
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-jczxqhH/0/Mq9dzkLLbX2nspxts67XgqpRcWJZjbtWJhnz7wZnX/M/106_0667-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 92179
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-jczxqhH/0/Kz633XN848TJpvp29FnWbVF3BjQ3rfbzcJ32JDzZF/L/106_0667-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 184686
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-jczxqhH/0/KHBqZwwSpbpLkXfnmfqZ7BwzgTp9R6XHcJC5LvzBn/XL/106_0667-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 401370
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-jczxqhH/0/LrSZWDvJhjHQmLxh3MKcCvpmRhXGJSpj5SDmK6HQR/X2/106_0667-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-jczxqhH/0/Kqc86fPKdDn5jzhzZz6zsLFhXfTZ7JpLgTrXNkGfg/X3/106_0667-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-jczxqhH/0/Kh9qmbWQNLbwLNQkqvNhk68xkp3zjHPqNGzgLMhK9/O/106_0667.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 396624,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/jczxqhH-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/jczxqhH-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "106_0642.JPG",
+      "Date": "2008-04-12T18:24:22+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/xQ2VDs7-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-xQ2VDs7/0/#size#/106_0642-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-xQ2VDs7/0/NKTwNFgTLTxD85tR43nT8tmHzRfN7Ct7fdDHLgSb4/Ti/106_0642-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-xQ2VDs7/0/LjhLkJ3Xs2WN9HH4C8hDMqGKW8RdXcDFtXs5CVHWR/Th/106_0642-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-xQ2VDs7/0/MR2RQCmSf7fVMdM6G5hBqKmZLgW4GBbp2kGNdjPx3/S/106_0642-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 28079
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-xQ2VDs7/0/NJtjkNR9Q4pXptjv6Zkkm7TvDjwJx2H67DmZ7mmvJ/M/106_0642-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 59416
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-xQ2VDs7/0/L8rXfz8NHVP6b3V8ffxJBNVZdkQVQpZV5gLxHHxR6/L/106_0642-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 124032
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-xQ2VDs7/0/NGxpZLFrc9sHTZwVrcwxw2KqTGmRCbWsg4Rkzppz5/XL/106_0642-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 322242
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-xQ2VDs7/0/LJjZnrSw8XFxgMjM65RN4xMXXfkZJtNRwznB5frkF/X2/106_0642-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-xQ2VDs7/0/KF83kkwSKQksK9kQBFVvRJLcqw5bKm8GqvsPjB9sf/X3/106_0642-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-xQ2VDs7/0/LKRdD6KSdxR5rdDpCB5GgG3nMkbnmbNJKXbrP4B3L/O/106_0642.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 775839,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/xQ2VDs7-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/xQ2VDs7-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "106_0668.JPG",
+      "Date": "2008-04-12T18:24:24+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/z9VbgvH-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-z9VbgvH/0/#size#/106_0668-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-z9VbgvH/0/Kdb4BwFwzf9Wkfg5hFTjHhMmDSzqQ5hSt3PvLphMv/Ti/106_0668-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-z9VbgvH/0/NPT8TppDkNvgnK5dKnpTH4nBP5455qcMtrqsc4RKw/Th/106_0668-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-z9VbgvH/0/NL93KCFq2WWfSHQMB2WGnPnKGH7R9PnWBZ3Rbg33m/S/106_0668-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 50554
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-z9VbgvH/0/LZ6q9WgXrgMPRsF8gb8QxK8rPWLVn8nGFdM4FNJ2g/M/106_0668-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 108775
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-z9VbgvH/0/KVzPMFCcb7LLkCTrnw9sZ2Dc3HThsv6Vmqk4dpzNd/L/106_0668-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 219372
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-z9VbgvH/0/M26BGWv8Z2nb5fgrGfmhcXfbFm36vN35rX6Z8tQQR/XL/106_0668-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 459596
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-z9VbgvH/0/NDx7Xd63GgxrRVqKdwFMB4XHBhkc755MgvxcZmGtN/X2/106_0668-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-z9VbgvH/0/LvKgg9HpZr8LKchVmKQ2n82MR977XXFmb5TGZfq3k/X3/106_0668-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-z9VbgvH/0/MjC3czfpRK4Tc38STNQwCfqtPkDBG4f2zzzcJhW7z/O/106_0668.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 443887,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/z9VbgvH-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/z9VbgvH-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "106_0669.JPG",
+      "Date": "2008-04-12T18:24:26+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/BCsp3BZ-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-BCsp3BZ/0/#size#/106_0669-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-BCsp3BZ/0/KjSvhxQ86D6WnxJdV6b2PM9mXTKKG444jqBV9jjMH/Ti/106_0669-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-BCsp3BZ/0/MWPZk47SHhXQPzjs5D3BRjbR4Hv3DGPHpTmzMGRQd/Th/106_0669-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-BCsp3BZ/0/KD7GmM2j6MTSmJKpTktzPPzrXpqsPbVFLch4pmgCq/S/106_0669-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 51043
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-BCsp3BZ/0/LkW6cTCGH2n8VgpLGDZP6RWhWKCwB3Rt9tVqnjM5N/M/106_0669-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 109997
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-BCsp3BZ/0/MvkLmkmZ42DRVKJwXHBbJBFtxJgCj2v452VvLgJ3h/L/106_0669-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 223613
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-BCsp3BZ/0/M4k8sZSPkh2dBfXh9zN2cD6B7L5VWH5gN5Nt3T79S/XL/106_0669-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 465367
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-BCsp3BZ/0/Mk4GkQGqQFbtQzTqs88RBQJfK9pSW7Xd3nzZgQDnN/X2/106_0669-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-BCsp3BZ/0/LMhvcKRrzfrqDQNBnvH4jWkqmqJGGZ8GqtsjRnK8N/X3/106_0669-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-BCsp3BZ/0/Mt7j5WrwDN6zLphhdxMt8397vV85PC5Kg36NrVFVh/O/106_0669.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 441268,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/BCsp3BZ-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/BCsp3BZ-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "106_0671.JPG",
+      "Date": "2008-04-12T18:24:29+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/f3FtrF8-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-f3FtrF8/0/#size#/106_0671-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-f3FtrF8/0/Kpg42zznqdMTPfDRgTVkZFhq67TFRdxgH3xDGDks6/Ti/106_0671-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-f3FtrF8/0/MQSnpjJHzGKX5KJT7mdhKqLHwS2gH6FJVbckDsqs4/Th/106_0671-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-f3FtrF8/0/LfMZkMs2THZLg4sTffx444t3qWXmFpKhb4kQb3KXC/S/106_0671-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 56982
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-f3FtrF8/0/MChvSFhX6jb8CGZWTgjCb8xdQsxXptjq8DFt6r9bn/M/106_0671-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 123375
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-f3FtrF8/0/KV9pRbGmQx24w79SN4mxFrXp6BLqWHwP47r5fj9g7/L/106_0671-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 254303
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-f3FtrF8/0/Ktzcrxj9bBwf85jKzZNHWw7mTXtwtJdDvwfZPvM4C/XL/106_0671-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 525834
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-f3FtrF8/0/NVvHrkqgGpmw9RNhKgs5p6NtxSL2JMWwGZrcRjjbd/X2/106_0671-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-f3FtrF8/0/KSVBpP7V93tWr3kpGNs5JGmttCK9R865R6Spx9zG7/X3/106_0671-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-f3FtrF8/0/NZvq9rtfwBwN7MmW9tHHgC82KhcnptvBGtq7nRBFk/O/106_0671.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 540229,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/f3FtrF8-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/f3FtrF8-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "106_0670.JPG",
+      "Date": "2008-04-12T18:24:28+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/cXpHfdf-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-cXpHfdf/0/#size#/106_0670-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-cXpHfdf/0/MBBhDXZNw5cGKVsWgfNGK5ZHFPQkzj4GS3H87kKr2/Ti/106_0670-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-cXpHfdf/0/NQzPNFZvk7bHtknczxSXFJx3fw3G8t5w5S9zwV2sh/Th/106_0670-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-cXpHfdf/0/MP2dRdC3vHfv2qt8sxVhKg3m93rWMchB4d5qtpjR5/S/106_0670-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 47280
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-cXpHfdf/0/MLTBW5Cc4bjdv4c7GLDxh7DjnTLWDtGrghm5BgMbd/M/106_0670-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 101944
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-cXpHfdf/0/KkBMDJ8PGBnbkVK48VTKV6stqqh4wkK95qcpVKT58/L/106_0670-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 206828
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-cXpHfdf/0/Mzsq77rMDvVZ8wq3QfJh7pXsdb497qjjPdvndPG88/XL/106_0670-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 444182
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-cXpHfdf/0/MxH87Zfgs5P2JL5WRRQcS2JNN4kbds3NsrHH84jNs/X2/106_0670-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-cXpHfdf/0/MmgJKTKdmZHM3wqrVrt4jSMqmgdLhtRZMH9tPnc26/X3/106_0670-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-cXpHfdf/0/KJbK7vvjzvjvMzpshNP36XbBqGXDrpg944JLBKcG5/O/106_0670.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 453946,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/cXpHfdf-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/cXpHfdf-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "106_0673.JPG",
+      "Date": "2008-04-12T18:24:33+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/XhQDj7C-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-XhQDj7C/0/#size#/106_0673-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-XhQDj7C/0/K32hg9zHNz2jSqRXrnhKVtVbmPVGtz2c8Tvs5MxCc/Ti/106_0673-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-XhQDj7C/0/Mx7MNMMD8kGSMC6DW4QjS6QHdd9h9nwVpkJH8xFXK/Th/106_0673-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-XhQDj7C/0/LcB5m3G8XczQkPpp7gG3hZM5ZnvTBgNcwXwgJVGXm/S/106_0673-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 56134
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-XhQDj7C/0/MSzhbhcH66rDzKDbHdXZ3GBWZw3nCJnsw4HpWjDTz/M/106_0673-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 124051
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-XhQDj7C/0/MrWMmNDKgjgjFRmNX43tb3Tm9MQVv8jNWvgsXqgmr/L/106_0673-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 215886
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-XhQDj7C/0/M4F9TJ2rmFwVpJNR5vKPCPVf24V4BJFktCnSXQZVJ/XL/106_0673-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 532216
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-XhQDj7C/0/LQXpKzqxcX3ssQkv8sK85rw5Q2wmRnXzszQXBsPP7/X2/106_0673-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-XhQDj7C/0/MxDfQ7Hbnh2PK2BXSQXr8LLhX6VMqhM8j5JpDZPnH/X3/106_0673-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-XhQDj7C/0/LxbtW6pv98Vhtq5HFXcDThN5nMsrz8RP3tdSKBvPn/O/106_0673.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 545860,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/XhQDj7C-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/XhQDj7C-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "106_0672.JPG",
+      "Date": "2008-04-12T18:24:32+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/mHnKGn7-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-mHnKGn7/0/#size#/106_0672-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-mHnKGn7/0/Mccr7g9rDLVp3gj93P32kzvtb9c2w43qZjVq5Jrn4/Ti/106_0672-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-mHnKGn7/0/MVxrpBCJ7wB6Nppfxds8JQnH4WgmfnsHvSfPpG7DX/Th/106_0672-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-mHnKGn7/0/KkFJ6LFTmcVccSD383pwGKnhfdgRdKb9zp2rcdCZb/S/106_0672-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 55713
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-mHnKGn7/0/MXpdPm6HQ4BZn5mThQsxTwsXvrFsfpNf3RX6V6ZKV/M/106_0672-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 121404
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-mHnKGn7/0/Kfgqtn8Fpqj8Ld8XpcqJnSfqzg8SHkk24sQ95hqzw/L/106_0672-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 249264
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-mHnKGn7/0/Mt7qcQqkx8T544vw3CZWxwLw8PrrRZ4Hq7BRjT5Fp/XL/106_0672-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 514052
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-mHnKGn7/0/MqZstFfsk4FwGj2qn5vTgm5xF7zM9GrBT78KsLmxd/X2/106_0672-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-mHnKGn7/0/MrH9Jx8Gsznv2KH4gmkL2QZZdCZLH56jmGDKJbsv6/X3/106_0672-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-mHnKGn7/0/KvznmJ3vrKjZsnhbbmwcjpQNxg7TLmMTQmLjGrbRx/O/106_0672.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 507688,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/mHnKGn7-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/mHnKGn7-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "106_0676.JPG",
+      "Date": "2008-04-12T18:24:37+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/RfwNtTG-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-RfwNtTG/0/#size#/106_0676-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-RfwNtTG/0/MVWsShsv3WwMtvF9HdtbW3NNW5tPfdxpdxJCNsSF9/Ti/106_0676-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-RfwNtTG/0/KcP97mFv58C5BptrNwztTDVrtBVp3pRs2GLP4hn2t/Th/106_0676-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-RfwNtTG/0/NJGsMvjdfNgSskzb8PtkrCsFv4Dg7hmgGrJnnqngQ/S/106_0676-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 63041
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-RfwNtTG/0/M6cBFjhWrZ3btK4nmwQrH96h5VHFbFBLcsjtXSmsc/M/106_0676-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 143751
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-RfwNtTG/0/MFjTcmSvvLZ4RjQ2JVW6XZJxJdbZHJqNJJTnJ3tKS/L/106_0676-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 292675
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-RfwNtTG/0/K72g4Ck9gv2nZ7Gz8LFJ6wbP8j7ptKRszVG2zkPWK/XL/106_0676-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 594644
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-RfwNtTG/0/Kh44t6F22xJtGMMBrSk3h8sWRJQ3SSHH3K82PmD9r/X2/106_0676-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-RfwNtTG/0/M8RpwH2Zgs7HFDZKWd9g6FPc3gXxV2N8sqwB7MBpS/X3/106_0676-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-RfwNtTG/0/KfcjMW7xK5hQQX5vQqgb9Wvthh8XLngQSH89PxrXC/X4/106_0676-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-RfwNtTG/0/LCgwxbMVmMpLgSCzjzRgcVwzRPXWGs8jPNXNkvCkX/O/106_0676.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 648063,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/RfwNtTG-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/RfwNtTG-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "106_0674.JPG",
+      "Date": "2008-04-12T18:24:36+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/qzxfKMs-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-qzxfKMs/0/#size#/106_0674-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-qzxfKMs/0/Ln72WVhqrCg835JKnVQRd2cv3g8Z4NX6JrcHTpb4n/Ti/106_0674-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-qzxfKMs/0/LF6M4dhZwSS8nSBdCxBGGjfS8q9rKkrNHTVGP43Z5/Th/106_0674-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-qzxfKMs/0/LfxvBRGLm6ZFchcCrjzWqHLLb5TLPtrrCKvsddPQ2/S/106_0674-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 66606
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-qzxfKMs/0/MznzZQmpv2WqxmhvxtWxRW6pG49XqWdnN9GtwwdDn/M/106_0674-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 149334
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-qzxfKMs/0/KSSSp8SQq25bqdMWrDhFtDt9vqnJksptzPMvSS7hG/L/106_0674-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 306614
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-qzxfKMs/0/NP9gkvRNkTpT787dJFFpvq5bLctjHkkCrW46jPdnT/XL/106_0674-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 619581
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-qzxfKMs/0/LdXZkkDSBjGVCtVPrH2mFHDTVDsgzxcNZ4pKM3xQQ/X2/106_0674-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-qzxfKMs/0/MMdbVbMCKBLGsQ82zX7HbSb8ZqBZkr45VWQHt9xNV/X3/106_0674-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-qzxfKMs/0/M9dLJbNcHWPw7s9fbHzgpJXCvqg8pWjRHdVbgZ8sv/O/106_0674.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 696426,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/qzxfKMs-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/qzxfKMs-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "panorma.jpg",
+      "Date": "2008-04-12T18:24:41+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/gPrQVcB-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-gPrQVcB/0/#size#/panorma-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSize5K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-gPrQVcB/0/NdQxHXbKMjM6ZZ5sZbcDjmZsmRQS4smPtBTSCzrJN/Ti/panorma-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-gPrQVcB/0/KtgpV22GqhfcL3RTT6whJnnTZRgVHP3XsjcXbvsVt/Th/panorma-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-gPrQVcB/0/NMLPK4R5RNvsZdb8dTmh272G8BS8WTtKJ7cxmR35T/S/panorma-S.jpg",
+          "Ext": "jpg",
+          "Height": 66,
+          "Width": 400,
+          "Size": 10959
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-gPrQVcB/0/KrQT3JVsMmTcVpP7v6R8464VK5xQPsTXvM5WKdDrQ/M/panorma-M.jpg",
+          "Ext": "jpg",
+          "Height": 99,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-gPrQVcB/0/MLPfJVkSfjWV77wQxQwtj4vwcQS3vVVBJvWFLKRp6/L/panorma-L.jpg",
+          "Ext": "jpg",
+          "Height": 132,
+          "Width": 800,
+          "Size": 47965
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-gPrQVcB/0/MvZ4g9gpF8FmJVSXLmk9vN7tNPTJmx8JPQjnbfKfb/XL/panorma-XL.jpg",
+          "Ext": "jpg",
+          "Height": 169,
+          "Width": 1024,
+          "Size": 92054
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-gPrQVcB/0/KH6gGm4FqCTVBq6LSXbGpFJsczMRCWcv5GzD9gKcJ/X2/panorma-X2.jpg",
+          "Ext": "jpg",
+          "Height": 211,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-gPrQVcB/0/LxW6b9FLCf4HRjdXq5NvtwQ3kd5tCdVffhvLKMq3T/X3/panorma-X3.jpg",
+          "Ext": "jpg",
+          "Height": 263,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-gPrQVcB/0/LvfR4b3J6PFCT76vJqFL78ddTzTvzSb8KmRzQRwVq/X4/panorma-X4.jpg",
+          "Ext": "jpg",
+          "Height": 337,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-gPrQVcB/0/MCGgMLj5nrb3D9d64Bx252t3gtcknPc4ws65JTpcb/X5/panorma-X5.jpg",
+          "Ext": "jpg",
+          "Height": 421,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-gPrQVcB/0/MfwwVvJbJvLhgQWM5ZPM6TvpDKm6wvjdQLN9WvDb2/4K/panorma-4K.jpg",
+          "Ext": "jpg",
+          "Height": 632,
+          "Width": 3840
+        },
+        "ImageSize5K": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-gPrQVcB/0/NMkwXDKFpgmVcVzW76jhVLSTVC6ZKCst4bQVc4GsD/5K/panorma-5K.jpg",
+          "Ext": "jpg",
+          "Height": 843,
+          "Width": 5120
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-gPrQVcB/0/KF7BNDWFckhtjkfHB68LfhHRSZfgVgKLstz9WM4sg/O/panorma.jpg",
+          "Ext": "jpg",
+          "Height": 1019,
+          "Width": 6189,
+          "Size": 606377,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/gPrQVcB-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/gPrQVcB-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "106_0677.JPG",
+      "Date": "2008-04-12T18:24:40+00:00",
+      "Uri": "/api/v2/album/5qR45K/image/Qxghtb8-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-Qxghtb8/0/#size#/106_0677-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-Qxghtb8/0/KH58JSsSzgmDCBtd2XH2pXGWgZPC9ZvrCdTzTG5xT/Ti/106_0677-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-Qxghtb8/0/MHm62TjVsbhdJHdp3grLjbXXK55JrrV2LqprDkVLJ/Th/106_0677-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-Qxghtb8/0/NcbQm22xf8tdcQjdpCJFcrMjKSxp4FwQHTd8LKzd4/S/106_0677-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 60808
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-Qxghtb8/0/M2FXDvn3VTVLNN8FxLZvSd7J7sDwdhZQpmMbS8wpD/M/106_0677-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-Qxghtb8/0/KJWt4p7HShtM6CSB9XZrT4n8hNTCnGMWDf22jVc9g/L/106_0677-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 235300
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-Qxghtb8/0/LSZjQm9SmtSBMCK4DBgjp3NTtHtNKHXLMmVMDRK5M/XL/106_0677-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 460421
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-Qxghtb8/0/K6rs9PrHft2VvgfX4ZKCwTGTB2WC4cgRkJtqmF5Gn/X2/106_0677-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-Qxghtb8/0/KzK9c8RNWLKVRxmp6FS4NW6W9c947T3SFjzw8KnjG/X3/106_0677-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-Qxghtb8/0/MtVcsKrSNbqsbbpFpX9twZt7G35wLfBDN4mrtKDbh/X4/106_0677-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-PeelerLakeBackpacking/i-Qxghtb8/0/Kbhzr4q4rJVtqvWbXRK7hLdHXVLMSNz65pKnX76bx/O/106_0677.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 430132,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Qxghtb8-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Qxghtb8-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,3857 @@
+{
+  "UrlName": "2025-Friday-Harbor",
+  "Name": "2025-Friday-Harbor",
+  "Uri": "/api/v2/album/4s77GN",
+  "Date": "2025-08-18T00:23:22+00:00",
+  "WebUri": "https://lmblevins.smugmug.com/Travel/2025-Friday-Harbor",
+  "Images": [
+    {
+      "Latitude": "48.116130555556",
+      "Longitude": "-122.75588888889",
+      "FileName": "L_IMG_6648.jpg",
+      "Date": "2025-08-18T00:24:30+00:00",
+      "Uri": "/api/v2/album/4s77GN/image/g4dw9FT-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-g4dw9FT/0/#size#/L_IMG_6648-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-g4dw9FT/0/L3Z2KkbGbWdDWc4GSCXjSvrfgJzF5cnvFchVRsNr4/Ti/L_IMG_6648-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-g4dw9FT/0/LgdWQtBRLRBWcKRHTDD6QmKM5RprFjHwK8W47HHLD/Th/L_IMG_6648-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-g4dw9FT/0/MMBRRxPrGQDhgT5RCH3GWNRF92JMmS63q97kbpkJ6/S/L_IMG_6648-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Size": 52987,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-g4dw9FT/0/LB2PHHmf5hCjDKK26vpnFqZ3hvpmWGTgtrxHSCT8q/M/L_IMG_6648-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-g4dw9FT/0/NdGfNhDbMnCgB5R93BsTDtJC9tf5mQ6rJMXZ5w48z/L/L_IMG_6648-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-g4dw9FT/0/MbKrFVqzNm74bWKcBp69PBHBLFsbs96hJpn7Bw4M5/XL/L_IMG_6648-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 239720,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-g4dw9FT/0/NVj5s7zvLrj4KbhVwT84RxJwJZH69cFdVjhqtK5MQ/X2/L_IMG_6648-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-g4dw9FT/0/KT47wkd84J2Q6Tf7h7cbw2gp6fCptk3w67NSNpCbw/X3/L_IMG_6648-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-g4dw9FT/0/MZQNMZw3Mmf2T3hBbpXpbtPbrqv4frBBQ9KDfg8QF/X4/L_IMG_6648-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-g4dw9FT/0/MTmdGDnZ7fb429wG3j6FwT9DLnqwrHthf6K34pnqn/X5/L_IMG_6648-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-g4dw9FT/0/LmjT96bXnSfKCmGDK3GkD5f7L7bdKm3hNHbM8Hrq7/4K/L_IMG_6648-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-g4dw9FT/0/MtF3QHbqwtXdFgsxFxMRMHNSt9DkDfkX6NPS8F7sq/O/L_IMG_6648.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 4525007,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/g4dw9FT-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/g4dw9FT-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_2655.jpg",
+      "Date": "2025-08-18T00:24:28+00:00",
+      "Uri": "/api/v2/album/4s77GN/image/5gcjJDL-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-5gcjJDL/0/#size#/M_IMG_2655-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-5gcjJDL/0/MHZnwSkn4zLgNt8CCGx324cMmVJnx2cj23Cvsc79p/Ti/M_IMG_2655-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-5gcjJDL/0/K7MPHn8CRbmHL2wLDB37qzd2NNFGGzMbKgPwxKKKK/Th/M_IMG_2655-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-5gcjJDL/0/NVJMsqJsncgBfhsVkX9QWCZG65wz3b9Wbc8md72w9/S/M_IMG_2655-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 42835,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-5gcjJDL/0/MTD2JfRrsNF2XbkcVcdWtcWTKXpKZVjgVGrDX6vC3/M/M_IMG_2655-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-5gcjJDL/0/K7hbDfpsnjKJp9B5swg6zBcDCb526Z42Zr7M6GPzg/L/M_IMG_2655-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-5gcjJDL/0/M6xRkdC8gqbgDCT6cjtSVRqCX6KLgMqpLWk3B6nXZ/XL/M_IMG_2655-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 215810,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-5gcjJDL/0/LxWfJGVSFJcKxD5rqkt9CXrnjrZnPdxNpp6n7gPXC/X2/M_IMG_2655-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-5gcjJDL/0/Mp2qzQrcwWxPXSWHc57LbLrNjnzRdNBff2DDRGZrC/X3/M_IMG_2655-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-5gcjJDL/0/LzfrTfCvHD65xvzVgdnSc545gq98Z5Dzd6rxBh9sC/X4/M_IMG_2655-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-5gcjJDL/0/MxggpZZBPbdbwvMxdFVQMF5MXr3S2qCX8JkRVZ8dP/X5/M_IMG_2655-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-5gcjJDL/0/KPptf4gxH7cJndNJxvHj7xcQtHcDv8XppvzV3fMsZ/4K/M_IMG_2655-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-5gcjJDL/0/NBbHCp6bQ5q5V62jvX99gjCQvg2t9tFcDXRX8Jx52/O/M_IMG_2655.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 3403733,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/5gcjJDL-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/5gcjJDL-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "48.113275",
+      "Longitude": "-122.75554722222",
+      "FileName": "L_IMG_6652 (1).jpg",
+      "Date": "2025-08-18T00:24:28+00:00",
+      "Uri": "/api/v2/album/4s77GN/image/2JDgz3f-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-2JDgz3f/0/#size#/L_IMG_6652%20%281%29-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-2JDgz3f/0/KLkzcpm9hmsrbMvGcRb929gdGrP6jfwJf5QhJRzLX/Ti/L_IMG_6652%20%281%29-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-2JDgz3f/0/McVbbTztsScNGvkdSDctJdf4TzG9L9X2zBgFD24db/Th/L_IMG_6652%20%281%29-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-2JDgz3f/0/LgTqv7bpbQbWFGW5S8krMmwxFMfwW75Tn4fvGgMNm/S/L_IMG_6652%20%281%29-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 61206,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-2JDgz3f/0/KZsRQk3BsJjsXxzv2s2H8wZKDmZkhWg8XmpxxVnqF/M/L_IMG_6652%20%281%29-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-2JDgz3f/0/KNkxSGDXNG3bX4HgWRkbxsG3f6wsw8d9FnhVs4D7d/L/L_IMG_6652%20%281%29-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-2JDgz3f/0/LqH9TPhpNLHwNX5kqCBmtpR4rmdBC5N7fwgWjJZ2R/XL/L_IMG_6652%20%281%29-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 297312,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-2JDgz3f/0/MzK853bnxNstkv8WKJ24ShbZnKkLQmcFpp8cf9pq8/X2/L_IMG_6652%20%281%29-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-2JDgz3f/0/MT9s9QrxKxNsFvtDhKRFxbz8bVgqwntLmkpPfLvL2/X3/L_IMG_6652%20%281%29-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-2JDgz3f/0/L28drqbNSDK9kGk5qJCjTkm3BVC6tK8BT89K3v7Gh/X4/L_IMG_6652%20%281%29-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-2JDgz3f/0/KSzKSFcHF4Gkf48wLLxTZ9Bp4dWVxBSQZvX6nQX9z/X5/L_IMG_6652%20%281%29-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-2JDgz3f/0/NQ8VhzsSkxTQTfm6qTKnkRKZqtQMF97z4md8wKtn4/4K/L_IMG_6652%20%281%29-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-2JDgz3f/0/M4GHfMCXtZjMhkvH7v3TPncnpsNKgMBzQqMKWGvcB/O/L_IMG_6652%20%281%29.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 4321271,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/2JDgz3f-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/2JDgz3f-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "48.113277777778",
+      "Longitude": "-122.75555555556",
+      "FileName": "L_IMG_6654 (1).jpg",
+      "Date": "2025-08-18T00:24:26+00:00",
+      "Uri": "/api/v2/album/4s77GN/image/ttgpq2f-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-ttgpq2f/0/#size#/L_IMG_6654%20%281%29-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-ttgpq2f/0/KkR5HPbxjDXDkJwHzbNK7Z86m5JMhgpRtbfJc98Hb/Ti/L_IMG_6654%20%281%29-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-ttgpq2f/0/KxQqhZwh82w3F3sg3jGQt6hKfSPWLjtPV4n28xXCh/Th/L_IMG_6654%20%281%29-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-ttgpq2f/0/L3djWKxttLCrg9KSwpgphFNhzL2B6Z3DW3mdHK3D8/S/L_IMG_6654%20%281%29-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 51338,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-ttgpq2f/0/MTSLdTJJxLLHMmNsXKZ269d7MgGf57Wq78t34K27G/M/L_IMG_6654%20%281%29-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-ttgpq2f/0/MSWnkTRgGqxsF3G2GmFb7QmPLQRS3PmnN3xBdDxXQ/L/L_IMG_6654%20%281%29-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-ttgpq2f/0/NTP2q6MLHcw2MK8LLDj5tqkT9JzKMW8CSx9NFvthN/XL/L_IMG_6654%20%281%29-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 272312,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-ttgpq2f/0/Mvc94wPKQpJrZ2Rg9bgSd3xcSStnJtstnp2KVvMMs/X2/L_IMG_6654%20%281%29-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-ttgpq2f/0/MWNKgm2TFQBVV8V9ZW6pZ2TCnXftxzpnGbpMKbDBC/X3/L_IMG_6654%20%281%29-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-ttgpq2f/0/MzMZ28RbpqLmrmKn77wNJVkzVsHbL4KVMcmd7frNv/X4/L_IMG_6654%20%281%29-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-ttgpq2f/0/LtFrLFkLJhjTbdN4kk3SGmbXT2Lc5zw7JjZZzVhMg/X5/L_IMG_6654%20%281%29-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-ttgpq2f/0/LnZxwxnT33rKxGKMfh3RSr599CDLHvxvZkjvdJQQd/4K/L_IMG_6654%20%281%29-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-ttgpq2f/0/NCd9BcMd2Hnmsss8G9XNdTWHXSCK2ZJVrz5QHMZXf/O/L_IMG_6654%20%281%29.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 3441815,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/ttgpq2f-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/ttgpq2f-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "48.115886111111",
+      "Longitude": "-122.75566944444",
+      "FileName": "L_IMG_6656.jpg",
+      "Date": "2025-08-18T00:24:24+00:00",
+      "Uri": "/api/v2/album/4s77GN/image/WTngM9W-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-WTngM9W/0/#size#/L_IMG_6656-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-WTngM9W/0/Lf7nxB4tbWvs5xCnSS7rGmjm2Zxt7JGVk9FcCHzQg/Ti/L_IMG_6656-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-WTngM9W/0/KpSHgm7SbLhjFGfTkv3dG9BfF3KnbhQpkrD5zqpQ7/Th/L_IMG_6656-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-WTngM9W/0/NTwCmjnG67LSBt8SdvZGrJX4M49HZVrc7sQQnVSLq/S/L_IMG_6656-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 41715,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-WTngM9W/0/MVv834j8fXsjD4kXdD8523tPNnShg9MVdWX3jh8bx/M/L_IMG_6656-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-WTngM9W/0/MQd8pcsssdq8FR2RgFqHkFJJnCpXCwvvcmTn5Mrt5/L/L_IMG_6656-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-WTngM9W/0/LrJh4Rb3QGxDmqM5BgHQDdTLMTWWL7fgfsx8tDQC8/XL/L_IMG_6656-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 176967,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-WTngM9W/0/MbJzC3ZmKHcpppsfMNJKrCQbcmtxvpzQkS6RKddwN/X2/L_IMG_6656-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-WTngM9W/0/NbFdx4FqKVwBGJP4V4RT5cqFfv3WfT2GXPgZJj2Tn/X3/L_IMG_6656-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-WTngM9W/0/KJmGpDDntkmtZHQVgxCtVfXdD75g9pCkmRcxCtSGs/X4/L_IMG_6656-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-WTngM9W/0/LsFRJ2hp6rfRTLMLSF4T7xnPx74nKmxHsXrk3jm9T/X5/L_IMG_6656-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-WTngM9W/0/NjGzD3t7zhbRjv7cq7tVhdTWgZBXkRCkdXJvkRzpf/4K/L_IMG_6656-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-WTngM9W/0/KTthhqh8JtLjdVM4GF9qjT3tRRSbdJxPJXcdKDb5n/O/L_IMG_6656.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 3538111,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/WTngM9W-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/WTngM9W-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "48.115947222222",
+      "Longitude": "-122.75158611111",
+      "FileName": "L_IMG_6658.jpg",
+      "Date": "2025-08-18T00:24:25+00:00",
+      "Uri": "/api/v2/album/4s77GN/image/CNMhnjh-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-CNMhnjh/0/#size#/L_IMG_6658-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-CNMhnjh/0/K6rSVsqWkKRpKz5xkxxjmQNJN5pVQZtK8JSgNKGH8/Ti/L_IMG_6658-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-CNMhnjh/0/MFmWB3RRQzg7ng47zL3wxBpxw6JbPFc8SnfGFFVgT/Th/L_IMG_6658-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-CNMhnjh/0/K93dSQvCWfMcK5mzHDstSHBx6RHZGZgVPgb3Sj8xP/S/L_IMG_6658-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 41603,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-CNMhnjh/0/NQPVJXZQdM3vPbqp37hNMwmpkp2HsgpgDRnrzwLN7/M/L_IMG_6658-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-CNMhnjh/0/KfQKWrj5wrD7fG6MrcSBjjvwdgjQt5JC9sgCM4Sk5/L/L_IMG_6658-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-CNMhnjh/0/NWq8mcM23zmNJW8RvmmqzTRvxMqgD7TxW9ZZRSMWn/XL/L_IMG_6658-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 227977,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-CNMhnjh/0/LXvt2FphKTBFNmsC3ctqHRhgf8XDDMNZZ6KZkTpm4/X2/L_IMG_6658-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-CNMhnjh/0/LgkDMsZgSKVjGSQ3TJcLGq3z5vxfCFg5xH6jTjQ56/X3/L_IMG_6658-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-CNMhnjh/0/LbWwgtthCCd36xKZVfVmwjTBPhJhqWTt9RLhsLMzf/X4/L_IMG_6658-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-CNMhnjh/0/LtrmTWw9FjQhgjF8mQnW5Rcw4487t8Bnh6TxhXF5R/X5/L_IMG_6658-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-CNMhnjh/0/KZQ8f7kHnR3NKbpj37pVDpW2JfmsD5f4LZCGr6FRW/4K/L_IMG_6658-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-CNMhnjh/0/MjScZzVhCFFKjBsLwn5X4455Q7dfcbSbL3RSJdBhz/O/L_IMG_6658.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 3016166,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/CNMhnjh-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/CNMhnjh-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_2660_edited.jpg",
+      "Date": "2025-08-18T00:24:23+00:00",
+      "Uri": "/api/v2/album/4s77GN/image/kGVdssS-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-kGVdssS/0/#size#/M_IMG_2660_edited-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-kGVdssS/0/L63jQhMzNCXkJJ7HjStg9pWHGHFcJTCxm8HkhXvCn/Ti/M_IMG_2660_edited-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-kGVdssS/0/KnDwjGjRH8vrNpZNn3nTwZngCJ8DBm6DBBs4sn9bb/Th/M_IMG_2660_edited-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-kGVdssS/0/Md8gXjcWr7X8xqBdZzJSmzNK8bk6T23f8RNjBgN8c/S/M_IMG_2660_edited-S.jpg",
+          "Ext": "jpg",
+          "Height": 274,
+          "Width": 400,
+          "Size": 46230,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-kGVdssS/0/NgHdr4KvvqLvQwjXcpR23s2ZtjzThMCqgWW5MpTrz/O/M_IMG_2660_edited.jpg",
+          "Ext": "jpg",
+          "Height": 385,
+          "Width": 562,
+          "Size": 64804,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/kGVdssS-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/kGVdssS-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "L_IMG_2662 (1).jpg",
+      "Date": "2025-08-18T00:24:22+00:00",
+      "Uri": "/api/v2/album/4s77GN/image/h8DcxmS-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-h8DcxmS/0/#size#/L_IMG_2662%20%281%29-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-h8DcxmS/0/MCDWZKTwvjkz7B4H4nGdRBXHpxDXjBnpNnvDc46xX/Ti/L_IMG_2662%20%281%29-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-h8DcxmS/0/MsLrJnXgnJcbzKBrbzZbgn2RpcBLGmpsX7hmR9GFP/Th/L_IMG_2662%20%281%29-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-h8DcxmS/0/NSxHVnhj9d9qHWVN2QqcTKB5k3zDBRsSvZm6HWf7K/S/L_IMG_2662%20%281%29-S.jpg",
+          "Ext": "jpg",
+          "Height": 269,
+          "Width": 400,
+          "Size": 65930,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-h8DcxmS/0/Mn6g2JqZmJPkrGFB59SpB4nHJtDDHTmMbz2cJg8R9/M/L_IMG_2662%20%281%29-M.jpg",
+          "Ext": "jpg",
+          "Height": 404,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-h8DcxmS/0/LVMgRBKv6dg7ZmnXTBxjSFbw8NVmgRdXhrvWCqszC/L/L_IMG_2662%20%281%29-L.jpg",
+          "Ext": "jpg",
+          "Height": 539,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-h8DcxmS/0/MdJkPHWcMSk2mT6QwTxBG33pghfcwhQgWSSdt4LLT/XL/L_IMG_2662%20%281%29-XL.jpg",
+          "Ext": "jpg",
+          "Height": 689,
+          "Width": 1024,
+          "Size": 321288,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-h8DcxmS/0/KDgJv3qNb7Tjt8QsrkW8GrLXHjwsC8pKmTxRVCrXR/X2/L_IMG_2662%20%281%29-X2.jpg",
+          "Ext": "jpg",
+          "Height": 862,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-h8DcxmS/0/KkfBGBGZ77RVH49TbsP3Rh8PdkJqHFCbpFhx3w4xK/O/L_IMG_2662%20%281%29.jpg",
+          "Ext": "jpg",
+          "Height": 1022,
+          "Width": 1518,
+          "Size": 785968,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/h8DcxmS-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/h8DcxmS-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "48.534747222222",
+      "Longitude": "-123.01483055556",
+      "FileName": "L_IMG_6660.jpg",
+      "Date": "2025-08-18T00:24:21+00:00",
+      "Uri": "/api/v2/album/4s77GN/image/KSQgV3w-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-KSQgV3w/0/#size#/L_IMG_6660-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-KSQgV3w/0/NgCmZQGdrwMfFMbvSwt9ZKnmNDsncCMzZMrRzMXzQ/Ti/L_IMG_6660-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-KSQgV3w/0/KXxDnw2xSVvp4jmNLVt6Zk7kW4JxC3hTtSqHCnnvp/Th/L_IMG_6660-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-KSQgV3w/0/KvmdwV6GCB8XQTck75Sf9tMBFkLSppDXh5xSmcmqv/S/L_IMG_6660-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 54273,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-KSQgV3w/0/NNScLPDDjk8QpKQngSsZzQVVnZjWnmmWgMkG8vVks/M/L_IMG_6660-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-KSQgV3w/0/Mg2R8Cc8jRP9gBz34jqVnq9dwQmd72XvqpnDM7pJ7/L/L_IMG_6660-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-KSQgV3w/0/NQtMQLgsFgB9D7dC9DF7fWxdvZkjpBH5QGmTPqR7C/XL/L_IMG_6660-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 233044,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-KSQgV3w/0/M9NDM7VCLqdPtHb8TFKtLMfWNLPQMBvd676FQ2mMM/X2/L_IMG_6660-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-KSQgV3w/0/Lmhw83G6tDzkfwCDKsvp94xdSCdm7VBfcS2XQR8N8/X3/L_IMG_6660-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-KSQgV3w/0/L9JsDxm3N3rzMXqnw6GXXqsqqdKN48kp6mfnP8gm4/X4/L_IMG_6660-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-KSQgV3w/0/LSMjZNcvVTWpfpr9wH52VJp2642jfwfKrFKzmdT9s/X5/L_IMG_6660-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-KSQgV3w/0/L4Cv9hGhMq89K4GS4DZsfXDc2G63NLB33qK73ckgg/4K/L_IMG_6660-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-KSQgV3w/0/NQgGfZ24skMwRBxkvgCKPPWQsbvWk2C2CWhwNBScK/O/L_IMG_6660.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 3186511,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/KSQgV3w-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/KSQgV3w-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "48.536791666667",
+      "Longitude": "-123.01631111111",
+      "FileName": "L_IMG_6661 (1).jpg",
+      "Date": "2025-08-18T00:24:20+00:00",
+      "Uri": "/api/v2/album/4s77GN/image/kFm5rFk-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-kFm5rFk/0/#size#/L_IMG_6661%20%281%29-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-kFm5rFk/0/MjKPqnFTWRQMcPsc5KHSkW8PKKDj78fRQhjhPSj54/Ti/L_IMG_6661%20%281%29-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-kFm5rFk/0/MPNqg24sGc8jbvHnTDhvDscVV4SsnVjm5LVQJxhtN/Th/L_IMG_6661%20%281%29-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-kFm5rFk/0/MWTFp3Rzfv6st5qmpTvkLWbVndgwq2pSJ3vQvTWL9/S/L_IMG_6661%20%281%29-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 53493,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-kFm5rFk/0/LCr55mSmbtvxf7DJF8cRk5gjPGxdFSm6BC8Xc6rzZ/M/L_IMG_6661%20%281%29-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-kFm5rFk/0/MKppGQxGKxdSBx3P3TfvDChpzkCZHPzmRMXFNbknH/L/L_IMG_6661%20%281%29-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-kFm5rFk/0/KzfW8v94sD32JB8jBkFgcmMx7Z72BxpQGzgFHXCBz/XL/L_IMG_6661%20%281%29-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 254896,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-kFm5rFk/0/LvcPPX4J2zxTMBWZqgXnRLp6rjnsWt6z4xsFDztMx/X2/L_IMG_6661%20%281%29-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-kFm5rFk/0/NDhLPJ7KX86tBHzn9XL7RDTfPKzZmShvh2G2zBNVK/X3/L_IMG_6661%20%281%29-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-kFm5rFk/0/L84Zb8KPkHFQ6wCKFTgtBDzfvWGzttX58vL49FB2C/X4/L_IMG_6661%20%281%29-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-kFm5rFk/0/L7GsxQP4kPGkJBxpxq4NMbQ4w8HTJrkdgsJBVRcmC/X5/L_IMG_6661%20%281%29-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-kFm5rFk/0/M9NcskPsjj752LDCgFbn7kkFWQBqQ4S82Fg2FHTML/4K/L_IMG_6661%20%281%29-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-kFm5rFk/0/MZmZP2p8hPnfkPvNFS3QGfwwLGHP8gqh8VVKZMTJ2/O/L_IMG_6661%20%281%29.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 3695636,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/kFm5rFk-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/kFm5rFk-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "48.536880555556",
+      "Longitude": "-123.01612777778",
+      "FileName": "L_IMG_6663.jpg",
+      "Date": "2025-08-18T00:24:22+00:00",
+      "Uri": "/api/v2/album/4s77GN/image/x5DhFbH-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-x5DhFbH/0/#size#/L_IMG_6663-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-x5DhFbH/0/KWqKzbph6QNmqrd6BpFWhZkS4SwndvtzzCNqCZrxL/Ti/L_IMG_6663-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-x5DhFbH/0/LWKxT4qDMbJrCbXJHXpxch343BtmpJkZJn3q5k6XF/Th/L_IMG_6663-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-x5DhFbH/0/NJRmL6PggzSpF6hT4bxZjB2b9pm83KshTJnQB23cF/S/L_IMG_6663-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 60265,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-x5DhFbH/0/MD79cBxSVL2fbJd3SGpdGQwzFPSKVxbGBHGgT4DZp/M/L_IMG_6663-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-x5DhFbH/0/KFMxxpKnk9pgVdhtTJHg2DXBRNpj34hQn9ccXcrMw/L/L_IMG_6663-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-x5DhFbH/0/LbmBZnRjJ7JBnZ3mHrQ29QWXhTVCsZRmt9hxXx9xw/XL/L_IMG_6663-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 295189,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-x5DhFbH/0/LgxHLWtStWkh9R68xV4ps2jCtxg8mv9hCCKqSRFSW/X2/L_IMG_6663-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-x5DhFbH/0/MnNr7hFVhx82f3p58xc4DcDmx9j4jbbVKDv8Fwf7f/X3/L_IMG_6663-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-x5DhFbH/0/Lw7bPFLPL5DBFvMnWmtqGLdqbdN8bhNLwpkWxgSsp/X4/L_IMG_6663-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-x5DhFbH/0/K9XjLK86tHLzz4KwLWcQW64RqJC9bbw9NknCVH3Tw/X5/L_IMG_6663-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-x5DhFbH/0/LdW3BK3DT3JFVqzkBv96rmvM6LFHSM8rrBkVp75vL/4K/L_IMG_6663-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-x5DhFbH/0/NQ9VnRCSQX5zpzjcBdfsMQpK52ZLmMSmT8vjXXsKP/O/L_IMG_6663.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 4221211,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/x5DhFbH-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/x5DhFbH-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "48.533241666667",
+      "Longitude": "-123.01921111111",
+      "FileName": "L_IMG_6664 (1).jpg",
+      "Date": "2025-08-18T00:24:18+00:00",
+      "Uri": "/api/v2/album/4s77GN/image/TwT24nc-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-TwT24nc/0/#size#/L_IMG_6664%20%281%29-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-TwT24nc/0/MSXvwc58FrZSBWcqqzXbNnf99W7HFzPQDMNRKcdwZ/Ti/L_IMG_6664%20%281%29-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-TwT24nc/0/NbRVXNcMXDZGZhG9BZjq47CzcS35hMnxs5TfqMSkb/Th/L_IMG_6664%20%281%29-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-TwT24nc/0/Lb6TRMLg2bdZsdHHrDqCC9dgTZw3BJfvffWkNDdfs/S/L_IMG_6664%20%281%29-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Size": 47531,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-TwT24nc/0/MbXNb4G2QTbjp2BQGGVRj5K4ntwX3gbbWKgMNFspt/M/L_IMG_6664%20%281%29-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-TwT24nc/0/Mj9XZChRWthd6FmQGrQD8sJNV3jJ9gzD6Vrbc6xPN/L/L_IMG_6664%20%281%29-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-TwT24nc/0/MVjS4ztcHXfSNK528LdxD2gKzBBkzmFHgq5gNxch3/XL/L_IMG_6664%20%281%29-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 223601,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-TwT24nc/0/KSm4GXwWtx7xXBSzXDG5WtnZNJ8mJKWWMVHsMdfHC/X2/L_IMG_6664%20%281%29-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-TwT24nc/0/LwpBXq6HbrpKqtNTmPZBGMCwPbR7nW22wdwcnZ6VN/X3/L_IMG_6664%20%281%29-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-TwT24nc/0/LfpPpnNhsrVBqZpGszR4F9DVWnvfhQ7vHW2BJLSLp/X4/L_IMG_6664%20%281%29-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-TwT24nc/0/MQrfJQFKSGPmzv3Gxwk2BrxcXC4LT6cQz68fgXLcL/X5/L_IMG_6664%20%281%29-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-TwT24nc/0/LD3JCCxrKvx5PszHsMzLT9X9wgnCjHmzK3nMxzDk6/4K/L_IMG_6664%20%281%29-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-TwT24nc/0/LM4WPQzdTHSr7DHjc9gG39ktztvvvDgczwN7npWTX/O/L_IMG_6664%20%281%29.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 5134744,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/TwT24nc-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/TwT24nc-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "48.528105555556",
+      "Longitude": "-123.02323055556",
+      "FileName": "L_IMG_6666 (1).jpg",
+      "Date": "2025-08-18T00:24:17+00:00",
+      "Uri": "/api/v2/album/4s77GN/image/ML2rBRR-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-ML2rBRR/0/#size#/L_IMG_6666%20%281%29-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-ML2rBRR/0/K4BtVdnpLJjWjHRJgx7RH9zc3VcrqvGxN8R6JDS8W/Ti/L_IMG_6666%20%281%29-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-ML2rBRR/0/MmxSrhgkqdpvGKBgn9ZQB4TDV5nbSBvF7nwF26qMM/Th/L_IMG_6666%20%281%29-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-ML2rBRR/0/Mjn5pdMLRsSwDBV2xcVrs7LmVnDdFtj7LLHMCH5cQ/S/L_IMG_6666%20%281%29-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 50335,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-ML2rBRR/0/LWbLTH956cK35rT9GBTMH5MZqCk8qBfcfBdKxfXWX/M/L_IMG_6666%20%281%29-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-ML2rBRR/0/LmRVZghZ9mbnZLBtMN7HtNftw4f6crLHvRhtgmgLV/L/L_IMG_6666%20%281%29-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-ML2rBRR/0/LTh7sxnJLWFxnp5t8469nhWkxhw7PSwR7mZ8rBkWp/XL/L_IMG_6666%20%281%29-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 198295,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-ML2rBRR/0/KvBhKH5Th248Nz4XtnGDL9CfPcwxh7Wx6F8SSdq83/X2/L_IMG_6666%20%281%29-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-ML2rBRR/0/LpmSMjKbW5gXpjF9Rf6FHKx8647KftM9nM8rjw3hT/X3/L_IMG_6666%20%281%29-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-ML2rBRR/0/LGsgZqbHvwBKXZJXtP55qsPjh5HVhwjtHms7KrN6b/X4/L_IMG_6666%20%281%29-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-ML2rBRR/0/KHhVq7xSChptbmbzmCjvXcjv7zNcBjTcMWR26LSQP/X5/L_IMG_6666%20%281%29-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-ML2rBRR/0/KbGnZssV3L8Rs8mXBmDF3Mbshp57DB3x2r6vh4Lwm/4K/L_IMG_6666%20%281%29-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-ML2rBRR/0/KjfH2LtBRHMxw43z3CdQjBPx9Ldcj32q4HQgXGf2z/O/L_IMG_6666%20%281%29.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 3010083,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/ML2rBRR-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/ML2rBRR-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "48.464369444444",
+      "Longitude": "-123.02362777778",
+      "FileName": "L_IMG_6669.jpg",
+      "Date": "2025-08-18T00:24:24+00:00",
+      "Uri": "/api/v2/album/4s77GN/image/pbkrfvV-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-pbkrfvV/0/#size#/L_IMG_6669-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-pbkrfvV/0/MsDCHZwS5C5LZXBbrRfVGtPFRLcwhvD8Nm4RKtqRH/Ti/L_IMG_6669-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-pbkrfvV/0/LnJDf2MRwppWfcpm4qLsQvxQ98tkNQqGBQKSLgvZn/Th/L_IMG_6669-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-pbkrfvV/0/MPN4bRt4BTL4xMsPT95bMK9bFbwmsKLvXcvvhGnjz/S/L_IMG_6669-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 67610,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-pbkrfvV/0/KfVWPcrDwX6J2Fd9826gqCr8kPbMCRh8BRTkVfRSb/M/L_IMG_6669-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-pbkrfvV/0/KT4h3qbmb6vbZr2HbptD466tgdphmBwv24mtgnfzq/L/L_IMG_6669-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-pbkrfvV/0/MXsxcxJq7Hs4NtrGNcqmBm7JGwZ9WQt9VBH7KDzqk/XL/L_IMG_6669-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 425522,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-pbkrfvV/0/LBwQSG9LmPQkfWgXdNqwZb8F9QpmkgtsVMpkGsdt2/X2/L_IMG_6669-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-pbkrfvV/0/NJQ27SBmKrGxpKmxRkdTdBtSKqHhmJFb6LMq8N7RD/X3/L_IMG_6669-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-pbkrfvV/0/McZTbpD7dLgS5tpxnGHdg8TQnQjfMTBncp2NTZXsL/X4/L_IMG_6669-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-pbkrfvV/0/KzwdF2g3sxSmH8dZ9xZVh98VNJKWmLrQzrmrhpm3B/X5/L_IMG_6669-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-pbkrfvV/0/L9nbrGHwJhG5ZDjQKR6HzcHRqBwqXVcn9T8bJj35s/4K/L_IMG_6669-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-pbkrfvV/0/K52D7NvLbpwdHNCDHSG7F8J5NxVK3wTRJZn4cK9Cd/O/L_IMG_6669.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 7236552,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/pbkrfvV-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/pbkrfvV-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "48.4644",
+      "Longitude": "-123.02356666667",
+      "FileName": "L_IMG_6670.jpg",
+      "Date": "2025-08-18T00:24:13+00:00",
+      "Uri": "/api/v2/album/4s77GN/image/cMhK2RX-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-cMhK2RX/0/#size#/L_IMG_6670-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-cMhK2RX/0/Lh4NQ42kgn6JgxdpVQ3DC9LnrzDF2nwPTfdnnqJKP/Ti/L_IMG_6670-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-cMhK2RX/0/MkKmLHLPwGjF4h5XCxzLFL46thQgQWZmx8QvZC2vw/Th/L_IMG_6670-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-cMhK2RX/0/LWHrWzJPJwCvfLXpKBQfRdkx7R5JNGf9592jsp2jm/S/L_IMG_6670-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Size": 28781,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-cMhK2RX/0/MHjK5h3zQzkTkLdqBb3cnw7nm9wSfSnbdGX8Hdf2N/M/L_IMG_6670-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-cMhK2RX/0/Km4CHFB5k4dBmLzcghmNrKJpwcRKZf53gkbXqB3Jx/L/L_IMG_6670-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-cMhK2RX/0/NCnjMwP624JtKjnggVBFSQG4R4KWdMHggpfVKtNTW/XL/L_IMG_6670-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 118547,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-cMhK2RX/0/NBHs4ZNdnDb66xcjsNX9bLTdwGsBbCpPkzf4fDFDz/X2/L_IMG_6670-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-cMhK2RX/0/LzJ5HZvcXhwxSM2mhLvCjMWrJvQ4VBJhtJsHd7cjS/X3/L_IMG_6670-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-cMhK2RX/0/MD3ZSrrtZV4SS8qKcZ8ct3GgJXQJd4BTtC5KkD4F6/X4/L_IMG_6670-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-cMhK2RX/0/NdPGDwnqSDs4XfzVtPMWNxShxDbZRP7NQmnfgfZtz/X5/L_IMG_6670-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-cMhK2RX/0/Lsg6x3QJz9gQCq6v4StsdT76H6fh7xw22LhfVgc4s/4K/L_IMG_6670-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-cMhK2RX/0/NjFwQm6pVdQsCnmzQwjgvkpMwGR5Mp8Sqchwg4rQn/O/L_IMG_6670.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 2355739,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/cMhK2RX-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/cMhK2RX-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "48.460608333333",
+      "Longitude": "-123.01565555556",
+      "FileName": "L_IMG_6671.jpg",
+      "Date": "2025-08-18T00:24:10+00:00",
+      "Uri": "/api/v2/album/4s77GN/image/h9G8vXW-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-h9G8vXW/0/#size#/L_IMG_6671-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-h9G8vXW/0/L7gqghtR623dnm6DtQJR229zBRwSDVP9CTMh6DWsz/Ti/L_IMG_6671-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-h9G8vXW/0/MGzDmnqSbgK7qtjmdvPfZSkrZ24QBrxxmFxNZ44zb/Th/L_IMG_6671-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-h9G8vXW/0/NXnwxCPzzW6PWssQ6zPtPGvCMH6gM4VbHsW8HNJwz/S/L_IMG_6671-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 48392,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-h9G8vXW/0/MRd2RBkj4zsrPJm3rPFt5QpSwpbgBZ4XLdc6Zh3KK/M/L_IMG_6671-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-h9G8vXW/0/LZ9jLBk5Z3BPqqgNVRJGNQjvNFb42Sz3nvgJn34dq/L/L_IMG_6671-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-h9G8vXW/0/NbT5PkGg2R5DVsnstRbfvF9WphQVBP94dJHMBsg4T/XL/L_IMG_6671-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 281208,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-h9G8vXW/0/NCQctVXz7FDLQtSQnN5R7Q4vBPvrB56qWTm6KpTtr/X2/L_IMG_6671-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-h9G8vXW/0/MnZwhP24tpVjWK7WcvxMF7CFkHGNLDjmQC9nRBJHw/X3/L_IMG_6671-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-h9G8vXW/0/L5WjjBkVqqmxH6P8gRZLQZfLgVhGs7h7CxP6dvQM7/X4/L_IMG_6671-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-h9G8vXW/0/LkJp2KZnbCGbTqSCvkL5ZXXwpz6d88tFrdqpsh5bK/X5/L_IMG_6671-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-h9G8vXW/0/LHdSXLtQzKLRvs68L6hWT9KQrhL3Cq2DqB6kfSFQK/4K/L_IMG_6671-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-h9G8vXW/0/KX8xq98XCPMW8jbxkcvPksbWsK5QM88Q8HHjPpZww/O/L_IMG_6671.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 4871068,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/h9G8vXW-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/h9G8vXW-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "48.490411111111",
+      "Longitude": "-123.06603888889",
+      "FileName": "L_IMG_6674.jpg",
+      "Date": "2025-08-18T00:24:19+00:00",
+      "Uri": "/api/v2/album/4s77GN/image/pjcGk77-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-pjcGk77/0/#size#/L_IMG_6674-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-pjcGk77/0/MnRq8GzZDjN9JfDccRJDGHbtV7k865Rx6mwzLN5JZ/Ti/L_IMG_6674-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-pjcGk77/0/KLbrCkBMjF3qn89jXmzZh8qk2JvxsH74wDnScFtmd/Th/L_IMG_6674-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-pjcGk77/0/L9xNJD8Dt9bv2Sf4k7CSTmCbMFtkJwsBrgrx8Hq9n/S/L_IMG_6674-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 54201,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-pjcGk77/0/KV9pWtB2Dx96Q86BqzvqBMGzzHtcbBF4wM59SKxfM/M/L_IMG_6674-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-pjcGk77/0/MZv3FzFZ3njrjtxH6CQKzGr5M2C4mL3rT2CF7QH7N/L/L_IMG_6674-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-pjcGk77/0/Kc4fQsSXKhBXWFbmG3CpRgQtXDT6cspg2P5VD6kDK/XL/L_IMG_6674-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 293646,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-pjcGk77/0/NHmqTscNJvSL4GCfLsd7nB7RtPQwv3nqp8nXtrhGJ/X2/L_IMG_6674-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-pjcGk77/0/LpdZfb5g4TpcN59rTNNLQHGfPvGXrHmQ2Z7fZGqvq/X3/L_IMG_6674-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-pjcGk77/0/MffG6pRv5TZGrLpsT6tFdvX63HWBjSdfkFK4nz8GG/X4/L_IMG_6674-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-pjcGk77/0/M9HC8w4tgkRDh2hpTmpn4N93GXtVddPqdqtW5mxwV/X5/L_IMG_6674-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-pjcGk77/0/Mq4sbvPDgBPr9fH4xkMzcGDc9tXrCczg2bzWZnhTz/4K/L_IMG_6674-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-pjcGk77/0/Ld2pxrbRG7NznSDnpGX3JhxzDCJXX66BsKV8RCfzg/O/L_IMG_6674.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 4565796,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/pjcGk77-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/pjcGk77-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "48.513888888889",
+      "Longitude": "-123.15051388889",
+      "FileName": "L_IMG_6677.jpg",
+      "Date": "2025-08-18T00:24:13+00:00",
+      "Uri": "/api/v2/album/4s77GN/image/6BVp2G2-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-6BVp2G2/0/#size#/L_IMG_6677-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-6BVp2G2/0/LKkV9fkcP9TnGwgLSwTn7PXFbDqcR6Z7kFHRS8MMj/Ti/L_IMG_6677-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-6BVp2G2/0/M274Wq3dNcQBPwVdSXtQd5vDHgCvG9TRRrWNQS6cq/Th/L_IMG_6677-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-6BVp2G2/0/NX355tLDBdrTJ7NMcBcmwmBCVZxzTRq23TcPq7LJq/S/L_IMG_6677-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 49498,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-6BVp2G2/0/NRdC62ZcSZdB5VJvRncf8ZHCk2zFpBSSH63gx555t/M/L_IMG_6677-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-6BVp2G2/0/LP7xmmqvRw6B93nF5PPfm6CbM4bJLqqpzjhZ6SSZ8/L/L_IMG_6677-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-6BVp2G2/0/MZLnSNsLQpfVTNMKZ28DwLMJ6NKct4zfrQJrgxhHs/XL/L_IMG_6677-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 248764,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-6BVp2G2/0/MSrKZm7NVgvzTMmxtQxwjpCvxvdPpmLnWFKDRkQ3F/X2/L_IMG_6677-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-6BVp2G2/0/KPH6B4P5QDs8WFPP2P99n47pgHhXxMgLWhskSrws9/X3/L_IMG_6677-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-6BVp2G2/0/MBqvhc6wG5STM5qR3mXBCJtG7XffHLJQfLBTk5tCK/X4/L_IMG_6677-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-6BVp2G2/0/MLqQ9LdpQhrvwDTGLsNBxnmGM7F7zhzcqdWRLb38j/X5/L_IMG_6677-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-6BVp2G2/0/LsS87tk2xTsZvggVQnVwhsX9chZfhjxcXvnNnjNwB/4K/L_IMG_6677-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-6BVp2G2/0/NJP79FfmWmRrSPxjHtpnS3dPTXrnKSkkM5s8fzLGp/O/L_IMG_6677.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 3469165,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/6BVp2G2-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/6BVp2G2-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "48.542763888889",
+      "Longitude": "-123.16059166667",
+      "FileName": "L_IMG_6679 (1).jpg",
+      "Date": "2025-08-18T00:24:16+00:00",
+      "Uri": "/api/v2/album/4s77GN/image/J4rdNLH-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-J4rdNLH/0/#size#/L_IMG_6679%20%281%29-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-J4rdNLH/0/LQPZBBZJsCqGdHVP7KxpQRXKQX8fWDVd2Np9dr55v/Ti/L_IMG_6679%20%281%29-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-J4rdNLH/0/LS64pxx7jJWFsFGCWjKX7QkWJpLSCf3Wzj8v4Tqk7/Th/L_IMG_6679%20%281%29-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-J4rdNLH/0/MnpFMcQZR8xmKFRqHbrSkvcfsx8Vp6dtQ6KhZWxq5/S/L_IMG_6679%20%281%29-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 70000,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-J4rdNLH/0/Mr9Z4ZX4fnFT6TnN28kLrMDNdxb5F9qQZRFGCkN5j/M/L_IMG_6679%20%281%29-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-J4rdNLH/0/KhGz2rhT7RqwH28wCJdW2Trn4n6dbgXzhv5zX7vdd/L/L_IMG_6679%20%281%29-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-J4rdNLH/0/NWMSB93rpNJjK9NRpLQqcspH9PNDcvcdRVvVZWrdD/XL/L_IMG_6679%20%281%29-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 338627,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-J4rdNLH/0/LN9zjWLCcbbK459NMNNLCTGr7R9ftGNsssXMpsN7H/X2/L_IMG_6679%20%281%29-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-J4rdNLH/0/KKQDcdw6rZZqQDXbgXvzmVPgDRjfqSN9qDsSTTq84/X3/L_IMG_6679%20%281%29-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-J4rdNLH/0/KGNmbpktxzGCs4KP6r5qgSfk7cgJfHnx2fnMZLms6/X4/L_IMG_6679%20%281%29-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-J4rdNLH/0/L89c3TDQQWc6rDQZXqvvfTfbkHbbkbcF9kdNSnr44/X5/L_IMG_6679%20%281%29-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-J4rdNLH/0/KHhvq5rLvds7Mn43KnZD6hgsXrsjqKpK5cLtsG5Zk/4K/L_IMG_6679%20%281%29-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-J4rdNLH/0/Ms99443f2NQQbNFjZdMvsFvfwp4dHFJK5f7Zb2C2d/O/L_IMG_6679%20%281%29.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 5046147,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/J4rdNLH-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/J4rdNLH-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "48.542758333333",
+      "Longitude": "-123.1606",
+      "FileName": "L_IMG_6681 (1).jpg",
+      "Date": "2025-08-18T00:24:11+00:00",
+      "Uri": "/api/v2/album/4s77GN/image/jGRrHVj-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-jGRrHVj/0/#size#/L_IMG_6681%20%281%29-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-jGRrHVj/0/MtZ5xH8MSTjp4JRCBfhLPb3xRh4qdsrsbvZ9GKCvx/Ti/L_IMG_6681%20%281%29-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-jGRrHVj/0/KJtWfFgQDkWvNXqq5VdmdbKS6MCGfmx46HBs2cLXV/Th/L_IMG_6681%20%281%29-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-jGRrHVj/0/Mv6cFvwLrzsX33LZj6zqVN6SnZX44B9RKmr2hDHw3/S/L_IMG_6681%20%281%29-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 71508,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-jGRrHVj/0/LvpfLQr9cgjkMpv2F9hd2hG7dtWwZscQ8bCRX6KPw/M/L_IMG_6681%20%281%29-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-jGRrHVj/0/LKgsP4MSPbTRcHRXBTQMMmKqSZGLDDLcrSBmHNqgD/L/L_IMG_6681%20%281%29-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-jGRrHVj/0/LhdRRcWfmpCtv4NfbR2cjpfknBjSjwrkLmR5BDJx5/XL/L_IMG_6681%20%281%29-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 350106,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-jGRrHVj/0/M9CgxfNnBjGx54GsHmH395sVtGMnNbcrmVLWDK9kc/X2/L_IMG_6681%20%281%29-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-jGRrHVj/0/NWNJXc4ZpcNkx4Fj3hZwr6zWqBDm46hmgkWZ4s8Lj/X3/L_IMG_6681%20%281%29-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-jGRrHVj/0/M8rTwGdnFRkVzB2GZhpX9tsN5gGtvQKRz5Z2PZHLq/X4/L_IMG_6681%20%281%29-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-jGRrHVj/0/LhR7CPnXcfbqZTRxVdd4PbPzvzCG6WvfWg5dwxPwv/X5/L_IMG_6681%20%281%29-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-jGRrHVj/0/MXbwQX5h33STDx5PxKxG8Wdbcz6zM7skpZZBQK36c/4K/L_IMG_6681%20%281%29-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-jGRrHVj/0/KbdwszSxN8gFpBDtHhn27XwGtNvkJ6HXcCcSJRgTK/O/L_IMG_6681%20%281%29.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 5423818,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/jGRrHVj-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/jGRrHVj-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_2669.jpg",
+      "Date": "2025-08-18T00:24:07+00:00",
+      "Uri": "/api/v2/album/4s77GN/image/BhCnBpn-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-BhCnBpn/0/#size#/M_IMG_2669-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-BhCnBpn/0/NJsLk25MfzKDRHLQgntJvGSXq5WcHV75hXpnLssqX/Ti/M_IMG_2669-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-BhCnBpn/0/K9P7j6BGrz5pkrk3cn9t5MsDcmG65Vch4wck5TfrR/Th/M_IMG_2669-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-BhCnBpn/0/LqSCnLFJLx4zHxh8Q27ScxJ76cCbJ4j9KmSGbskSZ/S/M_IMG_2669-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 57969,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-BhCnBpn/0/M7DhHzfMnrf2g6fCGBJ6fZFwJJtMdXTK7FPZN33pd/M/M_IMG_2669-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-BhCnBpn/0/MX5Mq4Dp8mJhqRx3tCQqfWF4GKSS9LBtZKQSvSVbB/L/M_IMG_2669-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-BhCnBpn/0/K6cRw9T9mj2Sw82rvdsC7qnHMbshWvr6QjB3ZNffM/XL/M_IMG_2669-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 278893,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-BhCnBpn/0/KmVQdn4Q3fvs8XJ8jnCXjrNv4W8szTtJ7fL65MPh7/X2/M_IMG_2669-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-BhCnBpn/0/K58474DK4jxkHwKqxcDSZzgq2PZT7kVTV5tRZJqR9/X3/M_IMG_2669-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-BhCnBpn/0/LMbCMHSmSz7MJmwxNBGFtqf3LBQJDGPhQKMPmRDb8/X4/M_IMG_2669-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-BhCnBpn/0/KHV6XgNbbs7DhCTr2DbV3Gz343GG6rj7vJ93nWnSk/X5/M_IMG_2669-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-BhCnBpn/0/KrPH4gKWDm5zJ3b7WR6CgMTJvPrpRg6C3V88JNkdx/4K/M_IMG_2669-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-BhCnBpn/0/LC3cXHbQ6FVHzkC9jLWkdTTPT9SrDb7FLkBXC6QCd/O/M_IMG_2669.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 3840253,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/BhCnBpn-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/BhCnBpn-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "48.542825",
+      "Longitude": "-123.16131666667",
+      "FileName": "L_IMG_6687 (1).jpg",
+      "Date": "2025-08-18T00:24:06+00:00",
+      "Uri": "/api/v2/album/4s77GN/image/DCJZS87-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-DCJZS87/0/#size#/L_IMG_6687%20%281%29-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-DCJZS87/0/LGg9PXHk6XwmFwTQDNgn78Lzm5W5pXDFnHGdr42F4/Ti/L_IMG_6687%20%281%29-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-DCJZS87/0/LDHcDxNrCwPr9zWBFgV7KnSd4HTMmfGzLjZsCqQ8m/Th/L_IMG_6687%20%281%29-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-DCJZS87/0/MC76wqJFkgS8MN6MVWbh85VLckBV6t3hKZkH2LGPR/S/L_IMG_6687%20%281%29-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 79099,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-DCJZS87/0/NT3Xj8GQBT3xw2tfNP6vSL5v7JWPskpMBxNhcB65H/M/L_IMG_6687%20%281%29-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-DCJZS87/0/NR97sCCpD4JwrCj6zBPnLPFv5vd7Kq9cLQWRt5gBN/L/L_IMG_6687%20%281%29-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-DCJZS87/0/KvbwQJTJDQhWXfX2MXjJSNg4ZCN2VK8c5GvRgDb7j/XL/L_IMG_6687%20%281%29-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 461594,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-DCJZS87/0/NjkwJZGV68PH6gHVft9GKDx2H3hg95vBpcF55BsQq/X2/L_IMG_6687%20%281%29-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-DCJZS87/0/KqpKzz3RCNVVgH4PJ8KpXz5d8mBmWSkfJw7QcVgJd/X3/L_IMG_6687%20%281%29-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-DCJZS87/0/L77V7jmqVq3tLtpznsjLnj6x3LChFhssXmD5VDhth/X4/L_IMG_6687%20%281%29-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-DCJZS87/0/MVBWZS9CdzRkrCjcNsD7kHkVMm8k2F8QxKGrvFL3B/X5/L_IMG_6687%20%281%29-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-DCJZS87/0/MTbrg2hrnqpKGb5CTspSg6kbWq4fGrVh9JCKHqXzv/4K/L_IMG_6687%20%281%29-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-DCJZS87/0/LtkRVwRbDP2bK7RRvcjKP5zmzjxHtNCqQZg58RZ5Q/O/L_IMG_6687%20%281%29.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 5309797,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/DCJZS87-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/DCJZS87-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "48.585647222222",
+      "Longitude": "-123.14994722222",
+      "FileName": "L_IMG_6692 (1).jpg",
+      "Date": "2025-08-18T00:24:05+00:00",
+      "Uri": "/api/v2/album/4s77GN/image/QqRjvTz-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-QqRjvTz/0/#size#/L_IMG_6692%20%281%29-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-QqRjvTz/0/KnsfMxFtLKs2fCTvf9Ds4zHmgtDF67WVBfs7wvFHw/Ti/L_IMG_6692%20%281%29-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-QqRjvTz/0/MWJwCHHWB2hxp53ggcFzjwQtNJXpP2HjMf7SbKBMW/Th/L_IMG_6692%20%281%29-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-QqRjvTz/0/MhHL3wpzTSCbCxX3rZ3tRZfr23bpF7pjBbGSzGfmr/S/L_IMG_6692%20%281%29-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 62669,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-QqRjvTz/0/KGWFbCPvqhcvDDZw2q6pkxMM7394hcH7M4cHqmmjc/M/L_IMG_6692%20%281%29-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-QqRjvTz/0/MZTQSfxX2VnFTVmV5J2WPfqbhkmDg4KLwG68SWkpp/L/L_IMG_6692%20%281%29-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-QqRjvTz/0/LXt473n4NVbktLNrSZN6ZH4qM8bZV5wbJX2jXK2Lm/XL/L_IMG_6692%20%281%29-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 329981,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-QqRjvTz/0/LQqSJ95sXF2n25NdDVgB3QX3SbJpgxXFPWKgmSfWJ/X2/L_IMG_6692%20%281%29-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-QqRjvTz/0/LzkG3wCRhBXgrpCVHMwWr8Lg2ccBQswsj7kpVM4bw/X3/L_IMG_6692%20%281%29-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-QqRjvTz/0/KPW37Wpwk3BRw2gqh5Hnqt7zzH3kXTS4rQpn3TkwS/X4/L_IMG_6692%20%281%29-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-QqRjvTz/0/MMKDBhNnsTKFG75r97ntKkc2c9tHdQfrtWFX2x4Hr/X5/L_IMG_6692%20%281%29-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-QqRjvTz/0/K4gHgZP4RNqD2gtRFWnsfPh2fzGc3LfLKcQHK6RgF/4K/L_IMG_6692%20%281%29-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-QqRjvTz/0/MW2ZV6hCvknHr4NsBDBWZTkNV2XKPH8B6NmKnBTTN/O/L_IMG_6692%20%281%29.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 5010813,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/QqRjvTz-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/QqRjvTz-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "48.585847222222",
+      "Longitude": "-123.15014722222",
+      "FileName": "L_IMG_6697.jpg",
+      "Date": "2025-08-18T00:24:05+00:00",
+      "Uri": "/api/v2/album/4s77GN/image/zxW7LhJ-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-zxW7LhJ/0/#size#/L_IMG_6697-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-zxW7LhJ/0/Mwcv6Hhq3tgsd3qmMHn5rxzCzDPmPsskJMzm6ddLv/Ti/L_IMG_6697-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-zxW7LhJ/0/KXSZxpfzwSwLPhgXGFfgcbRkJwj9Hz6bq9QhrqvDt/Th/L_IMG_6697-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-zxW7LhJ/0/NHgmdzS6BGS363hzhLN2h2nPQRsg6nJPHm2Q37PCN/S/L_IMG_6697-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 80224,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-zxW7LhJ/0/LrFrsKBNmKG7rg3zRK6c4STqqF67R7kTRtnnFQt2X/M/L_IMG_6697-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-zxW7LhJ/0/KHsj9RC8kD5ZVVZdJHgz3vk48VDSj8wp8c2vPKpq9/L/L_IMG_6697-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-zxW7LhJ/0/M3bZWCJtqBvTHQVg386VxXfGBXQ7LpXdx7f8JBBZs/XL/L_IMG_6697-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 449125,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-zxW7LhJ/0/LH5KpQJSVtrLCPkwn76C4rDJ6kWrBrNVBshkp2ZJL/X2/L_IMG_6697-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-zxW7LhJ/0/Ln9KC7r9G7tGWSZ3D59fPsPTM3H55ZJDpSVqbhJCk/X3/L_IMG_6697-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-zxW7LhJ/0/MkPHDR98xjHzcx7FK2krP3xLjSt3XsWzpBKdSHM47/X4/L_IMG_6697-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-zxW7LhJ/0/KzcgkGbPL2sQBLdJXGgPLvgfBmWP5rHD4VHgbs7Cr/X5/L_IMG_6697-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-zxW7LhJ/0/LmcNTh6Lz63WGcwts6qwKGqvnwXp4mLLP4mbpTgCf/4K/L_IMG_6697-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-zxW7LhJ/0/NPkB7vfDMZ7Jw9ZVWkjSckvpQWxZLjbKh5b2tHDhs/O/L_IMG_6697.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 5725845,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/zxW7LhJ-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/zxW7LhJ-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "48.608336111111",
+      "Longitude": "-123.15265",
+      "FileName": "L_IMG_6699.jpg",
+      "Date": "2025-08-18T00:24:03+00:00",
+      "Uri": "/api/v2/album/4s77GN/image/2F9kKjh-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-2F9kKjh/0/#size#/L_IMG_6699-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-2F9kKjh/0/NChTTdQSVHmxDX2VjLJn6H9V4VSsmLbG3D2mF9Pbb/Ti/L_IMG_6699-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-2F9kKjh/0/Md8D37Lhx8gBVXw2c4b5mFHQ3W7gLc3BHzm9kd97t/Th/L_IMG_6699-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-2F9kKjh/0/MdVzFCkBhPdXGwRMFTjPfrSxL4HttXDx4WMzfTm5v/S/L_IMG_6699-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 80428,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-2F9kKjh/0/KmDJdVDkRS7JzMbm7zvHdpTcC555hqC4GJXfLC6z9/M/L_IMG_6699-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-2F9kKjh/0/M7SbjNcZDZzBvgC9nRVCscstpqVbTGBFb4XtRjxH3/L/L_IMG_6699-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-2F9kKjh/0/MhhT6N3xmhX5wtRpFJbsLpv4bnZFH7WRNg4jnSCns/XL/L_IMG_6699-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 400905,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-2F9kKjh/0/Lks7tqhjjdvrcTRQF4HN74h3F78k3Ss9q6JSbThdn/X2/L_IMG_6699-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-2F9kKjh/0/MpFz4hNBdsCVrfg7J4sQHsKBggwxFbZXr4xbnf8mC/X3/L_IMG_6699-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-2F9kKjh/0/MDFvhKVZNX3zt96QzhPmRxkVJ7L7rvT5PnrK8TwMx/X4/L_IMG_6699-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-2F9kKjh/0/KP36XRPhm6mBSWZzGQFfZnXJJ2mfDmRjBHbhqhmZ2/X5/L_IMG_6699-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-2F9kKjh/0/KkgV7SWjGfrPVvTDxKSzLHxLMbjxRqSHS3NrXg22z/4K/L_IMG_6699-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-2F9kKjh/0/MR8VbXk2jjLtLkxw5h5KBL56J9scH5fsbr6QTmLfv/O/L_IMG_6699.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 4382869,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/2F9kKjh-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/2F9kKjh-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "48.608333333333",
+      "Longitude": "-123.15265",
+      "FileName": "L_IMG_6703 (1).jpg",
+      "Date": "2025-08-18T00:24:00+00:00",
+      "Uri": "/api/v2/album/4s77GN/image/dMVwzgP-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-dMVwzgP/0/#size#/L_IMG_6703%20%281%29-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-dMVwzgP/0/Lz7nmxv3hTVHVNSrBxdmSTxjzHFCHf8L4m3CKHNJJ/Ti/L_IMG_6703%20%281%29-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-dMVwzgP/0/McfZ76PbP72qvTwBV7M3VmRZv9kTZHBthHNWDVq5F/Th/L_IMG_6703%20%281%29-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-dMVwzgP/0/KSWWwMwnPVBTfZD5x79jFrkWQRTJCWmrP8Zw4CRDb/S/L_IMG_6703%20%281%29-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 90912,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-dMVwzgP/0/M2TtfBPtz6bWCX3pbSVJ6D4rZRKKg55fXjDxWFgK6/M/L_IMG_6703%20%281%29-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-dMVwzgP/0/L7gNZdbrnV3284V6x5fkWP4kGDbpSfqF9CWQLfz8C/L/L_IMG_6703%20%281%29-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-dMVwzgP/0/L9smWxk88tWCpjVTmt8hS5wTG72cjZ2Bk2MwJWwtq/XL/L_IMG_6703%20%281%29-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 473402,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-dMVwzgP/0/KkZ7FnKGBL9vB55hNfdhfPgz25tPZrzSjsqdS5rMP/X2/L_IMG_6703%20%281%29-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-dMVwzgP/0/MG3bJNWkhGxfQNLN5T3db5hmHhC4jqRXMgf3Dh4mW/X3/L_IMG_6703%20%281%29-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-dMVwzgP/0/MCzFVnVGMRrJvB7sCZ4hGKJkz8KWRdN3NhW67LqP3/X4/L_IMG_6703%20%281%29-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-dMVwzgP/0/LDd2FvvTtRWFWCZ5mbq7MPmL7ZWtkwtL7XkWPfJmr/X5/L_IMG_6703%20%281%29-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-dMVwzgP/0/LrQqQC4QqJw55K86C5KNJ43rk546GqZrxrnnQ85Dv/4K/L_IMG_6703%20%281%29-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-dMVwzgP/0/M7WcfV8M9JBrFBZX5QFRBQNnZkwGFN78ZkKKS6388/O/L_IMG_6703%20%281%29.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 5637994,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/dMVwzgP-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/dMVwzgP-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "48.608130555556",
+      "Longitude": "-123.15206111111",
+      "FileName": "L_IMG_6706.jpg",
+      "Date": "2025-08-18T00:23:57+00:00",
+      "Uri": "/api/v2/album/4s77GN/image/sQDfngh-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-sQDfngh/0/#size#/L_IMG_6706-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-sQDfngh/0/Mhk59Zk4jnqdg8Nct64RCLSzFpxTNdzfnjpFnD33f/Ti/L_IMG_6706-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-sQDfngh/0/KhBCgm7sG9cSMcd2RCH4QwdFgXHVr79vRpbcTQtLb/Th/L_IMG_6706-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-sQDfngh/0/LT9Ld7m4HCkL6WB4nJLG2F8Q4ws4632Zk84B6SP2W/S/L_IMG_6706-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Size": 53351,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-sQDfngh/0/MszfXCcCbQGnnGhf665mRV24GBwj3f9Ct3xRjmXv8/M/L_IMG_6706-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-sQDfngh/0/Mvv3ZNLq863GJqrxk5qGpCPDDNxWHBvZJLq52VZTv/L/L_IMG_6706-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-sQDfngh/0/LwzFPss3BqvWTFQ8PzfzGX6Rx6FZRh8S28MRX3G5J/XL/L_IMG_6706-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 270118,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-sQDfngh/0/NXTGMGzK5RrmgCBcfz8rckGGRSsWwF8K73FDFsGT5/X2/L_IMG_6706-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-sQDfngh/0/MX9sNf4KkvxZz25JLX4cXjCXNzskcp8dWkThWCJDM/X3/L_IMG_6706-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-sQDfngh/0/LLHmqJ4q5JwJrDg4rmscQBthMCvkb2xmmVLxmLQ56/X4/L_IMG_6706-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-sQDfngh/0/LqsCfVQ5PLhZh9t7FNkPRgFZ5BjSN8jC58wqFgx78/X5/L_IMG_6706-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-sQDfngh/0/LpSqhwcQDz8cTF7rzT29vDbjTNr2cNv9ZxMxqG5Zb/4K/L_IMG_6706-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-sQDfngh/0/NS5nw7vWskcMZf4n9LNZzZBN2qrn7KzZrPB7STnMX/O/L_IMG_6706.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 6146208,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/sQDfngh-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/sQDfngh-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "48.608186111111",
+      "Longitude": "-123.15224444444",
+      "FileName": "L_IMG_6709.jpg",
+      "Date": "2025-08-18T00:24:00+00:00",
+      "Uri": "/api/v2/album/4s77GN/image/Kbq78Cg-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-Kbq78Cg/0/#size#/L_IMG_6709-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-Kbq78Cg/0/Lz4DxzbpR38CWtRC9wCcvB3thRVQc2p2wBzLnM7HD/Ti/L_IMG_6709-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-Kbq78Cg/0/NXBH9qQVDZ73sPFr6MMcX6g5tQcXwcLkbWkhDQjtp/Th/L_IMG_6709-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-Kbq78Cg/0/MTzTCHBNCHZ8bk4RQ8XJLqFs3D3HhLwpNbfM3MPZw/S/L_IMG_6709-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 78266,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-Kbq78Cg/0/MZHPCK2wskxjWgMtbT4FST9h5B9Z5FWBH44vgLffK/M/L_IMG_6709-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-Kbq78Cg/0/NGR4CKvRVncP6z9x3ccHhLCpzZTpCxZnRXNLZ3HNv/L/L_IMG_6709-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-Kbq78Cg/0/MKCcR5BjVrdn2cbJZ4ntvC6GxqGZCdm5VkjKLLCfR/XL/L_IMG_6709-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 468311,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-Kbq78Cg/0/MHNbfkmcdGfn7Wrb6bTNQdkXBv7MBt3NRJfwbrvFw/X2/L_IMG_6709-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-Kbq78Cg/0/LxMzBgmVfr2PNvdpnQtMSBh46jHgpVpxQgpxmWfbw/X3/L_IMG_6709-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-Kbq78Cg/0/LkVfD9d2mChhXvWr9TfW3PmzW4NMgHQtrRTpPCFV3/X4/L_IMG_6709-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-Kbq78Cg/0/NVCPKH7qMQ9gWV4CKw8G885bhSRPf9CpDXqzmwFJC/X5/L_IMG_6709-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-Kbq78Cg/0/Mhvx34TJr9xQr7Jm7b6bw3cS2w3cBN9QDBgCDdkD7/4K/L_IMG_6709-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-Kbq78Cg/0/NTGjKz8wRBk5MnSGqMcc72NTXKLBWTj6VQRr49Rb2/O/L_IMG_6709.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 6824921,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Kbq78Cg-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Kbq78Cg-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "48.608169444444",
+      "Longitude": "-123.15225277778",
+      "FileName": "L_IMG_6710.jpg",
+      "Date": "2025-08-18T00:23:58+00:00",
+      "Uri": "/api/v2/album/4s77GN/image/zHt56rb-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-zHt56rb/0/#size#/L_IMG_6710-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-zHt56rb/0/MHDm7FrsxkqJZFSCbKkrKLPRHWz47jZJFRV3hdkhd/Ti/L_IMG_6710-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-zHt56rb/0/Lh34LMDpNVgrWXmKXkvG5Bd9ftVnSDvvdVJ57PcMf/Th/L_IMG_6710-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-zHt56rb/0/L9jfXndC6cR64wxfhX76dzrrcQtFvWhGfHFNHfGbN/S/L_IMG_6710-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Size": 55826,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-zHt56rb/0/KcKW3RzCBrQc9r2fkGn26Zb7n2XnBtwbPnVGgX7Rm/M/L_IMG_6710-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-zHt56rb/0/LJfj5TGtMkXLtdK9JGQxFcSMJSDKxDvsc2NhwsGkk/L/L_IMG_6710-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-zHt56rb/0/MF2s9ZW4vQXDMCRjtSphfQxBmQjsNGRwLF58PVw52/XL/L_IMG_6710-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 286946,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-zHt56rb/0/Ndtf3qmK49Bxdh4b7xd76gmgDWWBnh5wPxhkGCLhq/X2/L_IMG_6710-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-zHt56rb/0/LZNVbBbQp5TM89dRQSdtLXqs668gpzRK7TpTWjWTz/X3/L_IMG_6710-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-zHt56rb/0/KcCpLJdgMkMG4FXkf87BvqkB5TFCFQwfJgc8mZf89/X4/L_IMG_6710-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-zHt56rb/0/NdWMjtwNgVHJHhtcdtZWRnwbB33GJzVj94Jkwrc3s/X5/L_IMG_6710-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-zHt56rb/0/MH5F7WRkGgNSVHgvKtLXwxp6Bcv2k6kzqcpMZtjwr/4K/L_IMG_6710-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-zHt56rb/0/KVNt2wmB6wBgC3qsTX62Z8ht4qNs7vsGPvPqG4cbm/O/L_IMG_6710.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 6614321,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/zHt56rb-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/zHt56rb-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "48.609091666667",
+      "Longitude": "-123.15161944444",
+      "FileName": "L_IMG_6711 (1).jpg",
+      "Date": "2025-08-18T00:23:51+00:00",
+      "Uri": "/api/v2/album/4s77GN/image/FP55746-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-FP55746/0/#size#/L_IMG_6711%20%281%29-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-FP55746/0/LfKPgWNWnJx5MKb8ZVx84ZCWrNRFwBzxqVSzsMm2f/Ti/L_IMG_6711%20%281%29-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-FP55746/0/LRpb5nb5wKbpckGZmBV8PgjvDVNx3HxgjsdrdM78N/Th/L_IMG_6711%20%281%29-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-FP55746/0/KmsG93HDrjwwg5RCMRBKMnvpKnfSJGZMrCmmTDZW2/S/L_IMG_6711%20%281%29-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Size": 36329,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-FP55746/0/KKpXzVmrR24V5VXXVHQWBNMJ5P9p4MNkFPLd8zd6m/M/L_IMG_6711%20%281%29-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-FP55746/0/KgWQ5vdn779FNJBnM8GQ7hV9ZVkbfBGMxgBZgcFc2/L/L_IMG_6711%20%281%29-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-FP55746/0/KDvqVfB7QVXCgMSwNx5BfJN5kqTQqLvfzRdnjXpqB/XL/L_IMG_6711%20%281%29-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 153807,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-FP55746/0/KcFHFQFzQdhw4SP2sjvtBFw3PKHtJshV5D3d9BGxx/X2/L_IMG_6711%20%281%29-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-FP55746/0/LT3hNk5T2qBkNHvVGXj5fFV9Jg9zLGkrVgcv4WXGn/X3/L_IMG_6711%20%281%29-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-FP55746/0/L2N9cnZs86GQqhq9Ft6Pp8Rjnkq7xqkztsmQkK4pq/X4/L_IMG_6711%20%281%29-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-FP55746/0/LxbCVrgJrzBr3szpfm7ms96PzVQ3RwbS7D3dxfFZJ/X5/L_IMG_6711%20%281%29-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-FP55746/0/L8FPCxQG756g63WdMvC9Kq52JJwzQdKq4KZ7VZnps/4K/L_IMG_6711%20%281%29-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-FP55746/0/LvNf9WQ7XncrvQxXgN8DHBFDknqXcqf4MFMmCCL5s/O/L_IMG_6711%20%281%29.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 2605045,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/FP55746-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/FP55746-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_2688.jpg",
+      "Date": "2025-08-18T00:24:04+00:00",
+      "Uri": "/api/v2/album/4s77GN/image/Rf4jQ6N-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-Rf4jQ6N/0/#size#/M_IMG_2688-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSize5K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-Rf4jQ6N/0/LwXnJtDmsJtRskJmF83ZG3SSjCFzRCBc6QVCnsGvt/Ti/M_IMG_2688-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-Rf4jQ6N/0/LS99Jk2WCV8sVS9Lw98TP6XDDJzKc9jSBB2CnkXrW/Th/M_IMG_2688-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-Rf4jQ6N/0/MtsfdVmX3ZPbSPwVrvNftwLckFsJ4xNSRsk8b6VSW/S/M_IMG_2688-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 79434,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-Rf4jQ6N/0/Km9khnx4WC2JkMkRqLhrsr5bqVRWbK5K6tfTRxt47/M/M_IMG_2688-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-Rf4jQ6N/0/KRb26x64tpfxb8bKJgkWMtqHt5gZsZXX796BnCH5z/L/M_IMG_2688-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-Rf4jQ6N/0/Lj9DVsJftbgBstw4ST75KTs4MmXcxjHKQrsqgc8D3/XL/M_IMG_2688-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 444915,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-Rf4jQ6N/0/LvbDsj9PC3cwdvgtPGTkSQS9RtrXPD8VqnWv8vqsV/X2/M_IMG_2688-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-Rf4jQ6N/0/MBQd4NsL29FRMXMCRGVLTScfpzTFqPs4Xnpxzp2h7/X3/M_IMG_2688-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-Rf4jQ6N/0/MTVv3k265N2tNPPcH7fmcgkh7xgjxXNCRTV84DVFc/X4/M_IMG_2688-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-Rf4jQ6N/0/Kn3v7zJxH693MT6gqB2Pf9vtNnrm8pk5w5HbJGTHW/X5/M_IMG_2688-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-Rf4jQ6N/0/KhN4HnTQj778RXD3tm583Gq92ZSx6ZSrtdv2GG8vC/4K/M_IMG_2688-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSize5K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-Rf4jQ6N/0/Kjp26rx5GtS2TjFF6PjHxzx9vTF5JWPm65rWdJ7rx/5K/M_IMG_2688-5K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 5120,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-Rf4jQ6N/0/LGqG4qqpcdsczGFGbwBp7PKbGfBdhSfs4zQ6XjPbZ/O/M_IMG_2688.jpg",
+          "Ext": "jpg",
+          "Height": 4284,
+          "Width": 5712,
+          "Size": 10993750,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Rf4jQ6N-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Rf4jQ6N-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "48.536244444444",
+      "Longitude": "-123.01451111111",
+      "FileName": "L_IMG_6712.jpg",
+      "Date": "2025-08-18T00:23:50+00:00",
+      "Uri": "/api/v2/album/4s77GN/image/FrrqzkF-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-FrrqzkF/0/#size#/L_IMG_6712-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-FrrqzkF/0/NCn24BCXMvSBHkW43pG8DNKcb4G9dtjmq44qTj73H/Ti/L_IMG_6712-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-FrrqzkF/0/Lf3dr6GGDkhnMz8SKpd3rmQ7X7x38pk4TX9p8DgcK/Th/L_IMG_6712-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 19871,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-FrrqzkF/0/LTG69c6gMvKkzwNssz72Mx6VBHgbTwZHSMP7SXww4/S/L_IMG_6712-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Size": 34467,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-FrrqzkF/0/NWrJNQ8nXdbhHb2wLQKfLQRfp3fHqdwF2CsTKZhfH/M/L_IMG_6712-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-FrrqzkF/0/KmG87cD9GGpgBP9H5K3Wf5NMBnmVzKnRLqWGd3RrW/L/L_IMG_6712-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-FrrqzkF/0/KcCRVBC6bF8CfRntFHp237whqhFJWpHqrpRjHw9K8/XL/L_IMG_6712-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 158847,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-FrrqzkF/0/KGSWgDDmVB4dXzwr4pqjX9kdWwNz5ZcLvdKhjP6pG/X2/L_IMG_6712-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-FrrqzkF/0/KD8v87DWsvFRLrCBDfMWbfB5pSskdtcXbFd3pQmps/X3/L_IMG_6712-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-FrrqzkF/0/LCp2T7BwMLHkzRTd7V3k93R7SX4Pg2pLf8FBDKQ6B/X4/L_IMG_6712-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-FrrqzkF/0/NJkgSzZGKzMSd9XZSdb2xkkXZn4crLsj2655XVS2F/X5/L_IMG_6712-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-FrrqzkF/0/MnTdzVPtVgvsxgJTX87s6jBvZvFMJ3sddbQhH6V5w/4K/L_IMG_6712-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Friday-Harbor/i-FrrqzkF/0/KxX9XwqGGqtFZd4XcDvVm4FFTkWdqkWLQzQpBqQdz/O/L_IMG_6712.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 4255500,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/FrrqzkF-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/FrrqzkF-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    }
+  ]
+}

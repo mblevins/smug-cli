@@ -1,0 +1,4307 @@
+{
+  "UrlName": "2011-BCKayakExtras",
+  "Name": "2011-BC Kayak Extras",
+  "Uri": "/api/v2/album/vPCRkx",
+  "Date": "2011-08-15T01:13:56+00:00",
+  "WebUri": "https://lmblevins.smugmug.com/Travel/2011-BCKayakExtras",
+  "Images": [
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_0895",
+      "Date": "2011-08-15T01:16:30+00:00",
+      "Uri": "/api/v2/album/vPCRkx/image/tHm5Z3Z-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-tHm5Z3Z/0/#size#/IMG_0895-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-tHm5Z3Z/0/L5vzzLrzHgVDKbPGrwhtbhk7zqb5rZgJ7sBK3x4ZW/Ti/IMG_0895-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-tHm5Z3Z/0/NhQ4rFwV3wbdPDCXTpPWZnsFfLBFfdfzpQ3nXm5z8/Th/IMG_0895-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 15979
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-tHm5Z3Z/0/Lb8ntKgr3RgQzpDgXTLftmGWSLFJwxHj5FKKN7kDT/S/IMG_0895-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 48630
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-tHm5Z3Z/0/LkrswJpDHMHHJx84LXtFncnRkTcsK9sTfdxN8CHxj/M/IMG_0895-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 90021
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-tHm5Z3Z/0/LtHdjJXZTbDVdFX2cxKVQt5hdWs4VMh7mnSbnvqvb/L/IMG_0895-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 140772
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-tHm5Z3Z/0/MJjWCkJDhQLB7Pzvvbvz3VnjXCVmtqQKmsKgW59Mr/XL/IMG_0895-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-tHm5Z3Z/0/MCqWR48F3wLVgtv8q84nCK84nNGvtNZWnPp2dRgZ9/X2/IMG_0895-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 324356
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-tHm5Z3Z/0/KvK5Rzj86XRtPPWX5H9LBfVKqkXxhdLmNxjdVmrxK/X3/IMG_0895-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Size": 477659
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-tHm5Z3Z/0/LwKqqBjDZNz2z9Gx4Fts5GKGR7m93mVw5QSH7CSVQ/X4/IMG_0895-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-tHm5Z3Z/0/KP54G4QDp3VqxzpNqfrhGbGL2fKGB37rFFTL3vDXP/X5/IMG_0895-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-tHm5Z3Z/0/NZtThCdXqfJDzxPpCZRTqtFgzDCQ3fbzXKh5rVcRz/O/IMG_0895.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 2628697,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/tHm5Z3Z-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/tHm5Z3Z-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_0919",
+      "Date": "2011-08-15T01:17:45+00:00",
+      "Uri": "/api/v2/album/vPCRkx/image/BT7zMgk-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-BT7zMgk/0/#size#/IMG_0919-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-BT7zMgk/0/LkD9LS2GSBmCkCRNXRVFKFGg7XMwH2ntgjKnswcP4/Ti/IMG_0919-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-BT7zMgk/0/McKhgHb74PzZgX9Nc2d5K78vwHdzGgbT62hqsn8Cv/Th/IMG_0919-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-BT7zMgk/0/MzfLCm4JCQ6b9s5nCgQn4VWmm6FNWXrwkZRRCrPVw/S/IMG_0919-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 75827
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-BT7zMgk/0/LnBcZj7zSZmLxf9L4jKk33Z9gzn94GtJJ3wf8Xs5G/M/IMG_0919-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 161355
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-BT7zMgk/0/NH5cKWMCJpJ6nzjQMrB7hxPpJmbqKZfXq8KLRHfxC/L/IMG_0919-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 273686
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-BT7zMgk/0/NPXxn9623KmNgtnNsgGWhSNBgtbJGJVsvvWxGNxNz/XL/IMG_0919-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-BT7zMgk/0/MfdL7S5pWB5RHC98MqqVHKrG4csv9DLxNp8w7FW4q/X2/IMG_0919-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 674597
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-BT7zMgk/0/L9CJfRxnmQfCbZ88J8RtXvf8DTvWrvh4fJzQGCN4R/X3/IMG_0919-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-BT7zMgk/0/NWPhvfW2sHVKrKwfRFCHKcdCkfLRrDfkQFmfDTkhS/X4/IMG_0919-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-BT7zMgk/0/NNGSm8FhcpfXPVnF6QmJZgNntkkj8Pb6wRKRkk39X/X5/IMG_0919-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-BT7zMgk/0/MpFmK8VWdtwK7Z6JrcsZPs27hL6KrDHs9Hzrww4m9/O/IMG_0919.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 4831057,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/BT7zMgk-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/BT7zMgk-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_0934",
+      "Date": "2011-08-15T01:18:36+00:00",
+      "Uri": "/api/v2/album/vPCRkx/image/VpvrbmW-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-VpvrbmW/0/#size#/IMG_0934-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-VpvrbmW/0/KwR98RwB7qX5QwLb3tqfX786VJ2mwwXqb37whc3SH/Ti/IMG_0934-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-VpvrbmW/0/L2ZDJhGqVTJjB9hJWGVDn7zmkjhjCcj7ZFvz7FsKn/Th/IMG_0934-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-VpvrbmW/0/K4mSsgCtq5Gv6xPV3S9kKwp87SwXb9nCFCMdhdWDC/S/IMG_0934-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 75963
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-VpvrbmW/0/LXq77GctgrSWQbm4KvHd3LJTKHtf93kWz8Mzrj6F9/M/IMG_0934-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 145855
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-VpvrbmW/0/Kvm8HHQ4SGrvMtK42hzFSrbzKfqQPt5RSFdSRQnG7/L/IMG_0934-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 230283
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-VpvrbmW/0/M4ZDmbWSPj3c97bVk7Z6cBCLbJ9qG6pF9xQsW2ZF5/XL/IMG_0934-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 343749
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-VpvrbmW/0/K8G76NTc3fTrvLnHRG9mTvn9spDQTCvzZBnVzt2VR/X2/IMG_0934-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 495390
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-VpvrbmW/0/KJ9v9fjv4JWPSnW5ndPBZ3QBLTrHLZVP8wrrmsHtX/X3/IMG_0934-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-VpvrbmW/0/KvjNzhkfh7tRvP84sDR6rH5QTNnHN3pSvjLnVQHD5/X4/IMG_0934-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-VpvrbmW/0/LhmnJpVfz6c2QQD3mC3M7bbVvJtGFvDkQ7hLzNDkD/X5/IMG_0934-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-VpvrbmW/0/LGB58M3ZgpRpxjWh4N4JcCBC544cp3dFFhTqwhWQn/O/IMG_0934.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 3285512,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/VpvrbmW-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/VpvrbmW-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_0935",
+      "Date": "2011-08-15T01:19:27+00:00",
+      "Uri": "/api/v2/album/vPCRkx/image/FH2hvDV-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-FH2hvDV/0/#size#/IMG_0935-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-FH2hvDV/0/MwmPpRGfm6fKWLMSMxJ7mgV33QXQTvQ64Tqwtxpck/Ti/IMG_0935-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-FH2hvDV/0/MPHdJxcM9RwsTZF5Bg8RPPgw3mhPhZLfczD7nrXWM/Th/IMG_0935-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-FH2hvDV/0/M9rZBGTDDbBZtW69wVCSjctmsFQJbSQkxbpxJhbh4/S/IMG_0935-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 76017
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-FH2hvDV/0/KNrxpXSmGmftXzXPJ8Pq7pfHX6b8TbPGpqtqc97wW/M/IMG_0935-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 145483
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-FH2hvDV/0/LFfrLsQRvW2q5ZXpPRkFxMs3SWFxLfx3HFrzvnx6b/L/IMG_0935-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 230532
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-FH2hvDV/0/MxjWB28zHj5sHdRsHCRrRDDTwxssFQKCWT3ttQZRH/XL/IMG_0935-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 345449
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-FH2hvDV/0/KpCczhhpfdfrJgSc6gmKx2KQ5pGBwN8wNTvv5RMzW/X2/IMG_0935-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 500336
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-FH2hvDV/0/MzqnWPCXW9gvbbgSMSHhKq8XWFQ82RqGSRZN5CKQ2/X3/IMG_0935-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-FH2hvDV/0/K7CJ5QgtQHF2wzNw46ZHdbdzxwh3KGj9thjs3Mr9n/X4/IMG_0935-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-FH2hvDV/0/LZmMRFRpmXNtzhR2QK2ZKZCh4PSD5vsQQZ57tdgZw/X5/IMG_0935-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-FH2hvDV/0/L7qKsvb7pf7BjQzR22vqDpxvvZBrGpRTGQ2rWXRKq/O/IMG_0935.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 3317782,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/FH2hvDV-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/FH2hvDV-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_0942",
+      "Date": "2011-08-15T01:20:15+00:00",
+      "Uri": "/api/v2/album/vPCRkx/image/9kQG4ZS-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-9kQG4ZS/0/#size#/IMG_0942-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-9kQG4ZS/0/LqMKLfV8fZz9dQwxGsL3mF7WdjLskdcx48TsjHgNJ/Ti/IMG_0942-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-9kQG4ZS/0/MKkXNjsLq23MtrfdXXjhrbH9N4dNxmcSbGjp3k7hg/Th/IMG_0942-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-9kQG4ZS/0/K47mK2RD746wCdJSPprxrm84WbrZBTJzSmcm6KmNr/S/IMG_0942-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 66867
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-9kQG4ZS/0/L2rL8J656x2szqQtHtWtW7kv9CtJTW9sVrpcX3mkx/M/IMG_0942-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 124062
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-9kQG4ZS/0/KkVTgPrV6Jj37Kj2nfQbFsg4s26tvHTSNC6pTC7Gv/L/IMG_0942-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 193881
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-9kQG4ZS/0/MTHr9FJ6mVv9NHZXTbRzFtTVRbcWD3C3zKgg3kW6b/XL/IMG_0942-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-9kQG4ZS/0/NN7DkTWN6ShRdtBLm67Zvzpb6C8BFDFzxG4VvFVr9/X2/IMG_0942-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 418238
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-9kQG4ZS/0/Mj7SVq732Lhtbgw69GB5ZBnvmwjzMRtKXDCGVL7bc/X3/IMG_0942-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-9kQG4ZS/0/LXgHhNrmvqDWDpKqZ5B8Q9hsz6zXzqzVRjqthgdsQ/X4/IMG_0942-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-9kQG4ZS/0/NP6sr5wW3tzHzb8Wzg8k9zXLP9nztLz4WbFqSN765/X5/IMG_0942-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-9kQG4ZS/0/NVc4vG8BSkqGnczKtnnStdSNpmKXCmN5s3DNmM3J7/O/IMG_0942.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 3107421,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/9kQG4ZS-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/9kQG4ZS-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_0957",
+      "Date": "2011-08-15T01:20:46+00:00",
+      "Uri": "/api/v2/album/vPCRkx/image/X7DnFbv-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-X7DnFbv/0/#size#/IMG_0957-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-X7DnFbv/0/LXtk5sThPL9Rqgk2fLbbvmBdgSFdZJCPWGBJPBbcd/Ti/IMG_0957-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-X7DnFbv/0/MjTKc54V8JLdCzxHC52xMLn86kJsznpKzBPBCmj2K/Th/IMG_0957-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-X7DnFbv/0/MzgLzQh325HtKq9nbFTvZRMr93jjNgvhQkkSJgTbJ/S/IMG_0957-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 31424
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-X7DnFbv/0/MrxjRxbBfnzQkGzMfzvw3h4pGJJXscnsZtn5xnXPJ/M/IMG_0957-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 58532
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-X7DnFbv/0/LNRm29pWq4NvnqpNZXS8FKTmvv4KFpmMv7GmCRcQJ/L/IMG_0957-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 93566
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-X7DnFbv/0/KWQK7tZHjZgGpJDdPK74Rhfv2FkxMNMs7V5GRCwSv/XL/IMG_0957-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-X7DnFbv/0/MPdXGZLN6ZszFNmf5hVFx7chB4zpB4wWJ8sfQtJct/X2/IMG_0957-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 217035
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-X7DnFbv/0/LpPh56DxnvHJPbXtknxC6DSRJTFq3dLNGhd7vwn8D/X3/IMG_0957-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Size": 325026
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-X7DnFbv/0/NfrkNKTpfR93QPFdvkCTkvSPZhvGSFgF8FH9FbSZg/X4/IMG_0957-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-X7DnFbv/0/KGBP8RgwvvMzVFrqpq4shKxFjsHgcC9fpJdM7NLJh/X5/IMG_0957-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-X7DnFbv/0/MpG6LkrdkqcXZzPWsKCZNHk9StJfKd3Qg4SJLQ32g/O/IMG_0957.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 1975097,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/X7DnFbv-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/X7DnFbv-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_0958",
+      "Date": "2011-08-15T01:21:17+00:00",
+      "Uri": "/api/v2/album/vPCRkx/image/kjhR8Dj-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-kjhR8Dj/0/#size#/IMG_0958-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-kjhR8Dj/0/KwMkHNJScWGntg6wVrPZZr2rVmWNL6k6gnxsdKgXt/Ti/IMG_0958-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-kjhR8Dj/0/MVqC5HFgm5TM4cK4BLhWm97R9TfJprkK28ftwWWhk/Th/IMG_0958-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-kjhR8Dj/0/KkxrDV5mfSmrHhNCN66ktfGS8d5D6M5rsXr4svqML/S/IMG_0958-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 32023
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-kjhR8Dj/0/KJwhtRHWpKpn9Bk5kmWJZbFkPvQJxvqjwn7wjMFKM/M/IMG_0958-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 59585
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-kjhR8Dj/0/LzshcbxxCZtCRSfkrdHM6qGJgP7GgX46cZLtgMK42/L/IMG_0958-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 94408
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-kjhR8Dj/0/NFRBQ88GMpTB9HNJT7GNXcbkWzMV9c9LQPtZjp5F2/XL/IMG_0958-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 144123
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-kjhR8Dj/0/LqkpvGL46JKpF3vw3Sw5qb3LKpXN6wvWKTfZ8gwS3/X2/IMG_0958-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 216498
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-kjhR8Dj/0/LkkmnB9Zjp8jrQQpnCkxBbDhh7nZF8WG9sNsFFSfx/X3/IMG_0958-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-kjhR8Dj/0/KqmTWr3mGTfqqMzJPwwJJfTLtxLD6F9R436hSdgFr/X4/IMG_0958-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-kjhR8Dj/0/LXbXS49BXnCCBXz22MGLzFJjjVDgbhJRPdRfsnz7S/X5/IMG_0958-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-kjhR8Dj/0/LG9GTcJHZcmHJjZ6PVD2qL4ps6hWprdRQGwgNRgpk/O/IMG_0958.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 1964829,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/kjhR8Dj-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/kjhR8Dj-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_0964",
+      "Date": "2011-08-15T01:22:18+00:00",
+      "Uri": "/api/v2/album/vPCRkx/image/M95ZZJx-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-M95ZZJx/0/#size#/IMG_0964-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-M95ZZJx/0/LD4nFFMjxXxNx9GZMns2FdNFdcDXz6Q3sWL3m9WTV/Ti/IMG_0964-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-M95ZZJx/0/L3gSMCkjPNwZjfP8c37b4sWqtWMdPjGDnd2WG3DFr/Th/IMG_0964-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-M95ZZJx/0/Kkt76xVJQZvBhg8wtK9mF2G8d7hp7tXNRZCt4v4sQ/S/IMG_0964-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 73415
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-M95ZZJx/0/LfJ4TMQRrjWrgHkdLGKwzdC4ZprJ6mpt5R9mXjG5w/M/IMG_0964-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 151635
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-M95ZZJx/0/KvRsJS5gtKf2F4qCrf7mLp2d9Mp8FhTgs8rz4pkJr/L/IMG_0964-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 251122
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-M95ZZJx/0/KQbfJD5GqbbKqW3ZBtmgZfdhHwSdsMZrcrDKcf733/XL/IMG_0964-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-M95ZZJx/0/NGWvX4nHFW75Trt9FSgtLf42KgdMTSFnJjZGV82vN/X2/IMG_0964-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 597785
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-M95ZZJx/0/Lt2Lw9HfC7P7RKpvv9XKgCXNttLncDNLfhhCwdSg4/X3/IMG_0964-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-M95ZZJx/0/L32jHkHKhqnPsHR9JL7Gqv4VwzSrZdcXgKKcghP5T/X4/IMG_0964-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-M95ZZJx/0/K6QddxGGz6M9mm4N9hgWSncxw7LpCHLRN5SbkTBC9/X5/IMG_0964-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-M95ZZJx/0/L3Cd6VHhMQ98SfZnsMXDBrPKS5QGB7VZbd5zDtWvZ/O/IMG_0964.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 4006892,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/M95ZZJx-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/M95ZZJx-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_0967",
+      "Date": "2011-08-15T01:23:18+00:00",
+      "Uri": "/api/v2/album/vPCRkx/image/bgj8nn5-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-bgj8nn5/0/#size#/IMG_0967-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-bgj8nn5/0/LVXTTSCTk3FZ2Q6zp2dC9kKLv2dqMWS7rJSXmFNLB/Ti/IMG_0967-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-bgj8nn5/0/LwrmfPrwDDDL7htC6NPj7V6PKz7zNw4XnSRkJCq8z/Th/IMG_0967-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-bgj8nn5/0/LNbsj6CkbC7VrVZRQCDpnt8v9dBJzczPktpr6vrcS/S/IMG_0967-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 68064
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-bgj8nn5/0/M8G9djJHkTQdM7pxLb4wPpCbSh8VdFgr5CbKmNDmQ/M/IMG_0967-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 138899
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-bgj8nn5/0/McsgGBQLT388nkqdc55VxWwkJkWzVc8rb9wC5bczL/L/IMG_0967-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 228129
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-bgj8nn5/0/K38vn9LdkF7LCxXVZ7SNSwqqx8FcqpBfVCQHWs5d9/XL/IMG_0967-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-bgj8nn5/0/MQWSrmTsNvz38x3DWF966mq6pjNkSRxHdrPT3kWCq/X2/IMG_0967-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 536786
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-bgj8nn5/0/KPxtf54jTmtPDqVNGNdDZ7THNKVwFFZbP4jRJf5cG/X3/IMG_0967-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-bgj8nn5/0/LzKjD6w5PqxBRP975NL6fDSWsfdKnfPvHXwg6GQMM/X4/IMG_0967-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-bgj8nn5/0/KcnrkTVLXqzCjJNdLRwkDWhZnf5wPRDmQn2SVZf9K/X5/IMG_0967-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-bgj8nn5/0/LpCjJtNs32ShLgTBk6ZGTNGCfXg5DVHNJXPzgMdFT/O/IMG_0967.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 3873571,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/bgj8nn5-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/bgj8nn5-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1012",
+      "Date": "2011-08-15T01:23:56+00:00",
+      "Uri": "/api/v2/album/vPCRkx/image/NCw4Vgr-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NCw4Vgr/0/#size#/IMG_1012-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NCw4Vgr/0/L645XcCVbJJVCVwBjMTF3zMvcFmSZ4B3WrRBZxNkZ/Ti/IMG_1012-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NCw4Vgr/0/Kk3G2hNk9TwFGbrWsTtNH6V6wZdwhDC7ntzpmRf27/Th/IMG_1012-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NCw4Vgr/0/Lj3kjkfDFpGrMBjCzshKprb9F4kKz3Z4j5K2G3qb6/S/IMG_1012-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 55259
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NCw4Vgr/0/Mp3vwM3CMg5W4fXhtBKrRfZwDpmzsPpXqzWr4h9dj/M/IMG_1012-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 102977
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NCw4Vgr/0/KkBWJGwmBLK3QZtZqBDwx3hHc4V3v8Qv77bZfSpSS/L/IMG_1012-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 161346
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NCw4Vgr/0/M22bfVDJqjgMntchDqhGStkzB7GphbctrVBJNpwDz/XL/IMG_1012-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NCw4Vgr/0/MSkZ5XdcQ2csKNnVN7BVkLd4CBppVh4LHXpCg9StD/X2/IMG_1012-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 348747
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NCw4Vgr/0/Mp4n4ZfxzHvKx2tt8Q29nR4Ph6n3Vbvpbp24d645z/X3/IMG_1012-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NCw4Vgr/0/KcLZBf87dtkvCpCS4JDHZGVBnjjhBRzs6FssbjmnM/X4/IMG_1012-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NCw4Vgr/0/LvDmjCBDs36hGrVzNCTRLgv3MQgLVwNnMXL8Ck3cX/X5/IMG_1012-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NCw4Vgr/0/NcGjqbXzxBCxFS6JmK6B3m3MS762vKqHtTRMVLDQj/O/IMG_1012.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 2492227,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/NCw4Vgr-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/NCw4Vgr-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1013",
+      "Date": "2011-08-15T01:24:44+00:00",
+      "Uri": "/api/v2/album/vPCRkx/image/j8xgQPh-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-j8xgQPh/0/#size#/IMG_1013-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-j8xgQPh/0/Lh2QB7KNV7nMT8ZGjFg7BnsHLxXdDrzWmKZq4Mqhr/Ti/IMG_1013-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-j8xgQPh/0/MGVrw2qzvJTHTpsXmT8j37hQ4CB52W3LMF6fvvcWG/Th/IMG_1013-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-j8xgQPh/0/KPzqJmg4vWCDpVHQJgqbbPTNM92TJkBnHm2j5W4LN/S/IMG_1013-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 65466
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-j8xgQPh/0/L2q3pX2dcKMmKJJdhkvfSDKF9CbPc3Qr46dBdFPnh/M/IMG_1013-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 119035
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-j8xgQPh/0/LvmVjJSZ25CVC5bVdRrQFfqN9HBQmGvhJPvNg8HcS/L/IMG_1013-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 184407
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-j8xgQPh/0/NhR46HDnQBgLZWpC35ZQ5CHbTJCVNfR8vfB4LqwHK/XL/IMG_1013-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 270452
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-j8xgQPh/0/MdZXmt7R745wHRKWb5FdHGt4sLLxmx4sCTDbXbmFQ/X2/IMG_1013-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 391731
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-j8xgQPh/0/KQhZRcTb6Gwd7JmrFcWvG6Zb73QBcjLSpk3VNTnPN/X3/IMG_1013-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-j8xgQPh/0/Mm4CvPxJKwPKT5Jx4K2RX8JB6wszxksqWfprWf8zb/X4/IMG_1013-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-j8xgQPh/0/MBbvhknj5ZRZLkTSdPxLrFgP8FFCXjpq6NH3BGqQX/X5/IMG_1013-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-j8xgQPh/0/L7zjqRRJwSq28fgzwmfDTjdzsHWNsHrRXFpLzmrKx/O/IMG_1013.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 3081586,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/j8xgQPh-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/j8xgQPh-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1014",
+      "Date": "2011-08-15T01:25:33+00:00",
+      "Uri": "/api/v2/album/vPCRkx/image/GmC2QBL-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-GmC2QBL/0/#size#/IMG_1014-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-GmC2QBL/0/MQ6rVP7XSZXCKJSzGfwq5SLdHxMq9NXK8QpQKDfWF/Ti/IMG_1014-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-GmC2QBL/0/LwqK9jWMXC2R3zqVhKhhFJH9QKBZGKH4CwzbRkZHW/Th/IMG_1014-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-GmC2QBL/0/NQn7TvBjF3B3s3c2fqQq5sdSsLZtbQqzN3LCZgnQP/S/IMG_1014-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 64990
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-GmC2QBL/0/Mhnpczj6nn8HxJKHnfnR6PvtCSgDvDrCDcBs6kb3c/M/IMG_1014-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 119760
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-GmC2QBL/0/MBpPpRbDbcCMsXd6ZxDbhX57Tc98QRTHbdXgcWjxW/L/IMG_1014-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 186705
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-GmC2QBL/0/NTrRCrngXsstskW8Z6Wv4FxRNKXDgRCNWThH3jmWh/XL/IMG_1014-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 278217
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-GmC2QBL/0/LWtmhMgJdq7ppsMw6jrGnk7TGjtJBfnCbLh236Xbf/X2/IMG_1014-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 405438
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-GmC2QBL/0/LRs47P3j7vfXKzhGGkNr8kKqRW9xPhfZgTxVmpHb3/X3/IMG_1014-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-GmC2QBL/0/Lb7jD55Jt6J6x4Kp2pjJqMvgGs3WhJ4sCQ7NKN2Nh/X4/IMG_1014-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-GmC2QBL/0/NDNmxfdWPbmXhQd7S6D3c4BvwjjpBWCBgh5jFmXMF/X5/IMG_1014-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-GmC2QBL/0/Kgq5M86Bxs2qJZdpKJKDkSjfSzBkLGvWBJRQdxc8X/O/IMG_1014.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 3173440,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/GmC2QBL-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/GmC2QBL-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1015",
+      "Date": "2011-08-15T01:26:21+00:00",
+      "Uri": "/api/v2/album/vPCRkx/image/rj3ktsD-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-rj3ktsD/0/#size#/IMG_1015-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-rj3ktsD/0/NHn7gxqQtZGNwxCH94WxXH5bWmZbQTCxFzTHLcWpQ/Ti/IMG_1015-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-rj3ktsD/0/LMxdT7KVF5NTrnvLMSCpJ5f5rtsq643pJG9chmXzw/Th/IMG_1015-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-rj3ktsD/0/Ksp3vswZgcvNL2NCgdhJHMnjfFsGJHWbjdQth5npn/S/IMG_1015-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 63895
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-rj3ktsD/0/KWTdSBKpK7t4FdcXZLR5WV7d72j7zNWzLB332GVnB/M/IMG_1015-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 116692
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-rj3ktsD/0/MPv3hNt6rmmh2MT7ZLxHQvvLpw4WtqbH9vgxzzn44/L/IMG_1015-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 181964
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-rj3ktsD/0/MCzRRBcwB9kkrrW5GPFfQgm2QmwpfLXkVs2DSxgms/XL/IMG_1015-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-rj3ktsD/0/Kbf8B2dhCD7RgWSTkFPkgtJCMKdb8Hmdb6PhsKfpm/X2/IMG_1015-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 392381
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-rj3ktsD/0/MMZjrwxKwJ23vV8fTNW5G9ZdgvdgqH3K5JzV8mK3B/X3/IMG_1015-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-rj3ktsD/0/K8DZHkXkT7xqvRXJ8jcBvJJzLkR8MW2qtNrcVN8SH/X4/IMG_1015-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-rj3ktsD/0/KfnfNDSJhB2sc5CkD7QsfkQtNx54B5jx57VN8SRC3/X5/IMG_1015-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-rj3ktsD/0/L9LzkfMStprBBzMpCQZntgdBFn6pJZM8rkWmt8tp3/O/IMG_1015.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 3158996,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/rj3ktsD-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/rj3ktsD-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1021",
+      "Date": "2011-08-15T01:27:23+00:00",
+      "Uri": "/api/v2/album/vPCRkx/image/QGMpN64-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-QGMpN64/0/#size#/IMG_1021-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-QGMpN64/0/KMM7r5LDWWnfqSJVRNdzWdn3DFbb5qRM8rThzbVMB/Ti/IMG_1021-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-QGMpN64/0/KW8VkhMfKhNqkNgNrMwbZkJ7xn5RhcxG8SDJ3XrvP/Th/IMG_1021-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-QGMpN64/0/NGvpWL2CLK5Lqgrh4225xFNkFdvm7vJwPNs9DF79F/S/IMG_1021-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 65469
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-QGMpN64/0/MgzrvxcrdJpJmzZxZpRpxZQjFJpdRsCjZchqqfTw6/M/IMG_1021-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 125003
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-QGMpN64/0/KRFKJ4NPGtxfkWHg78Lfw5PJWnKShCRFHLbPf85Px/L/IMG_1021-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 202643
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-QGMpN64/0/KhGkXF67cdDpqPxtvtdz47BChnvzjQnfDwH2VRB7h/XL/IMG_1021-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-QGMpN64/0/NF8J65L3KkV729bhKgp5C4gd7phDVCrrSPFqXFvvK/X2/IMG_1021-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 474273
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-QGMpN64/0/LKLksDKQBvLvmgWbHDpLbgZDdZDgsQtmMPXGxCmmm/X3/IMG_1021-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-QGMpN64/0/M3QfXSXnLsrh9dHHkXW6S6R4sMJfFWr2vHg2gq7mT/X4/IMG_1021-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-QGMpN64/0/KRL9RQJnnm499Ts8JdWg7Qp2T64s3Lp5hD9M53wkk/X5/IMG_1021-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-QGMpN64/0/NcQ9vQTWmWvwbNCnnG84mmn7XfGhTZmhss5rHjHkR/O/IMG_1021.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 3874067,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/QGMpN64-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/QGMpN64-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1026",
+      "Date": "2011-08-15T01:27:56+00:00",
+      "Uri": "/api/v2/album/vPCRkx/image/f9dC9BW-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-f9dC9BW/0/#size#/IMG_1026-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-f9dC9BW/0/K4Tp6GXBzcssP3d3mWTCzsKfQzDbx82tRGJMGX4dS/Ti/IMG_1026-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-f9dC9BW/0/L87BGXhQWbgdN9BVWNTnS5qGHCR56NQqVvjtLMtFs/Th/IMG_1026-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-f9dC9BW/0/MpsBSzsHJ6vT4vrFVNXTQgzV4tfp3NcJR6jkFdrcJ/S/IMG_1026-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 46407
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-f9dC9BW/0/MWK9nwHCbNK2D4cDkxcd4pSRd9QQ6rbjHFsK3Zjz3/M/IMG_1026-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 90895
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-f9dC9BW/0/KJr76b3JxFcZ96Xkr3VCZgHwhJb454gfFt7bjVjNf/L/IMG_1026-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 147834
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-f9dC9BW/0/KtjpFD4j7Zs8XptCmchmQNxzVf4NQVJJwzpmhjtZM/XL/IMG_1026-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-f9dC9BW/0/KXTbmnQ2g8zXH5wcxpvrJb87zWBgSCs9mWjpptNBj/X2/IMG_1026-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 333063
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-f9dC9BW/0/NWvwSjxf3tZcSR9wZX48SMzvRxr5P6HKs97HzGWR7/X3/IMG_1026-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-f9dC9BW/0/NVLK67V2W89393brng7wqzFGX4WK5J6J6cRGMmV6x/X4/IMG_1026-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-f9dC9BW/0/MdRnMvvvMF7Xk8ZfpHNdRSdZzRKWCWPNmgDM5bgNN/X5/IMG_1026-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-f9dC9BW/0/KGXm3Rp8gBmnZVHCxGPjfTgqqVC2MvMzHRJs233BH/O/IMG_1026.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 2099364,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/f9dC9BW-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/f9dC9BW-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1049",
+      "Date": "2011-08-15T01:28:34+00:00",
+      "Uri": "/api/v2/album/vPCRkx/image/bwLdHs6-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-bwLdHs6/0/#size#/IMG_1049-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-bwLdHs6/0/KMBkfKbqLW67Pd96CJxZ4hxD2qfzNS2zxSVbtPnpP/Ti/IMG_1049-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-bwLdHs6/0/NZRTGMvx9V8fxr97V334cP7LSBm7MxSFRLG5kZsc7/Th/IMG_1049-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-bwLdHs6/0/Lt2mvHWZHjwRBLD4n8J8xPSR6vv38cNLw5rRdztJB/S/IMG_1049-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 64596
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-bwLdHs6/0/KTV4Rbx77kTpj6c27pHH5XHnMGHZHG4FwqNRwHpjG/M/IMG_1049-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 121519
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-bwLdHs6/0/K5h4h8zXRTKsRm5tckcxJ39kSK6bmjd8BJshBMsCx/L/IMG_1049-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 190664
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-bwLdHs6/0/KXVKZwGv3RCx8CFtnS3SPMwkdPfmC39mZ5NPgmdpG/XL/IMG_1049-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-bwLdHs6/0/MWtv8PcSxqqpRT3rCnfhmkmGg6KXFH7vhVvPQ5P5g/X2/IMG_1049-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 411578
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-bwLdHs6/0/Lv5whRFZXD377PrT5XfrF3PFrMmdH6Pc7HHvXdkt8/X3/IMG_1049-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-bwLdHs6/0/K2hc4dc4BSPkHvtpBqL576Nff3PQdwwNMXmx42x8t/X4/IMG_1049-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-bwLdHs6/0/K8vMFtMghwQfCKXrbS3wJdgVVgtzVHPwzJkwpx2qm/X5/IMG_1049-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-bwLdHs6/0/MdLLzm9G5HkLCd2gTBSjTx2qrP4rBCv2q5NqcBsGs/O/IMG_1049.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 2453155,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/bwLdHs6-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/bwLdHs6-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1098",
+      "Date": "2011-08-15T01:29:09+00:00",
+      "Uri": "/api/v2/album/vPCRkx/image/ctzS49S-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-ctzS49S/0/#size#/IMG_1098-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-ctzS49S/0/Lr6cLvpr69Nx9QfqP89cJFDHhSJWsJ4qhGGFn5Q98/Ti/IMG_1098-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-ctzS49S/0/KSMMwJDHJ4ZpQST6WVjFSFmzbTc4vMLpzdpNKXmDq/Th/IMG_1098-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-ctzS49S/0/NgqRhTwM4Wk97v49TWxvGLB8nrL9JgRrFRWwJ5xpx/S/IMG_1098-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 44547
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-ctzS49S/0/MtM4Bz2frn3w92mBZHCKjHkXrt3gBQx8vGQrkGRtC/M/IMG_1098-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 83979
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-ctzS49S/0/NbSBjfFFMLrc57DPhfHhRjB2THFTQQV93s5h6jNb8/L/IMG_1098-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 133715
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-ctzS49S/0/NVTvVZdmkCh2trFCpBKwWH863PNBDN6XNwdB5bkX5/XL/IMG_1098-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 205459
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-ctzS49S/0/NPgnrjdT9PCRGpJpqnScWfv6t9kxmMvsFDZNsFfgs/X2/IMG_1098-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 305094
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-ctzS49S/0/MDWJndbrJnLSQb7cDnjLKXrdJX4vdbMc6w8JbSfhJ/X3/IMG_1098-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-ctzS49S/0/LC2DhmkpVBKSnNfF6bHKBFmx3sWqk4JvGZbrVp2wg/X4/IMG_1098-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-ctzS49S/0/M7xcSC5b5dcczVGxnshLXPGFbh9ThM9Nz8Jfjszrd/X5/IMG_1098-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-ctzS49S/0/Kp5sZ4HJCmBLDQrMgTfXLczpDxBQQhZ54TS8cgnJP/O/IMG_1098.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 2221273,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/ctzS49S-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/ctzS49S-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1101",
+      "Date": "2011-08-15T01:29:50+00:00",
+      "Uri": "/api/v2/album/vPCRkx/image/C26T2Jd-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-C26T2Jd/0/#size#/IMG_1101-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-C26T2Jd/0/LpxKjZ4fjS2t9LGsc4SHk2kP5mwKnnMrKmFvKv355/Ti/IMG_1101-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-C26T2Jd/0/NCVvf7vWmd9c4BhBvPrgRL89zhzjXSM45SgK7sx9K/Th/IMG_1101-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-C26T2Jd/0/MHDW9ZMNG6N3nkxsBzVpRwqHqpmRbL8pZTcXvcwFQ/S/IMG_1101-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 43886
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-C26T2Jd/0/MZqZLx45sQJvncnB5Hkx4Lg6jCrMHqPzMtcnDLS2h/M/IMG_1101-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 86321
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-C26T2Jd/0/Kq9BDcZN7RCH4TXvgnzQfrND2GthSXST8bSW9r9D4/L/IMG_1101-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 141183
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-C26T2Jd/0/KZLvDSxdpCdpBQQhXrRwDT7GVfPnw5bTCTKJNX56s/XL/IMG_1101-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 223695
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-C26T2Jd/0/NVp3h3XZtCbBZrtTS35PdjJPCzMC4k2Qw8qsp66S4/X2/IMG_1101-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 341306
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-C26T2Jd/0/K6QRFHg44Rf2g4LS8r5GVm9gcKK5fhkLvHzsJZcwf/X3/IMG_1101-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Size": 505475
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-C26T2Jd/0/NLHG5hhqrtzsDMnLSMwC6GdTqcwR6xgphSK8zMPfB/X4/IMG_1101-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-C26T2Jd/0/KQDfKnM6fJVzTMK2V4j9hQZdQVLvv5WptggST4Z8q/X5/IMG_1101-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-C26T2Jd/0/LnfBhsmrZz2hMR3NrFbFWsQKwSZQ85WGhkk4GGzqD/O/IMG_1101.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 2615355,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/C26T2Jd-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/C26T2Jd-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1102",
+      "Date": "2011-08-15T01:30:26+00:00",
+      "Uri": "/api/v2/album/vPCRkx/image/NVHzXdB-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NVHzXdB/0/#size#/IMG_1102-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NVHzXdB/0/MF9xGx9V6NZpkmmNkjjZhpzSgwjrVcTQXLGz9rVvG/Ti/IMG_1102-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NVHzXdB/0/M9dK6KsH2N935fNC4LZWt7Wb28FFwqrQgCrCSD5pq/Th/IMG_1102-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NVHzXdB/0/KFTd8HFPKpfSX3MsH3TkNFWJRcsQnqK3m2rqnW95L/S/IMG_1102-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 42354
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NVHzXdB/0/KXfM9wPZp2PG2RLDZnVVV2m7N9GzPj7T67QL2vJsV/M/IMG_1102-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 81127
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NVHzXdB/0/KLKmXQNnmbQW7Kq9WgMF8CQFr6jbB9kJn3hMvM2g7/L/IMG_1102-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 132242
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NVHzXdB/0/KLKcRkkHwzjfMhRpw8xvjCbXwHzmtqxVvHjXq3WQp/XL/IMG_1102-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NVHzXdB/0/NPw2tR2Q8nm9KmrnSFckHSv9BHMmhrnmSPGSBPPf5/X2/IMG_1102-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 312023
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NVHzXdB/0/NHFFR88BjW2MhH8W383Zg7B3WXwr6jX3CWzvhLBRW/X3/IMG_1102-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NVHzXdB/0/MdrSzbWQMg6bNHGKnFdtxR6dg2FQDJbh8JV4KmGcJ/X4/IMG_1102-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NVHzXdB/0/MFwSd8TbwqDJMH8bJhjgvksk2rTw29G2vvL2w9qsf/X5/IMG_1102-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NVHzXdB/0/LqrPz6n7b88Sqt4BfgRJtf6hZK5khd9XtWCTRBtBh/O/IMG_1102.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 2318877,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/NVHzXdB-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/NVHzXdB-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1106",
+      "Date": "2011-08-15T01:31:29+00:00",
+      "Uri": "/api/v2/album/vPCRkx/image/Jksb8dd-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Jksb8dd/0/#size#/IMG_1106-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Jksb8dd/0/MjFwgpKBwWQh4p8V2KN95w4RTvNcLxtfGtJQQV7JX/Ti/IMG_1106-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Jksb8dd/0/MRZQ22ZwBvj54Q52zJMq8kgz79ZdtLBMbtMTgGJfm/Th/IMG_1106-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Jksb8dd/0/KTKM5nwTtqfMCdThWBM8vKMdgt2TXWLPCJjQzBLCh/S/IMG_1106-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 76892
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Jksb8dd/0/M2j2xjgB7QKmmLsrF5wJmV7z9wfM9CnXQkgnnZpBk/M/IMG_1106-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 159526
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Jksb8dd/0/L9HP479fVFQChskGTLktLVhrSdngNwXk9BwZ8dRQh/L/IMG_1106-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 267063
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Jksb8dd/0/K8ZMJcZmxZwsdBV84SBstmLtr8D8MJSncFrgbCvGN/XL/IMG_1106-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Jksb8dd/0/KWx5vrZZRrR36rWZZNqw4v7xT5wPkNRmGWFN7bJMX/X2/IMG_1106-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 638854
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Jksb8dd/0/LDBbM8F5Xmh92SVcb378XG4Z26wvLH8rDpptN7cQQ/X3/IMG_1106-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Jksb8dd/0/MhcdZZfLnSNrVvQkkXhNV984HsWZPsPQJ4M3bvBVL/X4/IMG_1106-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Jksb8dd/0/MhtnbTnGJPSNXGdbtKWgVkv5LBb2NgQSDh4DKC3Pf/X5/IMG_1106-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Jksb8dd/0/Nd6rNtfGgddsbdSm5CwtfGWQSCq3vXHgFJMJVDnXP/O/IMG_1106.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 4175489,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Jksb8dd-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Jksb8dd-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1131",
+      "Date": "2011-08-15T01:32:12+00:00",
+      "Uri": "/api/v2/album/vPCRkx/image/rfXRPRX-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-rfXRPRX/0/#size#/IMG_1131-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-rfXRPRX/0/KxB6XcMsPmXGr6k5dRTjbMLdScLpGtC7NckSG5pb7/Ti/IMG_1131-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-rfXRPRX/0/KhJRL8LrrRpFtv8SMSbdfrbBndkTSt7hpqNJnSvZ2/Th/IMG_1131-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-rfXRPRX/0/KGj9D54Z6jzsxhHtj2CSvNJmmT89H9fC88vFHrhCz/S/IMG_1131-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 55390
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-rfXRPRX/0/NFZSc9mh7vFCw9zW7Pk6h8gGgVDBnRxcLtKd3ZJZT/M/IMG_1131-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 108413
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-rfXRPRX/0/NTFmsxrc4ZrtFBBQCtGtNBdd2vvRp8p7McbSjCqF3/L/IMG_1131-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 176260
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-rfXRPRX/0/Nd5C7VZgxT6dH32MhP99N4gnLtQ4xRbQFZRjdkxJG/XL/IMG_1131-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-rfXRPRX/0/MV6cdnjSZSkzrzZkKbxdcp9ZK8JTpqx8tt5bhSvvt/X2/IMG_1131-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 405170
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-rfXRPRX/0/KsMF8ZzBsgnMwJKL2thqCbq39WWHtgTSBn4hjqHNK/X3/IMG_1131-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-rfXRPRX/0/LKBJGhXq7TsppHd3tHswvFMgbJQsC2nHdSKvVm5Q2/X4/IMG_1131-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-rfXRPRX/0/Kq7hCBvLQw4T8NSq4FqQ3GTZjKfnh4zRWB6WpRJzF/X5/IMG_1131-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-rfXRPRX/0/MgT8ND3HgsCd9rchcx397FzrwM3dJK8bhWXdVHMXX/O/IMG_1131.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 2737374,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/rfXRPRX-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/rfXRPRX-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1132",
+      "Date": "2011-08-15T01:32:50+00:00",
+      "Uri": "/api/v2/album/vPCRkx/image/Xs4G8fP-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Xs4G8fP/0/#size#/IMG_1132-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Xs4G8fP/0/KWHVdpxjVN4hWS2T4q8khnNscq8FF3dqXqpLLqPDR/Ti/IMG_1132-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Xs4G8fP/0/KmHRRVRC3zDMZvjxzJ6Stp6rhcTLQnPs25sqW3Rfm/Th/IMG_1132-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Xs4G8fP/0/Kt7HGTpRjMFjsZGFQqVJTSN4wVTHG9KBGPgjjGnPs/S/IMG_1132-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 44308
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Xs4G8fP/0/L2VHc9rjHv9Hj9bsNzs2ZW3PWPKdr4cS8b2cd95gH/M/IMG_1132-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 84873
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Xs4G8fP/0/LXZp8k9MJgt42MDspJLKCzk8TRd22KFwnrCrZDThq/L/IMG_1132-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 137144
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Xs4G8fP/0/LvBCLDvrRXFMGmTdXJKfRQT8c5MzLcnqd2HQHdJPB/XL/IMG_1132-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Xs4G8fP/0/MgRCbL7QVcb8wtLLncbHGTvPLF7QHnKMC2jBhwgDd/X2/IMG_1132-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 317374
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Xs4G8fP/0/LfwCrspQz57nkgGSJGQsW4MLRBgW9XLfKHjLtxH4h/X3/IMG_1132-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Xs4G8fP/0/KrrWQZGKT6hvhHQDSKqr6TzScknnPMGpGJ6WT62BS/X4/IMG_1132-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Xs4G8fP/0/K2Dq6jRWRRwVDrP4k6wvD3gw74kWX9rRRwQRb7FDZ/X5/IMG_1132-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Xs4G8fP/0/MGws6JtjXq8t6pfG9Hnn2bn5Sdw9Rg7Fnd7nRHtx7/O/IMG_1132.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 2383618,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Xs4G8fP-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Xs4G8fP-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1134",
+      "Date": "2011-08-15T01:34:04+00:00",
+      "Uri": "/api/v2/album/vPCRkx/image/tZfcRSw-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-tZfcRSw/0/#size#/IMG_1134-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-tZfcRSw/0/Kn9qfD7372WfsmXTs8GvmCvwt7xHMrfGnfG5c7BXp/Ti/IMG_1134-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-tZfcRSw/0/L6rbbW2Pg7fz3Dm8zVSWLgqq4VPRvL3DLCKnVQJQ5/Th/IMG_1134-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-tZfcRSw/0/NPVKKNBLH3q5NDSG7zbDNQcNXV4v3qfxSswSczvxV/S/IMG_1134-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 56988
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-tZfcRSw/0/K2xxJ8ZrWBXk9RZDHCmLXZcHNhLQzHfN7TMSF5cJp/M/IMG_1134-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 112498
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-tZfcRSw/0/NRC7kFrpmtwpQt9JPrnJPq4FQ6kTqsZ55TmRrqM2D/L/IMG_1134-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 183442
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-tZfcRSw/0/KFSmSfFfq7zWZGdxDVMJLvpwCHTqzFHcvQnHThSPt/XL/IMG_1134-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-tZfcRSw/0/LRbrfTQBZtzMHsXxqTsmswt4W4Cw6vGBndbh2nS7F/X2/IMG_1134-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 426397
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-tZfcRSw/0/NHVLQ9xsmH3KTJHbvxt8SNJSn7czWcR6p6dn69j2S/X3/IMG_1134-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-tZfcRSw/0/Kkck3CXkqKGt9ZgM7ZKL7F5X3D6SggLzLF7JzjJqR/X4/IMG_1134-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-tZfcRSw/0/L7CtF5RG8bcscrfN2M8h4xVKCgrJJ9dkvwzCB2Bmb/X5/IMG_1134-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-tZfcRSw/0/LGf2z2nrSPPbGK7Mdk8g68MbfnpHTbtkXj2whwmpN/O/IMG_1134.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 2854669,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/tZfcRSw-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/tZfcRSw-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1136",
+      "Date": "2011-08-15T01:34:45+00:00",
+      "Uri": "/api/v2/album/vPCRkx/image/79fVjQZ-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-79fVjQZ/0/#size#/IMG_1136-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-79fVjQZ/0/KmLJf5vzSm52DH7Q7sWTz3WpnMbp2jZdz2Mk2cS97/Ti/IMG_1136-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-79fVjQZ/0/NLQ5dFSZrMwcdtpcHk2dHgvHhJFVMBzFNX9ngpjTD/Th/IMG_1136-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-79fVjQZ/0/LF4cX8Hv3xp2p52bHJRqtT8vvrj5VQNgr5H9G3BKT/S/IMG_1136-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 47013
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-79fVjQZ/0/LVsS3ksxfxRgwwWtJX4pZZ2hJXkSNmFXLR8WGDKN9/M/IMG_1136-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 92303
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-79fVjQZ/0/MS8zq4pSk9ZZ4SRjcpVKh89Hc3MjX92xPB38HT4fP/L/IMG_1136-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 149175
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-79fVjQZ/0/Kn5dDzr52gWtQbcp7BJfhZFqbsZgbwpwGXtz4L3PD/XL/IMG_1136-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 228987
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-79fVjQZ/0/K9cSwKZNV7ZfsCCJMZG876Tdvdwqg24nKbXjSjGkP/X2/IMG_1136-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 340392
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-79fVjQZ/0/KGGhbpG3zWVjjksRBJqLJkHB3kBbmV9vf6nkLjhvt/X3/IMG_1136-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-79fVjQZ/0/L9GgT5sTc4NMh6cGrtbDfs5WMWpsTShGVXvBpPhTd/X4/IMG_1136-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-79fVjQZ/0/KtpP5dTPZ99MhW6sXnt8jVLbBfdwZLmL25cfRkRbs/X5/IMG_1136-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-79fVjQZ/0/L2QtjFPRNQsHK8KCkkt3ptCqb6HC9gtXFWgZQJDp3/O/IMG_1136.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 2560045,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/79fVjQZ-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/79fVjQZ-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1137",
+      "Date": "2011-08-15T01:35:27+00:00",
+      "Uri": "/api/v2/album/vPCRkx/image/qnhP4Jq-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-qnhP4Jq/0/#size#/IMG_1137-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-qnhP4Jq/0/LQdFZ5BCz9zFv7qgXjSB4zgNf49cRG4DvvWhtscTW/Ti/IMG_1137-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-qnhP4Jq/0/K7G3Cq6gvNqg7B88smZSqRPh4L4K7FHm7M9nD6Ljk/Th/IMG_1137-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-qnhP4Jq/0/KfFKxJstX4pmNbvFfkKcgtM46spTmKzKJrcQgQjkc/S/IMG_1137-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 49286
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-qnhP4Jq/0/NGqtTVpzJBWvjLBMbLxvCwCgcjhwMWVbD9Q2vFLVR/M/IMG_1137-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 96406
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-qnhP4Jq/0/M2ST4cRmx4JsvZB8Qf2wRL8LgmxtjmPBfC7hDgXt9/L/IMG_1137-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 156498
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-qnhP4Jq/0/LmF3FzC9tv4TLRs9qrV7ZpVk5NKtZT5nZ9Mjb7jMz/XL/IMG_1137-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-qnhP4Jq/0/L2RFLb7W8zqs6hZ4zbkfmqt86MPHKKgCHmVzxDXFR/X2/IMG_1137-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 355175
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-qnhP4Jq/0/KcLZSVg8rWFNm2LcLpMfXqXzHRqK4CLR2TmH2m3PR/X3/IMG_1137-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-qnhP4Jq/0/LsNs9fcQN8bzVBqsfVHKRNvsWRWCPCHrpPZh8376K/X4/IMG_1137-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-qnhP4Jq/0/Kfv5XW6ZjcwRghxXbB7qknZb5bKc9x7jj37rx6hHg/X5/IMG_1137-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-qnhP4Jq/0/LXrzKhSC5pNRSwXT4d8Z5kCmjJsVRk7HLCL82b5pK/O/IMG_1137.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 2545565,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/qnhP4Jq-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/qnhP4Jq-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1138",
+      "Date": "2011-08-15T01:36:09+00:00",
+      "Uri": "/api/v2/album/vPCRkx/image/kx2QJPK-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-kx2QJPK/0/#size#/IMG_1138-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-kx2QJPK/0/KtRqMGT6Cjz9PdhWvRmnv5F2HXhtQqQwPSMxbSzcx/Ti/IMG_1138-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-kx2QJPK/0/MpkWPC2kF4CpntKzWSgVzwqBCdr7gzXZJ9hWR2Px2/Th/IMG_1138-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-kx2QJPK/0/NCKPMJfxXr6ntRsZS5RsqKLP98rvvmbmFb7JZ8TLw/S/IMG_1138-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 64765
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-kx2QJPK/0/NVDRZJrNsTNrcK7MfQXRCxJRTdcFBZ6vJFBVCRgTd/M/IMG_1138-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 127537
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-kx2QJPK/0/KV7Wdhmdw67jksVMwKJLG4wzkCCFSXcp8mQfWM2Qx/L/IMG_1138-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 205721
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-kx2QJPK/0/KMrTskDRg26JFPJww4fTk4VpxBpXwHWrdKxkTMNjP/XL/IMG_1138-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-kx2QJPK/0/NLv83vsM5fRV8m3Tw3VKhVkVrRG7cxvb8TWN42NfQ/X2/IMG_1138-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 460127
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-kx2QJPK/0/NcQ3Hc2B8RbmHMKrpWzz53KLh7WFd8X5SDFSKPDzH/X3/IMG_1138-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Size": 654931
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-kx2QJPK/0/MKDDzHfLH44pP2Msg3XndKvwNzhkNgTJwC6xNLmsQ/X4/IMG_1138-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-kx2QJPK/0/KVM5NCXZx26xjQ3nq7BLnz79vQ44v9x9VwKpbRRZ9/X5/IMG_1138-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-kx2QJPK/0/Mb4c4Pq64tLPBMqcBJqT8Z7V4NV6MbcxqCNJkSQbD/O/IMG_1138.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 2656286,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/kx2QJPK-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/kx2QJPK-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1139",
+      "Date": "2011-08-15T01:37:52+00:00",
+      "Uri": "/api/v2/album/vPCRkx/image/qwLTb3M-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-qwLTb3M/0/#size#/IMG_1139-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-qwLTb3M/0/KXFndW6BKCzXC9rRWsxTGfgpF3Lq4fdm6gCKc9h5b/Ti/IMG_1139-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-qwLTb3M/0/KSJ59rNLKMRNnZrNdQb4C9FvjWP5H9DCM4WCddVWM/Th/IMG_1139-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-qwLTb3M/0/Lkh7pWGHZqmgZFZV2FbppZN6HPcrjFg2x49QbbPv6/S/IMG_1139-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 72773
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-qwLTb3M/0/NZ8kdrPcTtKnnRbMcVNQpjRB2Cz58T9hZvCGdS7FG/M/IMG_1139-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 152237
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-qwLTb3M/0/KRWDq3BdB6X3R4xqRPdHrRLmbDST6dr3qQhPDxSkn/L/IMG_1139-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 256511
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-qwLTb3M/0/M7FT84vw46dxKD88bG962tcGghfBGffSHN7zwhFXN/XL/IMG_1139-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-qwLTb3M/0/LLtcBvNfL4gL8xrrKSFr7FhbkZBDn7q58H8ppJhQ7/X2/IMG_1139-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 627310
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-qwLTb3M/0/MnW3sF4qsJxh9Ztqgth7GC9tMRqZ67p2FP5NkmsgM/X3/IMG_1139-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-qwLTb3M/0/MR2Nd8QrDc7SbJtbT99z3SKhxmMdmnBBXHhgPDD4S/X4/IMG_1139-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-qwLTb3M/0/KvJ6bJJ7BLJKfkq44qq78nC27w4gNCjVFZt2TvFV4/X5/IMG_1139-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-qwLTb3M/0/NXPQ9cQzGcBJ95bRqLm7NdGRcG6GCgZFvVhb3BRQC/O/IMG_1139.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 4661576,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/qwLTb3M-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/qwLTb3M-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1142",
+      "Date": "2011-08-15T01:38:21+00:00",
+      "Uri": "/api/v2/album/vPCRkx/image/LRRDTFn-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-LRRDTFn/0/#size#/IMG_1142-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-LRRDTFn/0/NDx6BCjcscnpsbnNLM8388ZCvRFptLqTbxFSZW5Nx/Ti/IMG_1142-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-LRRDTFn/0/Kpk8zwrwQKmNWWFqbXjwnh9b3SFs3C4tc7tdFjsFT/Th/IMG_1142-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-LRRDTFn/0/MTN6c4zkMrSs9ppfND7C6RHsdC8WZg3D9q7TzXMDM/S/IMG_1142-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 37026
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-LRRDTFn/0/MnRg5fXcvxFtFLz5XgqtT8hwX8rSJw5DFDr2xdCtJ/M/IMG_1142-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 67886
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-LRRDTFn/0/NXVfrRVJdJ6ScD9CWDZT6XrcnM8zdRgjZcXgRfg3h/L/IMG_1142-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 106466
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-LRRDTFn/0/MVfxDgm32CvFLkBhwGqB4zXtjHjQpr9MBqhFGQ5LC/XL/IMG_1142-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-LRRDTFn/0/LmDNjvPcBmZr96BTxBZFX6wFtmG42GRXVcpdmT8vc/X2/IMG_1142-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 237802
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-LRRDTFn/0/NRNxDwCMmJKzqKNmTc8PhCzdwpHtc92B2TbGGRBkm/X3/IMG_1142-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-LRRDTFn/0/MnzHTDTGPx3kdLFPZs7LnZBmw8Lj9xm7jRfchx84z/X4/IMG_1142-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-LRRDTFn/0/NWf9B78DMfnnmDZBFSDPH3gkLLM9vFGSDXrKgKrc6/X5/IMG_1142-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-LRRDTFn/0/NHJLpqhHmzTdxrbM7NsQBJHFcfrhhwqWBnRKhPFnk/O/IMG_1142.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 1785583,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/LRRDTFn-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/LRRDTFn-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1143",
+      "Date": "2011-08-15T01:38:53+00:00",
+      "Uri": "/api/v2/album/vPCRkx/image/NBcwdj7-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NBcwdj7/0/#size#/IMG_1143-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NBcwdj7/0/M24hvBK9xxrhcnxP2SZZKkwLk54wFp7cbW7qKT48h/Ti/IMG_1143-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NBcwdj7/0/KGZfPtVV959qT8GfWrk6C2SLgsc9gz2T2J5KzPnmC/Th/IMG_1143-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NBcwdj7/0/MnszHQxZLn8JzpHvrZRh5mbxKT22V2q4H9WjWQmPN/S/IMG_1143-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 43287
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NBcwdj7/0/K449MdWBZ5d7DqLmRKqsshzTrZv79hnBZBzFCGVw7/M/IMG_1143-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 81729
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NBcwdj7/0/M7sgv5WNbqsnW6t65z8XKKVqsJqPLTNJ2JpztSJQ2/L/IMG_1143-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 130216
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NBcwdj7/0/KswnWPSkgddpXsFh8XxrXMZMHJWBhRBkvx3sbXJgb/XL/IMG_1143-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NBcwdj7/0/MR5v7f5LhCcPfvPM6X3hKgxmgcHK24fZSb5SqBSHT/X2/IMG_1143-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 290178
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NBcwdj7/0/LCK4BKpW5wCnNbPw7cqz9dw28ZLgHfsQNpG5v8scQ/X3/IMG_1143-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NBcwdj7/0/KSgZgBxTNpTgvTjsDbXHsSV75BqgG8jpzWX4LQpCJ/X4/IMG_1143-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NBcwdj7/0/NcMg4zfvf74mpqsvPKRZ6b67hcPDzsKW5QxKg9z3m/X5/IMG_1143-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NBcwdj7/0/M3NW5gTsfrWgSxsmp7PdwqwKskpmSkD2LcpnXvhxn/O/IMG_1143.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 2015732,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/NBcwdj7-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/NBcwdj7-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1146",
+      "Date": "2011-08-15T01:40:27+00:00",
+      "Uri": "/api/v2/album/vPCRkx/image/hzjMwG8-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-hzjMwG8/0/#size#/IMG_1146-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-hzjMwG8/0/M6Z2hzhqxF7vD4Hsz8KdPz6h9FMHdVRF7gzGbhswF/Ti/IMG_1146-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-hzjMwG8/0/NDPj6rQqwGhc7nSTzvbgGh6sRxQg7jgw6mFNt6Kk7/Th/IMG_1146-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-hzjMwG8/0/LWPVsHbsXLGRVBTz6JrJBL996hT6zG5nccH44GcSz/S/IMG_1146-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 87137
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-hzjMwG8/0/MW28zj4xCC3GzHXXNnHcMcVZccsDS6D2zs6R9Q9sN/M/IMG_1146-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 189052
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-hzjMwG8/0/LQSSqWmjmKPLT6X497XwTw7sw26trJ8pbCczjw2sx/L/IMG_1146-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 322597
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-hzjMwG8/0/LZHmz66kzRLM6c2NsZgW42TXDn4Lg2fJMgq32WPWp/XL/IMG_1146-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-hzjMwG8/0/MtQRRTt4zqKPFxtfzsCLG7bdCgFbJ2WX2SBwSvVNT/X2/IMG_1146-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 792183
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-hzjMwG8/0/NSKd2d4jKsRrDM6RjGj4pTc6f4ddpcQ2V6pFdM99H/X3/IMG_1146-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-hzjMwG8/0/MD4x4hf2vTRTDH37SPwQjGBggn4RhtBHF6m6F5NSX/X4/IMG_1146-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-hzjMwG8/0/MLM7Tf6JdqBnjF55jhvcBP6bkK2Vtdk88HPFDD44T/X5/IMG_1146-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-hzjMwG8/0/Kgj5S5LL7G9fqf3DPdR9RgPttW6ftMZQphxxt2GFt/O/IMG_1146.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 5784319,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/hzjMwG8-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/hzjMwG8-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1148",
+      "Date": "2011-08-15T01:41:22+00:00",
+      "Uri": "/api/v2/album/vPCRkx/image/NwQbSrK-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NwQbSrK/0/#size#/IMG_1148-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NwQbSrK/0/MJCXPmhgxFGCp97XQPzSgXD7gvS4qFMbWPkWktWCq/Ti/IMG_1148-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NwQbSrK/0/MGcj3gvfHdWkdbkHHMxMdrrqpHkkXbRppNfTF59zs/Th/IMG_1148-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NwQbSrK/0/MZPDKnb5FfK7rJRxPTrtFnLbzPrC694dgvTz9zxJN/S/IMG_1148-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 82092
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NwQbSrK/0/KFfdJ6dtrhJBnq2fbPP6L7swQVfZbgNbVbzGjF8GP/M/IMG_1148-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 165532
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NwQbSrK/0/NWNdbmqdCRrkdBmkPBbsbkQWqwqHMrJhBNhxLdVS2/L/IMG_1148-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 270149
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NwQbSrK/0/L9tnXDtTWL2kD5CrnXkVgVXT42P77bmDd55jqnNm3/XL/IMG_1148-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NwQbSrK/0/KfTmm2ZQhphtL8WdhScjjZSV9RvjTRZdtZSZDGG7L/X2/IMG_1148-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 607759
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NwQbSrK/0/KwvSgbVscKdTvrq4bGdDnTwmkHt8MRqSWNTnLhXB5/X3/IMG_1148-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Size": 856116
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NwQbSrK/0/K2SJQPKMvrCJMmwGSH7WbLk8gsKjqJF8rkD4vCV8q/X4/IMG_1148-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NwQbSrK/0/LvC9Qpb7GZ6wshV4W7TMhJff83NhC23BRTzCVGLfq/X5/IMG_1148-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-NwQbSrK/0/KrwqCjsZrZHLtSbb9ZtLs6dpTbZJvvQdxf3JgcF8B/O/IMG_1148.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 3394865,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/NwQbSrK-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/NwQbSrK-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1152",
+      "Date": "2011-08-15T01:42:30+00:00",
+      "Uri": "/api/v2/album/vPCRkx/image/Pt9jhxc-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Pt9jhxc/0/#size#/IMG_1152-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Pt9jhxc/0/Mt8JkxcXn5X2TzmjW5GSMLCt4mGd6dh9pZt3g3bWf/Ti/IMG_1152-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Pt9jhxc/0/LqBTCjdvtXGHv73Bqb67sDzwdKF5TVkCTRbJ2kc3c/Th/IMG_1152-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Pt9jhxc/0/LVgVKNvdM59pHT5vwkXLJTPJp8gdXqhjH2Q74Vq8Z/S/IMG_1152-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 86277
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Pt9jhxc/0/L7wM58HJHNNn8KqBFjnfMP9tg8dStQXg6n8hggxPz/M/IMG_1152-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 173696
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Pt9jhxc/0/NhCMMmzWvrZQ9rBZmMZ8pZgzh2NQFWGN42vKbT7vD/L/IMG_1152-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 282366
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Pt9jhxc/0/K2NmwwSqNDTZgXCTZzbFkW5Vb8qqGvG8KFq9Km2WH/XL/IMG_1152-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Pt9jhxc/0/MtcjtGCz6fWFjb7tXvWkVZB2qkRphhQrKFr6BhLjM/X2/IMG_1152-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 633088
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Pt9jhxc/0/NZJHQLwM7bxS48chPK3PDbNGcWJsVb2GGMbsBMZxB/X3/IMG_1152-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Pt9jhxc/0/LppjZD258d3TZBttMhWdxMZSjSzp4m8mB7XJxTNzZ/X4/IMG_1152-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Pt9jhxc/0/KrpMHkk5gzdZZCcTq5vzqXc4M4NWzgqjv3Vnt7qz3/X5/IMG_1152-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Pt9jhxc/0/L5mGHT7KbM9pDpds259sBHsnhwVPhR6834Pc7tdcj/O/IMG_1152.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 4173310,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Pt9jhxc-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Pt9jhxc-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1153",
+      "Date": "2011-08-15T01:43:41+00:00",
+      "Uri": "/api/v2/album/vPCRkx/image/k9dfLsZ-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-k9dfLsZ/0/#size#/IMG_1153-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-k9dfLsZ/0/Khw9rzqVqS42FKdgTJH8hbVWRFbFmgVZvDWLGkmXz/Ti/IMG_1153-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-k9dfLsZ/0/Mv3KXWNZ6DwWDvCZzVvnKtVcfP4fHP3jXZgtfBChK/Th/IMG_1153-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-k9dfLsZ/0/LbKV4b96WK6gnmbmKnkZ2rhpX9mMLdRKThpvDJbwB/S/IMG_1153-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 83788
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-k9dfLsZ/0/LbvjZGH23wH27WrhqbdFGV3V8fSKDNzrLKqdnvLtk/M/IMG_1153-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 168578
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-k9dfLsZ/0/LH8v7bSKkGtptCMnbwKbtGfd982ZxPSx9xd3Zfn6r/L/IMG_1153-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 275083
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-k9dfLsZ/0/LL4ZZPGZcMfCs23tvrJQRm46T9xvkgd2Qt4bjsQCJ/XL/IMG_1153-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 426303
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-k9dfLsZ/0/KJhDCjxcGLRVB2GRpgqStfPZ3btbVn2rSZfgxSvZz/X2/IMG_1153-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 633876
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-k9dfLsZ/0/M6Cv7z5QprZkZfJtd7dhq4sZFpmxwf86kVcRRfGSx/X3/IMG_1153-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-k9dfLsZ/0/KQ4hccNg8shWgF8SgCRNhrxrKgg4GwRh47VdP2nZ9/X4/IMG_1153-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-k9dfLsZ/0/LLMVc8n2CNt4DrKhR9PCshnPqgZQqjrrmQkS3nZwL/X5/IMG_1153-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-k9dfLsZ/0/K38w5nZqb2JmjBxqNF9wWB429Pqfvr8k3JRK8Bznx/O/IMG_1153.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 4518996,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/k9dfLsZ-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/k9dfLsZ-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1154",
+      "Date": "2011-08-15T01:44:51+00:00",
+      "Uri": "/api/v2/album/vPCRkx/image/RfcVxx7-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-RfcVxx7/0/#size#/IMG_1154-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-RfcVxx7/0/KrXbxFxQKcFC6N2VFXPvHgXMTbNp3Ld7LdjTsFqDs/Ti/IMG_1154-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-RfcVxx7/0/L2GWzRJjNm2g3bnNhNg4kwCm3959WgWzTrLHZGvS3/Th/IMG_1154-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-RfcVxx7/0/Kr689p7kLTVWtZJHDscfzqrcspwgsjFhwTgNXzhDK/S/IMG_1154-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 86610
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-RfcVxx7/0/KjQv443DFfJHG4Xk7KhdCkVBrPHGGcqgZQRLTs8tb/M/IMG_1154-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 178578
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-RfcVxx7/0/KgZRNC3wF3jf2px9FVpnd2RPQCbf52cmdwTNVhpBx/L/IMG_1154-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 296862
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-RfcVxx7/0/MCVLLzsBk9D9qsKQrGLFRHwxj96t72vsjsRS5vZf3/XL/IMG_1154-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-RfcVxx7/0/MrJ9CNx98Qj6nNhXFjSpMCnDD8fDz6rDqQ9sjN9Xg/X2/IMG_1154-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 684382
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-RfcVxx7/0/K5r3KPWNsKNns89wW8TPLSNqGk8kC3HgzxrtVsxrJ/X3/IMG_1154-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-RfcVxx7/0/KRz26sh2XcMjCkzLnnX4GtQP3dghqrRzpXVBHz2nw/X4/IMG_1154-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-RfcVxx7/0/NH5RxJgjDdgTjJBkFbw93Zrb9FctHqmw8ZrnMmKXx/X5/IMG_1154-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-RfcVxx7/0/Kz5KHZnNDN4nWtd9bjqJknBd557g8d22DnpSbgrCW/O/IMG_1154.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 4564538,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/RfcVxx7-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/RfcVxx7-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1156",
+      "Date": "2011-08-15T01:46:04+00:00",
+      "Uri": "/api/v2/album/vPCRkx/image/VT4x8Ww-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-VT4x8Ww/0/#size#/IMG_1156-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-VT4x8Ww/0/LQmg2V7z9jtM4pKMzcFpNPwbQnZwgtk52B2LCtZWV/Ti/IMG_1156-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-VT4x8Ww/0/NGHMCJ9v8X9tdfZB6TfrxtpGxbbv3vmGsk8sPT9hM/Th/IMG_1156-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-VT4x8Ww/0/NFhLcXpNHNrCsp82BRB97C49mHt2V2RLR8nVGnjcx/S/IMG_1156-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 78644
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-VT4x8Ww/0/NDwc8xRqwnbmTtjBsfSrBFWZt3PfsKDVfnmxvFvSq/M/IMG_1156-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 163052
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-VT4x8Ww/0/MBpbn2dnQ3QRpWgNmw59C74z7zmzZhXZpmbSnzdRN/L/IMG_1156-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 272057
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-VT4x8Ww/0/MbfqZ6gWdJHGz3RPr5gV8FG3qRpGFZ56XhZWw5ZZc/XL/IMG_1156-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-VT4x8Ww/0/MzrNnwPxvn2MNZvKLFrPfbGGg9fcRTWKxtJs6Qf4V/X2/IMG_1156-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 646674
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-VT4x8Ww/0/KNP4XWdPtvDQJK3KKx6R9msx2PBDjzWk7xvQsjq85/X3/IMG_1156-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-VT4x8Ww/0/KkLWmFd6TgmV2WZcJz2zRrw6fpSccJwN8DQS3c4Cd/X4/IMG_1156-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-VT4x8Ww/0/K5rWgfTDnrrQDrFZRLMQ3cJG9kNvNHhcDBJfprJTw/X5/IMG_1156-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-VT4x8Ww/0/K82h7zcvXmPXKLvTfzfLxL3t74hmSVfgdvXvzhvCN/O/IMG_1156.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 4714911,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/VT4x8Ww-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/VT4x8Ww-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1157",
+      "Date": "2011-08-15T01:47:48+00:00",
+      "Uri": "/api/v2/album/vPCRkx/image/FLK62nT-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-FLK62nT/0/#size#/IMG_1157-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-FLK62nT/0/NDg3rdQcWtfV867N8RWkk3znKgCV2Mw6ZGWpcCd32/Ti/IMG_1157-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-FLK62nT/0/M53dCmsnHW93bNfbmwDbhGTxsNgwXp9fjbdzTwkPc/Th/IMG_1157-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-FLK62nT/0/NCmZ4Q4dLHs48D43wjmSJ6PMZ2n5wBXBLv4gqtRLB/S/IMG_1157-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 80119
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-FLK62nT/0/LVMtP8P359hbqpX3MNdV9MKzk4LLVMfJbqrQpxdw4/M/IMG_1157-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 166377
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-FLK62nT/0/MzXQvSn8T5W3LwZ2fD9mzFzWzkF9Tktbn6bmWD6cr/L/IMG_1157-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 277564
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-FLK62nT/0/LPsXZbLvLHdCZwCM2c6vLvZdJqSFnKkcdCbSDLPhQ/XL/IMG_1157-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-FLK62nT/0/NW7JGmXtwssNPtDtswmbnQkQsLKn7r8GMR8nqnXsz/X2/IMG_1157-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 660487
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-FLK62nT/0/L25vHbnQbmHnLnJJFXkLb73MgZTKhxSVDDHqZSWRD/X3/IMG_1157-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-FLK62nT/0/MRs7mfRVp7kvtPS9Kfp8jSbL8t48SRHxzLww6wQ6V/X4/IMG_1157-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-FLK62nT/0/Ngx8qR7HBXXDDkg7xgTC9KQJ3HTbGH8DDcnNTqHTC/X5/IMG_1157-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-FLK62nT/0/M84GH9cMBNWVvV8md5LKx2Tmr9hkgb26TwsSJz4KP/O/IMG_1157.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 4790730,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/FLK62nT-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/FLK62nT-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1158",
+      "Date": "2011-08-15T01:49:06+00:00",
+      "Uri": "/api/v2/album/vPCRkx/image/Nk4zScq-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Nk4zScq/0/#size#/IMG_1158-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Nk4zScq/0/LNrNd9X5RMrZcbxpWD2KpfSxK3khsk5NgV32XrZQL/Ti/IMG_1158-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Nk4zScq/0/LBf2jDwpSqDtpCQgr5XCTFgLs9VRFB43X5ssTJzHP/Th/IMG_1158-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Nk4zScq/0/KhKj4v2F67vswbg8ZqJqdSCTsvhc9GLGFnPwfjB9c/S/IMG_1158-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 87131
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Nk4zScq/0/KW4TmqqzLVJJvBFmpr3KXLH2BCWhhh7cNdLQDZpFX/M/IMG_1158-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 181121
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Nk4zScq/0/L5Q6VGCf3shDbWsPvT6LJSLD8m2nJFFTdZfrBsTCx/L/IMG_1158-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 303030
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Nk4zScq/0/LPXpkxnh5SXK9qCRhSrTMRgPhLfcXqfzqHXBLCdW9/XL/IMG_1158-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Nk4zScq/0/M4Nrbt7QkNZpnk9swTj578sGdKLq4CvwLnVSWkjQ2/X2/IMG_1158-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 715231
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Nk4zScq/0/Kg5tHqLDcpcd5TzwzR9Snw8rDxGz3hvcXRzb8Zpq4/X3/IMG_1158-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Nk4zScq/0/M9MGLFt23FQqNsrQv4Wrzkzq9S5hMhtPt5xp76msF/X4/IMG_1158-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Nk4zScq/0/L2dQW5szpqzPnT9MvwKrDnfrj8gtWXZL6DBt34f7d/X5/IMG_1158-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Nk4zScq/0/L7q3HMHHtNsdtjxv6vhqPDcP8kcbM69pZkqB6QrRT/O/IMG_1158.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 5071048,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Nk4zScq-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Nk4zScq-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1161",
+      "Date": "2011-08-15T01:50:22+00:00",
+      "Uri": "/api/v2/album/vPCRkx/image/TmKkLM8-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-TmKkLM8/0/#size#/IMG_1161-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-TmKkLM8/0/LfbPWjB5qR7HNc3ZkV52rGj8cHqHn5x3jgm7dNKnK/Ti/IMG_1161-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-TmKkLM8/0/NZxp4SbJ2KVHchHvRjtQrXXQVcSmPfH94xNwWK2wJ/Th/IMG_1161-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-TmKkLM8/0/KfVfwKHfF8qq38vftbpLxkT4bnZW798sTFQTkbgNW/S/IMG_1161-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 83936
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-TmKkLM8/0/KZmFZZhV87fDcLc7WCfqjbS9VjLDHjSj5R9WwXGHp/M/IMG_1161-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 176918
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-TmKkLM8/0/M2CjzKLngRC4643t2MFLsJdxxjWfWRXZnTwSszXkQ/L/IMG_1161-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 295501
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-TmKkLM8/0/MTvv4c8z4WcdKPc7HDFpVXXP7B4pDwJDkcGgPJmtf/XL/IMG_1161-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-TmKkLM8/0/NMQXX7MGQsr6rwD86bp4xVJQccvZbG68KhXn2FXW7/X2/IMG_1161-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 699087
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-TmKkLM8/0/KrfDh8KX26S9rxR2qGGsBL5ShDxxVwtCkXfKKKDzW/X3/IMG_1161-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-TmKkLM8/0/NWpKgVBTTTKCWjjrNcfx3xhHmsZwcCH2TxDVbF25X/X4/IMG_1161-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-TmKkLM8/0/KQ8qBXjdvTVMPZKSSqsvPSh2VjNWrGDBGvxwKZXrT/X5/IMG_1161-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-TmKkLM8/0/LHzLdMLXhDwtCHWCF3rxMSdSMPS24MqLLLbJS34Wg/O/IMG_1161.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 4964516,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/TmKkLM8-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/TmKkLM8-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1162",
+      "Date": "2011-08-15T01:51:39+00:00",
+      "Uri": "/api/v2/album/vPCRkx/image/KZPZNPS-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-KZPZNPS/0/#size#/IMG_1162-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-KZPZNPS/0/K4vs82skL9d9bmGsJz98v95qQ5gZ8P4wXhWC2BBcM/Ti/IMG_1162-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-KZPZNPS/0/MC5nBb2D6mpfHTSHrsFvzdqGj5GZQMhkKqgmDXd5V/Th/IMG_1162-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-KZPZNPS/0/MZnjZgVVqkcwCbZvkktgTQc4MhQ3vjxfSSX2z4tvP/S/IMG_1162-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 84189
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-KZPZNPS/0/Lx9HhRbCfdZMBm3FHRzSbpknNNL2tPqX2jBv68txG/M/IMG_1162-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 177300
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-KZPZNPS/0/KwqXXp2DVQPLr5kbdn5tR2cLrGLRScphTQCWgFXjh/L/IMG_1162-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 296415
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-KZPZNPS/0/KmPMMHpP8zzngZvcQcLZX7d6jxm4FJFsN5srqRhmf/XL/IMG_1162-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-KZPZNPS/0/KZTXPK38TcCm6LjJgbVXPpSTwtBCF2b5DZ8MhWZxt/X2/IMG_1162-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 703716
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-KZPZNPS/0/KTBK6tdM6RGFNp9cqVXZmdQZhTGtxQFJcGk6vDzb7/X3/IMG_1162-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Size": 1016634
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-KZPZNPS/0/LJ9BFFLkbVz9XrvLtsZg59hFq4p92RLhPPKbM9SQb/X4/IMG_1162-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-KZPZNPS/0/MRm9ZHmV6TKWbSWLXCDPS44sZGqvJKnb6dFgjX4CK/X5/IMG_1162-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-KZPZNPS/0/L7ZbP8Dqcq9pG4WhXXmLWj2kZrsGZLdrdWH5VkTdJ/O/IMG_1162.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 4993909,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/KZPZNPS-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/KZPZNPS-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_1184",
+      "Date": "2011-08-15T01:15:49+00:00",
+      "Uri": "/api/v2/album/vPCRkx/image/Tzznf7Z-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Tzznf7Z/0/#size#/IMG_1184-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Tzznf7Z/0/MRDCSfsNq6jczvQHPLjtJ8NcbXsM4XFcqbh5kwVkD/Ti/IMG_1184-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Tzznf7Z/0/K2x2fpzSRqXCprspZLvvwr8MJXj56srNzzdV2c2bR/Th/IMG_1184-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 20198
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Tzznf7Z/0/KD6CHQm7PgVz7RzVh7H8Tp8XVzw4qCQn7SVfkJ3DZ/S/IMG_1184-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 77045
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Tzznf7Z/0/NQb38Wd7DGz3fdr3Nt5DDQC6hSc5hjRRRXh8vkCH5/M/IMG_1184-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 163986
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Tzznf7Z/0/NDFhZkvDNkh6MPWD6c3Hn54rJkz9JBK74hhQKTgM2/L/IMG_1184-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 270303
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Tzznf7Z/0/M6gpnDZkkN7V737VHSGgHnmQBSGbkhd7N9t4TqRPd/XL/IMG_1184-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 432872
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Tzznf7Z/0/KN43WBgDKWt2tw58wPf7QBZvv7fQqCsTcMB3ZxLzf/X2/IMG_1184-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 651278
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Tzznf7Z/0/MDv6sH6t4MW87g8rffRr8MFLR4gqxPsJBrmZGhQVs/X3/IMG_1184-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Tzznf7Z/0/KtXHZbMqzfJWJ5QsCk7gCPzG48gRSPtj7kLbLgCM4/X4/IMG_1184-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Tzznf7Z/0/NGfQDm6mrBx4KGbg2DHxCWPQ5dPxwZrNCvSnSFRWH/X5/IMG_1184-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2011-BCKayakExtras/i-Tzznf7Z/0/KTCgB7Mfp2pDxPTLSSMbXF3NgpMggpVCkcHTSR3Bn/O/IMG_1184.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 4689872,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Tzznf7Z-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Tzznf7Z-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,493 @@
+{
+  "UrlName": "2016-SanFrancisco",
+  "Name": "2016-San Francisco",
+  "Uri": "/api/v2/album/mFXRf3",
+  "Date": "2016-10-03T00:03:28+00:00",
+  "WebUri": "https://lmblevins.smugmug.com/Travel/2016-SanFrancisco/n-BbpdgP",
+  "Images": [
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "FullSizeRender.jpg",
+      "Date": "2016-10-03T00:05:23+00:00",
+      "Uri": "/api/v2/album/mFXRf3/image/bK4rMgN-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/photos/i-bK4rMgN/0/#size#/i-bK4rMgN-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/photos/i-bK4rMgN/0/MQ6txtMGQjVW2WDsMVnZVNgrRS9MBSHzZTz25gs6b/Ti/i-bK4rMgN-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 9990,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/photos/i-bK4rMgN/0/KpKVnrq86QN2SW3CSmG2DJgBTTR573tN8bc2wthrZ/Th/i-bK4rMgN-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 15171,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/photos/i-bK4rMgN/0/K82PxVB69tdqFbxRv2SHD5CDQNDPffjP3pMD3CqDd/S/i-bK4rMgN-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 45372,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/photos/i-bK4rMgN/0/KRqvddTC2mT3LQB8kWdTSmHktPtZPF8JDK9D26nf3/M/i-bK4rMgN-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 83798,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/photos/i-bK4rMgN/0/Kj4xv7tXWncFrpwfzTD3JG7zhtWktjk3Z8Sngcz5Z/L/i-bK4rMgN-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 135076,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/photos/i-bK4rMgN/0/MwqdmZCzLvK7GThqKqcwNcdSVRsPrSsZBv3ZSfc4q/XL/i-bK4rMgN-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/photos/i-bK4rMgN/0/MqjtdwfcM4jm69Rq9qSrjmNkXht725N8tbGLwQwwQ/X2/i-bK4rMgN-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 708741,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/photos/i-bK4rMgN/0/MbZ55tGgf8HgZRmmQXZ4f95Qv5VnjJh4QsPT8XcbS/X3/i-bK4rMgN-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/photos/i-bK4rMgN/0/Knh5QLdBMZCvzWPPzg8cKzqSZFsZfDRZzctGGQWdT/X4/i-bK4rMgN-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/photos/i-bK4rMgN/0/M64QHpvFg5qXxkKh9BDnbZKzXBGGgt4qKM3z8vxpr/X5/i-bK4rMgN-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/photos/i-bK4rMgN/0/LQDZCSjvszQ5z4gQZtCCwXCghf2Xhf6W3h7GMz4FW/4K/i-bK4rMgN-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/photos/i-bK4rMgN/0/Kfv925DSWgTqzR4JHKDCGgdnnCmBgkhjDBcqjCKfk/O/i-bK4rMgN.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 3421969,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/bK4rMgN-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/bK4rMgN-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_0884.jpg",
+      "Date": "2016-10-03T00:05:52+00:00",
+      "Uri": "/api/v2/album/mFXRf3/image/K5xbcjF-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/photos/i-K5xbcjF/0/#size#/i-K5xbcjF-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/photos/i-K5xbcjF/0/MSNdsf2xKKwtBmW8m9FQvdfxXsxVdFB76mKsRVKsP/Ti/i-K5xbcjF-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 10529,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/photos/i-K5xbcjF/0/M3ct6bNqcNdKxq45RDpQNb3Wpvcst4pdg74kFdD6X/Th/i-K5xbcjF-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/photos/i-K5xbcjF/0/MWQZv9fqJfNMV68kzxFCf7NBM4HVgn6Fs33zNkVJj/S/i-K5xbcjF-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 55881,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/photos/i-K5xbcjF/0/LBvHdhjndGJgBFvF2zgqt53m9MH6XC2qCkPRXqqvc/M/i-K5xbcjF-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 109612,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/photos/i-K5xbcjF/0/LRXMjJGkBXS4B8Pwxf8wbrmKX6htZXfK9vTfCTZM8/L/i-K5xbcjF-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 176049,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/photos/i-K5xbcjF/0/MQTPvCjKVhNK4xGqThk7Hz8dpm7tzk3rQH22vb4mh/XL/i-K5xbcjF-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 480904,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/photos/i-K5xbcjF/0/MpQg9cFgFM9Tz3cz6bKxjxbVTLHdqmxptCV28LCnT/X2/i-K5xbcjF-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 716006,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/photos/i-K5xbcjF/0/Lc8kfFw8fnMMcnfcqZCMcQGVczbGCvB73Hnt8Gn2j/X3/i-K5xbcjF-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/photos/i-K5xbcjF/0/Ljp6Gxj8C79G7G7CwNBJ6X9P2s72P7H2JGdMJKgDh/X4/i-K5xbcjF-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/photos/i-K5xbcjF/0/Lc5h8VbFPwBT6xcmGDhBzQ9p4S4pFJdb45SBKXGPV/X5/i-K5xbcjF-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/photos/i-K5xbcjF/0/KnLjkS79PpfQ5FXJqnmkpPZjJHkLWdXBTBB3PhGrc/O/i-K5xbcjF.jpg",
+          "Ext": "jpg",
+          "Height": 2342,
+          "Width": 3123,
+          "Size": 2581106,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/K5xbcjF-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/K5xbcjF-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_0890.jpg",
+      "Date": "2016-10-03T00:06:25+00:00",
+      "Uri": "/api/v2/album/mFXRf3/image/VvG72vN-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/photos/i-VvG72vN/0/#size#/i-VvG72vN-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/photos/i-VvG72vN/0/LW4W3WDdrGLwR6KjQLj2CXJFV2LdxGzdSKSttjS6g/Ti/i-VvG72vN-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 8936,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/photos/i-VvG72vN/0/KLgdgrrqjBbXPbhzgFcCXvf637wM4jm7cLnK7PZ6X/Th/i-VvG72vN-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/photos/i-VvG72vN/0/LdTXMC6TwF5tw9X3csb9g4R88xxFKsCWck8sgNv4R/S/i-VvG72vN-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 43659,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/photos/i-VvG72vN/0/KsDVvvHQkBjsjLPj5LQ4ws5jF5JVwm5vWpwX9N7qZ/M/i-VvG72vN-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 91984,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/photos/i-VvG72vN/0/NcHFQkrfLLKw9Nj4TDgrMVFdWPqGmdj6LFPXqfBpJ/L/i-VvG72vN-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 151538,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/photos/i-VvG72vN/0/NfwH2rzTDmSS7C5GSmgxX8q7dK38qck4bBc9dRxQB/XL/i-VvG72vN-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 439788,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/photos/i-VvG72vN/0/Kw3KD2w8TVTBCzsKDDJ5vNdvLPtvxrsG2zCTvNbfN/X2/i-VvG72vN-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 652632,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/photos/i-VvG72vN/0/NjL8c3VxSvw8WPfxWnbWB4s53zcXrxtNcnCC842Gt/X3/i-VvG72vN-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/photos/i-VvG72vN/0/MphzWcDRqGsDtkNd8TPtJ5D7hn3GqtcCN5bgTqc7G/X4/i-VvG72vN-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/photos/i-VvG72vN/0/K8Xcz6jnVnMqQwqmMtZWrWC4s2qjFn3T3rR2c5kq4/X5/i-VvG72vN-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/photos/i-VvG72vN/0/NHJv3NDSmtB3fRgkGkbZMdhbRb4HJSHHFrNPLm4QZ/O/i-VvG72vN.jpg",
+          "Ext": "jpg",
+          "Height": 2879,
+          "Width": 3839,
+          "Size": 2840371,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/VvG72vN-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/VvG72vN-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "IMG_0898.jpg",
+      "Date": "2016-10-03T00:06:46+00:00",
+      "Uri": "/api/v2/album/mFXRf3/image/sM7Mc7V-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/photos/i-sM7Mc7V/0/#size#/i-sM7Mc7V-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/photos/i-sM7Mc7V/0/MtSkkHrrt8JXcTwMhZ6zGBqv8ZWkqWQSSFb5Ww6m4/Ti/i-sM7Mc7V-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 8971,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/photos/i-sM7Mc7V/0/M4hrmz6Sg5dJdNwPHjVqLPrZ9wBnjZ7Mx9fZjqrJf/Th/i-sM7Mc7V-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/photos/i-sM7Mc7V/0/LH6BST9L2qnVmvGXP2PgSHTTVzqCMg2gCDCT7bqcb/S/i-sM7Mc7V-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 38162,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/photos/i-sM7Mc7V/0/LRB735r9gvMVSxss4rBTM54kK9d9XpcP9wPp5q5mw/M/i-sM7Mc7V-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 73290,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/photos/i-sM7Mc7V/0/NFQ6Tr9PqL5jBMbvzNzXsRSSbFVPj5S6FjBzxpgmm/L/i-sM7Mc7V-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 118895,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/photos/i-sM7Mc7V/0/NXpxsL7kVMDKLfzw7VDBz84cThNSSG9TN9n8ztxkN/XL/i-sM7Mc7V-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 394579,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/photos/i-sM7Mc7V/0/Lcw7SgnFGL8tQLPBkWHrWT9Z6Dh5b8QWRf27rnN8W/X2/i-sM7Mc7V-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 611564,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/photos/i-sM7Mc7V/0/Mqk28kj6kH9CL2pCvsbwcH45wDZ3bj9sK2q6twzH4/X3/i-sM7Mc7V-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/photos/i-sM7Mc7V/0/LkTbf3BphTTZ9QPtT7Ks92Mq4fzd89WMTm3cTFcts/X4/i-sM7Mc7V-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/photos/i-sM7Mc7V/0/M3Vt78LsrFB5Pr97VD8g8ht5FSBC2CGqSXT3t8X2t/X5/i-sM7Mc7V-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/photos/i-sM7Mc7V/0/KPBZ68jFt4GTMz9nhjzBcBNq7V4g2BBbpnP9zVgXX/O/i-sM7Mc7V.jpg",
+          "Ext": "jpg",
+          "Height": 2360,
+          "Width": 3146,
+          "Size": 1766133,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/sM7Mc7V-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/sM7Mc7V-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    }
+  ]
+}

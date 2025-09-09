@@ -1,0 +1,1497 @@
+{
+  "UrlName": "2006-LoonLake",
+  "Name": "2006-Loon Lake",
+  "Uri": "/api/v2/album/Q9Hsf8",
+  "Date": "2008-04-12T18:26:23+00:00",
+  "WebUri": "https://lmblevins.smugmug.com/Travel/2006-LoonLake",
+  "Images": [
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "LoonLake 002.jpg",
+      "Date": "2008-04-12T18:26:33+00:00",
+      "Uri": "/api/v2/album/Q9Hsf8/image/bFZSj4Z-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-LoonLake/i-bFZSj4Z/0/#size#/LoonLake%20002-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-bFZSj4Z/0/M27gWxSr5bFJ7S528W9Qf7TmVVtDbCwHtVGt6J7tK/Ti/LoonLake%20002-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-bFZSj4Z/0/KZRXBWZRCtbmpXhkp8gR64pm6ZCtnQHgQDRmmb53k/Th/LoonLake%20002-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 17904
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-bFZSj4Z/0/M7656r6h3rzm8kmnKt4DKdkQq7jjnJrHVwKZ67wgT/S/LoonLake%20002-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 67053
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-bFZSj4Z/0/LLXPnTw3BjW9vh3X5f6DsMLwZmwZmNCvDBzMjtk62/M/LoonLake%20002-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 137798
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-bFZSj4Z/0/NWjvZBB4FngvP5nw4CpShzhZsDgrbC8KXH6DbsLbm/L/LoonLake%20002-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 223964
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-bFZSj4Z/0/KHgd8mzbxsKgVZcsFKFHCxMHWKNwcCSDZchqQz47Z/XL/LoonLake%20002-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 350321
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-bFZSj4Z/0/NVs5h9JM7bfjhw6WQQcPnthWbVKfFtkpdmR2LRwdD/X2/LoonLake%20002-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 768985
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-bFZSj4Z/0/K733qQq29PT6NzwfvXSHdqsRt283mmhmDQSMjfRcq/X3/LoonLake%20002-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-bFZSj4Z/0/LVRFKXbrmKWGnvKrLKTnTFV5WnkQhCKGxjkzct2Xd/X4/LoonLake%20002-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-bFZSj4Z/0/M2D7tJhvKWMjwpWjhxm5hBKWkCNHNjvPVhPk3xHxZ/X5/LoonLake%20002-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-bFZSj4Z/0/KrQ54tcJSqtDgJVXKzsSdx8FMKRk86ngcKQb3DJrm/O/LoonLake%20002.jpg",
+          "Ext": "jpg",
+          "Height": 1944,
+          "Width": 2592,
+          "Size": 1793576,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/bFZSj4Z-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/bFZSj4Z-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "LoonLake 001.jpg",
+      "Date": "2008-04-12T18:26:35+00:00",
+      "Uri": "/api/v2/album/Q9Hsf8/image/fQDhZ3r-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-LoonLake/i-fQDhZ3r/0/#size#/LoonLake%20001-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-fQDhZ3r/0/NcVbQZSWP2GhDsK4QrN6D2sMwj9hsJhbXzv4FHgWL/Ti/LoonLake%20001-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-fQDhZ3r/0/KbdJjWSj9rr9ddPj2WdtvdWqttshJVTzJNffdShGp/Th/LoonLake%20001-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-fQDhZ3r/0/NGHzJMKw7vCbSM7TGFgQRbXxjhPPtsXsGCxKBKSz5/S/LoonLake%20001-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 73621
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-fQDhZ3r/0/KZ6Tx5Hfp39wKHgP5Wp5TnZfCBLmNz8r7zQHFj4zJ/M/LoonLake%20001-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 153158
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-fQDhZ3r/0/NWg8hCsspHgrZkTKZF3PNbNZSnkzwPN2GpXrKkpwx/L/LoonLake%20001-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 250688
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-fQDhZ3r/0/MfZHdpmm3TpsTBHBTqjG5dJqBnFgNzHzH4L5Ksq7b/XL/LoonLake%20001-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-fQDhZ3r/0/KrvQbmJ2j7wSbdvqPLHzST9Qc36XzgnQfsXrMtZQj/X2/LoonLake%20001-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 838578
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-fQDhZ3r/0/KQMC4wR59MB5vDRQxjTcdbSvfnWQmB4njHKbkj8NN/X3/LoonLake%20001-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-fQDhZ3r/0/KcZPHd6WgPv6mZTT9rqjsrnFh38bQKH5P3fDjrNLq/X4/LoonLake%20001-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-fQDhZ3r/0/LSfWPtT2x7G3TgsR22xLtdHzpQJMXTtVZVc3MFWvs/X5/LoonLake%20001-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-fQDhZ3r/0/NRFW5Xk8Q2rqdWvGGWW3mkRR6vLcZ428sCNfJtBt8/O/LoonLake%20001.jpg",
+          "Ext": "jpg",
+          "Height": 1944,
+          "Width": 2592,
+          "Size": 2026573,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/fQDhZ3r-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/fQDhZ3r-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "LoonLake 003.jpg",
+      "Date": "2008-04-12T18:26:40+00:00",
+      "Uri": "/api/v2/album/Q9Hsf8/image/m6ps9Ts-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-LoonLake/i-m6ps9Ts/0/#size#/LoonLake%20003-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-m6ps9Ts/0/MNhrrL6W6s5jKKd5xTVd2zvxsMWbBWSM7ZCXKSKnG/Ti/LoonLake%20003-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-m6ps9Ts/0/MxV9zLZ2Jkw5V2NKxBzQ4rJ37m7v2LdWHzsTWqbNK/Th/LoonLake%20003-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-m6ps9Ts/0/NVxR4XvjbNNJjXg2sfCJdvNmMgPHQ74wnsLDZHCvd/S/LoonLake%20003-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 68983
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-m6ps9Ts/0/KcDfKDbQmfpsWChZgC728PGbF3LqthQJXCTRKqVb5/M/LoonLake%20003-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 145046
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-m6ps9Ts/0/NCMXQ4r3DWfrHSXKxZmQ2KCWKfTPbsw8pZQtMsdRJ/L/LoonLake%20003-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 238527
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-m6ps9Ts/0/L2g6DM5d4x9mBHbJ5MmRqwPjF9h6QNdDnTNZGbvjK/XL/LoonLake%20003-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-m6ps9Ts/0/KjG44xq33GwsJMVKXR2HJpjTMcFWNwQtHJf6WJv9n/X2/LoonLake%20003-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 837246
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-m6ps9Ts/0/L6jjwmwD3QtHQXqBSbLpgSZmmKzLCmpht4ZzRn7WQ/X3/LoonLake%20003-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-m6ps9Ts/0/LtMVNZHk64jz2CqmBjqzhtRFRCMHDRvSHH43PGTjm/X4/LoonLake%20003-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-m6ps9Ts/0/KWPDXnV8s9Rkz5BvJK6M4qLxQ6XBT585hCr26gMSs/X5/LoonLake%20003-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-m6ps9Ts/0/KsTLs4rsnzZPGGMWg6rQzJRw9hpm7tbnqgNMvXQKT/O/LoonLake%20003.jpg",
+          "Ext": "jpg",
+          "Height": 1944,
+          "Width": 2592,
+          "Size": 1997817,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/m6ps9Ts-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/m6ps9Ts-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "LoonLake 004.jpg",
+      "Date": "2008-04-12T18:26:43+00:00",
+      "Uri": "/api/v2/album/Q9Hsf8/image/GmLrjGH-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-LoonLake/i-GmLrjGH/0/#size#/LoonLake%20004-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-GmLrjGH/0/LPKnp3w28NJxNLHgv3Pbqv2S66PtDccrPn3dwXfRM/Ti/LoonLake%20004-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-GmLrjGH/0/MHxvsZbRTpNjmksSDPB6DLcQR3mZ8GCnLCjRMWW42/Th/LoonLake%20004-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-GmLrjGH/0/LQ6dbhDKPMxMdrT7kCxpfRb6GnxnChG4DW6C6TZmT/S/LoonLake%20004-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 73858
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-GmLrjGH/0/LSD7wnrMggr9wcS53XNXwZHfQt6hPVbP8Vv5PL8n7/M/LoonLake%20004-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 160197
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-GmLrjGH/0/Lj5rbCjcX8Zj7RqBsPpB9nC4XsCHgP8QsWMpZ4h5V/L/LoonLake%20004-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 266211
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-GmLrjGH/0/NRWGb6nVJcJCHPHbwv3HKK96k9WX3qhcd89w2PRsZ/XL/LoonLake%20004-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-GmLrjGH/0/L3jFsQGKTdkPfHn44jC9tB97m7bXnK5N4QwFGwbk3/X2/LoonLake%20004-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 914140
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-GmLrjGH/0/KMhqMXLhDmSSdpSv37LRhR5dPhGTk8TQtnsJvwgBD/X3/LoonLake%20004-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-GmLrjGH/0/Kf5wmW8w4vTvxrSgnZBdKc6XcbLmNRrvjm2fGm4X7/X4/LoonLake%20004-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-GmLrjGH/0/MNgzp4bstKbdxDx53C7bpk5QKQt68gTxRbjxxBxWz/X5/LoonLake%20004-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-GmLrjGH/0/LJ2nNhQ5x96qKFrZvztnWVvBH5ds8TxVpDh2vc7GG/O/LoonLake%20004.jpg",
+          "Ext": "jpg",
+          "Height": 1944,
+          "Width": 2592,
+          "Size": 2243744,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/GmLrjGH-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/GmLrjGH-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "LoonLake 007.jpg",
+      "Date": "2008-04-12T18:26:47+00:00",
+      "Uri": "/api/v2/album/Q9Hsf8/image/LK987Xf-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-LoonLake/i-LK987Xf/0/#size#/LoonLake%20007-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-LK987Xf/0/NNVQMTmmvStGvHdmDqGRstNT76V22TX9WqgDPfRB6/Ti/LoonLake%20007-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-LK987Xf/0/NJ9NMtNb6k7pNHG8Lbj8PnzLn666wjhGVrLVjBVSH/Th/LoonLake%20007-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-LK987Xf/0/LTmmZVWHX9MXCdWXPsFdXfk5r86fxKhJtGwWswmdM/S/LoonLake%20007-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 60290
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-LK987Xf/0/MdW7ZmQN7SHWbVgp5S4GFZcXnXw4Sb7ZH8RJp89f8/M/LoonLake%20007-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 128706
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-LK987Xf/0/NVJ4nqzFVtdSfHDFth7JFLt3Tg9cBN8d2cnmTwFCh/L/LoonLake%20007-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 213128
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-LK987Xf/0/NKGQ3v5LTW2hTPnkRHqjzMrRDH5GVG3xGVk9sfD32/XL/LoonLake%20007-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-LK987Xf/0/Mss743qzjGdx4HvnFdCqGWVVN9qtb5w2rkWLGfX2H/X2/LoonLake%20007-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 772194
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-LK987Xf/0/K4sLJjtQGzJpmxjZ4DP4GvPfPjrwHXztK2dDqZxgr/X3/LoonLake%20007-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-LK987Xf/0/MsfKsTHmQcsw56Gq7GsVS882shzBbSx8bTWdtcWfD/X4/LoonLake%20007-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-LK987Xf/0/NGrVvS3Tf9bBqKLDmZc336c5t9RJnHNsqnQqrvs5D/X5/LoonLake%20007-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-LK987Xf/0/LkSPVJTfjXkf9wJnh3hpF6VRnwmqtSMBMBZx9RL8b/O/LoonLake%20007.jpg",
+          "Ext": "jpg",
+          "Height": 1944,
+          "Width": 2592,
+          "Size": 1873630,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/LK987Xf-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/LK987Xf-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "LoonLake 013.jpg",
+      "Date": "2008-04-12T18:26:51+00:00",
+      "Uri": "/api/v2/album/Q9Hsf8/image/7DnhCXb-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-LoonLake/i-7DnhCXb/0/#size#/LoonLake%20013-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-7DnhCXb/0/LpCRS3wQsGfhJLLJWsmWBMDDmRZhJqt7wh4cTM9df/Ti/LoonLake%20013-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-7DnhCXb/0/LkHKSBmPkS9RZRfzQtvmj23DGjHznLWhjpk83XNDm/Th/LoonLake%20013-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-7DnhCXb/0/LFjBVGsRRdFL67xtKxsX7Nt8X6Jn2t4qFxFZfnchv/S/LoonLake%20013-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 63231
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-7DnhCXb/0/MRnfn6MvGbBX3c5bKPntSNBMtk5dtPKmdzPT53vrz/M/LoonLake%20013-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 134600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-7DnhCXb/0/LNLLLfZfW8WHsgZhs845HrP9GLgsBBWxjzwXvSkWV/L/LoonLake%20013-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 222338
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-7DnhCXb/0/KsmbrHvtrVq79xB5TvPj93gNjC72DkDG626fcKmKH/XL/LoonLake%20013-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-7DnhCXb/0/K289GjZjdMrfcRh8pPZDphQQPFZWSsQX8ctNrc576/X2/LoonLake%20013-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 774817
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-7DnhCXb/0/KrLgCCgPxHt2xCvmsvXvzn5jbMC4ZQLRDvtJCnSvS/X3/LoonLake%20013-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-7DnhCXb/0/Mw59pfjqGxsBRQvd57nNVGhV9dGkTkDmSFZzvvf63/X4/LoonLake%20013-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-7DnhCXb/0/NSDm9fNdM3JN6QP6XrwMgkvXTg8m9Qpkb4CL8P5sW/X5/LoonLake%20013-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-7DnhCXb/0/Kzn7nFzTKSxXnZg4DtQtpXhK5ZqFqFHFxXThBKFVh/O/LoonLake%20013.jpg",
+          "Ext": "jpg",
+          "Height": 1944,
+          "Width": 2592,
+          "Size": 1893547,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/7DnhCXb-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/7DnhCXb-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "LoonLake 020.jpg",
+      "Date": "2008-04-12T18:26:54+00:00",
+      "Uri": "/api/v2/album/Q9Hsf8/image/HvFHkVk-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-LoonLake/i-HvFHkVk/0/#size#/LoonLake%20020-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-HvFHkVk/0/LvnHF6tCFP56bbFDtqpMVPHmZGzbQmRBLTF2fc5XH/Ti/LoonLake%20020-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-HvFHkVk/0/NNTzgQ4ZpZMQVm868nhHXS7GcJ5zdQTNj4NMg247S/Th/LoonLake%20020-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-HvFHkVk/0/LnkcVxmQKSMRGCtVMGhqm48zsFvD9Tr5ghmMp3zdR/S/LoonLake%20020-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 44229
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-HvFHkVk/0/MH3gNkQfC9jnhqkmkKX3CK9vP68wcGmH9Rb5DdRj3/M/LoonLake%20020-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 94762
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-HvFHkVk/0/LrknXp8Jg7SMMrvq989FVh6FwBv2kZ9bd4zxMM9FC/L/LoonLake%20020-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 159200
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-HvFHkVk/0/NC4ZJDxc7wWqFKb4qgH8Dp2X4tSwGwWtwpG6CdkmW/XL/LoonLake%20020-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-HvFHkVk/0/MwWTC3hHCkvg84ZFM5ZQ44LFD8cfHphMWgRq6wZX4/X2/LoonLake%20020-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 621709
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-HvFHkVk/0/NZW3NNG3KsWZGMK6thWBPFf7jfQgGRWKD7vdJ7gbX/X3/LoonLake%20020-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-HvFHkVk/0/KqMnrvTW9kp7TbfK7vk9MHDtBSVTxsP3mpqjN9P42/X4/LoonLake%20020-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-HvFHkVk/0/LcmhtCvCC84BsfX98L2FKpZB8mPZBGr7nJjGn7gcK/X5/LoonLake%20020-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-HvFHkVk/0/KvcrdzgxQXTGsDDJHvdFxZ7QGNC9QS25Gc6Rvz2PM/O/LoonLake%20020.jpg",
+          "Ext": "jpg",
+          "Height": 1944,
+          "Width": 2592,
+          "Size": 1526201,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/HvFHkVk-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/HvFHkVk-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "LoonLake 024.jpg",
+      "Date": "2008-04-12T18:26:57+00:00",
+      "Uri": "/api/v2/album/Q9Hsf8/image/wcZ6RLJ-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-LoonLake/i-wcZ6RLJ/0/#size#/LoonLake%20024-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-wcZ6RLJ/0/KDq7DXBNJsH4NL7fLDvgX8QkbvN62XdrkFmGjN4RF/Ti/LoonLake%20024-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-wcZ6RLJ/0/MxLzxf6pqG72KsGhTrxvCMnvPdFhv83v4RcdpX4Qv/Th/LoonLake%20024-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-wcZ6RLJ/0/KDMF4rQTtnXD8g4CXqWhmCFWVrzd7HKJ5gMSV8qct/S/LoonLake%20024-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 38414
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-wcZ6RLJ/0/NZCVzwqjsJDctpFt46C5NQp6BskD83WwHTgnTpdt9/M/LoonLake%20024-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 79481
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-wcZ6RLJ/0/LMPsXpXPMNwMR6z8nGfPHbfZVZLQ8pgzPXkDF7ffP/L/LoonLake%20024-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 130636
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-wcZ6RLJ/0/Kqp6Xq24Chw9qpbCf95GdcvBpg9g945hMs95pspp5/XL/LoonLake%20024-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-wcZ6RLJ/0/LvP3Lc7rGbBJW24B2nZw9Nq8PrfXwjb9NgzL4rWT4/X2/LoonLake%20024-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 515049
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-wcZ6RLJ/0/KqG55vnJ6vJXcDMw8ThBzPczkJTJwHR5pgg6G9r8M/X3/LoonLake%20024-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-wcZ6RLJ/0/MGJ7q4gWSCPLWwhmzRckBqtk6sQTKb42tLqxpGDRn/X4/LoonLake%20024-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-wcZ6RLJ/0/K3KdSqHbnL2BLGFPxssvbrD68bKJk4sL687kKG8LB/X5/LoonLake%20024-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-wcZ6RLJ/0/K6DCmvszm3LQXTcTd7t7qk36WgFGhPQSKLf3HsCCp/O/LoonLake%20024.jpg",
+          "Ext": "jpg",
+          "Height": 1944,
+          "Width": 2592,
+          "Size": 1221441,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/wcZ6RLJ-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/wcZ6RLJ-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "LoonLake 029.jpg",
+      "Date": "2008-04-12T18:27:02+00:00",
+      "Uri": "/api/v2/album/Q9Hsf8/image/584Z3B9-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-LoonLake/i-584Z3B9/0/#size#/LoonLake%20029-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-584Z3B9/0/LBk8WQM9Kx87xjgvg77zj3cNfWLVTgZ2xhQk2TJWT/Ti/LoonLake%20029-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-584Z3B9/0/K9Px3rq4KJwcTMdwBvpNjVbTBhzgLqxwPmZLkhZLn/Th/LoonLake%20029-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-584Z3B9/0/MWm2637sCVW7XP3gTqR9TChD4BWwJqTT2R6xtJ2Mz/S/LoonLake%20029-S.jpg",
+          "Ext": "jpg",
+          "Height": 267,
+          "Width": 400,
+          "Size": 38982
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-584Z3B9/0/MZDkrTwHSPGn5SQqxb9bNtdZsxs8wFdztfLXXxKCr/M/LoonLake%20029-M.jpg",
+          "Ext": "jpg",
+          "Height": 400,
+          "Width": 599,
+          "Size": 77413
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-584Z3B9/0/Kw2nRXMpGVTc4srFq3mhHv2C8tcjxvWBtxKMGMnnh/L/LoonLake%20029-L.jpg",
+          "Ext": "jpg",
+          "Height": 534,
+          "Width": 800,
+          "Size": 127558
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-584Z3B9/0/MLHfP3hXMNtB5jfH8cqTpLpz6LJCjsSbctGxtNxDL/XL/LoonLake%20029-XL.jpg",
+          "Ext": "jpg",
+          "Height": 683,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-584Z3B9/0/LMxg3JFhTsbBphN6mW2gFG5X84PfGqff767wvnGKZ/X2/LoonLake%20029-X2.jpg",
+          "Ext": "jpg",
+          "Height": 853,
+          "Width": 1280,
+          "Size": 428002
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-584Z3B9/0/Mz3z78ZkSD9Lh833QRMZmHNrSbzbRsjw5PHC4pBcG/X3/LoonLake%20029-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1067,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-584Z3B9/0/M66zrF2BPzDPh9PqHnp2GT4C6ZPHRRxcvKw9HLV8W/X4/LoonLake%20029-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1365,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-584Z3B9/0/MNjfGxqDCHRJP3WNM7n5CRxKDwM9HDc5jJmZW5z3D/O/LoonLake%20029.jpg",
+          "Ext": "jpg",
+          "Height": 1628,
+          "Width": 2442,
+          "Size": 888409,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/584Z3B9-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/584Z3B9-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "LoonLake 025.jpg",
+      "Date": "2008-04-12T18:27:00+00:00",
+      "Uri": "/api/v2/album/Q9Hsf8/image/5xspm8b-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-LoonLake/i-5xspm8b/0/#size#/LoonLake%20025-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-5xspm8b/0/MMcGrVx7mmkVcXxG6DsjvXG2GdRrBFt6pztNPXc8h/Ti/LoonLake%20025-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-5xspm8b/0/KDWDxxffDGstzFJ3CvBQtFjrR5FT88mDrNFPTG7w5/Th/LoonLake%20025-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-5xspm8b/0/KQ6dLQPbVTxDPgHZ6NGWw5xvZL48H2cstCQmD6p8r/S/LoonLake%20025-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 45757
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-5xspm8b/0/K8CR9hf2B4VnBBL2smFzQrz4wGNjPV7Ks7m8cfFzn/M/LoonLake%20025-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 92974
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-5xspm8b/0/K54vVqTkCBw4xMBN2qnpdRjjfvzMHFz5DS5FZrVbh/L/LoonLake%20025-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 149720
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-5xspm8b/0/MG7chzWQBnL8TvzrpJc7C3GGHpM9j3cxjrpmsKXzx/XL/LoonLake%20025-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-5xspm8b/0/NVj3Ppsc3CgCZ6zrq4T73bv33t86QK45jW7zwBgZM/X2/LoonLake%20025-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 560543
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-5xspm8b/0/K6V7VpxTfpmXhqjGXZSqKgtdrrnMv8Wtfd5tnpJ6m/X3/LoonLake%20025-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-5xspm8b/0/KJHSvtD55cDNrRwK7352Dxj2Wnxw4JqWKsRcLmFm7/X4/LoonLake%20025-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-5xspm8b/0/Kbtn5Wx8LfLgSjdntxcxbf6mQMKnqv39kZD6wr65m/X5/LoonLake%20025-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-5xspm8b/0/Lc8tq4gNCK3w2pLjSRVNBzJZnqFL5ZtdJgTJ8KbDx/O/LoonLake%20025.jpg",
+          "Ext": "jpg",
+          "Height": 1944,
+          "Width": 2592,
+          "Size": 1324044,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/5xspm8b-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/5xspm8b-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "LoonLake 030.jpg",
+      "Date": "2008-04-12T18:27:08+00:00",
+      "Uri": "/api/v2/album/Q9Hsf8/image/CJSjhPL-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-LoonLake/i-CJSjhPL/0/#size#/LoonLake%20030-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-CJSjhPL/0/KMpcjFBSm5NrZSTz2WMCQFZWsL2qsvPK43D8K8ZHb/Ti/LoonLake%20030-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-CJSjhPL/0/Kmcpnvw3r47wVF8B7Rxq6bHSKzFhW4b44V8m3Pk6C/Th/LoonLake%20030-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-CJSjhPL/0/MXXnxQh9Nw8QX2wvsHtc2H3w8RZzCm5qKMD2wzR2v/S/LoonLake%20030-S.jpg",
+          "Ext": "jpg",
+          "Height": 267,
+          "Width": 400,
+          "Size": 44723
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-CJSjhPL/0/LWZWx5B5h5t62JWMHz9fcqXK9Dt9BfTBT37XmRTN9/M/LoonLake%20030-M.jpg",
+          "Ext": "jpg",
+          "Height": 400,
+          "Width": 599,
+          "Size": 90698
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-CJSjhPL/0/MbSkL6mXjRcsqJXh3NcdqGtg3vK93nghn2ZDSjc2r/L/LoonLake%20030-L.jpg",
+          "Ext": "jpg",
+          "Height": 534,
+          "Width": 800,
+          "Size": 149317
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-CJSjhPL/0/KM9NTr6fKwBTB2dNS6k9PhwcTbzwFpVPt7HNhH9zh/XL/LoonLake%20030-XL.jpg",
+          "Ext": "jpg",
+          "Height": 683,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-CJSjhPL/0/KmxbBFB5w7vcbmfcQbW3n9kLqRffpfg9hNMQjFhKs/X2/LoonLake%20030-X2.jpg",
+          "Ext": "jpg",
+          "Height": 854,
+          "Width": 1280,
+          "Size": 478791
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-CJSjhPL/0/KhjdP645hCWdT87kDqg7hrGd3TxsswDJ7Lnkqrdzb/X3/LoonLake%20030-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1067,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-CJSjhPL/0/MPTKXXcqTkhRwvMstvgQ4HfHjkBwPPtthQn9Q9nhN/X4/LoonLake%20030-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1366,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-CJSjhPL/0/NSgBxxtwRmJj3FK6PHVVz9KkcWm5S9LM7qCHJhrpX/O/LoonLake%20030.jpg",
+          "Ext": "jpg",
+          "Height": 1605,
+          "Width": 2407,
+          "Size": 954041,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/CJSjhPL-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/CJSjhPL-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "LoonLake 039.jpg",
+      "Date": "2008-04-12T18:27:12+00:00",
+      "Uri": "/api/v2/album/Q9Hsf8/image/3v8wRnj-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-LoonLake/i-3v8wRnj/0/#size#/LoonLake%20039-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-3v8wRnj/0/KPpj4DZt7RLdGCkv7VvDrkKRhgK2RVwb6mJb4SdwS/Ti/LoonLake%20039-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-3v8wRnj/0/K3j7PM7fNSdqxgJPKdnGrmWB7mgbpdtMxtxXHFSz4/Th/LoonLake%20039-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-3v8wRnj/0/Kv3v55D7ccFS3Qv3cqBtcPMkShGhMpzfpm2gzC62C/S/LoonLake%20039-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 63240
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-3v8wRnj/0/KmGbH9KDQ7J2fRPj8rKj4fFKGvC9VVfMC3gwDVZbj/M/LoonLake%20039-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 132603
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-3v8wRnj/0/LCStFfTtkt47qFVkC397mmhNH2tx4L5q5h3jkVxKw/L/LoonLake%20039-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 217410
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-3v8wRnj/0/MrV9pLf82v8nbSqhw996ssTxQ6Zsk94szdHVwxGJr/XL/LoonLake%20039-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-3v8wRnj/0/M48GzQF8mXQVTn2DBQXXWZG2G2kXsHpPGzZghbLz4/X2/LoonLake%20039-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 774445
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-3v8wRnj/0/LFM7GJMsp695P7RzJQWwxHTDd5N6PsRWGpqGD7dJK/X3/LoonLake%20039-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-3v8wRnj/0/MP4c9gSvrGW45CXznp5K73LjNMTqcGTnNBNpM6nSV/X4/LoonLake%20039-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-3v8wRnj/0/LGC8PBDL5wnhhvVTLhQP5ktL8gHds6ZHZkG7nSwtX/X5/LoonLake%20039-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-3v8wRnj/0/Kn7VrZdG4drBJ2qWVwxW4SVTFsMgb8Nj6LGmFR3rw/O/LoonLake%20039.jpg",
+          "Ext": "jpg",
+          "Height": 1944,
+          "Width": 2592,
+          "Size": 1846484,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/3v8wRnj-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/3v8wRnj-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "LoonLake 036.jpg",
+      "Date": "2008-04-12T18:27:14+00:00",
+      "Uri": "/api/v2/album/Q9Hsf8/image/CB5FGTR-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-LoonLake/i-CB5FGTR/0/#size#/LoonLake%20036-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-CB5FGTR/0/MWDXLTwLmKdgQRSRMxXDQD4JTHgLGrNNcwGgFMpcW/Ti/LoonLake%20036-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-CB5FGTR/0/KrbpvsP7CkfFqNzBCW5zSGLVLcmbgSDzwHRnq2JGh/Th/LoonLake%20036-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-CB5FGTR/0/K9NQgdJK5Rwgfd5ZFTNk565Dr5SdB4VjknjVX7kXL/S/LoonLake%20036-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 51767
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-CB5FGTR/0/L5XsFfbMzpCJ3XcNf9GHMCPdwprDsR9RckbmBPKSH/M/LoonLake%20036-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 86160
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-CB5FGTR/0/LQvm7xkfxCp2XqzPTw2K4GVCvnLBvK6TxvC83cvnS/L/LoonLake%20036-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 179125
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-CB5FGTR/0/LcQNJ7hKT5GGR34cxpP9PpD8XMrZPpLk645Wns99n/XL/LoonLake%20036-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 433395
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-CB5FGTR/0/Mnx2tPWVHwmTg4TSH5WQZZpc9S3M6sP22TrGFqLFN/X2/LoonLake%20036-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 665114
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-CB5FGTR/0/Mpgc2MgjgR6JGxcTj3hnbcmHjkLvcPwgH7v75LKGj/X3/LoonLake%20036-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-CB5FGTR/0/Mx3cxj3ZjJkVGPSVd4dg5SzZMLrBVWmWG8hrQZZk4/X4/LoonLake%20036-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-CB5FGTR/0/LpX6Fbj2PdsqdgKq24jwnZq8vJGKMw4w6F9HhzMHz/X5/LoonLake%20036-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-CB5FGTR/0/M9QbwH87mfVwqS93fSkX5BFnhZFFkbnZqVXLBCMJh/O/LoonLake%20036.jpg",
+          "Ext": "jpg",
+          "Height": 1944,
+          "Width": 2592,
+          "Size": 1585296,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/CB5FGTR-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/CB5FGTR-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "LoonLake 040.jpg",
+      "Date": "2008-04-12T18:27:18+00:00",
+      "Uri": "/api/v2/album/Q9Hsf8/image/XcXT6Wc-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-LoonLake/i-XcXT6Wc/0/#size#/LoonLake%20040-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-XcXT6Wc/0/LTZDqWpX8TmxmNQVbC6VwrThSDJ5vXDqHPrJdQtds/Ti/LoonLake%20040-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-XcXT6Wc/0/Kb7s9qf2PFdfMJLKGNwmQxkqKXsMngJpdzTHtBX3v/Th/LoonLake%20040-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-XcXT6Wc/0/NJpQFZ24BRs6MXm87Mk22nZSZtKG67vd8gFg65tm6/S/LoonLake%20040-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 40208
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-XcXT6Wc/0/LbPkNt2hmFC6cjRvSZS9G5j8xVXNjDNgTgg2J5q8H/M/LoonLake%20040-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 68682
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-XcXT6Wc/0/LFkccFFD7SNpXPv7NHF2WFBG9tQR4TQMcW2XgVCkz/L/LoonLake%20040-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 143318
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-XcXT6Wc/0/NHbwH3v73MkZ3jWgWGJRBhgN2ddhnXGHfKcLSbr6M/XL/LoonLake%20040-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 361978
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-XcXT6Wc/0/MwNTvTDDzLZ9jvNCW8bwGNvFMpBk7XJZXJ7PhGVqZ/X2/LoonLake%20040-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 564740
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-XcXT6Wc/0/KMzfgf5jn8zj6kRjv75RvcwWPV66G8zjprG25wvJG/X3/LoonLake%20040-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-XcXT6Wc/0/MGnZhzthnXb9nJrhrzV4zXB6BKmtf46dTw8jkc6cp/X4/LoonLake%20040-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-XcXT6Wc/0/MLtxp2J5Xwv92rft7FNJvTJx9367z9CsTZQ8mRCFc/X5/LoonLake%20040-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-LoonLake/i-XcXT6Wc/0/NKBkgCNvSzL49trXmWG2RPPgZP69LbNJ6BQgQX4ss/O/LoonLake%20040.jpg",
+          "Ext": "jpg",
+          "Height": 1944,
+          "Width": 2592,
+          "Size": 1359346,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/XcXT6Wc-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/XcXT6Wc-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    }
+  ]
+}

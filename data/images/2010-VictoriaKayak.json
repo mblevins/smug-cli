@@ -1,0 +1,3112 @@
+{
+  "UrlName": "2010-VictoriaKayak",
+  "Name": "2010-Victoria Kayak",
+  "Uri": "/api/v2/album/gtFb8M",
+  "Date": "2010-08-16T13:51:51+00:00",
+  "WebUri": "https://lmblevins.smugmug.com/Travel/2010-VictoriaKayak",
+  "Images": [
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "062.JPG",
+      "Date": "2010-08-16T04:07:07+00:00",
+      "Uri": "/api/v2/album/gtFb8M/image/znF96Qd-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-znF96Qd/0/#size#/062-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-znF96Qd/0/NGVkdW8FjQkM4sTXqjvz9HqwkRW33KqZj2dQ864sh/Ti/062-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-znF96Qd/0/LN4B4Wk82t8v6j2WgzKscC8GX8twbDKXDDczkspWg/Th/062-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 14177
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-znF96Qd/0/NBsfrGBWC3wtNPdh9mw46Qm3GBJtTvpcp3mBV7vjh/S/062-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 47625
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-znF96Qd/0/L3C5H8QntQh6RQT6GhLjvH4Rrzm47fQ9skg8CmWTg/M/062-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 92706
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-znF96Qd/0/LpdJHJ9Z8B623MnJkR34xVR5QLvJcNt8jt5wJqFQK/L/062-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 146114
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-znF96Qd/0/KKqmBmT4Dm3GHn2qfwRbmxpHG9qRN86Np95kjmmtR/XL/062-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 224381
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-znF96Qd/0/LrDMjNwtkCfqpp8PTQZf8V4qZsJjPKgCshdJK56NZ/X2/062-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 518578
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-znF96Qd/0/LbTWWLHkD83hcz7337GswgRh4jW4zHN9DZH3MB3tn/X3/062-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-znF96Qd/0/KfNnQdjpWtJzNV6FZXmMPPH66SK9HTH3FhxMg5Mcc/X4/062-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-znF96Qd/0/NSRzn3Bm72M7KmMZNMFNz2wJTDqqRddhZPnLqnFLd/X5/062-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-znF96Qd/0/LxqVPhKhSSH7mtCVVkZNCc7ktjjVpshhC2BCdw6B9/O/062.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 3912242,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/znF96Qd-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/znF96Qd-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "063.JPG",
+      "Date": "2010-08-16T04:08:21+00:00",
+      "Uri": "/api/v2/album/gtFb8M/image/NvcZ6Hj-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-NvcZ6Hj/0/#size#/063-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-NvcZ6Hj/0/LhjmKgF6CLsv36G89vpVmgJDVvMkZGm9kFnj8fTZm/Ti/063-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 8305
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-NvcZ6Hj/0/KFn74sQfZrjLD4LpNv4VFS2Zv8xgJRcSsnWSq8wWW/Th/063-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-NvcZ6Hj/0/KNnCzpw5kD2pCRKb44pkS4pXFdPvH6GsMb8kSzdfS/S/063-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 37079
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-NvcZ6Hj/0/M29qZNswvJjk2G7x4MH2NrKjZ9WtQMw7CBsf79pSk/M/063-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-NvcZ6Hj/0/K24JjsTP76NvCXkkDfk47SMPWMwHxZ35nkkP8BQh2/L/063-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 148673
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-NvcZ6Hj/0/NKprgJcpjRfnkJmzMKkHckHCWCDCzwFjh74wpBDv3/XL/063-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 356690
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-NvcZ6Hj/0/KccMtDVgK6Zt8dG865sXMhks8kkDSJngdXXxf3hV2/X2/063-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 544396
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-NvcZ6Hj/0/M7QSZWbZsNZ9DWmvF3Zcj2D2MMQHtZq2TjnfJ7j4P/X3/063-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-NvcZ6Hj/0/MJh5ZTrzrf3H3C5H23BnWzk2xRL8hbXHbb3nhzPW8/X4/063-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-NvcZ6Hj/0/MrP559b2x4bN2qHgxpmnLjzjjFxhwbnxjG6R6pjFX/X5/063-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-NvcZ6Hj/0/MdZnNpFdrHwTHvZGBR7zFhLdc8grdbTprgxTLk2BP/O/063.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 4317297,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/NvcZ6Hj-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/NvcZ6Hj-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "064.JPG",
+      "Date": "2010-08-16T04:09:31+00:00",
+      "Uri": "/api/v2/album/gtFb8M/image/SmC2jCQ-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-SmC2jCQ/0/#size#/064-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-SmC2jCQ/0/MNn65V5LjMc4MpL6BCpM6DzXsQKtJ6P4QgN22J8TG/Ti/064-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-SmC2jCQ/0/LsDbcLJW9Wnd2mdFJJzNPD9QML3vm6qDjM6M73cXB/Th/064-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-SmC2jCQ/0/LJ4FRBCz3dCSqHqf7GmTPc8jHWdXsdZTVhBfhL8Df/S/064-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 40628
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-SmC2jCQ/0/LpFNQbVzv5g6NSCrNW7WjVLs64nKBR4WcdkzwkZJv/M/064-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-SmC2jCQ/0/LM3DkxWqvPJr2c9sH8D7TCFW62T2TpzdZLJXKQ3Jt/L/064-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 156850
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-SmC2jCQ/0/MMqHfKH56VpwfgdQFqk7R3qHPm4SVjhrn54fF3G7w/XL/064-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 366896
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-SmC2jCQ/0/MpBVk2SzJKPVBWZJm7LQxGcJ6LnmPStHCT3KQSPR2/X2/064-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 554453
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-SmC2jCQ/0/LGPcfwZSrZn5tRs27bKzHRjwDsKfJkPthXrg77V3X/X3/064-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-SmC2jCQ/0/KzqG5dscXjR9CcHFwDxhQvxZdB89JTZmSkFXcTD8K/X4/064-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-SmC2jCQ/0/KKX7Hm3zwKBqV8fnkMtRfq2ndRjqSGz4tw5SNzS6d/X5/064-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-SmC2jCQ/0/Lg3VR5htPZj2DFV7WcCdprTP7T7g8mcFwSwzVzkcp/O/064.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 4272630,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/SmC2jCQ-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/SmC2jCQ-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "066.JPG",
+      "Date": "2010-08-16T04:11:54+00:00",
+      "Uri": "/api/v2/album/gtFb8M/image/5pbPrxG-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-5pbPrxG/0/#size#/066-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-5pbPrxG/0/KhLrjgcxPDLv2D8RcRmN8vrc3b4Jc6ftz2wZH9V8w/Ti/066-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-5pbPrxG/0/KXQsQRmpt2NbjBtqcPVFTdxD4LdRK9CbFwVQ2WBRf/Th/066-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-5pbPrxG/0/LCt7SR5s4gFxRb8dn5s8gdfSp4mMs9qtPsMcmSPdh/S/066-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 73242
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-5pbPrxG/0/LPdrCCfxjd2qnCwMsWcN5rFGtFv7LgTqZStXSMKLs/M/066-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-5pbPrxG/0/MRPRPCgc4SKp8v78JpwG8V7pCTGVPVFD3JWC3PNwh/L/066-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 316682
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-5pbPrxG/0/KQJz7gGJ9XwSgWCx3ZphFpTTL2695dDfbJxwMmwWs/XL/066-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 707481
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-5pbPrxG/0/KdgBQDvz7HFZFGxXPMPdRR8PvVNKXFJtrgDqzhMxG/X2/066-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 1082816
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-5pbPrxG/0/LFjNBfCbwww9vTpsWfbQkKj2GpK6QZmsKbLKFJRr2/X3/066-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-5pbPrxG/0/LFLzMqGpmMRpVZGQ29DSSVw5942HNCm5Shgv6dRRr/X4/066-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-5pbPrxG/0/KQMZtwv697dsXMStnz9nfWJb4h8SqhtvXPDK6csQp/X5/066-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-5pbPrxG/0/Kv9XG5VxsSmXCvDczDm2k7z2VM2NDThL76F32Prtt/O/066.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 8805495,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/5pbPrxG-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/5pbPrxG-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "067.JPG",
+      "Date": "2010-08-16T04:13:18+00:00",
+      "Uri": "/api/v2/album/gtFb8M/image/Bcmj6Zk-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-Bcmj6Zk/0/#size#/067-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-Bcmj6Zk/0/LM2qRFVWm3NqGnmGcKtwtbx2H8gJWbZfQk64bVrH6/Ti/067-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-Bcmj6Zk/0/MrC3rm4mP533kGdxms7mJ3Q8HKKjmvn8jg5C8HRh4/Th/067-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-Bcmj6Zk/0/KXbVjV5NhntnW4nMb3TmzJx67RPX7Lg8788cm9ZMD/S/067-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 34821
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-Bcmj6Zk/0/LNgJrc7QBM9tnRmZzfJS2V5dbKSrjLdDsVDT5fqLz/M/067-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-Bcmj6Zk/0/LBJ6rwVLwxLPNr5sTjQJ4QVxs6ZRVLrNVGZxKdSxP/L/067-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 134651
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-Bcmj6Zk/0/LCLGW544V4GsJGfspNWrKQbQQDZCpD9jjFpmp6fcK/XL/067-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-Bcmj6Zk/0/M5TzZhHKJzFXZCBzLfwZRPFstW4997sPzZ5HjhfPq/X2/067-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 502270
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-Bcmj6Zk/0/McRZVP68kFMKm9kpn8sBDdP3mJZZ6kDrzZhVvw8gq/X3/067-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-Bcmj6Zk/0/LRfvpPKf2hcgTdS2V4wgVJZWqLtNnmmwnDFK72ptf/X4/067-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-Bcmj6Zk/0/KPtFF5HCD5mFMFFbbh9ZJhQXvMXdBPp2K9FQLkmx3/X5/067-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-Bcmj6Zk/0/K7H7wSS2MpjsxMTjMBstRcTgGqDBhsTf6T4JknShb/O/067.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 4459924,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Bcmj6Zk-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Bcmj6Zk-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "068.JPG",
+      "Date": "2010-08-16T04:14:43+00:00",
+      "Uri": "/api/v2/album/gtFb8M/image/CSqh9X4-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-CSqh9X4/0/#size#/068-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-CSqh9X4/0/KG8c4jb64TLJbb3mQTVv9S6W9qp8FwwmMDV78rH48/Ti/068-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-CSqh9X4/0/MFJMRb2TkjNBB8RQRc4wW49MThPTnNFRhQzdNzK9q/Th/068-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-CSqh9X4/0/NGqz2x92cbvTqrL7j2RXDPVnTmfJmNSMS5bBNtzjz/S/068-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 51000
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-CSqh9X4/0/NZCd8GnNGPRp7GRHpnnG8FWwK3jt4PhndrdTKd5q7/M/068-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-CSqh9X4/0/LRbD63stV98JtTWJq5tFrqd9sKFNG4PTHTD7R4KtF/L/068-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 200641
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-CSqh9X4/0/M5sg82hxJqCRCLpmTDtQTRB2kXNFfmrHMPhhF6WZK/XL/068-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 456880
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-CSqh9X4/0/MRbG8NdbBcw4KzGDJ7rPS8JhqCzJkCm5ZKPNW2dJN/X2/068-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 685892
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-CSqh9X4/0/M8C5hRMRgP8kRjTwsw4qfmbVVLTvg3HDnqppTHbK3/X3/068-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-CSqh9X4/0/MVQ3X7zCMWkZn8MD6dHVwPWg9WPsRR8sXvGTkwvSK/X4/068-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-CSqh9X4/0/Kcn4RdmBTVsxvtGFnP9qSL4gPtkZfMNDKvGV6CwFS/X5/068-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-CSqh9X4/0/M4fdcvNp9mbhQnhR5cqCPMnJWNN8vbZ6GZzD6cDTD/O/068.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 5097398,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/CSqh9X4-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/CSqh9X4-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "069.JPG",
+      "Date": "2010-08-16T04:15:47+00:00",
+      "Uri": "/api/v2/album/gtFb8M/image/LFDV7C7-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-LFDV7C7/0/#size#/069-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-LFDV7C7/0/NSkKT7KmrT4qfWMmR4FWPjR2XKMVtmwQbJwKSrx8Q/Ti/069-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-LFDV7C7/0/NZJqHsf6734fLgbW6JzL4mNcXX2PFX5Q4W7sN4Cth/Th/069-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-LFDV7C7/0/KjwHTbWKXk4CkkbgpQfTCpZ9VpxqwjBKRx3sCTCpS/S/069-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 31261
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-LFDV7C7/0/NFGq2m5DcdKmPsBW8N79RB92q2rDQwLQDhJjHBMmx/M/069-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-LFDV7C7/0/NV8GjFQpsdQCfXbgCmRZLpkMXdrzvBGVZQGVdM86d/L/069-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 120866
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-LFDV7C7/0/Lz6LwkxphWt9BbnJjhJkVf5ZDgFvRwPVfqhwSjFjL/XL/069-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 297672
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-LFDV7C7/0/L3s8bvDQkJCgLBsZ8VfCvwkbs6pmMbJsRkhjFQzBk/X2/069-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 455579
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-LFDV7C7/0/LLgBrvMgcRqw2QB74B6WdvkLwvLTD7FcKhcVP867F/X3/069-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-LFDV7C7/0/Mxq2kKHdPjx6L4XpXzWNkTwLRFNfLfPsb2dLxzh4k/X4/069-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-LFDV7C7/0/McwMtWNfKwsDd9wqhvsC5QDwN43NzQsT7FTq9dNxg/X5/069-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-LFDV7C7/0/MhCRmqHSL5mS8mkVJSNNH9Mbpm2Ht3fpkWks7BGJX/O/069.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 3729536,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/LFDV7C7-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/LFDV7C7-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "072.JPG",
+      "Date": "2010-08-16T04:17:07+00:00",
+      "Uri": "/api/v2/album/gtFb8M/image/cTK8HQq-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-cTK8HQq/0/#size#/072-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-cTK8HQq/0/MDX4s3CVSr5TjXH2mc5CqjQKXJt54X6dspCxhLwFK/Ti/072-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-cTK8HQq/0/MvFsdQH3vn4T5gPSQWvkb6QvLpRGLfVcHX7Mpzj4L/Th/072-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-cTK8HQq/0/LKwPCDBKP9n84pnWWLnWb42n6PFbsX48t5J74hL29/S/072-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 22680
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-cTK8HQq/0/LMmrW5kMcH2M3d6fdPZ2zcg2xvVr9F5qR6pnGfhNz/M/072-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-cTK8HQq/0/Mk8K3fGZJg7kCfFRbFrpXHPT5XhB4R3CMfwt8GgPk/L/072-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 85418
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-cTK8HQq/0/LJLvrWrg3gWMrtXtxDSt9hTGr4pFFvnHbJswFwBrT/XL/072-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 240189
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-cTK8HQq/0/KcQ8VNT6dBRq9NWt2RxhcGT7GbPhs9sPMrMNgFVfj/X2/072-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 388111
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-cTK8HQq/0/M98Ms2Ctk9QSd5WW3kbzMPZf2TbShV6hqxDmZFmcb/X3/072-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-cTK8HQq/0/L8H3pfJgLKhJLXfVdkShxhjdVcbkcvLJp7MQv8xHS/X4/072-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-cTK8HQq/0/MxFLXhQrNjLSjrfPwstM6RDkR7n3L6mrvDJxHFSGc/X5/072-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-cTK8HQq/0/MNjJKKg6bRk542X2SQhsJZxvzjHQ5WSFGTwSjLsr9/O/072.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 4669237,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/cTK8HQq-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/cTK8HQq-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "073.JPG",
+      "Date": "2010-08-16T04:18:20+00:00",
+      "Uri": "/api/v2/album/gtFb8M/image/FTcVCWc-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-FTcVCWc/0/#size#/073-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-FTcVCWc/0/MPbHQ4jH63gXzjctxQjW9LGwq3tbqrxff7qk3pKMF/Ti/073-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-FTcVCWc/0/LR9m5mSWCDtwdzrmqgqwbtPfrkVjgMds5CmNND3DD/Th/073-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-FTcVCWc/0/KNzvhGWNJX5LjdxPnDwW9m5t6TDvgsSx7Trt5zvGR/S/073-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 32878
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-FTcVCWc/0/M2szRgNH5CVPDgkq4NhLRthBPrP7GQFBzBs2v6tH6/M/073-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-FTcVCWc/0/KPwGvLQMQTdspKMw7PGhzbm3xJ7rp8SJN9J2pWX7Z/L/073-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 125118
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-FTcVCWc/0/NXFcmPdDL6GFrLqNwHKthwFVdCpSZPDxdv4qTc3Wx/XL/073-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 304382
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-FTcVCWc/0/MwtrzLBMK6xgbKq5HLzPXxNPV5spDbDfFVgKgxdXS/X2/073-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 463491
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-FTcVCWc/0/KkPqvDN7vLF5jgxWCpsCCPmxvtWhPGszBz3qzWRCN/X3/073-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-FTcVCWc/0/NcS28STxWCV3qQhbjqkDDb8rrwg5t9mDv2sbGbjsD/X4/073-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-FTcVCWc/0/M6gHxVn4m5KBRxG7nrQWStW6ZZdKzs8mMk8Z7KKzb/X5/073-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-FTcVCWc/0/LVjkjBkVCPTLSMPzZ4cwbQ5dmH5Zn94pHCxtm26rF/O/073.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 3712506,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/FTcVCWc-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/FTcVCWc-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "074.JPG",
+      "Date": "2010-08-16T04:19:44+00:00",
+      "Uri": "/api/v2/album/gtFb8M/image/M35L82m-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-M35L82m/0/#size#/074-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-M35L82m/0/NLQbqRvcGw8L8Bcgg4R9c6mvswJCpjWmcmV9SkxqK/Ti/074-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-M35L82m/0/M2zvL5H8bgRGrTNhNph9mSDntp54p6PWtq4TjN4wK/Th/074-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-M35L82m/0/KGrTPC8NJt2JhSd6B2VNfT4Tg47f468vHjpwngZkX/S/074-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 42858
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-M35L82m/0/MPFNKMptgKGs92BgC3pT8wBpfd2rq5zdkHmGtvDxh/M/074-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-M35L82m/0/KVZPL2rSXKbVtdXwWzp2pwzkLttCTkd3hDZ2fCCCR/L/074-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 160455
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-M35L82m/0/Mh5MHFb468jRFpGxrcJnnhPKx76vZdDtFgKKkTPQM/XL/074-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 367210
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-M35L82m/0/LBM5w2qkn28wM7z8dZTM5PfFNxB4Mk9Jqj96C773f/X2/074-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 553144
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-M35L82m/0/LLF6qLht4zfzMpVJWVvTfS6dDzL2LrbqwpPcjBqKH/X3/074-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-M35L82m/0/KL77rvwDk2KSqm3rd9tm3JwJFCL2Kh89BJNB5Cqzc/X4/074-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-M35L82m/0/MmZ7CKNVfQz8ws6m3M98C9BNtw7CJ8bwqgSWX2L26/X5/074-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-M35L82m/0/KJLVp3xk8g39bSq7gnjWjtSXhvDhs5g3GW2zngqkF/O/074.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 4965029,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/M35L82m-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/M35L82m-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "076.JPG",
+      "Date": "2010-08-16T04:21:01+00:00",
+      "Uri": "/api/v2/album/gtFb8M/image/S2ZnwxN-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-S2ZnwxN/0/#size#/076-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-S2ZnwxN/0/MjNPkq5fVdpCDMQk3QLrmZjrcJv7SQdqxRb7HthPs/Ti/076-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-S2ZnwxN/0/NQqRKdjGxBkq2Nv7T8MZCphGT5M5QFx9WvdGQKxjV/Th/076-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-S2ZnwxN/0/MKnWPhG9PG6Tt4RWq9SWFg75Tdxc3WxLm4xH632hN/S/076-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 43065
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-S2ZnwxN/0/KRnWcDXfWvc5PGbqfksBpRJ9PTkdWszbT5WtjvMCr/M/076-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-S2ZnwxN/0/LvSnRrz2qM7cncXNHjrqMkpTPpn82bKLSVG4LZSw5/L/076-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 158227
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-S2ZnwxN/0/Ls2bvsDBKCV5KNqn6Q8Bgn3XsFRgPJPqN5sZX7Sdf/XL/076-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 357880
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-S2ZnwxN/0/KFJNrgd88pDKRZzjHwRXP2tLjfFFBHwbRgmvLmwgn/X2/076-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 533289
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-S2ZnwxN/0/NRWVvCDjGMk4GvKg9QzdDRNF3c7HcLtGVvKWTCgMb/X3/076-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-S2ZnwxN/0/KqZr89ZbwzFWzC5LVNZHqXpN2tBjVqxnGFVG2CTpF/X4/076-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-S2ZnwxN/0/LzqrFsnpVhGWPzGBfCPwQfR2XzjXTGBrp2JN78g5f/X5/076-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-S2ZnwxN/0/L5r3RtDPLxvJWMgNddXqLrCbvBbnK27pd67fLhcNQ/O/076.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 4686373,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/S2ZnwxN-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/S2ZnwxN-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "080.JPG",
+      "Date": "2010-08-16T04:22:17+00:00",
+      "Uri": "/api/v2/album/gtFb8M/image/xVjLWSJ-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-xVjLWSJ/0/#size#/080-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-xVjLWSJ/0/NDvZHhbhqPSkd7kNqJgq8LrQT5rbSwVzTBSkrSx3c/Ti/080-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-xVjLWSJ/0/L7jjGvvT8Spn2DHtw62jRBP9fRJ4Fw8LTfHKwQp6m/Th/080-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-xVjLWSJ/0/NBqnkJGsKkvS5bDMWpsqvm3q5nLXcNz58nDhqnTGn/S/080-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 36079
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-xVjLWSJ/0/McD73Hv2V7zGrZjJVhCqQ5GJzcpDCnDdXrK6m9MwF/M/080-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-xVjLWSJ/0/LwwF28FhsQVhdtV2L3QJ2TXkfdtW48896fpVcBF4p/L/080-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 118121
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-xVjLWSJ/0/LLwZwVqgNLqfrQj8Q6fq4VRJVsVv2ZckwKBBJ43zq/XL/080-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 330142
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-xVjLWSJ/0/K5gdVG7MPZqkKJvX2q8LT7gvzCM2RV3drD9XgvjcJ/X2/080-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 499887
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-xVjLWSJ/0/M3QZwHJFrdWVWRGbLnV78K9J74QB2LpQzJRrmwbj6/X3/080-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-xVjLWSJ/0/KtdxhDbzTB4rb9cq2tVV2vSrC5P4W3h5Ns4xsJfBt/X4/080-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-xVjLWSJ/0/Ks6gJq54xKd2GLCVVjL5D9xzpW6Ff5LdLBtGNjHBm/X5/080-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-xVjLWSJ/0/K3kVbghck8mrjVMLmQ8t5JdPZrNN7MvvvFjMVstSF/O/080.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 3864551,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/xVjLWSJ-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/xVjLWSJ-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "082.JPG",
+      "Date": "2010-08-16T04:23:26+00:00",
+      "Uri": "/api/v2/album/gtFb8M/image/ZfLpwkk-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-ZfLpwkk/0/#size#/082-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-ZfLpwkk/0/Mqn57CNG89WMSZwMX6sZsK3ChmPRrvCrBdrnV3JhF/Ti/082-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-ZfLpwkk/0/KXntL8S85rzFR8d4Zp6ZzTzdWvsB3kp2g7TzQpvDv/Th/082-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-ZfLpwkk/0/Mjz3KXX3MjB8sWPmd4TnPMBh2VNqdngsKDGcksWLg/S/082-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 51671
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-ZfLpwkk/0/NKFTSX5LdM9qpzv2GzWZwSps6zq63CxwwbZBSk3Dn/M/082-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-ZfLpwkk/0/L9v2NLLNdwvBDVJ9S6rTqTVqn2XZH3ZbGX3Tw2wZf/L/082-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 166117
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-ZfLpwkk/0/NcznDdKSj7QpNHHr3qmCjLQDdmK2XVbG7Fb2gBVKQ/XL/082-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-ZfLpwkk/0/KZTKJnrdHHJrFmRDLGZT94ZNXtNp3mQ3ZjBTPT3LG/X2/082-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 379384
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-ZfLpwkk/0/MzLn86mMNqfH5dv32pHcmjCdcCCt63kqd82CBhbVn/X3/082-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Size": 548621
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-ZfLpwkk/0/KJDLxBXvRCbkDBwdxv4XwpWXkZLpxQN9z4VmxvTZs/X4/082-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-ZfLpwkk/0/K28XftSJCcT8rNsVrn5XPLV2v4wfSxJkT8Qwws8xZ/X5/082-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-ZfLpwkk/0/MwDJFmw6KndmWGbSL2n8PCHtCnpCnrwRt4PCxvbKM/O/082.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 4063355,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/ZfLpwkk-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/ZfLpwkk-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "084.JPG",
+      "Date": "2010-08-16T04:24:31+00:00",
+      "Uri": "/api/v2/album/gtFb8M/image/sw8HfhQ-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-sw8HfhQ/0/#size#/084-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-sw8HfhQ/0/KLSsQg93NRxMTjK4KLb6V7k3GDCZ3VNjGsphpfxZx/Ti/084-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-sw8HfhQ/0/MtrFspNqPK9XdJnXpKgZc5hwFzHn7ZBH3LNHP4Svg/Th/084-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-sw8HfhQ/0/MW73RpCfK34DJR6Cx2PhNFx9mDjKdZr9mTdNx3C8Q/S/084-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 42917
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-sw8HfhQ/0/MLT2xfSPrRRwbw6MmRTvBkL2JNkF6RxPSS29kGzDx/M/084-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-sw8HfhQ/0/NK3hwcMFKZG3gPZ48t5NTTkBkLp8FxqJqC4FZc2bS/L/084-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 147081
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-sw8HfhQ/0/LKMjgkpHnSF6t9Z2FCkFqQv9bZsV9HmLVpgk2JmXc/XL/084-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 336697
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-sw8HfhQ/0/LM9c9sFrNWzQznGRnpkBCKxmndGkwsCgTHpfZb4FG/X2/084-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 495734
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-sw8HfhQ/0/LDwxFFTHXgMsXVftFH85GwhnXXSwsXVG2rHFLBqMs/X3/084-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-sw8HfhQ/0/KZzXcphBp7LDRJ28sfWbHJxn7MhR7hqX3zFJHDmhN/X4/084-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-sw8HfhQ/0/Nhwrfdfjt79LNbhnz4j6jKFp8kDdCrTNhJvBFRTgN/X5/084-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-sw8HfhQ/0/KcLr7gSBGBxwt9rhk3SwmWfNG39xsHPvn8LJpkhWJ/O/084.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 3368713,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/sw8HfhQ-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/sw8HfhQ-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "085.JPG",
+      "Date": "2010-08-16T04:25:52+00:00",
+      "Uri": "/api/v2/album/gtFb8M/image/sJHKdJ2-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-sJHKdJ2/0/#size#/085-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-sJHKdJ2/0/MrVhkgt4tSxNgNgXpKV3SVSF23XGSgRXdcvQRChVb/Ti/085-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-sJHKdJ2/0/KNDWcHRZHb3ZR5ZM7fgTT2VvmQdrXTk9hvv7WnPMn/Th/085-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-sJHKdJ2/0/MXGBDtR33GBD9bwKzQHcM8z4627cDrS5kcWJJTTc6/S/085-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 33284
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-sJHKdJ2/0/LjLWLzzLQXMTtJwXPbd98k26fDhSDCDkkf68rsb3T/M/085-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-sJHKdJ2/0/Kj7GCv9635QcM5QhNH4HqZ4DtvHwj5FnQ9WjSRhxG/L/085-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 124660
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-sJHKdJ2/0/KGdNJSKgs3tgMGhNGsKcmn6rKHprVbGLVnvSZ8shF/XL/085-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 305137
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-sJHKdJ2/0/KdQzmd4MFnkVTCfB4XLdn4XwR9MHvmgsXZL8fqKp3/X2/085-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 469558
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-sJHKdJ2/0/MBBmQj7pfBZBXdX5n7vmbq4qmxTjNXXNgjzH5qqK4/X3/085-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-sJHKdJ2/0/Kb4XNvjdRbPFBDcDTgp9Gs5zPSQXFBX7PRQVhtTdM/X4/085-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-sJHKdJ2/0/MmjZvXV49MMKrZKd4XwvBZrr7L4DSXLmnRJkWwkHQ/X5/085-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-sJHKdJ2/0/K8gZnhDnRzqzS92g6KzMDmT5K54TDLQRjHcX8TSD9/O/085.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 4557640,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/sJHKdJ2-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/sJHKdJ2-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "092.JPG",
+      "Date": "2010-08-16T04:26:54+00:00",
+      "Uri": "/api/v2/album/gtFb8M/image/VH6tQFz-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-VH6tQFz/0/#size#/092-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-VH6tQFz/0/MZ9H83sGRpctVSvWqk2GLgGTb5cwcGrZWtHBLR4vk/Ti/092-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-VH6tQFz/0/MtSVWtbXsZqLS4csXhdsSfk9xJHHrv83VTjxWhLQ2/Th/092-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-VH6tQFz/0/MNhkSVQrtjgH3vGx4n4XfdLTzkFKcq3rzwdtZfhbv/S/092-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 32035
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-VH6tQFz/0/K2xHN7jgX2dtXNN96DPZ3Lzh9SBkrsvNKfjgfrdmn/M/092-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-VH6tQFz/0/KZckQKn8ftTRs97tZM7D699dVr5mHGwXCzLff745m/L/092-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 124996
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-VH6tQFz/0/K478MG33JR6G38rHfmmsKFMMGsZfQmcmQHXkXNQST/XL/092-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 304490
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-VH6tQFz/0/MS6n8BNFcqv9dNM6sPH2Lj4PJxnPzQjLqKR5F5SzP/X2/092-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 462993
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-VH6tQFz/0/LxpfZgXWpRF4mVZfCKN5pdmcVtPPjrt3T5SWxRWL7/X3/092-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-VH6tQFz/0/KmBCLZdDQ3sNkKNdwwPjzMFQC5kpwtVPHmQ8Spbx4/X4/092-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-VH6tQFz/0/MqJNwQqwvSDgrPKzh748tqFrzktFWJXVsZdHVsHXR/X5/092-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-VH6tQFz/0/MD548kMTBct5ccBrcmQj5cTRkchq3wdssVRrMGhDP/O/092.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 3706067,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/VH6tQFz-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/VH6tQFz-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "096.JPG",
+      "Date": "2010-08-16T04:28:11+00:00",
+      "Uri": "/api/v2/album/gtFb8M/image/HW9FfT9-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-HW9FfT9/0/#size#/096-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-HW9FfT9/0/KGtbBnpx8KczLvrrPNNXkrw6k3j5vHkvr365wtwRz/Ti/096-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-HW9FfT9/0/LHTvh9WZb4NJLdPMd6DhSDF6jXPxbwd7HVJXKkFb5/Th/096-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-HW9FfT9/0/KSfLm2N8RLDWzdDMJb2TpW8N7CFWLQ7WV3GNxZ73D/S/096-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 31659
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-HW9FfT9/0/KWb6VQ8zsmwkr7n4Jd5r5MX4bjq9phGrqXQP4JzHk/M/096-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-HW9FfT9/0/KbNB3kc8wkcfH5BrvTcVBbzb94mk2Qp6BZ5rsvMXx/L/096-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 118848
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-HW9FfT9/0/KhVbg2MxGHtzCvJ4CX2kb7J6WfrztqFJpHkx8hQjf/XL/096-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 278351
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-HW9FfT9/0/NZB7LgKxGDq8GPrpQMCxKS26BRjShnBkSRQm7JtMQ/X2/096-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 421744
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-HW9FfT9/0/Mx3NPXPB9Cdj4nCdcHjrz5BVrRFBJwB64HT28hDmZ/X3/096-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-HW9FfT9/0/NMdMqw9TgkXFbjSBtpjZ6pGs4nxR5JrVqMLg3XXCM/X4/096-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-HW9FfT9/0/KJbfRk6LTGM2TdhkBXPS2SPc3Szvw25zkmhMG6JLx/X5/096-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-HW9FfT9/0/Lpjcdn2GSf36vWQwxZ82p3KdMq7gjqcCJMR8WGL5h/O/096.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 3390665,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/HW9FfT9-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/HW9FfT9-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105.JPG",
+      "Date": "2010-08-16T04:29:37+00:00",
+      "Uri": "/api/v2/album/gtFb8M/image/RJgfbtp-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-RJgfbtp/0/#size#/105-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-RJgfbtp/0/MK25ssWxD7fB8dQLRDBZcnBT5HCMVHpXqFHSnsFKG/Ti/105-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-RJgfbtp/0/LLZCJpqvsvbtNkpfzGLgkTrPDmXSRGk45GH6WLwQz/Th/105-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-RJgfbtp/0/Mn9Z87PFxFW5wqjNkxm4hSpwfcqS2GNKzBjVB3Dp7/S/105-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 38286
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-RJgfbtp/0/Kb5bcxSGMXwktrDt2qXzmPndNXSDWcr4b44p2MqRX/M/105-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-RJgfbtp/0/MqvmPWkcHWCC9sd8jBbbXWLpkQZrdwkXgXrGwPXHt/L/105-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 151270
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-RJgfbtp/0/MnWMZWSWMPxTb8Trm5CK4rSfnhXRGszhxSr5GFd88/XL/105-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 357196
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-RJgfbtp/0/LkVtBrtN5W22MdMKtjRwRPfkrZwt6VLXKLkZv7QrF/X2/105-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 551107
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-RJgfbtp/0/LRw97FL6RVFgRvmgbQMb9k955SmF73jg3VzMKw52k/X3/105-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-RJgfbtp/0/MH3Gd74PnQMsk33j7jHxpp3H5K644MFgW3dDxJ7Jg/X4/105-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-RJgfbtp/0/MJKMvJpthC4hSjSnjFp98DvJhTfkQKmnmM7XPPW2P/X5/105-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-RJgfbtp/0/MPWKBL95tXwdVbFbrCw54fcWZM3xQZdF7WG64DhgV/O/105.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 5152906,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/RJgfbtp-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/RJgfbtp-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "107.JPG",
+      "Date": "2010-08-16T04:30:52+00:00",
+      "Uri": "/api/v2/album/gtFb8M/image/XT5WxNs-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-XT5WxNs/0/#size#/107-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-XT5WxNs/0/K8QsXSn8zTjTgrVc8RVDjwSFfW8zLndP3QQSPqx5x/Ti/107-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-XT5WxNs/0/KgWWnQqxLtJZRH5NJFHTPZHt2tJvpvVdxztkczmLh/Th/107-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-XT5WxNs/0/MhH3Bvn6jrhVz49VX7x8kMhFNNSwSBdGcF5TqbZHn/S/107-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 25894
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-XT5WxNs/0/MBVRtFPq5XdCPW2KhsbxQXXJwCNxfXQhVvcnPwrxM/M/107-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-XT5WxNs/0/Nd79phwGSZDM4MRgfLb4nVTFdFSgVLdsfXRvG7Qs2/L/107-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 96466
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-XT5WxNs/0/L9jn4m4hXZMLFvPvbNWcCB6CkTPMkcptZ6XjtzDKx/XL/107-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 249007
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-XT5WxNs/0/MJ3h4SDNwHJwsk4nx5n34x38KrrCvNfhnSLsNTFDS/X2/107-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 388750
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-XT5WxNs/0/MPM7vvGPJpkCBFKn2pSWb39DznVBXGrCpg5j2MZbT/X3/107-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-XT5WxNs/0/MFvp3SJ6H74XFv6H8tFjkjG2pbhqcXpzZpTJRTfWt/X4/107-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-XT5WxNs/0/KhJSGwv3NRKBcFr5WKwpH3DwPb5784gTWS6fMWDp7/X5/107-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-XT5WxNs/0/MLMqvbP67xzMHqFbxfRHjwcXkndJ8njM4RrvNVbLk/O/107.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 4215245,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/XT5WxNs-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/XT5WxNs-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "110.JPG",
+      "Date": "2010-08-16T04:31:50+00:00",
+      "Uri": "/api/v2/album/gtFb8M/image/gfgw8Cn-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-gfgw8Cn/0/#size#/110-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-gfgw8Cn/0/KHmjMNQGmTNbvmS2XLH55CkX4cpWfNCjzzfdFSZmg/Ti/110-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-gfgw8Cn/0/LgNMMxSDQrtp2wW2HLhD3fTwprW2VBQGtTsVfJrpD/Th/110-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-gfgw8Cn/0/NGwfRFFnpjSRLfFx4GrhRRm8T334GFD5v3bR3fFLs/S/110-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 38126
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-gfgw8Cn/0/M39zS3bP8J8MhJv4bjPRDjpGqCfwM94L2Gv5HsPGG/M/110-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-gfgw8Cn/0/L6tDhgCC6FPvC4K3J38QDcbK2C33MRQ5gsNCTvgrt/L/110-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 132283
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-gfgw8Cn/0/Kv9NmvZgvntCZ8HfrT3qQRJWM4HjzPqwd2t2KHtX3/XL/110-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 315804
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-gfgw8Cn/0/KzHXBHrHf8FWSH7dVvJsMtBJ8JH5nd4TfbPQq2HX7/X2/110-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 471331
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-gfgw8Cn/0/KW3ZH3QPNcdH2gRbQRLDhqzWfQkGP9mrFGRQ8wngN/X3/110-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-gfgw8Cn/0/LtL6nMsNM95JsTMgsJfz6w2Nkpkqd9cPRMkGffxGM/X4/110-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-gfgw8Cn/0/Mhd5dpkTqpT3LD59rHzVkCPcNmrQqXLmt9WM3rZKw/X5/110-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-gfgw8Cn/0/KFT7M5cWP237VSG835ws2NScFhFNQMkMB4vDWsVdV/O/110.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 3388926,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/gfgw8Cn-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/gfgw8Cn-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "116.JPG",
+      "Date": "2010-08-16T04:33:25+00:00",
+      "Uri": "/api/v2/album/gtFb8M/image/THqCsSC-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-THqCsSC/0/#size#/116-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-THqCsSC/0/NKQ4VBjDLMbKhTQ8fWgZZmJ3L9hQDKxjjxv25QpQv/Ti/116-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-THqCsSC/0/KrcFvZqh7hT6299fwxb4R9L3bNXbnzWBCzBPTt3mN/Th/116-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-THqCsSC/0/LbsmZ4b3dv9gJ2tpsDwX4hPMcffXBRmcqp8MLHR2n/S/116-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 50352
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-THqCsSC/0/NKq4WtC2GJ2vGKSGbMRQrLFtt5XZN9mCZk4TPbCXq/M/116-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-THqCsSC/0/LRRP7C2Zr89j9xHK47wLWNpgcmns6NWJ5472XksVc/L/116-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 204878
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-THqCsSC/0/M47mhfbn8XjFsqnPVkhBc5xZVtMtnTrnJR7QqSGBr/XL/116-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 479267
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-THqCsSC/0/NhCxNfvZLKgrW9HkLDRG8Cs3jqGFzzmGmDc7MV7D2/X2/116-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 733310
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-THqCsSC/0/Nhr8DRQ6gnwpNVNbTrx83g2mwxQ3Xqxf8b5sSBRJf/X3/116-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-THqCsSC/0/KnfHn6sfT2rXrJV5sV9JK5nHSBN537rQkTHsp5jLQ/X4/116-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-THqCsSC/0/LcR7fQmq3bfdGpFnq8jFdL25vLMHgzm6VL7DTrLCL/X5/116-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-THqCsSC/0/Nb37BXjkWm9z3gcT48wSCGhv4CKPmcB2rm5HzHtdv/O/116.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 5635833,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/THqCsSC-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/THqCsSC-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "120.JPG",
+      "Date": "2010-08-16T04:34:15+00:00",
+      "Uri": "/api/v2/album/gtFb8M/image/DT2J79v-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-DT2J79v/0/#size#/120-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-DT2J79v/0/KZXkG3bMXCxRmm9wfCTxbmJxBh9jWwWT5Kf4m3Nsg/Ti/120-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-DT2J79v/0/L6Nt7WHCTSfnXKZxSMKNX8VVmZtzZ5Mfg8M2Nxgvz/Th/120-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-DT2J79v/0/KqRTdN7ZbjV5LZgJzNR9jkCkz3SFfHgkRTz4z7RjH/S/120-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 26113
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-DT2J79v/0/KJsVWJ3DfmbB8bJvx3zNDMhCS6Hxr3zP48WwVG9Hc/M/120-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-DT2J79v/0/KpmtHtNkk4k7FSKTFm39Q5ts9J2hK3Svh6ncLv7Hx/L/120-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 91427
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-DT2J79v/0/LPRB6rPTd7dhFTQssZPktCknQ6wgpcddQq5L6N8kx/XL/120-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 228912
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-DT2J79v/0/NQm5cjsLdmR4jntJkMSPPvN6jWJnhZRqDV8h898F4/X2/120-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 350214
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-DT2J79v/0/KKMJ2rM4GDQspvs3tMvLTRvgNjj2PQ83wLRX9hCbR/X3/120-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-DT2J79v/0/LwC33NDNFxfgt9vSxZK6vh9JWwnmcKDdfKjf3q3zC/X4/120-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-DT2J79v/0/LvSZLwTBKXP5zDV9xDWmJFvPx3P5FW7rQFbc9KzHd/X5/120-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-DT2J79v/0/KwjVmmhmQ2TWb7SjVdhL77XqSXgdtRRfRj9pWGLr8/O/120.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 2962816,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/DT2J79v-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/DT2J79v-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "124.JPG",
+      "Date": "2010-08-16T04:35:26+00:00",
+      "Uri": "/api/v2/album/gtFb8M/image/TTRZjdS-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-TTRZjdS/0/#size#/124-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-TTRZjdS/0/LG6h442Rw3dSpGCJCZ9FrnnPJVSQDLj3BjvgrbNJm/Ti/124-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-TTRZjdS/0/LsfjvnCbgK4DTrmJhNDfmZ9n3gRqm5txQ8MBPzWLQ/Th/124-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-TTRZjdS/0/MHTbTknG9qdF3Xbt8kWt9mh5c698cDs9kLGJmtGqF/S/124-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 23844
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-TTRZjdS/0/KNG2PxxX7ZgRVn3qxQs9gcN9hwWMQHV8nsMcfm93d/M/124-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-TTRZjdS/0/L3GpN2mHFPvkWqphhpv4GVJFjGJqhV7s8h2hdZTqv/L/124-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 86451
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-TTRZjdS/0/KvPhpXxXSR8BfPhSsSdNNVX9Z4VRNm3j5tqvdKgQs/XL/124-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 236880
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-TTRZjdS/0/Kwh9kHkkQGK96MRmxQwwGXRmmhnvkJTLbXx3JrKD7/X2/124-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 375245
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-TTRZjdS/0/LVNCfs336DJ3CdqfvtS9f5bWRnHjxtgV87dvzTLrG/X3/124-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-TTRZjdS/0/M7vSpd5s8K4QKGLGpSxcbsNLms3J7qD4nv3RwtMLr/X4/124-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-TTRZjdS/0/KmNzb7bBL9RhhVN39CKPXLMJ8kKqCDSWbxjZ8DzxQ/X5/124-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-TTRZjdS/0/NchQGZ5FtqSW6W3gGSZcm7bmBfCbhHhKDxCGWqfjt/O/124.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 4313543,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/TTRZjdS-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/TTRZjdS-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "127.JPG",
+      "Date": "2010-08-16T04:36:28+00:00",
+      "Uri": "/api/v2/album/gtFb8M/image/F47tT6T-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-F47tT6T/0/#size#/127-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-F47tT6T/0/LZHFBTp6K8wb2FLZrP7rpkvqtsTZFvWCgdvMbSGJL/Ti/127-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-F47tT6T/0/KjZWXTDvT7WSBQHBQfzp3DWT3Cq8FXBNBgx8B7gZX/Th/127-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-F47tT6T/0/MbKsqz5Pr6RmKgZrR3mChkDwTTZ4TwD9FWp2Nb3ZF/S/127-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 37625
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-F47tT6T/0/LF6wLhg8PkqhscWXMz9nfznqjnsCNV6Qv4BshG4LR/M/127-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-F47tT6T/0/KK5QWDbP83XHS4LqNBwnBm54RVChSb2TDHgbZn248/L/127-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 137067
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-F47tT6T/0/KDhftfGJwtNqf7JwzdMDZCQCh7fq7krt8ch8MpHJd/XL/127-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 318252
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-F47tT6T/0/KmLS9tn4VbF6bXJ6FN7rBGsN3hhV583phvN3pBrKJ/X2/127-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 477090
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-F47tT6T/0/NQdWCLnzwJwSh6g6v8PVtL3SgRZJ9MhzC7cWLdZdC/X3/127-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-F47tT6T/0/L36hskzvNBTFP4KC2xWXdR5hHLMgzRcsfzPx3p4dg/X4/127-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-F47tT6T/0/KWSx53swMVLgKdbkvT5FCRtfD6FfKfnr3hFnKfZJt/X5/127-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-F47tT6T/0/LSrgkBT57dv2nZg6Qb6tGNgb74qKnBJjNCSDpCQ28/O/127.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 3580617,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/F47tT6T-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/F47tT6T-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "128.JPG",
+      "Date": "2010-08-16T04:37:26+00:00",
+      "Uri": "/api/v2/album/gtFb8M/image/Q993kc5-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-Q993kc5/0/#size#/128-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-Q993kc5/0/KjvxjSRCrQNkxKk6W9wQBt9pkcpr3pZwLs38hN67R/Ti/128-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-Q993kc5/0/Kb6J9W2xxrvSqW5D3QcLtZPFkZfq8mQcH52d4253h/Th/128-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-Q993kc5/0/KDwWkKZ7KMnWgVpL68WTbbjL6wgXrtVKT9S9v7RKV/S/128-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 30381
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-Q993kc5/0/MrFLxC82BS2VrN8xB6bGB4ft95jFNLXDjDBbznDfp/M/128-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-Q993kc5/0/NRCgCqRzGXGzxhwN2ctDVqpGtkfWStSMX2mL74ckQ/L/128-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 114277
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-Q993kc5/0/McPn6ghP27F4NpV3WFScHQKDqVLWwCbCvRpTmFdXF/XL/128-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 277575
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-Q993kc5/0/L5MK5W9sL7Wpcv8z95d5GZR4953DJz2bfhb6L6Jb9/X2/128-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 423002
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-Q993kc5/0/LCm5Ftns7Z8KwNQ4JNWKSQX24qJD2jvjmGSNdg9rt/X3/128-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-Q993kc5/0/Kv93kX2fcQFgcVTmBSJN82S3dPz5FPf6b6QrMqDHD/X4/128-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-Q993kc5/0/NNXQCrjwBPSMvbpcV36b9Vb2pcLHwZCxLN3jKX2j5/X5/128-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-Q993kc5/0/MWJ8z24xXTN3Hc56QFRt4vhVCTmDcNx8NPRVRvV8z/O/128.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 3442886,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Q993kc5-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Q993kc5-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "129.JPG",
+      "Date": "2010-08-16T04:38:50+00:00",
+      "Uri": "/api/v2/album/gtFb8M/image/mMnkxT5-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-mMnkxT5/0/#size#/129-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-mMnkxT5/0/KcRR6fDVW7wKXdbb2SRLM5968Zj4mTkfsms7t62sb/Ti/129-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-mMnkxT5/0/MtTPrQH4rg5LsKjfvsWXDj78nzzHpjQ6fWrMbWjpB/Th/129-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-mMnkxT5/0/NVxDVS8K3xNbgwdWwmg8vsXm2gdXNrDWxf79XF5Mw/S/129-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 47086
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-mMnkxT5/0/LX4VMs7X756B9TDMDspsQZgpv7v9HG2nqMQmsnmFd/M/129-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-mMnkxT5/0/KwdPd3b4HHXQkMx7GJ8HKTkTt68RRtjGPSjBKVVFZ/L/129-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 144590
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-mMnkxT5/0/KknSV4R8JNfqDHtxF334H6wHXQdxc9MzhnbSLnTBR/XL/129-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-mMnkxT5/0/K9GCjNvfZMnXmWv7WpT44XzHxrKGFCmq3MRn3GzCX/X2/129-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 527981
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-mMnkxT5/0/KnfNkwpH476xnSm3wgHkKTSWXwWxnSKth3HzW2hwp/X3/129-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-mMnkxT5/0/KwZ394TdMSvcCRGX5T5LNSwJhdVf56DDJZ7HP655M/X4/129-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-mMnkxT5/0/MT3GgbcKsgNqmF8dgLZ7fCmQp8HV5BdCCDrQNfPCj/X5/129-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-mMnkxT5/0/Md2b7FBpp6L8rXs2CZHmrQXWbb26RFN5qzG9NxDkq/O/129.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 5022982,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/mMnkxT5-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/mMnkxT5-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "130.JPG",
+      "Date": "2010-08-16T04:40:15+00:00",
+      "Uri": "/api/v2/album/gtFb8M/image/VKSBhSG-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-VKSBhSG/0/#size#/130-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-VKSBhSG/0/NFT4WBpZXf9BHs6RfRxhNhrmfnVKMzJJLRwNNRR6R/Ti/130-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-VKSBhSG/0/LrMbbgSQKGNsG2fFdMc4w2G9wj8jwthSZ4jhjjkSv/Th/130-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-VKSBhSG/0/NT3MLHT4HBzQSXggzSNXGtxgdgSVH8nQDJdZ4GHPV/S/130-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 47571
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-VKSBhSG/0/MsLSrGHt998MP29LZZKvZLsjz25vXd2mSsbH3jvpJ/M/130-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-VKSBhSG/0/LdPBsN5QZTLnWGGwLhXbzn67NQ6dx6kgXRcNjtKvB/L/130-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 180556
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-VKSBhSG/0/KX88mgxzZHWL9BD8ZT9qccksVwP4dMzhjwwmZkjNV/XL/130-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 403284
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-VKSBhSG/0/LT2FPfPR74FmKrrKZjqRmTDZHtC3QcmkRS2mZMFvx/X2/130-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 603286
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-VKSBhSG/0/L5wmNctBXSGXdvvNxDLnQw4hBZhbpbmCSrrkrVzWc/X3/130-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-VKSBhSG/0/NMsbmh9NkgZkJ4RcZL4CJ6TpqL4VtMsj5MzqDQvMr/X4/130-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-VKSBhSG/0/Lp7ZKrKpMGqGfWWtsj3w4PvrWFkZ98kQ4ZTPGJXNd/X5/130-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-VKSBhSG/0/NdV3BmpFpWNF5ZGgLHCRfzFckbs7pRgPjDMJ6bzrZ/O/130.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 5205717,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/VKSBhSG-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/VKSBhSG-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "132.JPG",
+      "Date": "2010-08-16T04:41:15+00:00",
+      "Uri": "/api/v2/album/gtFb8M/image/mj2pPKm-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-mj2pPKm/0/#size#/132-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-mj2pPKm/0/KtddQXmVJQD7nJt9c5H3z2XPRxX5kjtKx4X9rwVHF/Ti/132-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-mj2pPKm/0/NbK5dqRJh78Hf9ZCFdwFMspnnhLxm8V23MDsmtdPD/Th/132-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-mj2pPKm/0/LHj6CWmVZsFLrRnSFJnRkZFKD5v35TT37N9p7VTxk/S/132-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 28614
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-mj2pPKm/0/MDKBnHP9QNR9J8hrK9gdK7cFVrRpjN4bqjNPbTMWJ/M/132-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-mj2pPKm/0/KXDzbZMcMtMDntMC9w8qFBC45ShmxCtkdb6NG9Svz/L/132-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 102808
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-mj2pPKm/0/MVL4nsBFRg32bd722wNFwPF34DPsVRqtnqV59km2n/XL/132-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 252823
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-mj2pPKm/0/LqwX5dLLKvqcj6MDj7ZDXzzg4BLXWB9QrxLRvpHzk/X2/132-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 387161
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-mj2pPKm/0/NcMnXcPks7KbbVtx9bNxVCZGH394L32cnCpJRMHtQ/X3/132-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-mj2pPKm/0/NWv7GXJmMdnsrpKnszd54TnFQkr5JqrNJ9kXjzk9J/X4/132-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-mj2pPKm/0/MB8ZZTN2cxx7ZZHP9kKwnQsKfFRFkx54PMRPJZ5gf/X5/132-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-mj2pPKm/0/KtzNqWrhc7Dd85Vk2ZBpXGPRC4VwsNN6Gtrk8dNRk/O/132.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 3219292,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/mj2pPKm-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/mj2pPKm-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "133.JPG",
+      "Date": "2010-08-16T04:42:15+00:00",
+      "Uri": "/api/v2/album/gtFb8M/image/W2ZpTch-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-W2ZpTch/0/#size#/133-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-W2ZpTch/0/KDdTC8d6mWWbjR3QZfKcBN5pr8j67xF93TqQ9Bp4w/Ti/133-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-W2ZpTch/0/L4rG5pQVnZmhj4Pj2JzDkhHS5RhZJ3Tq3cwXM47v5/Th/133-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-W2ZpTch/0/LqMsXkjcVb65qSf9KxNDwzkt6wmZhxNmTd65vx9XT/S/133-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 36700
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-W2ZpTch/0/LwLNcvhp2kXGJVS72GcQtf2XZLhhhDTZnmTLcJMZp/M/133-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-W2ZpTch/0/KK3LpjXmMNwzm2BnRpck5JbvCDnfHrjWQ62wg2WQV/L/133-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 137068
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-W2ZpTch/0/MN2cWVj4jZkqPB34jNxCd8xLQwkpvJ4DrxWndkfwm/XL/133-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 318637
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-W2ZpTch/0/K6zsT5ndsTpMptH6j5q7CgmXx49CnLRnbTWQsRpKz/X2/133-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-W2ZpTch/0/K2hNrmv37jmT6mXsS7z3KFzV3r8Vbhn6Xqsv3B2dW/X3/133-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-W2ZpTch/0/Mm37bnfswTGKKwstWbtqBfNnsTbHWZZ9jHT7b2JCj/X4/133-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-W2ZpTch/0/KtxZLKkjpqb2w9NvLr6Rq2JWBTD2jDRLzNB7k9jN6/X5/133-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2010-VictoriaKayak/i-W2ZpTch/0/LM63PHwQQFVRmQXhzf4GFRLMzKVQnqJrXWsjZZck9/O/133.jpg",
+          "Ext": "jpg",
+          "Height": 2736,
+          "Width": 3648,
+          "Size": 3620180,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/W2ZpTch-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/W2ZpTch-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    }
+  ]
+}

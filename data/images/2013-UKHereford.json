@@ -1,0 +1,2746 @@
+{
+  "UrlName": "2013-UKHereford",
+  "Name": "2013-UK Hereford",
+  "Uri": "/api/v2/album/hBw88k",
+  "Date": "2013-08-24T19:36:35+00:00",
+  "WebUri": "https://lmblevins.smugmug.com/Travel/2013-UKHereford",
+  "Images": [
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8070116.jpg",
+      "Date": "2013-08-24T21:38:54+00:00",
+      "Uri": "/api/v2/album/hBw88k/image/wxKw4ZC-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKHereford/i-wxKw4ZC/0/#size#/P8070116-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-wxKw4ZC/0/LhrKb5sFHx4vc7sfbQ5jH9LTGQ8HvGMwWKwrBvgdJ/Ti/P8070116-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-wxKw4ZC/0/L7ZDGGC5XSHWCZrRD5NnR4Fcsjb2mhHmHtrjLDk3Q/Th/P8070116-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 17404
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-wxKw4ZC/0/M7zSPhV4NSBt6GpbZxncnsNrs4JLwf4K8dSgjBmFg/S/P8070116-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 65933
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-wxKw4ZC/0/Nd2xrr6BHQSSRGFPtVb3bRMxvJSvrTPwZmm65cZGX/M/P8070116-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 129985
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-wxKw4ZC/0/MCnjcMTBD7kLr5n8PwW3ZSF57NW3zTv9dr7TWV38N/L/P8070116-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 208374
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-wxKw4ZC/0/L2rPjnbDMjB7QsP5nbJVgfRh5Jm4sXwj5p9sNL3Nt/XL/P8070116-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 332976
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-wxKw4ZC/0/MRQP5jfFVN2Kk456tzb2fFQbNjq63kQqBcPdbHNrW/X2/P8070116-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 490752
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-wxKw4ZC/0/LMdkvmDjQWfkwQDfXM5XBmJht5bcGWMX9jm5TLxVG/X3/P8070116-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-wxKw4ZC/0/NDWHThjRBF957q62SzDSJphzQnzcBwNDGZhksRgMr/X4/P8070116-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-wxKw4ZC/0/MK7VKM8vpSjkb23nBFZLJN74M8Lt32nbwPdkVZjCj/X5/P8070116-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-wxKw4ZC/0/KvNWbCfdJJDdc269q4sZM9W4579wtWhLSW9RZpHsM/4K/P8070116-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-wxKw4ZC/0/KqsGcksgfDMj5sLNmKPmDMCpPHVgDp4vPr4McwSdx/O/P8070116.jpg",
+          "Ext": "jpg",
+          "Height": 3456,
+          "Width": 4608,
+          "Size": 6838104,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/wxKw4ZC-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/wxKw4ZC-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8070127.jpg",
+      "Date": "2013-08-24T21:41:40+00:00",
+      "Uri": "/api/v2/album/hBw88k/image/L3ChSbH-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKHereford/i-L3ChSbH/0/#size#/P8070127-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-L3ChSbH/0/MnmVk8pGSq9vdpxLzZjpBmWQhCWHR36xHMJD37gw9/Ti/P8070127-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-L3ChSbH/0/McMrDcwpj2x7r6wwkLj86Xh3bJGpP7FpSQZkfP4rV/Th/P8070127-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-L3ChSbH/0/Kb4RXGJr4fsCrJZNCTc5KL2x8P6Hq8bt7kqHhvbBK/S/P8070127-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 117266
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-L3ChSbH/0/KdRRhk2kbhZxp6rrdCZNvmRzQC3vmSscNnSFtsZQX/M/P8070127-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 251117
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-L3ChSbH/0/KPHXh2sRr5FnRQxHktqrDzFT4WJD5VT9Cq7XhhCs2/L/P8070127-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 405393
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-L3ChSbH/0/MfKtCFhnvcH3rmWTrbJGtN9zmTkcsgwTxdGdXJrdZ/XL/P8070127-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-L3ChSbH/0/KR9XS6Bh7Nz3SgSC57LFb8hCgSNXWNfm2RzDNMxV4/X2/P8070127-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 945416
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-L3ChSbH/0/NjmdJc8x8FGdvgj4j2v9BJNNJCt6jCLcrx526SFws/X3/P8070127-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-L3ChSbH/0/MVbNsPm9SzQvRmLRLbS7BqHLZfqNZwG8K4bmH3KrN/X4/P8070127-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-L3ChSbH/0/MqthF4B9xDb6XBWvGM9DQm5LKjsHDQk97BMpXmNhx/X5/P8070127-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-L3ChSbH/0/LgVFpq4cNGP8DMH2wQh8C88n4p7KKxRHxxzr9gpmf/4K/P8070127-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-L3ChSbH/0/MNhmq6ND4TLjxQhkFx9wggKbGSMT4gwLZwrwtzcT2/O/P8070127.jpg",
+          "Ext": "jpg",
+          "Height": 3456,
+          "Width": 4608,
+          "Size": 10985834,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/L3ChSbH-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/L3ChSbH-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8070131.jpg",
+      "Date": "2013-08-24T21:42:33+00:00",
+      "Uri": "/api/v2/album/hBw88k/image/8D6g35B-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKHereford/i-8D6g35B/0/#size#/P8070131-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-8D6g35B/0/KbxZHFg4cnWrNpQHHm4QZsCSTqgLWhrZ8Skbt86ch/Ti/P8070131-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 10197
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-8D6g35B/0/NLTJNMCj7wznMgLwMx82TL7Q49KPzPWKmhSxmqtSs/Th/P8070131-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-8D6g35B/0/LH2b8GLNWHPM2FQ2s2kGBTBbm45JR45fRFNvxbTZX/S/P8070131-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 59469
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-8D6g35B/0/KxBFdJqqqqLfFqLWKLRVkKLrHz6NJqkQmnvkzjVPZ/M/P8070131-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 114216
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-8D6g35B/0/L75zWDvLbPTgjgkmWjWTWjKgQR7HRGGwKr5qLn2KF/L/P8070131-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 172473
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-8D6g35B/0/KsMJ7hWx3rMQpBjZjttMzSRHLBSpxTCLLFW94V2Zt/XL/P8070131-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-8D6g35B/0/KftgJ5vfHFqWRJPMcFMXfmBQ7KzBP7nJmvvrZGhBR/X2/P8070131-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 380290
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-8D6g35B/0/L92rmqZnXh7rmK6z9bnMR74S6sKDWBdTsqXrkwTGg/X3/P8070131-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-8D6g35B/0/KqdxBDXPGBJgGznMvgpSh7LGWgVb3NpRtJtnBbBvC/X4/P8070131-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-8D6g35B/0/KVmpGh3xFxSHHZz8xCQW8t467K62kZpfSdWpWjd6N/X5/P8070131-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-8D6g35B/0/MZm6nBRfkRFHRzPWt7kVZTrsqvBdtQpdX29B5JxLD/O/P8070131.jpg",
+          "Ext": "jpg",
+          "Height": 2392,
+          "Width": 3189,
+          "Size": 3356771,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/8D6g35B-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/8D6g35B-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8080134.jpg",
+      "Date": "2013-08-24T21:44:09+00:00",
+      "Uri": "/api/v2/album/hBw88k/image/kb9ckCT-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKHereford/i-kb9ckCT/0/#size#/P8080134-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-kb9ckCT/0/LNpg93Jt2qqf8q8dLqqpz49363TVGzGQ2p8Wgqgxv/Ti/P8080134-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 10064
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-kb9ckCT/0/Njk6Wt9Vmb5hvgvQmb5V863mjDqWqZW5th9X8CS4x/Th/P8080134-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-kb9ckCT/0/MRWCV3dsS69bwV8VDQcBQm8jhbNpWTn74gkQNjdqQ/S/P8080134-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 49588
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-kb9ckCT/0/LBq7xnjwFd7ZtSsvJDxc3kxXQP4HVVfztnTqSJVWb/M/P8080134-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 94395
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-kb9ckCT/0/NDHZzJjZ7BLNxwpXJPBxdbvnBQRgCx869JQhXxqX2/L/P8080134-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 145617
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-kb9ckCT/0/KNwpVKHKgHZKd4czSgHcSGpR6DpMmWnQ6DR2tfgsd/XL/P8080134-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-kb9ckCT/0/KDxprdbjSPjrtDhM8v9BW26JkwQ3QggZfk7n4DZ68/X2/P8080134-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 328384
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-kb9ckCT/0/NR3gxK9qd5PBXM5QHsrM7dw7ZwL2rthpFF4ZMd5m8/X3/P8080134-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Size": 473278
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-kb9ckCT/0/KWN7dfvtC2KFxQtk95wCw6R5TmCZZCQ6QbPP5rKPx/X4/P8080134-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-kb9ckCT/0/LpFNG8qJs27qr7f3FChgchJTCkqcF8KsBWjW2VLcr/X5/P8080134-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-kb9ckCT/0/MDh2cfVPCpWHdWKCh75NzTGFnHf7QBTQ6RcBm95rp/4K/P8080134-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-kb9ckCT/0/KbmgZSv2K8fpVp87RQVc9J9pwT4Jz3f62Pcx3DD2W/O/P8080134.jpg",
+          "Ext": "jpg",
+          "Height": 3456,
+          "Width": 4608,
+          "Size": 6262624,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/kb9ckCT-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/kb9ckCT-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8080155.jpg",
+      "Date": "2013-08-24T21:45:59+00:00",
+      "Uri": "/api/v2/album/hBw88k/image/5RmHKMv-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKHereford/i-5RmHKMv/0/#size#/P8080155-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-5RmHKMv/0/LCTqmNpbwBftrZqNhd2vXdSxKVzQPBHhvnnjk5DQc/Ti/P8080155-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 10830
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-5RmHKMv/0/M9q4t9RkFHsVstJJcqcfPsz6nSC9k2B2bQLnJc6qt/Th/P8080155-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-5RmHKMv/0/MXKVPdRQLc2fkx5LVsDdr6vpfzTWkmsMfhr9p8fmS/S/P8080155-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 70581
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-5RmHKMv/0/LTTG2HspL7hZsc6f5Hc8CbPQXPQHhzsRm3TLC6FX9/M/P8080155-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 152085
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-5RmHKMv/0/NZv2x9wNzgT5P38c26KDCK9cDnNgBNWMHVJG4BB3V/L/P8080155-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 248414
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-5RmHKMv/0/NFDpjxR7PswpxndnJD9nKHHmj8vvSNsX2rQmfVxx5/XL/P8080155-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 422802
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-5RmHKMv/0/KTVXxwrfkCBFTgffDbRCzpTtrDqhBbnbPwCQNRWLW/X2/P8080155-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 613594
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-5RmHKMv/0/KP6Dj8N7LrtkxT4bXdL8T3CxPNWGZkBdmRscFpTsz/X3/P8080155-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-5RmHKMv/0/LHpdJk5DPcw6LMxxttpBrPbZcnmZt6x6fz35hNmWL/X4/P8080155-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-5RmHKMv/0/NQC2mznCb232KmWzZDfGkV3z2nXzpxqLpQ6PGKmjS/X5/P8080155-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-5RmHKMv/0/NZhsqcBc3hFXDkcHh37N4dZhPRXPPrmbNQVCd463j/4K/P8080155-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-5RmHKMv/0/NGCxmHnnXGkksmtwGphnbDzwrDJvRXk7kFk3gR63P/O/P8080155.jpg",
+          "Ext": "jpg",
+          "Height": 3413,
+          "Width": 4551,
+          "Size": 7264550,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/5RmHKMv-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/5RmHKMv-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8080169.jpg",
+      "Date": "2013-08-24T21:47:38+00:00",
+      "Uri": "/api/v2/album/hBw88k/image/xm7xt2K-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKHereford/i-xm7xt2K/0/#size#/P8080169-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-xm7xt2K/0/MGM4FdmVHhkWjJd599fkppcGFfztXZfzqZ4qLSkR7/Ti/P8080169-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 10344
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-xm7xt2K/0/NDDpWxjZXB5zTBJdNmxT3cffKwdm3HqjTmRpspMvw/Th/P8080169-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-xm7xt2K/0/KqsG2sGGbjsz3Phsf47gjZbg3qVnMCv5c38CRG2Mh/S/P8080169-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 64194
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-xm7xt2K/0/MgcK8vCT3prWN8V9D9MkhR7xGSnXQs6rZwCD3Vqkc/M/P8080169-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 137623
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-xm7xt2K/0/MBh2DNGg7HFndM22TKZLPnm5PFhFXsFz6CBs4fnhf/L/P8080169-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 224651
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-xm7xt2K/0/LMGNzqTvb4mzg9rqpvkVbnHf59rKfLPNbzwf9cWRN/XL/P8080169-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-xm7xt2K/0/MNtNvT5bVLzMGN8gMRTxrC4qvqBMFHdLT6rpsgvt5/X2/P8080169-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 541738
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-xm7xt2K/0/Mw4k4kdV45ZrRTgmSrcrKwm9xcNBrcjzd35Pkw6m4/X3/P8080169-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Size": 774459
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-xm7xt2K/0/NjKpb4PMQZqsSwvZjkLtsc9jHt5fQqrDV37RPmKNW/X4/P8080169-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-xm7xt2K/0/LThhs5KR98x8WfqTzXdV6frH7MhQKFTkFjvrbZ7xJ/X5/P8080169-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-xm7xt2K/0/NXqThrPDJ3Hbj7Wf2LzxF6bKRqvcDM5vZ799Gd2pf/4K/P8080169-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-xm7xt2K/0/MKN3G6jRLbdkcsDhLrP4gCQzdPtGVBw4NtrCh8QCk/O/P8080169.jpg",
+          "Ext": "jpg",
+          "Height": 3456,
+          "Width": 4608,
+          "Size": 6443220,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/xm7xt2K-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/xm7xt2K-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8080179.jpg",
+      "Date": "2013-08-24T21:50:20+00:00",
+      "Uri": "/api/v2/album/hBw88k/image/mKvp4vX-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKHereford/i-mKvp4vX/0/#size#/P8080179-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-mKvp4vX/0/LKFRhBNn4MfM5CFwR77wwjx7NwM7KrB9Ww5qVxwzk/Ti/P8080179-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-mKvp4vX/0/LB6VzmWqsZhvLzLFnrJZ3SxvBHSb2hNsvjdC7LLwd/Th/P8080179-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-mKvp4vX/0/LZBZ593bWXmPBz3n3cNbCnrZkZcgXcGw7n5ttDNqc/S/P8080179-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 78001
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-mKvp4vX/0/MMxPqbqqKWHrGFDkxqZBJK286pDTDh7kfwDJJxzzk/M/P8080179-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 173111
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-mKvp4vX/0/LNTdVhHssDq6Gt5qgB3DQvv33fzmqQ8BkxDsnxPT4/L/P8080179-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 287500
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-mKvp4vX/0/MwWrGscQP68WsRpQKcr6WXjz76MRmKBnPJPb4FRPb/XL/P8080179-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-mKvp4vX/0/KDS7r566Bb2ZFZW2VPQbQSMJWc8wFwSGgRdGGr5nC/X2/P8080179-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 732307
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-mKvp4vX/0/LSzPbfXPzcBd6pQjtbrhxzDPmprP5q9NpZTD9MDGw/X3/P8080179-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Size": 1074774
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-mKvp4vX/0/KtR2XpsJMTTQhSn9z9s4ddRxrvQWb5g7W3qspcTd4/X4/P8080179-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-mKvp4vX/0/M8nVpr7nF88rMvXzmwDgbr9xxfNL7MtLWnnb7JNBP/X5/P8080179-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-mKvp4vX/0/LMqXvsQ9C429VKKndZthbkZPbfKQGL2Cns6HGqzj5/4K/P8080179-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-mKvp4vX/0/MsFmKgwhTgFzPhncs4fbRBnQ398MRSFzbXwSVgxsQ/O/P8080179.jpg",
+          "Ext": "jpg",
+          "Height": 3456,
+          "Width": 4608,
+          "Size": 10760110,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/mKvp4vX-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/mKvp4vX-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8080224.jpg",
+      "Date": "2013-08-24T21:52:15+00:00",
+      "Uri": "/api/v2/album/hBw88k/image/brh5v47-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKHereford/i-brh5v47/0/#size#/P8080224-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-brh5v47/0/NdTG86tm2PHZXh955DWD75Tc2RQcVRXJQRg6MtsTn/Ti/P8080224-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 65605
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-brh5v47/0/NW3hTkVdsvrDCNRxVkwFr3V8NxWdQz7c43swm2VgX/Th/P8080224-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-brh5v47/0/Kt9P64WcC5FzNg66B4bRC6FV43w94KCbT9dwGNB7C/S/P8080224-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 131352
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-brh5v47/0/MjW4dJtTLkP42qgKZqbznSNz4L7RSKrz2DQgJCrJL/M/P8080224-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 224126
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-brh5v47/0/NNNt3kf7fC8ctzp82mnxkqjCd7QjgRvJ9JgRhGjxn/L/P8080224-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 281124
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-brh5v47/0/KKmvkSSrvf4zDgn3fBJrBzR7ZrCMnswsqLf75WCzj/XL/P8080224-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 878929
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-brh5v47/0/McWwjmhRsgbnzLrHKc5RKLXDcKh5WCBphrgXRDp85/X2/P8080224-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 772710
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-brh5v47/0/KFpctJg8MG9F8hKpdQmJ8cH899XhvKPV4QgGfxjVL/X3/P8080224-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-brh5v47/0/NfRJwt4qm43kQ675r7K8ZjJhrP4j7W3pT7XvnjjsD/X4/P8080224-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-brh5v47/0/KzCfw7f9s9JTHX4zdjhx6hg8nDf7Gb9SqMfmp4Xm4/X5/P8080224-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-brh5v47/0/M9rH7xSfrNjCTT7tLXTg5N3v25WQKcsmG4mWqCTZL/4K/P8080224-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-brh5v47/0/MFdGM3jjdwWSLvHqtW5x8JCXFLMDv5sWvm7SFMjJb/O/P8080224.jpg",
+          "Ext": "jpg",
+          "Height": 2924,
+          "Width": 3899,
+          "Size": 7512693,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/brh5v47-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/brh5v47-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8080229a.jpg",
+      "Date": "2013-08-24T21:57:25+00:00",
+      "Uri": "/api/v2/album/hBw88k/image/JsGD4Tf-1",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKHereford/i-JsGD4Tf/1/#size#/P8080229a-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-JsGD4Tf/1/LqfCHzwLKb7pj9pRwGgCFv59CwRTGk6HP5nL6zV5s/Ti/P8080229a-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 11955,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-JsGD4Tf/1/KrcNRJjS3NDxvvzLTFZwwSdxx6GLS4F3MDFr4r8Cq/Th/P8080229a-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-JsGD4Tf/1/KL99BnJNHBNx7ZZh6ZpNpwdMzwZWjK6cq7SMxGpgq/S/P8080229a-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 78374,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-JsGD4Tf/1/KMTTqx88rNQpBw6hssJbvPg7sw4FN9Kz99F8LGMKJ/M/P8080229a-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 167075,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-JsGD4Tf/1/M92Ljx5r9ZZvLjPPrZZgRCgvvkCG7KqFgwtZ8dM3X/L/P8080229a-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 284542,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-JsGD4Tf/1/Mh4j6Vfkbmv75ZTwrJZCX8bSD9ZnJRnRbGJ3tGzxC/XL/P8080229a-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 819904,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-JsGD4Tf/1/MB6VKhtFCgcW8V8TLdPVS8svFqSNqJgSXwnRsJbqj/X2/P8080229a-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 1233358,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-JsGD4Tf/1/NWxHHRrXgv2S7mHvvBD3GrWhmdPwVJS68JzFDJGsx/X3/P8080229a-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-JsGD4Tf/1/KDkQvjFCw63zFmxWXp4svMG5gMPJSD6zfv5nPRVKn/X4/P8080229a-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-JsGD4Tf/1/MqVTd9nXFdJZ9FJWM8f2GKkJkP79jDjtcKDwwf49m/X5/P8080229a-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-JsGD4Tf/1/KKZn6NvhHCQQDCkX42G6FZmBSzN8GgdwV6BHHppFK/4K/P8080229a-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-JsGD4Tf/1/MPmZdJ8mZXsKtq3xF36Pmw2VF5cf8DSTQ9jv6tqjJ/O/P8080229a.jpg",
+          "Ext": "jpg",
+          "Height": 3200,
+          "Width": 4267,
+          "Size": 8635430,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/JsGD4Tf-1!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/JsGD4Tf-1!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8080229b.jpg",
+      "Date": "2013-08-24T21:53:48+00:00",
+      "Uri": "/api/v2/album/hBw88k/image/J9PjnTD-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKHereford/i-J9PjnTD/0/#size#/P8080229b-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-J9PjnTD/0/KMt8FDQXMX3RbhCfTMwqCxkSMFQJKzzw6KVZ4K2dF/Ti/P8080229b-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 11706
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-J9PjnTD/0/M4P5TrRwWsR443sdqTxR22jHHmFvZMCgQ5HM6jJ3g/Th/P8080229b-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-J9PjnTD/0/Lr7w3gs98pJhbZRQ3RK7VVnfmkZN5JVprK58jJ287/S/P8080229b-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 82214
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-J9PjnTD/0/MhwVT3DPkKRcM2jJgsDncqcHmg5Ds8Jnj8xZ5qqq9/M/P8080229b-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 176991
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-J9PjnTD/0/KcxFfrjF323ht2TkGkGBpqTMdCGkVrwGkjNb7gknJ/L/P8080229b-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 288001
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-J9PjnTD/0/Mk2dCqW3Sk2MhdfWtHRwtTLsLxnL35D3gpQBVxw3f/XL/P8080229b-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-J9PjnTD/0/MGSB292bpzZ6W3fCnvmShhC4fmSttGxsnM3dkkXV3/X2/P8080229b-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 704800
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-J9PjnTD/0/MDSgTpNX2xfCPLF62vKxGQPzSTmPFfjmwLDT3bN6C/X3/P8080229b-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-J9PjnTD/0/NPdvX3KpMfXp7qzVPrtTkBHHQMmjFVLhkcm455RBc/X4/P8080229b-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-J9PjnTD/0/LHBvVpgSzV2PTVdh2zTQXRR8kh3rfkBQvx6tm3GHp/X5/P8080229b-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-J9PjnTD/0/K23JjsXQJxRZnH72m3pk2H99t26zgXdTbBhfKVVPp/O/P8080229b.jpg",
+          "Ext": "jpg",
+          "Height": 2805,
+          "Width": 3740,
+          "Size": 6131557,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/J9PjnTD-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/J9PjnTD-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8080239.jpg",
+      "Date": "2013-08-24T21:55:14+00:00",
+      "Uri": "/api/v2/album/hBw88k/image/7WXvnLm-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKHereford/i-7WXvnLm/0/#size#/P8080239-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-7WXvnLm/0/MR6bJb9VPhhWk8822wMZ8TQknXdmB2dmQRg5K7d4J/Ti/P8080239-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-7WXvnLm/0/M8JGFsZ8BKjvdWPBbbm3nvL2D9jqNLZSgXDPt7QGm/Th/P8080239-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-7WXvnLm/0/LTrXd4HFBRwnckWFTWcPVdVWXXLCRzvdMjfQWcqR2/S/P8080239-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 62200
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-7WXvnLm/0/MqJKb4g6gG2cJjL59D7wtVKRtkf54rWc8gZnLbW4d/M/P8080239-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 118598
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-7WXvnLm/0/Ng86rg29VB6jNjQDNrT7smqsMZxm7LRxDfN2Ncn6G/L/P8080239-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 181062
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-7WXvnLm/0/NFL9LPr2jPtJdD5bxCNcrFPxqL2FLvpG5Fz4SCKP3/XL/P8080239-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-7WXvnLm/0/Lk2353GWvFLfFgXkxFTjZm74ZcHV7N4xVDGWSvrrT/X2/P8080239-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 395511
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-7WXvnLm/0/NDnv3KsrfmKtDH2V9B96x63q49bmQ5KXc2fLXw9wJ/X3/P8080239-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-7WXvnLm/0/KvV4Cr6X7WZjqczKD4fv8n3VMFTWw8mgqf8G383Fp/X4/P8080239-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-7WXvnLm/0/Lvqt57VtgpJwpczBmGJ5RPjHRKhHJvZxS7f4dRNcQ/X5/P8080239-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-7WXvnLm/0/M6b2m6PpJrLnFcfDQ4dcbVGJhbKsBHG78CQXP7ws7/4K/P8080239-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-7WXvnLm/0/MGCswJ2ggZ24DSc7xLjTxvcpvPH8z4TCK5sH2FMnC/O/P8080239.jpg",
+          "Ext": "jpg",
+          "Height": 3230,
+          "Width": 4306,
+          "Size": 5585580,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/7WXvnLm-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/7WXvnLm-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8080246.jpg",
+      "Date": "2013-08-24T21:59:23+00:00",
+      "Uri": "/api/v2/album/hBw88k/image/PVzkwbT-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKHereford/i-PVzkwbT/0/#size#/P8080246-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-PVzkwbT/0/LnPwQBgTMX72CfbRdgkRZtcJpBjC2qVH3Pgngdg6v/Ti/P8080246-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-PVzkwbT/0/KDX8GLwstTwm2j3p8nwPJX2VdjpS26RqSjgVt96VL/Th/P8080246-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-PVzkwbT/0/KshrvfS9vP8nPwvHq7brCG9jDFHFMnrjDmS9P23DP/S/P8080246-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 60957
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-PVzkwbT/0/KmwVcFFMdMmphjk69FbkRT3CfNGNhx4NsHX44SQNp/M/P8080246-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 127022
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-PVzkwbT/0/MqNgttNfLcNqvZJjwKJVbffMWDnh5S5KZHRznmgzC/L/P8080246-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 202038
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-PVzkwbT/0/LxWsXDDXc2fDRTnssNvXzcjb8PBDJLZFXQhshLjKD/XL/P8080246-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-PVzkwbT/0/NGfwxvXf2ctPbxQq8nZ5gsHSG3V65hscKM8mFRFrV/X2/P8080246-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 525849
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-PVzkwbT/0/KxrM3mg2WjBDtMn53KK5b8X89WrmQ8c42GJFMp8TF/X3/P8080246-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-PVzkwbT/0/NHmGj26b6R3NKgcFjCrQwDnT98XPrJQzZNg6CW7M5/X4/P8080246-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-PVzkwbT/0/MGCr9cFxrpfLvHkdmphvWfj5X6fdzL2DW4DhQLkcf/X5/P8080246-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-PVzkwbT/0/MJWLswt9G97krg8W66RLxLp2PNDdxrPBvhx5G4q5p/4K/P8080246-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-PVzkwbT/0/Kj9T8mPb4cCgrRRrRKtQVg4Xb3sd2Xd6xc5s7rBkV/O/P8080246.jpg",
+          "Ext": "jpg",
+          "Height": 3456,
+          "Width": 4608,
+          "Size": 7696899,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/PVzkwbT-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/PVzkwbT-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8080249.jpg",
+      "Date": "2013-08-24T22:00:57+00:00",
+      "Uri": "/api/v2/album/hBw88k/image/Mhfzh9Z-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKHereford/i-Mhfzh9Z/0/#size#/P8080249-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-Mhfzh9Z/0/MRdxqx5SRV5GBvkmGVGZ5GRLjZrZVGh5J2MPsbtJc/Ti/P8080249-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-Mhfzh9Z/0/LQkzsQzKZ7SQdGNZ2ntT6qrdnpm2jk8cKnQxKjVMD/Th/P8080249-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-Mhfzh9Z/0/K4cVDkJkP94Dgr6FCLJBC3kVj774ffpwr3XG5D7fn/S/P8080249-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 59890
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-Mhfzh9Z/0/KdWJNdgrcNTSrPFbKgZTRfw4F7R5kCvxdwN7kzG8K/M/P8080249-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 119254
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-Mhfzh9Z/0/M3WncNnd9rccC9LjGg7VhmGdVZm6xZrvwQdmzZ4LC/L/P8080249-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 188465
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-Mhfzh9Z/0/MCvmCtrbwCqj2M4bgxRpKs77m3LMrWq9ptJbFvf8j/XL/P8080249-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-Mhfzh9Z/0/M5PnF6xGT3Fx9mfHpjr22kcFKVGVKdTFBzNck54V9/X2/P8080249-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 438577
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-Mhfzh9Z/0/Mb3Q8Vhd4k2pxtGL2wQrpLTHckLtGwfWJNGdrHS2c/X3/P8080249-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-Mhfzh9Z/0/KFzBwxcvNVhV3B5kXK6XLSGr3rDhTDFCBQbM22F26/X4/P8080249-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-Mhfzh9Z/0/KNc8qvtgc9BDwn5MrrKnT3VG3Kgz6BBZJTwNK5GTh/X5/P8080249-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-Mhfzh9Z/0/Mwq6F4hb7G58nKFBQqLFzXrKWWh5jQbKvSHM6cvpv/4K/P8080249-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-Mhfzh9Z/0/Lsw6bCrPh8Z3f6zZSnM4mFdZNVQPHNL8nrfvzFxLR/O/P8080249.jpg",
+          "Ext": "jpg",
+          "Height": 3456,
+          "Width": 4608,
+          "Size": 6161095,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Mhfzh9Z-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Mhfzh9Z-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8080250.jpg",
+      "Date": "2013-08-24T22:03:18+00:00",
+      "Uri": "/api/v2/album/hBw88k/image/cKZR3sZ-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKHereford/i-cKZR3sZ/0/#size#/P8080250-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-cKZR3sZ/0/NJx95XSTZg2hNkSKTzngLNsG2SwZ8f4zLq4Dd3LJq/Ti/P8080250-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-cKZR3sZ/0/MkxP3snHDJ4hMRtp9TnmjvW9Ltfnrmg6Ccw8txh6G/Th/P8080250-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-cKZR3sZ/0/KL6Dg5LpRkcRZwdhrPmVzbVwCnc8nQbdMkjxBXn8r/S/P8080250-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 66020
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-cKZR3sZ/0/MDDCTrKgwHXDcqMbSvbxzM3s6bxf2x9kJMKpNgMM2/M/P8080250-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 132133
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-cKZR3sZ/0/NJS6V9WvZ6k4QXnFWtCFHqs8Ddrmr46WW2mqCz4tb/L/P8080250-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 207544
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-cKZR3sZ/0/LwFq4drSh2c484fjF7xRKLb6hNFJNRNGv6JrXrDQZ/XL/P8080250-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-cKZR3sZ/0/NCpHzTPPXXhGHDsMxMsPSR5n8nFg7xKsXssRXBV8r/X2/P8080250-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 484391
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-cKZR3sZ/0/MPTdgtP4xf6CNPGrhq6fzXTFZXWwxQ7MBggx3gJMn/X3/P8080250-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-cKZR3sZ/0/MqCRDwTJgsCP3hxrp57JPkmMMKtT8NBXJGfWBg4xM/X4/P8080250-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-cKZR3sZ/0/KTvXSptQQ7fVwNnJpcPXkqK7GkwsrGZHv5wzvMdzt/X5/P8080250-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-cKZR3sZ/0/NR5Qbxc7TpbM8CkSF3rGcDzp4zDLd82fw5CFVZWV7/4K/P8080250-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-cKZR3sZ/0/LPCpXWBzx9DxN3B5CJj2kgw58xXgnbBPVGCBNmmWt/O/P8080250.jpg",
+          "Ext": "jpg",
+          "Height": 3456,
+          "Width": 4608,
+          "Size": 9371213,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/cKZR3sZ-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/cKZR3sZ-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8080268.jpg",
+      "Date": "2013-08-24T22:05:04+00:00",
+      "Uri": "/api/v2/album/hBw88k/image/R6T4pHB-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKHereford/i-R6T4pHB/0/#size#/P8080268-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-R6T4pHB/0/MJ3LTjMsH57FdLwGdFXGFVTzgv69RRvVq6hsRVVzv/Ti/P8080268-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-R6T4pHB/0/Knhmjp3kmCL8mpzFdRZ4bNRRWpfLhcRrRjbsw4jTs/Th/P8080268-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-R6T4pHB/0/KjNQXQGBNntmsVmPfCDd7zVhpRcw2vgPHqdXPW2KG/S/P8080268-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 68764
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-R6T4pHB/0/MFKrZfkr25NsCHPbcHBmV8WvNVT4Qp93sQjDzbDdh/M/P8080268-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 148382
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-R6T4pHB/0/MqnSTtTxkkZvHTdG3X5jKfgq7HSxQXvDg4q7cKgc4/L/P8080268-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 241866
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-R6T4pHB/0/KsqcT6zbCSDxJk2V2LD2pg2Fg2dbMJXVxqJq2m9k3/XL/P8080268-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-R6T4pHB/0/K4d2VbGMJT8K6QD7QMFKpX4PFZSTggmPzSHZ7VcQv/X2/P8080268-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 611518
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-R6T4pHB/0/NbzrMZH9s8BTMVd3c73W8wH7qdCXrzcTrmTd2sb4X/X3/P8080268-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-R6T4pHB/0/LwVvRTfcQmvbk7RmLr7rDsBjjh9h35MhNCfjhkQ9W/X4/P8080268-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-R6T4pHB/0/MNvFxgvRnr46mSHdZsk4zCgdjWzN6mKTFrdRGVNCm/X5/P8080268-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-R6T4pHB/0/MNzDBxR74mj8XFN7fNBHJwtQvbd94BdKGjbt8gxBr/4K/P8080268-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-R6T4pHB/0/KFCL9JfWKHrjm7jJKbDBngtrZFMfsh4QxVrzr8g5j/O/P8080268.jpg",
+          "Ext": "jpg",
+          "Height": 3187,
+          "Width": 4249,
+          "Size": 6957345,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/R6T4pHB-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/R6T4pHB-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8080271.jpg",
+      "Date": "2013-08-24T22:07:32+00:00",
+      "Uri": "/api/v2/album/hBw88k/image/gDj4SPf-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKHereford/i-gDj4SPf/0/#size#/P8080271-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-gDj4SPf/0/LHqjg7t946NhDT4fk5J7TbBCJJ9TRSdxgcMSKW4LH/Ti/P8080271-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-gDj4SPf/0/MGjFnbhj5tRt5d6G83ptQWm8R9XHjWtw8qsqMXwdB/Th/P8080271-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-gDj4SPf/0/NXLkD8ksGd5Rq7JKSz7bZZ73kJKnCBtdLN53G2g8b/S/P8080271-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 85165
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-gDj4SPf/0/M5QBkvQ4K8PrJbcwhP9vRbvsRftKrvwq7DJ3HJjrx/M/P8080271-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 190366
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-gDj4SPf/0/MzR6J4xBtpng6PLTCNQtn7kXHWqBsFzhNJJbkFBhM/L/P8080271-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 316889
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-gDj4SPf/0/NBLhTDpwHDfxhZNdQcxjscBnnnt6gQgrXFS785dcW/XL/P8080271-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-gDj4SPf/0/MfMWzPg8DRHxCX3p4gZK5kGzTJLm9pmq7j35rrGJf/X2/P8080271-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 795697
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-gDj4SPf/0/Kk6T2mMgZCftDVX9W3w4zPwHfH6bPb5smqC6CVHDb/X3/P8080271-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-gDj4SPf/0/Lv8zspX8vZ9pcmrF74cJh3Qc2NhsGX7qc54bnM9j9/X4/P8080271-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-gDj4SPf/0/KXMkZ5whRLSTXSdxGFKfbgWXf44RZ5DQ5bgWG5b6B/X5/P8080271-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-gDj4SPf/0/KspGMQqv8BRk8N4gWGp7XcXjGKNzJ9JchbHCPJjWF/4K/P8080271-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-gDj4SPf/0/NhtJ3nWdhKNfG9692D9KX9kPXt9NpsHMXrzQmKrF4/O/P8080271.jpg",
+          "Ext": "jpg",
+          "Height": 3456,
+          "Width": 4608,
+          "Size": 9741855,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/gDj4SPf-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/gDj4SPf-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8090280.jpg",
+      "Date": "2013-08-24T22:09:45+00:00",
+      "Uri": "/api/v2/album/hBw88k/image/fDSFBqg-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKHereford/i-fDSFBqg/0/#size#/P8090280-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-fDSFBqg/0/Krh6cvGJcR7ndNBv4Q7xV2hcG2MkDjxwxmX6q29R8/Ti/P8090280-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-fDSFBqg/0/LQ52MLbPbPSXKDkR88Mk48n3JTxfzrQf3dnBFWKg7/Th/P8090280-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-fDSFBqg/0/K4D27Z27TwsJfVLgt6hcR6QfBBtHWc2CQRKLkWFc7/S/P8090280-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 131680
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-fDSFBqg/0/NF7HrBZXNXsXHRKmNc8BPfnkdVc9n4BG74JDbxtwk/M/P8090280-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 219981
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-fDSFBqg/0/MmZZKxPKdNwqX6RNxNqtJ7HxZ8QH6V4j2XMDPnZZm/L/P8090280-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 268352
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-fDSFBqg/0/MhBCdCsZ3S37hS7cGzzBzTzLtW3Tv4pZLN7W9k32x/XL/P8090280-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 859234
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-fDSFBqg/0/LhgDgxnJghrP3tp6Mg6Jw4BFWsqGsvZxG2XCxMWXX/X2/P8090280-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 1266848
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-fDSFBqg/0/KmVJrvk3RzS3xhkG3FrGH9Jwzr4h3rDxB6FBjc7kT/X3/P8090280-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-fDSFBqg/0/LfnMWkRL4CMvXvc4X6dNvWXmB6rbkpj7s7Hsbg3PC/X4/P8090280-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-fDSFBqg/0/Ksmcxz6vkKxZFcHzp3pmMbhSJ6kR6b5Z9xcgg6CPH/X5/P8090280-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-fDSFBqg/0/KwbkGKbSD8fXWnFmZd3jnq3FkX5jGVKBZMwQWk9f2/4K/P8090280-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-fDSFBqg/0/NgV5PbzNz67x69GvdhMmNvvSsf4qP7JnwnH49zPGd/O/P8090280.jpg",
+          "Ext": "jpg",
+          "Height": 3456,
+          "Width": 4608,
+          "Size": 8599058,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/fDSFBqg-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/fDSFBqg-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8090286.jpg",
+      "Date": "2013-08-24T22:11:02+00:00",
+      "Uri": "/api/v2/album/hBw88k/image/rCwXkSm-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKHereford/i-rCwXkSm/0/#size#/P8090286-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-rCwXkSm/0/KdvDksQQJDh3TxLrXTk4D7JxnMvB25zCNMRsnv9Gb/Ti/P8090286-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-rCwXkSm/0/LKQz6FVgdg9BfxVwJBfHfcLb9gzS9trbHNsxsTfJg/Th/P8090286-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-rCwXkSm/0/MFWQ4Q5WsrBQCvXWxbqm9PfJ8cfPQvnRnPPSBsSCW/S/P8090286-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 58932
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-rCwXkSm/0/LHbVGVBs6twDH8hgv65vpvVHLSWM85w2bhHK9pn8B/M/P8090286-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 117569
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-rCwXkSm/0/M3fGdBWLNhZ4R7HXmNkWVvTfc2GbgbbG5fGKcQ5WH/L/P8090286-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 185175
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-rCwXkSm/0/Kg2TvcHJ6X8sjxthVT8nfwQs8PKCTmj7R4mgC2JDb/XL/P8090286-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-rCwXkSm/0/MQNHv7NdJGjWxn5N4CGkM9qwvWgKmLzZRL7JXq3Nr/X2/P8090286-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 423891
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-rCwXkSm/0/MS8F5m4BFMtJ7JB7krXMMpGJMwwRQVTqfFc9mQLHf/X3/P8090286-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-rCwXkSm/0/M9Gbzw4H77Lcv3NjPsxcKTn32GMx87Mqr5NwcXTcN/X4/P8090286-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-rCwXkSm/0/LHVmHkQmDvLmZPx47TN8nK6cghtZHcnfg4PLNKpqp/X5/P8090286-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-rCwXkSm/0/NVxhZVZRSB24XQGBSWpvCXxDRNWB8NPKkfRqSTJFG/O/P8090286.jpg",
+          "Ext": "jpg",
+          "Height": 2636,
+          "Width": 3514,
+          "Size": 3810769,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/rCwXkSm-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/rCwXkSm-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8090291.jpg",
+      "Date": "2013-08-24T22:12:43+00:00",
+      "Uri": "/api/v2/album/hBw88k/image/c8TLGMk-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKHereford/i-c8TLGMk/0/#size#/P8090291-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-c8TLGMk/0/KSsZNMQrjZCRsk9w9XmgsSnK9kxNBqHqgMJQHxF9P/Ti/P8090291-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-c8TLGMk/0/KSf3TDPxsxHCKF4LLHkz8DfD4gwhvXzRmmV622rjg/Th/P8090291-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-c8TLGMk/0/LVFwbv7ggb4GwWfdk2VgrkJLBMc2hn5F9rs4jtj8B/S/P8090291-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 53573
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-c8TLGMk/0/MkSw3DTQZttJBddZ3SrFZ4hvnjJGVcNzWS3QNggLC/M/P8090291-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 107677
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-c8TLGMk/0/MqcM62QbXBMrVj37jpCq3zSQ58FVp7ZH2LGmmb6x5/L/P8090291-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 170660
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-c8TLGMk/0/L7sdmFK35Qt6LXMfWtFBrKpbGM79c5SvBxD26NS4d/XL/P8090291-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-c8TLGMk/0/LL4M88P8SkLp6jrVRxwB78b5GZK6SpdTmrSWFtQmB/X2/P8090291-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 411667
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-c8TLGMk/0/MGN3cJvHvMbCccHTMsTFXJxNsXpN9x49Wz7nbbqz9/X3/P8090291-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Size": 596453
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-c8TLGMk/0/LVjVHzC8fDP3vh4ZTfgGxwSG5jtN3t4rs4JLkqWGM/X4/P8090291-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-c8TLGMk/0/NZ6chNBS2TF3txzMWNQqWTv2LVrqWFSwrpTD9vmkQ/X5/P8090291-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-c8TLGMk/0/KPLGxWPMxrgLgR29HWfQxZHVQR63R3wTbvLww5WhP/4K/P8090291-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-c8TLGMk/0/KPMm8k7QWJvfVFN2FwWH3fC4MJCNgDNDx5sF8hxrg/O/P8090291.jpg",
+          "Ext": "jpg",
+          "Height": 3456,
+          "Width": 4608,
+          "Size": 6539251,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/c8TLGMk-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/c8TLGMk-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8090304.jpg",
+      "Date": "2013-08-24T22:14:47+00:00",
+      "Uri": "/api/v2/album/hBw88k/image/3DGjjmz-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKHereford/i-3DGjjmz/0/#size#/P8090304-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-3DGjjmz/0/Nd3LkkvrpHpDDVHLChsDtsbznLswctWV3XG49P8v5/Ti/P8090304-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-3DGjjmz/0/LJs9hqFhhzTC8NB4xddjwGpC8V2Rqd5mDCffr66NP/Th/P8090304-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-3DGjjmz/0/LnjV7MxBfKxsWFSPWgwNzk5R227rZPNT9MF5CZLfS/S/P8090304-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 59575
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-3DGjjmz/0/KvndQ7474M6DNGKsLcHwhSPPcLKLwTSWWxFnJPV4g/M/P8090304-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-3DGjjmz/0/KbhB25Hr45r2PrkNMKvWLq6WTdb3PJrjGMtKHZrtZ/L/P8090304-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 219493
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-3DGjjmz/0/MjC59BpBDLpnhHJLXBKbDWHZ7nSJh5CXDqdqtwP5g/XL/P8090304-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 389032
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-3DGjjmz/0/LXKFzjjQcmWqZCkZnzJzcpQh8nVPdcnsCH6cNnhCg/X2/P8090304-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 574102
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-3DGjjmz/0/LCz8mxgnzbDZR8G73hVvmVVRqjdHQnW8frbgXBfTf/X3/P8090304-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Size": 833681
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-3DGjjmz/0/LvG384974Z5q5HkrwjDfFVmM89jGXKdVRsLSmr9Zq/X4/P8090304-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-3DGjjmz/0/LHD9Qfw2tbbqCZCTh8LhVCsTqRSbkdkMgm3jkRMX4/X5/P8090304-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-3DGjjmz/0/NL8t7Tprc8XFHHQhTRSgxz8v6L5BddqDqMXBLJ7KS/4K/P8090304-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-3DGjjmz/0/LpPfgWh5z6TXCVcCqhBtQcNdfdtPVBZFR6kswBHZw/O/P8090304.jpg",
+          "Ext": "jpg",
+          "Height": 3456,
+          "Width": 4608,
+          "Size": 8119006,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/3DGjjmz-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/3DGjjmz-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8090307.jpg",
+      "Date": "2013-08-24T22:16:46+00:00",
+      "Uri": "/api/v2/album/hBw88k/image/s7DTfNm-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKHereford/i-s7DTfNm/0/#size#/P8090307-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-s7DTfNm/0/Kh9mmrdPvVtvnFqvcHHrHFZm9Xqb83Qzb6GqSTt5s/Ti/P8090307-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-s7DTfNm/0/L6xw5JpLGcGhxv2J6Kth87QMCmMFPP9PM9qFXQZP6/Th/P8090307-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-s7DTfNm/0/KVBffS4fhqwkHFJsk4BtXxbq76dfBdHBhSP6C53CK/S/P8090307-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 70579
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-s7DTfNm/0/MTVs4VmhnVkMbThxtV8mV86BPpSp5tMMXfSGspPSD/M/P8090307-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-s7DTfNm/0/LnmhP9f5skKZrrfkMXWXhzVtfbg22526ddSrGs8B5/L/P8090307-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 226621
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-s7DTfNm/0/NWHTRjNv2vjf3nB5w5k4JGZKzpLtT5sMpNJxMQcwJ/XL/P8090307-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 372575
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-s7DTfNm/0/LRxQnwc4pcRTDKJQsZJd3wNmG53pCh4ZxPxb7MsQH/X2/P8090307-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 533066
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-s7DTfNm/0/Mt7jf7jw4C3m9gtSrJGZS7h4jznBzCj8JdTPqbFrK/X3/P8090307-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-s7DTfNm/0/NKKZ28LvcdwZGT9czVk6rZMcV23HDwnghJHTTTLsC/X4/P8090307-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-s7DTfNm/0/LRx6qW86Vcd93P9dc7tV8CRF24xchjbSqSHKgWWS5/X5/P8090307-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-s7DTfNm/0/KFrfDQcDbNzSm7WMqctz7rmb5fPdx57rrQDvN89LJ/4K/P8090307-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-s7DTfNm/0/MZpxbV6ZXSJwf69fQXfwzgnTSg4L8tNBvpXZtCTT6/O/P8090307.jpg",
+          "Ext": "jpg",
+          "Height": 3352,
+          "Width": 4469,
+          "Size": 7881955,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/s7DTfNm-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/s7DTfNm-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8090308.jpg",
+      "Date": "2013-08-24T22:18:19+00:00",
+      "Uri": "/api/v2/album/hBw88k/image/cNfBwgZ-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKHereford/i-cNfBwgZ/0/#size#/P8090308-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-cNfBwgZ/0/KHFDCnS7nNBdTrXQDtZdJ4kGfD3wF835gQmrLFWHH/Ti/P8090308-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-cNfBwgZ/0/K8PbnWHKWRj2NXsrVVwmcKMzZ89rwzfqGh7g8gf5T/Th/P8090308-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-cNfBwgZ/0/Mm89qrPjSMJssLZPbz5hZ4dRhvwGmM8wPD5PtcmFs/S/P8090308-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 48255
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-cNfBwgZ/0/MgpbqzWq26nvgmLGnFwk88cPXf77qrfcz6q7KBRQc/M/P8090308-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-cNfBwgZ/0/LCn3QSv7Vmr37tP4gpTVfDKNnGnsWnPqxvWT8xzpk/L/P8090308-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 140510
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-cNfBwgZ/0/KL74PBxVFPMvFVssPHhTRv8M2mLRJHQvsJtX6DRRt/XL/P8090308-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 221093
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-cNfBwgZ/0/Kxh7ZXTjwsNnQGFD3Nv8dVPGKScF67rCvMr7GqT2n/X2/P8090308-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 312083
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-cNfBwgZ/0/KXJV3NWGQJvRXx3czBPBfsBDZxQKwtzZb7h9hxFSZ/X3/P8090308-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-cNfBwgZ/0/LVHM5QS7S6szLnV5bGPXkJZ93Hb84c9tGPs3sT2Jg/X4/P8090308-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-cNfBwgZ/0/LMDVt8hdqHbQNC2pBRmCQFBFJMrdMtN63wQ2kbJ6r/X5/P8090308-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-cNfBwgZ/0/MMfh7jh3n2jx35HCp9ZrhLgFLfs99VZ5HV2jGgJPD/4K/P8090308-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-cNfBwgZ/0/MnftHhxX3DJGLrJbJ5VwJ5KJLWT3xb8d8jRwtqG4x/O/P8090308.jpg",
+          "Ext": "jpg",
+          "Height": 3456,
+          "Width": 4608,
+          "Size": 6074635,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/cNfBwgZ-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/cNfBwgZ-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8090312.jpg",
+      "Date": "2013-08-24T22:19:55+00:00",
+      "Uri": "/api/v2/album/hBw88k/image/zLVgFzX-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKHereford/i-zLVgFzX/0/#size#/P8090312-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-zLVgFzX/0/KTRZKG5phC7xcCws2pK39J5szJW5XXvdbmmZbS5RQ/Ti/P8090312-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-zLVgFzX/0/M4CmWTtxmDjFzPTXVdkz7N2mJD26frqPbzJ2WHPds/Th/P8090312-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-zLVgFzX/0/M3rBNvm4k3pmWtTtFHpcjxz89H6SV7vfJqnXCgNH6/S/P8090312-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 41199
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-zLVgFzX/0/KnwPZHgB5DPTQ4fvknWSGFMKBqqRJqJ6NsBFqvm62/M/P8090312-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-zLVgFzX/0/KcJrzFwqLCDt8WdJ6swDGMPsxjMQz55KxqH7GXcgT/L/P8090312-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 116809
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-zLVgFzX/0/Kcbj8WNZfchQsGrS2rT65gDj99GTQf8TvZgxZzdhw/XL/P8090312-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 187192
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-zLVgFzX/0/LHJZ87WMQNBttZHdGW49Ld7zXqcTKX2gm9gthHTsx/X2/P8090312-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 264023
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-zLVgFzX/0/NJ57xg3PwPW8Hwbt25LBCZnWScHMnpCwCZL5hS26P/X3/P8090312-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-zLVgFzX/0/MXPdQMNBMhVJk93JzsJWVZjHVMhZntzpZ7Z7CZ7HN/X4/P8090312-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-zLVgFzX/0/LBjNnDKkDnBgwGTjkHr8FppnXvGFrK8bSxN9622PM/X5/P8090312-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-zLVgFzX/0/K69QCTxJZBQ93RF5FPdqL4xrP4QPcM5xVL9SnxPGp/4K/P8090312-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-zLVgFzX/0/M4QjMG2NMzjL3ZSc2Xfk9NZJVDj6jQftnmp7wHzFd/O/P8090312.jpg",
+          "Ext": "jpg",
+          "Height": 3456,
+          "Width": 4608,
+          "Size": 6346065,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/zLVgFzX-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/zLVgFzX-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "P8100325.jpg",
+      "Date": "2013-08-24T22:21:03+00:00",
+      "Uri": "/api/v2/album/hBw88k/image/H26m9hT-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2013-UKHereford/i-H26m9hT/0/#size#/P8100325-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-H26m9hT/0/KSq2qf8G5qfBXwrcMDmrfw9wJ8B8gcXzLVNLLs3Bz/Ti/P8100325-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-H26m9hT/0/NBhM9NWBhPn2sqBD3p9NFzmLcgFDJh4k2Vb9vmCkH/Th/P8100325-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-H26m9hT/0/LG5zV8LWS5QRmMBGrdfBmH6X6qZCsBSxqLHTV3bhQ/S/P8100325-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 62141
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-H26m9hT/0/NbMbqCf2nsbqHpcjr6znVPzQH7xG7GBMm9ZNd35Lf/M/P8100325-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 125668
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-H26m9hT/0/LJkLRxkNKmqMTN2ftv2j9tKpZwKMKqFhGxFZLJLfG/L/P8100325-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 197675
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-H26m9hT/0/Mwp5JZXdDLxKzvk69QCPxtPvn4Z76d97pWQHC68h5/XL/P8100325-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-H26m9hT/0/LP5QRRF6w8q2JSSmKrpGT7FbQXrxCtxnFcJhBLtq3/X2/P8100325-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 471224
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-H26m9hT/0/NF7NCjNdm99jwbbwJj744hmDBMzTr2T7gP9qGf94z/X3/P8100325-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-H26m9hT/0/MVW4Ht6jWKxQpxDbBs7QLqZ6fWPDGPP8c6jzmHJD8/X4/P8100325-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-H26m9hT/0/MJ7GCxJjrcb9BZcxpDtbjPDDL3RDj49wL2RwpvLv2/X5/P8100325-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2013-UKHereford/i-H26m9hT/0/LJ8dwnk3rw2HxHMx9qvNmbc3qbG9m6kC3cGvkhVPt/O/P8100325.jpg",
+          "Ext": "jpg",
+          "Height": 2529,
+          "Width": 3372,
+          "Size": 4360348,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/H26m9hT-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/H26m9hT-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    }
+  ]
+}

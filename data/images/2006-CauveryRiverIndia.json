@@ -1,0 +1,1509 @@
+{
+  "UrlName": "2006-CauveryRiverIndia",
+  "Name": "2006-Cauvery River, India",
+  "Uri": "/api/v2/album/wnR49B",
+  "Date": "2008-04-12T18:25:15+00:00",
+  "WebUri": "https://lmblevins.smugmug.com/Travel/2006-CauveryRiverIndia",
+  "Images": [
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "16jul06 050.jpg",
+      "Date": "2008-04-12T18:25:23+00:00",
+      "Uri": "/api/v2/album/wnR49B/image/3pgG8G3-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-3pgG8G3/0/#size#/16jul06%20050-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-3pgG8G3/0/Kxg7TBmjQvhTPrCsxC2mZtrxBjvzdrBdhZNfs5tj9/Ti/16jul06%20050-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-3pgG8G3/0/NQbm8rKK8MVQZ2NsW88T28fgwKSzCvSKf6hTF7LTD/Th/16jul06%20050-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 13149
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-3pgG8G3/0/KN8mrx3Cm2VJgSzfdRw63PBDZ75mNntdfwG6KBqPn/S/16jul06%20050-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 55373
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-3pgG8G3/0/MnwbhWhWxbVnZ9tMMkvrkjDjpqVC6C7WWKXvFvMkc/M/16jul06%20050-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 115138
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-3pgG8G3/0/Lt2r8bWwCK3RDBkzq8Hpq9pN48RJJ8PHHbWXVMPgf/L/16jul06%20050-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 190392
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-3pgG8G3/0/LzjDcvBtsmmfNw9mqwBjNsmm5zGQTXwmHS42MB7LN/XL/16jul06%20050-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 304975
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-3pgG8G3/0/KQ9q3j2sPPZ3GmrkKxNcMzsDmnvQgF8nwZrFvgrkS/X2/16jul06%20050-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-3pgG8G3/0/LxMrJZG9VVqL2SW36PQVF3G4xHVx8TBDSNGcN8GdT/X3/16jul06%20050-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-3pgG8G3/0/KH46JknMj9w6tKXhq4SrwGN6sdJhNDrHjpGfTr6jc/X4/16jul06%20050-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-3pgG8G3/0/MGs77tdKwXZdjBCmjmKsztDMkFcRSGFqM74bZTZs5/X5/16jul06%20050-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-3pgG8G3/0/MDDWcWNNFzrPp88k6kzczqMfvN4qfb7qTTXjHbDq2/O/16jul06%20050.jpg",
+          "Ext": "jpg",
+          "Height": 1944,
+          "Width": 2592,
+          "Size": 1612017,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/3pgG8G3-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/3pgG8G3-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "16jul06 046.jpg",
+      "Date": "2008-04-12T18:25:24+00:00",
+      "Uri": "/api/v2/album/wnR49B/image/SLNFnpK-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-SLNFnpK/0/#size#/16jul06%20046-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-SLNFnpK/0/KdsNnJN3zhjR8Hzz4sRGPZSQn9BnStZgqCvDgM4h7/Ti/16jul06%20046-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-SLNFnpK/0/LsSZHdLhKtt2NQMnrMCkwbPQW62MhLGR3GdWKRRGk/Th/16jul06%20046-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-SLNFnpK/0/NQVgNN9ZqmZ3tkT8jQQSjp9qTJvQFHT2xSrtgfVPF/S/16jul06%20046-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 50410
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-SLNFnpK/0/MkD9D92VKB8pqftDNJH2dMs3xrddg6JKkgdwks5ZF/M/16jul06%20046-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 113680
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-SLNFnpK/0/LLJMtv7FHgQTztT4qNDCMvVcZGBPKR7QRvNt6zd5L/L/16jul06%20046-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 219316
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-SLNFnpK/0/NGkf6DgcnfSzZW7KfCc4z888xb6StGSt649nbQKm4/XL/16jul06%20046-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 513841
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-SLNFnpK/0/LVzXRJbXT979SDNbZ7BWWW4jmV95bwbSbG6pjWKWg/X2/16jul06%20046-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-SLNFnpK/0/MKQZ3Qm5jPRS77Z8K836gLbsgJqJcSq63x4qpj6tw/X3/16jul06%20046-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-SLNFnpK/0/McwbX62Hg2qf5VrXcjDmjK25w3323WMsxzR3sC36S/X4/16jul06%20046-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-SLNFnpK/0/MtRgfVkSxVkcDZV3v2FqNXv2gZGVNmX5wBQt5b48Q/X5/16jul06%20046-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-SLNFnpK/0/KkvWM3zQvtwnz6jr5rKPw5hwWWhCs555Hvd2df4sb/O/16jul06%20046.jpg",
+          "Ext": "jpg",
+          "Height": 1944,
+          "Width": 2592,
+          "Size": 1836787,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/SLNFnpK-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/SLNFnpK-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "16jul06 054.jpg",
+      "Date": "2008-04-12T18:25:32+00:00",
+      "Uri": "/api/v2/album/wnR49B/image/SbHWL79-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-SbHWL79/0/#size#/16jul06%20054-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-SbHWL79/0/Mpsc9kR8qRhkJ3jM2xBMFmDVTSTVtHS7s82zzpMs3/Ti/16jul06%20054-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-SbHWL79/0/MGzkLPD6MRSkb8XzFHqzrVRjNk9WfnZr8zqFmfwpc/Th/16jul06%20054-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-SbHWL79/0/LJsRX6grhvh6HDWhMNRmNPXTmqrq8MMtgMnr6prCT/S/16jul06%20054-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 39196
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-SbHWL79/0/MJ7VDcB6jHjSjRQDsRPkNDrfBwGcv9NWwHmtmTf2D/M/16jul06%20054-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-SbHWL79/0/LdngCv6p8K4wQ8JdPrHp2Wmqv9bjCQCpbHBjbQ3HD/L/16jul06%20054-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 145983
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-SbHWL79/0/NgQRxG7MztbbXd3v47KDrKgPGVPQDWgp8TxXgnMd4/XL/16jul06%20054-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 409049
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-SbHWL79/0/K8Jx6Z25c7bXcs85z8QPdkV4qw9QhpFPXFCR2zJkD/X2/16jul06%20054-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-SbHWL79/0/K7kBvWFHjj8ZRf3BfLKvXHKvW3QRfDTwBLh7rgLtz/X3/16jul06%20054-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-SbHWL79/0/NCH49RqWtZh7rW8Z3BhsXrFMpJ9XPc38DSnFTcxjG/X4/16jul06%20054-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-SbHWL79/0/MfBwHtNB2g66LwfVFZQWBTMnJBTMhDc78FX2Fk9zF/X5/16jul06%20054-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-SbHWL79/0/KTdVCQT93njFxkmq8XWK2FH7XWVTHWnCwLC6jj5TV/O/16jul06%20054.jpg",
+          "Ext": "jpg",
+          "Height": 1944,
+          "Width": 2592,
+          "Size": 1485936,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/SbHWL79-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/SbHWL79-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "16jul06 053.jpg",
+      "Date": "2008-04-12T18:25:31+00:00",
+      "Uri": "/api/v2/album/wnR49B/image/LrvwDXr-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-LrvwDXr/0/#size#/16jul06%20053-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-LrvwDXr/0/K4t6N8W3GxS2rSwHLp6nt53CXhX8zLjZ76cTV6Lpb/Ti/16jul06%20053-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-LrvwDXr/0/NKkDJNVxjt9TJZMzNVg3khPxwtXxqLxSRM272kWbk/Th/16jul06%20053-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-LrvwDXr/0/MztHNpsLh2N3t6wqsCv4pztwwwMnX6RgBLMktSLdJ/S/16jul06%20053-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 55551
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-LrvwDXr/0/K23QnXRFbkpqv9jtGLLDkmSm5LKZWKhB5GGKgtSLc/M/16jul06%20053-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 146741
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-LrvwDXr/0/KfVcVtkG4W2HHBKRQk7DRzzQPbQNWPkxqVZsw68TM/L/16jul06%20053-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 244238
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-LrvwDXr/0/LgphdFXsBpwtv8N6B2knfJDDNfsLZWXP4vWvRQ8kW/XL/16jul06%20053-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 569928
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-LrvwDXr/0/M7MPwJ6mT3bbpT5hw4WLShCPbMTnX5r3RfrKFwwRQ/X2/16jul06%20053-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-LrvwDXr/0/KfSB2Bg4kw6xB36kGcnDXpzphdQZTNchNvDr9GcxW/X3/16jul06%20053-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-LrvwDXr/0/KztZXQH5Z7XgJXPBwCFbzRDPrkhpCkX53rjrXNX2x/X4/16jul06%20053-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-LrvwDXr/0/MsTgCLFBnjjPfzhq7fzJjHcNfPXH9vBW7rg5tFJJb/X5/16jul06%20053-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-LrvwDXr/0/LVH2KqpGFZW93jSFRfTpc5nvXSjqfLp66KKNmgjXZ/O/16jul06%20053.jpg",
+          "Ext": "jpg",
+          "Height": 1944,
+          "Width": 2592,
+          "Size": 2029991,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/LrvwDXr-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/LrvwDXr-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "16jul06 056.jpg",
+      "Date": "2008-04-12T18:25:39+00:00",
+      "Uri": "/api/v2/album/wnR49B/image/JFQNQBj-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-JFQNQBj/0/#size#/16jul06%20056-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-JFQNQBj/0/LnNsX95tWqksCJNhwDh6zfn8qdr4wc8xnrdbcm5Zn/Ti/16jul06%20056-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-JFQNQBj/0/KQw9Fj2v49cqwxwmSpbRXcCp5L7ZmxGRFNSFPhDJ3/Th/16jul06%20056-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-JFQNQBj/0/M8PFJxkgN4RtMRmkcGSWrHDKm7D8H3wXQ4s72CQdK/S/16jul06%20056-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 55220
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-JFQNQBj/0/KLV4FPsG392v9zPdkDLZVpMJWGwmMqgTHmW86HfWC/M/16jul06%20056-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 117949
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-JFQNQBj/0/Nc55nNg67RWQvgN5Sxdm2hmqPV9xqVvtNPp6BS3DG/L/16jul06%20056-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 226497
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-JFQNQBj/0/LLkQ7bcBbzD9M7zhtvt3R5spMqHSvVgbDgcb3nFtK/XL/16jul06%20056-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 526154
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-JFQNQBj/0/LQR4rbWjB9XN4PG2Hb7s2zpBCj9Kh6DbsPPB8VPBH/X2/16jul06%20056-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-JFQNQBj/0/KHzvpKxZ7K2hrm3xZ5nFPPdz2WpD7fHb3vQRT2qTd/X3/16jul06%20056-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-JFQNQBj/0/M6WNqvnnRtS34KBFBnxBk7JkMH2LdjxPBtgCC5Z9s/X4/16jul06%20056-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-JFQNQBj/0/LKCDHN6Cq8j5qMbV4cL5fgJrt2RpB9GZ8BbTp8cw9/X5/16jul06%20056-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-JFQNQBj/0/K8np8tmPWTCP8BkHKcdMfwQVWXPPbsTxNcfngLmwT/O/16jul06%20056.jpg",
+          "Ext": "jpg",
+          "Height": 1944,
+          "Width": 2592,
+          "Size": 1826096,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/JFQNQBj-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/JFQNQBj-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "16jul06 055.jpg",
+      "Date": "2008-04-12T18:25:38+00:00",
+      "Uri": "/api/v2/album/wnR49B/image/hw3Rv6f-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-hw3Rv6f/0/#size#/16jul06%20055-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-hw3Rv6f/0/KmfwVMrVvnGkJ4Jg34CXFmh8BndP8RFTwxkqqmJjf/Ti/16jul06%20055-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 6181
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-hw3Rv6f/0/M48kx36NqQjBbzGnF9Zbvcn7fRJpMfJ3Jdn5cD5jQ/Th/16jul06%20055-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-hw3Rv6f/0/L8bnJRvJk4xr7x2z9qPq84G6KpfSmVdNVL5SZ5MGf/S/16jul06%20055-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 43456
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-hw3Rv6f/0/KF7fFHQC7tCtx744jkZLH2dpTd24Skh26kp7WnzpS/M/16jul06%20055-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 102239
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-hw3Rv6f/0/Ks2pdxTLwTqG8fXJh6VRs48gpWrVBMBVsGTMQF6Fq/L/16jul06%20055-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 161958
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-hw3Rv6f/0/KszwfCsnWH88LVxKJvTrzZCfHLjjHnv3xwz6mMDvQ/XL/16jul06%20055-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 381805
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-hw3Rv6f/0/MLtNT3x4sfkKJJXn7t6LvCrGFZBGcmDF4xhRGFt7Q/X2/16jul06%20055-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-hw3Rv6f/0/NhvXsgtqK8Zw72MFzS8T6V7R4khRjTFmbH59tvWDS/X3/16jul06%20055-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-hw3Rv6f/0/KPPkQpr8RWKK6jMZqtSrpztMnZzzbsDXdpGPsr9Hv/X4/16jul06%20055-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-hw3Rv6f/0/KMTTxTQQgMG4gT2Q89zM5zCGBcXPdTpCKXNLjCDh3/X5/16jul06%20055-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-hw3Rv6f/0/M64LbbBkkKS6TrmLt7mrfhG654tg9vFDvcT5Dvmk2/O/16jul06%20055.jpg",
+          "Ext": "jpg",
+          "Height": 1944,
+          "Width": 2592,
+          "Size": 1290997,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/hw3Rv6f-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/hw3Rv6f-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "16jul06 058.jpg",
+      "Date": "2008-04-12T18:25:44+00:00",
+      "Uri": "/api/v2/album/wnR49B/image/f3d8bTS-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-f3d8bTS/0/#size#/16jul06%20058-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-f3d8bTS/0/KdQkzXtcP6Q4TVnG6pJn5r7dkqSTX6WQmqfGM5pfd/Ti/16jul06%20058-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 5826
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-f3d8bTS/0/MK6GZcvrmPR3gGV9XPHnQvGgqhkzDL4vBhghjPRnw/Th/16jul06%20058-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-f3d8bTS/0/Mz62PNxXdP8JgmBS362gttQfkzDTmkWqj2kQtSBp6/S/16jul06%20058-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 39557
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-f3d8bTS/0/LkQs2xtnbCBg9Sq6nxftVK5HfFnTGK2fSbPKjn6Zg/M/16jul06%20058-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 92018
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-f3d8bTS/0/K4f8f3GqPqWckhcSRwgG24SQ4qRkQJPjMppw9nm9F/L/16jul06%20058-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 145262
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-f3d8bTS/0/KpG36N4QMK5Kv6rLgBPTnP3Ts5P7Qk4C7h6ZbFsSF/XL/16jul06%20058-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 347105
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-f3d8bTS/0/L7FSN53s8gvg6dRL6mLw46LHdqp8J6c3v2NnJzhT3/X2/16jul06%20058-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-f3d8bTS/0/M3ZGzgCTW4gCv4smMThQzCH6tPCdNwFspdf5mCp5f/X3/16jul06%20058-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-f3d8bTS/0/NMptHTGMJRJs6XGKgf7fWFjTnhvvt79GCzTwH35gt/X4/16jul06%20058-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-f3d8bTS/0/KXvmBvHhjqL8Bptx3J639MCVkV4xKQKCD5DDF5Jhr/X5/16jul06%20058-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-f3d8bTS/0/NLGHm4gg87nVJZrMBnfc3jcLJV9nz6TvNH6mhkqWr/O/16jul06%20058.jpg",
+          "Ext": "jpg",
+          "Height": 1944,
+          "Width": 2592,
+          "Size": 1223114,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/f3d8bTS-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/f3d8bTS-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "16jul06 062.jpg",
+      "Date": "2008-04-12T18:26:00+00:00",
+      "Uri": "/api/v2/album/wnR49B/image/t3LTjPX-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-t3LTjPX/0/#size#/16jul06%20062-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-t3LTjPX/0/K5Z5RqCBjjXMPzDjTH7JwfWLxW5MDvM5wx8xJ65Xf/Ti/16jul06%20062-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 6607
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-t3LTjPX/0/MP4qWwntzDCVSXL5H4FLMZMCvkbRTXzWcktTCPXNf/Th/16jul06%20062-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-t3LTjPX/0/MV66WX69DJv3mmGM4W2s5wmkpSr64mzN32QTRhRk6/S/16jul06%20062-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 54838
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-t3LTjPX/0/MkW3MmB7RcGMdVjngtRthmnDJVd8vjKKMS48ztCRK/M/16jul06%20062-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 137740
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-t3LTjPX/0/KcDzM2dPt8Sfn88CDNpKsSkPJhMDTb9KvQ4vrQbwk/L/16jul06%20062-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 223910
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-t3LTjPX/0/KrM7NFrJnGbKhdchTk3xvrgcLMzPdpqwtJNJNMDpw/XL/16jul06%20062-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 516154
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-t3LTjPX/0/NLTLgF7wMgvXKwpB6tJ9qm74qbvM3tcfqtzdLPnPQ/X2/16jul06%20062-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-t3LTjPX/0/NdZb2MzNqZ9s8sGkSPRf8S4pkzZT5hc6QVqvpBg9T/X3/16jul06%20062-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-t3LTjPX/0/KNwxSwzdJ3pq5LBbMCrZpk6vh72SKCgVDv32LFJqV/X4/16jul06%20062-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-t3LTjPX/0/MPbgH4chTmgs23bpdKP4ZCfpVb3jhps5QT9mS7z7t/X5/16jul06%20062-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-t3LTjPX/0/K7MRHs5FX6mSrsFm4jFZ4zntBxJ28N95SCnhxzP7q/O/16jul06%20062.jpg",
+          "Ext": "jpg",
+          "Height": 1944,
+          "Width": 2592,
+          "Size": 1755907,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/t3LTjPX-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/t3LTjPX-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "16jul06 061.jpg",
+      "Date": "2008-04-12T18:25:59+00:00",
+      "Uri": "/api/v2/album/wnR49B/image/XqhJWhX-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-XqhJWhX/0/#size#/16jul06%20061-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-XqhJWhX/0/KRJSsg5FCnCGp9Xrht45nGjnHfT5FjqSRHWxKd75v/Ti/16jul06%20061-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-XqhJWhX/0/KmfZG2JBrkKvGScr4hCKmhrK8szHFQ3wPCqP5n9P4/Th/16jul06%20061-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-XqhJWhX/0/L5d47zJVLbkwdZkpJxccwZgS3f4n5BcTk4hTNsDC9/S/16jul06%20061-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 48533
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-XqhJWhX/0/Ln82xwJX2CjXJQdpN5V7K6H7DZz7Czbx4JnmLPZJt/M/16jul06%20061-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 122120
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-XqhJWhX/0/MH6tQ42Zsrnd6pNvDcbdNbnmhxW3CFRbsdXPr5Lt5/L/16jul06%20061-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 199458
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-XqhJWhX/0/KjTBfftJJCK5n4Rs8JztqSRn9GJ3mhVkVqXBQJJGJ/XL/16jul06%20061-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 475517
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-XqhJWhX/0/LpD6SfZLnQkqrmXzNKdjHbCDh3Tr7wfD3pV9Ptz3M/X2/16jul06%20061-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-XqhJWhX/0/M8t7MNWtp4wFMmqdxqZwG55km6Sx9WxmzX69zQ7f8/X3/16jul06%20061-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-XqhJWhX/0/LWnp7DNwKHCD8pngDBgm9Xmr2Tg5HV5h8B43FcbGb/X4/16jul06%20061-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-XqhJWhX/0/LD3bNkkNCj4R2WR2RCptK4QwK5tRcqHfK3fHd8Zqd/X5/16jul06%20061-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-XqhJWhX/0/NXFRMp9sCH5HXVGpP7GdJKQ44wTtdDGKdCvXjtpm9/O/16jul06%20061.jpg",
+          "Ext": "jpg",
+          "Height": 1944,
+          "Width": 2592,
+          "Size": 1620354,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/XqhJWhX-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/XqhJWhX-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "16jul06 064.jpg",
+      "Date": "2008-04-12T18:26:07+00:00",
+      "Uri": "/api/v2/album/wnR49B/image/m3hPb4x-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-m3hPb4x/0/#size#/16jul06%20064-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-m3hPb4x/0/MKhzdKmXsncBQVm7h76LhB2HpBL9g57m2H4M8Wgtv/Ti/16jul06%20064-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-m3hPb4x/0/MqwMgFBXnPVJ2NXQQ4b7gQNZvJMBPL8VkZ9V4gR36/Th/16jul06%20064-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-m3hPb4x/0/NJzFjQmDFk8X4TjJxXSdRPHwSjnLFdXMB7KXbSqQ4/S/16jul06%20064-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 45490
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-m3hPb4x/0/KHwTrkCHnt7QRfdW68qwdMGKc2FzC6nXxLh4dFMbW/M/16jul06%20064-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-m3hPb4x/0/LT5wR6wqpdhrqfMhNsBFkw5rBJNCxL5hV3Cv45TP9/L/16jul06%20064-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 158967
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-m3hPb4x/0/KrQw7GV79CSB24fgpxBsXM7XXxdgVRs64nWHd3tNW/XL/16jul06%20064-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 444065
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-m3hPb4x/0/Nbdf86trmtBrGCLjSd5F3WsDntTTMg9mqG8PLQNRV/X2/16jul06%20064-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-m3hPb4x/0/MVkhT8JKbcBMr5PVLRVq9BQ83JHtMHtpbn5QV3gTJ/X3/16jul06%20064-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-m3hPb4x/0/KQbJ5JmwvmX4zJFmKWNJDPmfdSz4wzcsT6MPq3CQv/X4/16jul06%20064-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-m3hPb4x/0/MR784xBpmSXJCkcMnPFsBmkrKWjjPrHRjjZ3gVXTh/X5/16jul06%20064-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-m3hPb4x/0/KM8XQPNZgCzd8qCnLNZ2cz7smBRtHSQXbpKQ7S9M8/O/16jul06%20064.jpg",
+          "Ext": "jpg",
+          "Height": 1944,
+          "Width": 2592,
+          "Size": 1521344,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/m3hPb4x-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/m3hPb4x-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "16jul06 063.jpg",
+      "Date": "2008-04-12T18:26:06+00:00",
+      "Uri": "/api/v2/album/wnR49B/image/gjxPQvD-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-gjxPQvD/0/#size#/16jul06%20063-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-gjxPQvD/0/NNWN2Bqgsprv7r8CPrDVS7g2DdZmQbC8TQhBbNkdq/Ti/16jul06%20063-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-gjxPQvD/0/McvvktqMRs9dZQBGkFwM3tfdfzqZcmRfdZjSKDqMN/Th/16jul06%20063-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-gjxPQvD/0/MmQVcCSgmFC4S9fkhCRFk6hCSCDPF7J5HMq7NNRw5/S/16jul06%20063-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 46813
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-gjxPQvD/0/LrVWPc8FKdDd3W3nbm3rQPShRKwwZkfgjBxmMwjF8/M/16jul06%20063-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 115814
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-gjxPQvD/0/KZ6HVnqprwzwz6r3VjDTPtHZ8wX6gc3Z57cNKHNcX/L/16jul06%20063-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 186653
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-gjxPQvD/0/MRBxZmBjTBsKFx4sqRVP655xFsWzPMJPq8LKZFXCK/XL/16jul06%20063-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 446651
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-gjxPQvD/0/KrGCrxZXj2cWhRrHp3fXxzQfmzm7ZVBjbcxVgZnbb/X2/16jul06%20063-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-gjxPQvD/0/MqXv4rdzzMZ44QbPBjbWnXDMbPvb7jXRxZJvtdDxb/X3/16jul06%20063-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-gjxPQvD/0/Lph6XS33bJCDjdxcgKxb8tHQb4bcsvMd9jJkNXNBZ/X4/16jul06%20063-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-gjxPQvD/0/LrZF8fc6hqcwJBpKbxwQcbmjWsNWGPRpHqDXbQChh/X5/16jul06%20063-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-gjxPQvD/0/M9rJFzZF66mTXsWQRTs5JBrWspVsnWfb4Hc5RcHGX/O/16jul06%20063.jpg",
+          "Ext": "jpg",
+          "Height": 1944,
+          "Width": 2592,
+          "Size": 1515300,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/gjxPQvD-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/gjxPQvD-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "16jul06 066.jpg",
+      "Date": "2008-04-12T18:26:14+00:00",
+      "Uri": "/api/v2/album/wnR49B/image/3bKpHTb-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-3bKpHTb/0/#size#/16jul06%20066-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-3bKpHTb/0/MzSKqc9wLVB3hMV7zBS8CSvZKDDvggfGB4VSz5SRq/Ti/16jul06%20066-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-3bKpHTb/0/L6VF2QfKr6pZNWPZSNCPNxk7frkgGFvmwvb23fK8X/Th/16jul06%20066-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-3bKpHTb/0/KXg6LhsL4Sn4FthmBXvZd7gDfBRHRQfQSNwv8kTTG/S/16jul06%20066-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 53025
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-3bKpHTb/0/NdFwCDbJh3PBpcPMSRHCdtthzsCV8DjP9SjP2Spmw/M/16jul06%20066-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 131854
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-3bKpHTb/0/MZLW37KP3Hr4b7h2GbLLP9sjj7Vp7hsXr9Rp6nNBr/L/16jul06%20066-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 211795
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-3bKpHTb/0/LSm2KXgh5ws8354887QdVJsxKcVcnRvNJ3FnXhTwK/XL/16jul06%20066-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 490253
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-3bKpHTb/0/LCjS2HtdGJxDWv9L4svJgdRZMtzDbTdHh3zXLdcjX/X2/16jul06%20066-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-3bKpHTb/0/MKwSC28g3kzqrGrxb2zbnN7CTHRb7fDnFdVbxppqs/X3/16jul06%20066-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-3bKpHTb/0/KDdF56mtSx5bDkr9JjLsk7ncSJGS9sMw2bCvMT648/X4/16jul06%20066-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-3bKpHTb/0/NTMtbJXHZ2wZzfsNQPT5cDQTvkshLhTjJHppJBJJN/X5/16jul06%20066-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-3bKpHTb/0/MJk7hCS9dZJn3BfhfxkKhNCmTn25jXrNzhbCpMMM2/O/16jul06%20066.jpg",
+          "Ext": "jpg",
+          "Height": 1944,
+          "Width": 2592,
+          "Size": 1638079,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/3bKpHTb-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/3bKpHTb-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "16jul06 065.jpg",
+      "Date": "2008-04-12T18:26:14+00:00",
+      "Uri": "/api/v2/album/wnR49B/image/QFvqKPm-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-QFvqKPm/0/#size#/16jul06%20065-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-QFvqKPm/0/LtF9N6Sq3svmp56RrwF4bsmrvnvmHVCzvzvBHVS8Q/Ti/16jul06%20065-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-QFvqKPm/0/LPpq63ghBGMVTfSD2WzJqvfJRdj9T6SPbcQW7mVtq/Th/16jul06%20065-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-QFvqKPm/0/NMPg4WXb8FZhB6DF8QmrPGnKwJ5jGwSKJQ8pHB6vM/S/16jul06%20065-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 54187
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-QFvqKPm/0/MhJzRF7BR23dHRpxnN9nFMrFvCHr9nC6crVfBBvMj/M/16jul06%20065-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 116032
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-QFvqKPm/0/LJkwk2Q7pvFjtX7x6Rpsp4GMpmMxs9VFT3tvwFj8N/L/16jul06%20065-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 221902
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-QFvqKPm/0/LVP3DSmxT9S9vBK7957j4gXz7DM6kLq6Z9Wn6P2ZM/XL/16jul06%20065-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 513567
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-QFvqKPm/0/LSN7NJ7nZpLPKkdCtRRXPvFzhG67MH5dtw7n5C47q/X2/16jul06%20065-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-QFvqKPm/0/LvgjcXwK33qfg6ZWHggWkCmnn7pmWK57ddcBw4nFL/X3/16jul06%20065-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-QFvqKPm/0/NRX6mRh9xvQX28fzDN5tm9cDfx7wvBCkphcRbhPSv/X4/16jul06%20065-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-QFvqKPm/0/NcjLjGKprGQP8qvZPxP9HBtFndwXm6JnG5c9SFPr9/X5/16jul06%20065-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-QFvqKPm/0/MxCCpCTK8xkQ2HHnNPVwr3hLD53QwTTLWrVNVRbn2/O/16jul06%20065.jpg",
+          "Ext": "jpg",
+          "Height": 1944,
+          "Width": 2592,
+          "Size": 1732373,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/QFvqKPm-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/QFvqKPm-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "16jul06 067.jpg",
+      "Date": "2008-04-12T18:26:21+00:00",
+      "Uri": "/api/v2/album/wnR49B/image/RW7hqr6-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-RW7hqr6/0/#size#/16jul06%20067-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-RW7hqr6/0/LPvVBG4JRTMXDVbV36fLVw3hWQKxnN2r6sw2PrTm7/Ti/16jul06%20067-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-RW7hqr6/0/Lb77BtP4HpLt7CwvzLLnQZkJJN5NMwCDhJ6qzB74k/Th/16jul06%20067-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-RW7hqr6/0/MgxrBwFnBTt5j6HJGsMSbPZSRXXJsSHTs8HrWvnRB/S/16jul06%20067-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 53716
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-RW7hqr6/0/NVzPvg6MKRQ5t8JjFcFdTbzcJTMrw6pf2WTv9bQ5d/M/16jul06%20067-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 134198
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-RW7hqr6/0/LvGGC9CzdxVXzgKnqctXQh8nN6w74CnKxxD9dXVDp/L/16jul06%20067-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 217822
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-RW7hqr6/0/Kr9kNwFcNVsqL22XB7w4PtJW8nntjKcbcdr7Rn6Fj/XL/16jul06%20067-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 507726
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-RW7hqr6/0/KpLCBx3zWjwxHvFWvqBfNvjSp4WGtGQwW42kQX6xs/X2/16jul06%20067-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-RW7hqr6/0/NL8hRgRLdXm96Xrf6vGvMPgppKctCWVDnQf48bz3G/X3/16jul06%20067-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-RW7hqr6/0/LCsgNjQsVVx89ShF5n9zvXxTRJLt8NFgXdqCtXZS3/X4/16jul06%20067-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-RW7hqr6/0/KvLVP2MStvvvZDZrWhpjndSTzkGdWpq98gfLkwQN7/X5/16jul06%20067-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2006-CauveryRiverIndia/i-RW7hqr6/0/KF7cKf32Nd9gw9pR7gmzfqRMDZTbmcgLNvZ28tRmp/O/16jul06%20067.jpg",
+          "Ext": "jpg",
+          "Height": 1944,
+          "Width": 2592,
+          "Size": 1745855,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/RW7hqr6-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/RW7hqr6-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    }
+  ]
+}

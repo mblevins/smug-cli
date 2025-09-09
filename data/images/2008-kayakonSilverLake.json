@@ -1,0 +1,1243 @@
+{
+  "UrlName": "2008-kayakonSilverLake",
+  "Name": "2008-kayak on Silver Lake",
+  "Uri": "/api/v2/album/hnXBG3",
+  "Date": "2008-07-26T21:56:05+00:00",
+  "WebUri": "https://lmblevins.smugmug.com/Travel/2008-kayakonSilverLake",
+  "Images": [
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0504.JPG",
+      "Date": "2008-07-26T21:56:10+00:00",
+      "Uri": "/api/v2/album/hnXBG3/image/s9Zx4TG-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-s9Zx4TG/0/#size#/105_0504-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeX3Large",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-s9Zx4TG/0/KSFrp3qVPkQgNWzD5Dm6M6N2XsDFLV4gNJvWkhQ7L/Ti/105_0504-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 9325
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-s9Zx4TG/0/NB2Xnbb8kP28RMjvkgH45WKhRKFJxQgR98jT55wdZ/Th/105_0504-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 14781
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-s9Zx4TG/0/Lnbhq7Mdg63jsV35hcb9WzZ9Pm9NWpVRgKWd39p6D/S/105_0504-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 53965
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-s9Zx4TG/0/KqDtQ3jHdhgtPsjjpctFGWmz9C9T6btxB9tf8tfZv/M/105_0504-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 110498
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-s9Zx4TG/0/Lw4b4V8s6fh6sZkqbf6KZk8PQvmg9Gc92ZSPJZZ2C/L/105_0504-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 179884
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-s9Zx4TG/0/KkxrR5drSmjWHCBQbHXQxwMFzknhs8LrTKRf8P8GP/XL/105_0504-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-s9Zx4TG/0/LHfzKF5FcK5vHxPphDxgSgNZGxHFrD5M3ML7zcxTb/X2/105_0504-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 417897
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-s9Zx4TG/0/LrHdVMrjgVD9XmRnz6JbQ2fxCZsFTGQFwx6dZq5VF/X3/105_0504-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-s9Zx4TG/0/CGXDmGxKwfdRL9bCZsxwRDHJPk3WGvKwVpwMcdFxB-1757453021-O/i-s9Zx4TG.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 1058837,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/s9Zx4TG-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/s9Zx4TG-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0503.JPG",
+      "Date": "2008-07-26T21:56:09+00:00",
+      "Uri": "/api/v2/album/hnXBG3/image/rdVSCqN-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-rdVSCqN/0/#size#/105_0503-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeX3Large",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-rdVSCqN/0/Kwtg23G8DnMVZf26SnGbfnTbGzvv4gdDWVGKgPK99/Ti/105_0503-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 9296
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-rdVSCqN/0/NLh38rZ672fqSN75Kxr3WSPRGp79mqZVVSfFcTjQT/Th/105_0503-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 14911
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-rdVSCqN/0/Mn4hpDSBwr5hBZXsCT5v5mQpRSV6sJz9Zx8K3FF6L/S/105_0503-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 54522
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-rdVSCqN/0/LXQHGRXXJ2pBPr68FHX9fvXBnhczZdVtw6kdkxZTk/M/105_0503-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 109979
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-rdVSCqN/0/NfvpMSXmgJvspMMZtW7MzfFz2md4DPj5J8BtMddFt/L/105_0503-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 174421
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-rdVSCqN/0/LLHHm6nrkLgQK7Jz6Txtb4qBt5hns78Q9vNNPZzfK/XL/105_0503-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 270935
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-rdVSCqN/0/KdzWnJGbxXcSXVGhqptrgRdWzTk6Z99tDJkHCBR49/X2/105_0503-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 382421
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-rdVSCqN/0/KmrwS82FQVmSjbffs5pVNM8SfSQFKJ3DsWV3BTrbv/X3/105_0503-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-rdVSCqN/0/b5dzGSgPM778RS6GJmwPs8mMjFQ36VxDSqXqVn2D-1757453021-O/i-rdVSCqN.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 945273,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/rdVSCqN-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/rdVSCqN-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "107_0702.JPG",
+      "Date": "2008-07-26T21:56:10+00:00",
+      "Uri": "/api/v2/album/hnXBG3/image/wb8kRXk-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-wb8kRXk/0/#size#/107_0702-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeX3Large",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-wb8kRXk/0/M8g7ZbpFbjfbXVbhFKdmQ5PNfzsWpZbPWmSv7mSps/Ti/107_0702-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Size": 17019
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-wb8kRXk/0/Kgd6ZxTmvPn32vnQWrDn5VsRPFPBQM32SGTsPc7tV/Th/107_0702-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-wb8kRXk/0/KwTkfX8h8RVScPFpWbFHPw3wcC5qdThBjMXRD8jXX/S/107_0702-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 60342
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-wb8kRXk/0/MdMPx4hDPjKNSNMR8bppsd9hFTXmvbFbJmXwmh6F6/M/107_0702-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 116900
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-wb8kRXk/0/KT2BSPkkc3tTvmq5nkH4bD7NXZkHpwfXkBL4dHx8m/L/107_0702-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 210459
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-wb8kRXk/0/MT8KsPv82Qwdfwp39fPZqTScRQC9pnFCLSwvDgqfT/XL/107_0702-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 501913
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-wb8kRXk/0/LrCjZKQZJv9D9hFh3F2Dg2q5shDPWKBKwjzZpPLWX/X2/107_0702-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 725897
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-wb8kRXk/0/K7VkSrKBnJqMSbvCBPSp8r6VMBkPSSTHxCJfSPH4w/X3/107_0702-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-wb8kRXk/0/gZtxXwZHqkTz8g54wdMdPJbDxvQ3TH4SV5XzQPJz-1757453022-O/i-wb8kRXk.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 1133901,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/wb8kRXk-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/wb8kRXk-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "107_0701.JPG",
+      "Date": "2008-07-26T21:56:09+00:00",
+      "Uri": "/api/v2/album/hnXBG3/image/x9jz9HR-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-x9jz9HR/0/#size#/107_0701-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeX3Large",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-x9jz9HR/0/Lg4SVDtPsFmtSGQW9jzWW8n8Pp3TqwQsXS9QX9H4f/Ti/107_0701-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-x9jz9HR/0/LN9r7nsJWX3gS3LxwHZFhKhZP7xWFjWkfCvprtQwR/Th/107_0701-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-x9jz9HR/0/NhvKjj9wjNqXQHbbkrcxP7dFn2pjG3p2XNxJ33rnW/S/107_0701-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 47304
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-x9jz9HR/0/LPbSxPHGVpg7SDLVb46PRKqP5zg4VSBZm5pPDdBqc/M/107_0701-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 100494
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-x9jz9HR/0/Mcws6ZkVdfsQ988dHsxhhqTShK7fMrZcPVjCcBDrd/L/107_0701-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 168657
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-x9jz9HR/0/K8XcCxgwGLzJ2kVZDwjZVzCBqdk4zV6LRL8dqX9V3/XL/107_0701-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 453847
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-x9jz9HR/0/KQqtjK72B8GjbNvfLrcWW7j3q86F77k2vLf7pkr4p/X2/107_0701-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 664198
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-x9jz9HR/0/LXkvKKqSF7XFFR8sSdqDFkNRTGWdqMkcmTwn493PX/X3/107_0701-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-x9jz9HR/0/DLxdnkzRsnhPd26XLn9xPLhKFcmtqTFzM4bx95NqD-1757453022-O/i-x9jz9HR.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 1014789,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/x9jz9HR-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/x9jz9HR-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "106_0699.JPG",
+      "Date": "2008-07-26T21:56:10+00:00",
+      "Uri": "/api/v2/album/hnXBG3/image/pNFdXXC-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-pNFdXXC/0/#size#/106_0699-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeX3Large",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-pNFdXXC/0/KjkZkzjPtTrVkTxDcSMXtRPpVcNB6TvjxzpP2Rqdv/Ti/106_0699-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-pNFdXXC/0/KtzkW6ZVqnfHG3brG8JFzjM7vTK2ftTBKSQWN44HS/Th/106_0699-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-pNFdXXC/0/MMgnWBVcpwgQBrvszFspKg4SNGnPLpDfFDgZBw4Bk/S/106_0699-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 65384
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-pNFdXXC/0/LBr5tSBMS4FvpLTdWwLBW4dvRnkXwNR8vnj87K97C/M/106_0699-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 129938
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-pNFdXXC/0/LdTsPzfCDKnXLfm2HqDgGKcz5FB3hwsDTVfqcRXzv/L/106_0699-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 233459
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-pNFdXXC/0/LjW2BbV7qThjWVbdVQGsH4T7r4R7dfdt6nBQ9PMVn/XL/106_0699-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 546692
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-pNFdXXC/0/NX5GZRMcBmPWL4v9pHL4tMpwJbQP4rZxRQXVPZpNn/X2/106_0699-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 790436
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-pNFdXXC/0/MGNXSnsS3wFrKXf7bScQ33VzMmg3WbkPBMmk2GrsX/X3/106_0699-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-pNFdXXC/0/C3vGmVn5982c7CDKxn2Bnr4vk5x2hVvFCvck9hjWf-1757453022-O/i-pNFdXXC.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 1280257,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/pNFdXXC-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/pNFdXXC-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "106_0698.JPG",
+      "Date": "2008-07-26T21:56:11+00:00",
+      "Uri": "/api/v2/album/hnXBG3/image/54KJMFB-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-54KJMFB/0/#size#/106_0698-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeX3Large",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-54KJMFB/0/MdvKZ36G75FcQfDpNFgKXfbXbsgs88WcCCrC3rddR/Ti/106_0698-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-54KJMFB/0/MLGgGxhXGrXSRmCK5DpBp7CQCzPph9zgZPF84JFhp/Th/106_0698-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-54KJMFB/0/MTJmPkScF4cqjgt4VXbJCtCKQv8LkttQPRg5TSchh/S/106_0698-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 69594
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-54KJMFB/0/LsJwQT75T2grR6Jn3QVpnv6hkB873kGv4BqDNX6nT/M/106_0698-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 137637
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-54KJMFB/0/NHFLsFsDBnpdT6tpMgRwdTLbZhW6MvwR6s95NpRSv/L/106_0698-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 246054
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-54KJMFB/0/MzzWnPTc3cX4fKPv7pc4q2tPmsbqz7MNFpKFdJCw3/XL/106_0698-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 573406
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-54KJMFB/0/MLvrb2tzRnJT8CK8kBgK3dRJ4c35fZTDf2HtXrJq7/X2/106_0698-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 827546
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-54KJMFB/0/MwKsMBD4RnnvGQKv9rRrKw92jFS8WKpQCvS3wjKkN/X3/106_0698-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-54KJMFB/0/D2dPfrFRf9tTxBsfZbk3NSKmJF6GJDZ9SD68LdHJd-1757453022-O/i-54KJMFB.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 1348618,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/54KJMFB-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/54KJMFB-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "107_0704.JPG",
+      "Date": "2008-07-26T21:56:14+00:00",
+      "Uri": "/api/v2/album/hnXBG3/image/Rv52Pqq-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-Rv52Pqq/0/#size#/107_0704-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeX3Large",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-Rv52Pqq/0/L4xpNxWbMDdk4sFKNgnvvpPgRmNJd8WMX7bFq6qKm/Ti/107_0704-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-Rv52Pqq/0/MF2cJ7tHDwb4KVcXQhLqJckfsLhHZLdn7XVRL3Wtf/Th/107_0704-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-Rv52Pqq/0/Lrs9S5T3vFXpZW2S7S2KjSMZ4JP4RnhbCJRv9Kdbw/S/107_0704-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 41166
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-Rv52Pqq/0/Lb5r3JjBJ76W6SbqqPJkv8kKv5J25cpc7mknSSSJZ/M/107_0704-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 79334
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-Rv52Pqq/0/MCtCBTfMQRMSZdhpq6SRJ5qDmQn9n5dQW5Jp4d5N9/L/107_0704-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 148442
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-Rv52Pqq/0/KR68dpKpdFzdxJKxcsK9SDpqxZmnN9rMpTfWXCqbs/XL/107_0704-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 379040
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-Rv52Pqq/0/LdT7Zb8tGFj7GpLGvhfGCprdWSqmVQN9G6HQDBLPX/X2/107_0704-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 562553
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-Rv52Pqq/0/NKTJKtmtBmQQskqJxjbQFkpPxrXsvG4RkWrTvSvw5/X3/107_0704-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-Rv52Pqq/0/FPkCQcXtMF3QQBMFFFBJ5Gb7qpZFz8ZJHcvnJbtLp-1757453022-O/i-Rv52Pqq.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 872766,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Rv52Pqq-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Rv52Pqq-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "107_0705.JPG",
+      "Date": "2008-07-26T21:56:14+00:00",
+      "Uri": "/api/v2/album/hnXBG3/image/CbrPzKk-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-CbrPzKk/0/#size#/107_0705-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeX3Large",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-CbrPzKk/0/LjXKgjMvqsrddQwxKSn6RrdcMfph3TR2XvrksZvfM/Ti/107_0705-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-CbrPzKk/0/KX4GmkkwzVtwTpxXxbWcpZbBS7qnGwsmH5L8HSKn5/Th/107_0705-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-CbrPzKk/0/NhFNrNBPQkRmQhNtdMCRt7958N5Nsr7GKnLVjBv4N/S/107_0705-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 48634
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-CbrPzKk/0/MwxTGV3Wd5TTGd4nGLbT49dnFD2qkbVFFDGnNBLq6/M/107_0705-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 102812
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-CbrPzKk/0/LGTwqZkB5bWHBbKv5kkgcBd7hHFVw8t5pGvH7XSxH/L/107_0705-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 172518
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-CbrPzKk/0/MM7cTcNLWmqHrbzHQzxv7hB4SdDfz7PwgjxcxkFFc/XL/107_0705-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-CbrPzKk/0/LCnvfpRSJsvmjK85rcpGS6cJhDLvGG662nbTTtrMK/X2/107_0705-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 412920
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-CbrPzKk/0/KLZnhW2VKfHjrJ7D84khLzWTHxs3P6xk4zL2jgJjh/X3/107_0705-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-CbrPzKk/0/DSH5pctTCjx8xgr4F5PT22qh6vHzCxS9TG7FKdJd4-1757453023-O/i-CbrPzKk.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 979742,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/CbrPzKk-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/CbrPzKk-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "107_0717.JPG",
+      "Date": "2008-07-26T21:56:18+00:00",
+      "Uri": "/api/v2/album/hnXBG3/image/fHwLtwS-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-fHwLtwS/0/#size#/107_0717-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeX3Large",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-fHwLtwS/0/MdDBWZ2NwZmmJ6RRw7DWZLT82hN9XdVxCmrkgkj8X/Ti/107_0717-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-fHwLtwS/0/M2TB72JkjNCvwk7wGxGRF5QZ4dCpxRzqkKCBMwwdV/Th/107_0717-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-fHwLtwS/0/KT7MTkTxbZrBGpxz4Q74HVB8qZ7N95Znnjbk7kjcP/S/107_0717-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 56354
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-fHwLtwS/0/KhcQVNqtpCZKVm4H7JFHjWPdGJrqkVg9ZMTT2z9s5/M/107_0717-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 110946
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-fHwLtwS/0/MLL3RtX2fzCvSngstdQ7x8NQKNWtxMNNM5F2HrpBN/L/107_0717-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 177688
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-fHwLtwS/0/NJwQLTv7F8vBQPnxWkcMV9jrzCmmGDCj2C8RLFSzX/XL/107_0717-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-fHwLtwS/0/LsSG6vxhHB9S655LrXhPtCS2tPBgJ69rtGBswH97Z/X2/107_0717-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 385815
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-fHwLtwS/0/LF6NVHpTCrzPsV9RwF3K3TjBBrmB5GVbXXgHN76pF/X3/107_0717-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-fHwLtwS/0/DZZGnHC8MpRPjFsTgx9szJN774xrV3vP5MBTMzpJJ-1757453023-O/i-fHwLtwS.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 890302,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/fHwLtwS-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/fHwLtwS-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "107_0709.JPG",
+      "Date": "2008-07-26T21:56:17+00:00",
+      "Uri": "/api/v2/album/hnXBG3/image/KpLcwxb-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-KpLcwxb/0/#size#/107_0709-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeX3Large",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-KpLcwxb/0/M8qRNf4f2jkhP3P9wHMJQhqnxm4KTbLdpVj2TtcFx/Ti/107_0709-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-KpLcwxb/0/LvjD2v6T44S8XGXgxvTtcC66wp3xGwG6kgWj8GcZZ/Th/107_0709-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-KpLcwxb/0/NS2HCWBQSCwXSCMN5D5xJWHSTQGGFXrdNWVzdtZ3V/S/107_0709-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 44306
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-KpLcwxb/0/MN7733dZtqn8gzRPt7sdvWpvZpf5d3vfX5bwQw8kt/M/107_0709-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 93748
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-KpLcwxb/0/LwkjTpR4VVVXvsNtzdtpBrBr4j7PF7vG3wRm6Xjx9/L/107_0709-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 157826
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-KpLcwxb/0/K6R4FJvWHQv7xK8rS7Fj3NjNPbSzrDvPgtFpLF484/XL/107_0709-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-KpLcwxb/0/LZ25TVnnXJ9pN5PzqSrj2v97xpvzFP9h5Mm9PQ7C8/X2/107_0709-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 382042
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-KpLcwxb/0/M6tjwFxT34hCrZspRxJbGLmMqdNC8rHmZHG8N2Pnb/X3/107_0709-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-KpLcwxb/0/C995tRB6XRjJGx38x86m6PcvFwqmw88RwJWGPCpqV-1757453023-O/i-KpLcwxb.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 927528,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/KpLcwxb-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/KpLcwxb-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "107_0708.JPG",
+      "Date": "2008-07-26T21:56:17+00:00",
+      "Uri": "/api/v2/album/hnXBG3/image/gqmTVWh-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-gqmTVWh/0/#size#/107_0708-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeX3Large",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-gqmTVWh/0/K49mXhdgq2JS83DGqKnjHsk3KFLDVf82wfTrfHKLF/Ti/107_0708-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-gqmTVWh/0/NF4RxJQBW2tC5qf9vbCPcPHSnPMwNg4Hs7Fvws9h9/Th/107_0708-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-gqmTVWh/0/M7Gz8qgMp67DqpwS5kKkBgMdHGwgf4czfDnN5zSVj/S/107_0708-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 64447
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-gqmTVWh/0/Md6hqgkMZxZwsGQRw4BfM3zQpJ48N7f4dGLCRRPV6/M/107_0708-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 114385
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-gqmTVWh/0/Kj3V2MdtDt35QKBq8wkc3pk95TvMptSSGbsfTBfHc/L/107_0708-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 231616
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-gqmTVWh/0/LsHbxRTqgLktxR6WS9F9BsBqCRKvW7hT8R5NK9SfB/XL/107_0708-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 528331
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-gqmTVWh/0/KNQXF3hWMFDnKJNBtrX3N2Fqkx9s6d2fQnqgJBsdD/X2/107_0708-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 785185
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-gqmTVWh/0/NVV8BzjVxpv9PCH8CJd2GMPFJ4hcqPBdCnZmBtFZB/X3/107_0708-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-gqmTVWh/0/C6RGHk4BBv8QzgDJBt8mvDqbcH2c7p5LKsvQt2cnh-1757453023-O/i-gqmTVWh.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 1266415,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/gqmTVWh-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/gqmTVWh-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "107_0714.JPG",
+      "Date": "2008-07-26T21:56:18+00:00",
+      "Uri": "/api/v2/album/hnXBG3/image/PJ9WZjw-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-PJ9WZjw/0/#size#/107_0714-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeX3Large",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-PJ9WZjw/0/NbwsPN8kNB4KGtk69SKCVBJnDkNqHpw8cBMjCgqHf/Ti/107_0714-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-PJ9WZjw/0/Mr6RBdBssgh64XNdHXMZQRvD7J7F9696CnsFZ5mrq/Th/107_0714-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-PJ9WZjw/0/KQkvBdBhbwcCCTPgJd2Qj96SP3FMTwBDm96ghrndG/S/107_0714-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 53602
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-PJ9WZjw/0/NcqCng4pjM3NRLxWRN3nLwMXsxHjv6Kkp2NTQXnPf/M/107_0714-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 111725
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-PJ9WZjw/0/KvfpnZhXKFJ9Jt2pXVxrG4GpCXt4q68QH4WqgSkb2/L/107_0714-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 186730
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-PJ9WZjw/0/Lqc2GTCLWKfxmGsJkCKgrTTDv7j4XBbZrjC2VHSZx/XL/107_0714-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-PJ9WZjw/0/LPPm7ZJ8XcR3x3dZCdB3ZMwKtbzTfs9hJDRVX87n4/X2/107_0714-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 439387
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-PJ9WZjw/0/LLRn4G8m2WzrqNW5T7dXnxv9s5d5nRsbHxFwWkkwr/X3/107_0714-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-PJ9WZjw/0/SZsLqGrfTMSR6n3MCN4M2Q3KfPtvP448GZTmNqGb-1757453023-O/i-PJ9WZjw.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 1032426,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/PJ9WZjw-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/PJ9WZjw-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "107_0707.JPG",
+      "Date": "2008-07-26T21:56:19+00:00",
+      "Uri": "/api/v2/album/hnXBG3/image/jKfV3Kr-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-jKfV3Kr/0/#size#/107_0707-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeX3Large",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-jKfV3Kr/0/MqsfTfMjJzzv2tbqVFzT8tWHJ4MTPDQ2NRtZCwCJS/Ti/107_0707-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-jKfV3Kr/0/Nh25dCnTkSGLmdgZBjQQsrSZHCPDRxcxtqTHWcCFd/Th/107_0707-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-jKfV3Kr/0/LmFHmp5XsHmJ7PzGcZnwG5q9scnfD7WxxwGnWFxk6/S/107_0707-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 73508
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-jKfV3Kr/0/MSMTjB3JQNv7L7WcfMGk84HCWCs4b3HFpNmxBpmQr/M/107_0707-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-jKfV3Kr/0/L58k3bPxXwFLg958VrTVMj8tvHf6Sj3QFFth2H4TB/L/107_0707-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 262529
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-jKfV3Kr/0/NFWtBMgvsFLptgBJ9rk66MQJJLQv6QgxfbMCsNtZT/XL/107_0707-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 425753
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-jKfV3Kr/0/Njgs4jCDhsHpjDhnMW7F3c79JhbqFg3KrdGL7Q37q/X2/107_0707-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Size": 608389
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-jKfV3Kr/0/KrjjF8N4S8BZm3X4wGsM9hTjxMn7f7V7N2gq2mTfG/X3/107_0707-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2008-kayakonSilverLake/i-jKfV3Kr/0/Dbx4M5NFPWmrHSLq3Zf5FSxkS64G8PVjdRR7xNX74-1757453024-O/i-jKfV3Kr.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Size": 1381826,
+          "OwnerOnly": true,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/jKfV3Kr-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/jKfV3Kr-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    }
+  ]
+}

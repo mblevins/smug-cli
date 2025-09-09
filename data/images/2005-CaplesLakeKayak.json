@@ -1,0 +1,1208 @@
+{
+  "UrlName": "2005-CaplesLakeKayak",
+  "Name": "2005-Caples Lake Kayak",
+  "Uri": "/api/v2/album/GLzbPc",
+  "Date": "2008-04-12T18:21:59+00:00",
+  "WebUri": "https://lmblevins.smugmug.com/Travel/2005-CaplesLakeKayak",
+  "Images": [
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0556.JPG",
+      "Date": "2008-04-12T18:22:05+00:00",
+      "Uri": "/api/v2/album/GLzbPc/image/JJjbJ8R-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-JJjbJ8R/0/#size#/105_0556-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-JJjbJ8R/0/NDQvD2GBK5N4jP9HfptMjdTHrN5TqFd6x7mprj9wZ/Ti/105_0556-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-JJjbJ8R/0/Kv9H93gbJ3Cc4q6XDQ5XfTrQfK5ZVJFN5cCrRpT4J/Th/105_0556-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Size": 16510
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-JJjbJ8R/0/LWQwz74pHxRMskfKnfwHmrfmJTvB9FpzpfFvGFkfc/S/105_0556-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 68389
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-JJjbJ8R/0/NXHZzCssmLhMkTt3fW3NV4BbDbhC4zmhfNBK2NLcf/M/105_0556-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 144721
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-JJjbJ8R/0/KQNQ7xBf7c7MwjJSgbtgRQJ78bn6LF286sqjkmsV4/L/105_0556-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 229789
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-JJjbJ8R/0/KwnVWsS6cgWR3CCj3bQpbcpwJhQ2xL4Xw3WCg2F7L/XL/105_0556-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 342977
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-JJjbJ8R/0/KnFMMgLRbQqxhCsCNdgsxPXHrzsf7dk778NzpfLRm/X2/105_0556-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-JJjbJ8R/0/KFNfvZdbwXjkMCPDhHNbVsGNmBzMcx2MDmgchbmPF/X3/105_0556-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-JJjbJ8R/0/MfpRXR7mhVrSBPZF7XNPmPxm3gXdW9fSQKqbQXPf5/X4/105_0556-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-JJjbJ8R/0/Mb279j95MNHG9gCn4jgRmgpd7rjm476XG5dTGpN4T/O/105_0556.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 434834,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/JJjbJ8R-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/JJjbJ8R-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0557.JPG",
+      "Date": "2008-04-12T18:22:05+00:00",
+      "Uri": "/api/v2/album/GLzbPc/image/FhTxzn9-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-FhTxzn9/0/#size#/105_0557-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-FhTxzn9/0/LG9rZWhLbMK7LnstmMJFJSHMsWRkk2G2NKrBqs6BJ/Ti/105_0557-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-FhTxzn9/0/Lj39VJ68QJ2z6DZSTSrvJkcckHQGvMGng46rbh2QJ/Th/105_0557-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-FhTxzn9/0/KDrdCzKsN2Q7nTSBX7CNKkBnkbcJZP6SxXDN7SRPp/S/105_0557-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 45585
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-FhTxzn9/0/NSk35rRGQjWnsFRBJfdKnK3wg4X6NHzFV36rRCdZk/M/105_0557-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 100843
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-FhTxzn9/0/LDW8mk9KD45fxsFGnFq5KjfdLcctzmhDW4pnpMgr2/L/105_0557-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 207458
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-FhTxzn9/0/LbKB6ZJ9J2SFh9VVC4Gm4cF245mwVXmcTmRrJmhLJ/XL/105_0557-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 427447
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-FhTxzn9/0/NHVgtFfr3hXhvZqcTjRjLRHcdNqx38Hbg8BVd27FP/X2/105_0557-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-FhTxzn9/0/NFmbXPWngNrJNbnKCJ7T4BGZtWJPSLG7HdhvWdGp9/X3/105_0557-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-FhTxzn9/0/NZQSJhWjW3bSMTH2X6p3kmPPZVHc64XqN2DcbhdXt/X4/105_0557-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-FhTxzn9/0/L7pfwTCtvvVDZdZXR4BXLDrrHCPPfM2fmp7jD8rt5/O/105_0557.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 420150,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/FhTxzn9-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/FhTxzn9-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0558.JPG",
+      "Date": "2008-04-12T18:22:33+00:00",
+      "Uri": "/api/v2/album/GLzbPc/image/C9G937T-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-C9G937T/0/#size#/105_0558-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-C9G937T/0/L9HQWxJNLCFcgj48RVJz29BdPzZFwrXGCV8MZNGVr/Ti/105_0558-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-C9G937T/0/MVPRjsMZwJRLfbfz9xKCbmQKkT5c7ZWQgpgXzzMP2/Th/105_0558-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-C9G937T/0/MPdxFTRQhGqV866R2pRMDrVpSr9tFM2L9WnQFd32Z/S/105_0558-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 54418
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-C9G937T/0/NCDM7g5xhVzVdxRTqt5m2Tjn5SJfsKfRZc9h23Vzd/M/105_0558-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 123620
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-C9G937T/0/L7pggqzjbML6NNz5Gvchhgz7mBBVJNrVncj3BCwjH/L/105_0558-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 254340
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-C9G937T/0/Ncz7CL2w279D5hXzNxv5MdWQNS4VFKtwg4qtP282d/XL/105_0558-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 526348
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-C9G937T/0/KVjcZzZZGP2vPRHGWHdqsnptX8V2pNNDLC42FKpRM/X2/105_0558-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-C9G937T/0/Mp2prcXTTffP6PFzjqQMcbJkNPw4KwNP6VM4LpJFZ/X3/105_0558-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-C9G937T/0/Lbp5vzhgTm5p97LLjN3qKSNfRFhMsTbccv3nrH4BJ/X4/105_0558-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-C9G937T/0/M8JJKtjPWsWdsTR2JDntp7P5Vgwbxz5z25HbhfgLc/O/105_0558.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 537101,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/C9G937T-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/C9G937T-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0559.JPG",
+      "Date": "2008-04-12T18:22:33+00:00",
+      "Uri": "/api/v2/album/GLzbPc/image/cnVDj3h-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-cnVDj3h/0/#size#/105_0559-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-cnVDj3h/0/MXK2jrsjq3smGjmW4GfLQkLfM9WcssDM5pSq8W345/Ti/105_0559-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-cnVDj3h/0/KXJGNjSNJtZLBzkB6bzfk6RL2wt4mk2trwwC8NhT9/Th/105_0559-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-cnVDj3h/0/MZHSbzhqDLLCTgcBdjhbj6H6WP7DnfrPB6DVJ7Xf3/S/105_0559-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 55876
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-cnVDj3h/0/K8P29csfTh2gJ5NJsZ6cqJhFkWfkhvrjMLL97G2c9/M/105_0559-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 126948
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-cnVDj3h/0/L58XhZh7sJW9ngPqW6qz64hRRrvhwVBFcjwksjMqz/L/105_0559-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 264455
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-cnVDj3h/0/NB8TTvrFxN3ktVtGvSw4j9pP35bs9XJXV8CCNfrsN/XL/105_0559-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 540289
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-cnVDj3h/0/Lb7wr3hXFNmzZ3CTkW2ZxQCDqrzDfwBJKVcCbNp3N/X2/105_0559-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-cnVDj3h/0/Kbzc4VkLM533QLTXdXWtHFwScRrGTWpw5zPK8cp4K/X3/105_0559-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-cnVDj3h/0/NMcbC83TQJb9tVtFjWbTm7SK7sggpHgM5D6qvV5bF/X4/105_0559-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-cnVDj3h/0/MKDj4FJs7Mj7bHVcdLTQtmnkp7xSJjPk4RqhqZNnX/O/105_0559.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 558260,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/cnVDj3h-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/cnVDj3h-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0561.JPG",
+      "Date": "2008-04-12T18:22:37+00:00",
+      "Uri": "/api/v2/album/GLzbPc/image/dfT75B2-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-dfT75B2/0/#size#/105_0561-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-dfT75B2/0/LmLRbmmDztTKGHkttQHcJhPkjGdjMgGv6H9hgJ8Zt/Ti/105_0561-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-dfT75B2/0/K7BJDtFv9xDsWPfRQLLfpj6vG487Fk8CMgSXpnKPk/Th/105_0561-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-dfT75B2/0/MQTCgwKGt558j8BhFK8Fjhhbn3TBjpjjHvHmb94S7/S/105_0561-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 51747
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-dfT75B2/0/NPSjVR7M8pt9SLgbLxmmWgBnsLV7QhX5DqGFMWWzf/M/105_0561-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 117036
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-dfT75B2/0/MbRsXTdMHQcL26MT6pVvPCdKL7dsBtbwX6CwcKjrJ/L/105_0561-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 239230
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-dfT75B2/0/KR9HV8bjNVSzRQZKFRNkrgsmMz8PLPJqpnNwb9tsF/XL/105_0561-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 503279
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-dfT75B2/0/LmMVPZgz4gMwbt9bZJDJjpR4KdJTnTmpXr6QbPVXh/X2/105_0561-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-dfT75B2/0/MCgSNdrmg66P3rntwVshnFbtxDnwnKqfx94BP6FSj/X3/105_0561-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-dfT75B2/0/NTdPTr3b4c2zddkdxjd8qCp8dnbM7p2KXPrPdLvrz/X4/105_0561-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-dfT75B2/0/Mw4pzgDTmVGt4Lg5fhknJFgPXdR339QtGtpgLWRZN/O/105_0561.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 505793,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/dfT75B2-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/dfT75B2-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0560.JPG",
+      "Date": "2008-04-12T18:22:37+00:00",
+      "Uri": "/api/v2/album/GLzbPc/image/BVw5NZ7-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-BVw5NZ7/0/#size#/105_0560-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-BVw5NZ7/0/Lpk8q75gXKQjCCSRMgfQHnXBNw94HT7Ppq4T2S4pq/Ti/105_0560-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-BVw5NZ7/0/NRQmF2d8zbxcxLvd8zQmxLFnbhvHnLP6bjFhnDbdD/Th/105_0560-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-BVw5NZ7/0/LTPhd46q74LhTmMbbcKV4mG47VxNwqFcVWpttsDxq/S/105_0560-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 60855
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-BVw5NZ7/0/KtHTFqSWVmdLFNqD2fgbnGGSMgZ4knkFMp2VcCW7Z/M/105_0560-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 136299
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-BVw5NZ7/0/MmfhKw4tCJPWzKMdxqQK8Wb39tq4sBLM8ZgwXzQMc/L/105_0560-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 272632
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-BVw5NZ7/0/Kws3jHVv36Qr8RkQjGZnr6NQwZWMCBQb4gQhRwv6Z/XL/105_0560-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 550450
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-BVw5NZ7/0/LgZ9rhCdsntd7cns2Nt8KjfBJPqC3PqNVKTdmdcNQ/X2/105_0560-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-BVw5NZ7/0/LZrHzJKMQZntbP5VgPs9gRJGcKJGPHjL8TdsMdRN9/X3/105_0560-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-BVw5NZ7/0/LXb2jZ3bwCC6Qk5MKqtftKhQdQJN33x6sFxQ65wqn/X4/105_0560-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-BVw5NZ7/0/Mfm7xzJ9mR7mWqBfL8FS2CcNDMV2vH59KFPr7xCR8/O/105_0560.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 557770,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/BVw5NZ7-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/BVw5NZ7-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0565.JPG",
+      "Date": "2008-04-12T18:22:41+00:00",
+      "Uri": "/api/v2/album/GLzbPc/image/HLjDbKw-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-HLjDbKw/0/#size#/105_0565-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-HLjDbKw/0/LkKMtqDC9j8rZPzXfbDpvs2c9m3tjWwFvwJZ5zr5j/Ti/105_0565-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-HLjDbKw/0/KS5kxJCknWMnXtNSSVmTGXVPsXtNc8Wx2HGSmRRLW/Th/105_0565-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-HLjDbKw/0/Md26jtfgksgtnXCp8qx6j36BscmMRXdznz5s2xBZs/S/105_0565-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 46891
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-HLjDbKw/0/NMsb6dS85jDJg6847bgJnPvsNM8xZ6WbMtsBLcvjb/M/105_0565-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 107139
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-HLjDbKw/0/Mm9xMRncwPvLfzk8mcm9HMPHQMqgwWR96KHXwSTPR/L/105_0565-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 217110
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-HLjDbKw/0/MLvdqnrDfF6KpKg96kd6p57Qswcg4mNHDWkKHQgGR/XL/105_0565-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 461840
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-HLjDbKw/0/Lxtrwr9jMzg4qHfBnptz8hxhDsZzWZhcrTfhgVfqF/X2/105_0565-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-HLjDbKw/0/M9vLTHT3CRbjqLqQGFgVfZfNCddQV6RRddSF7LzTt/X3/105_0565-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-HLjDbKw/0/M2kNB7pG9WKLz7TsFhrzMB75pr8wZRGnnnxs3FS5Z/X4/105_0565-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-HLjDbKw/0/LLs5VdJKvzMwsHxSf6pntSPGwXWHzC8PKThPzR39T/O/105_0565.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 430108,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/HLjDbKw-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/HLjDbKw-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0566.JPG",
+      "Date": "2008-04-12T18:22:41+00:00",
+      "Uri": "/api/v2/album/GLzbPc/image/b47MHRV-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-b47MHRV/0/#size#/105_0566-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-b47MHRV/0/MH4krVkFZMmJBFG3L7nNgDX7MhzxFJpsR2chdT3Xz/Ti/105_0566-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-b47MHRV/0/MPG6NT9W3zg7GNF5njbQkTq6dVqrxh5wpzWStqDTR/Th/105_0566-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-b47MHRV/0/M4QFnbjxMF7vckPPFCQN6Xf3vwQpnLGxzsgNd4rg2/S/105_0566-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 38890
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-b47MHRV/0/MRXSbwTR37jbWQ3CNXHJWFSwrCLQ5tBFLfLG7PKdW/M/105_0566-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 86681
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-b47MHRV/0/NG8S2bqwsc3S8RjsNPZ3NTcKsPr7t4HJL89wkgVXd/L/105_0566-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 181772
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-b47MHRV/0/NggThHR6hSZPv8r3VFcjgnLSVKx4NrSdNnRph4p2j/XL/105_0566-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 386998
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-b47MHRV/0/L4kn6jd4MRpVL8bbXLfZchJT68RK46WQS8TTxcJxF/X2/105_0566-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-b47MHRV/0/Mg9BRfCSJkNg2XvKqbvkCxZn3cLcrDwDVwhLdmjwT/X3/105_0566-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-b47MHRV/0/MMD2P32kV86WSFd4DnXW9pcTnnvRdC2s4FH5whmHV/X4/105_0566-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-b47MHRV/0/L8frBGqJCzNwLRFQN32LP9w7zSLf42xSvznfpnW7s/O/105_0566.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 359215,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/b47MHRV-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/b47MHRV-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0570.JPG",
+      "Date": "2008-04-12T18:22:46+00:00",
+      "Uri": "/api/v2/album/GLzbPc/image/JJQxrrh-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-JJQxrrh/0/#size#/105_0570-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-JJQxrrh/0/MVr75HWCzqDhq7tZqh3mpdPCRNdMKR2zrP2V932jX/Ti/105_0570-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-JJQxrrh/0/LKKZzHqWLn6V5fH39JPzf2wLJNB6sztbHq2bJ4nN6/Th/105_0570-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-JJQxrrh/0/M7D5FvdFwqzGs2D2zh3xg4LdgtbVphDbKsvDtPnC4/S/105_0570-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 56890
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-JJQxrrh/0/M4krRg3W2sTMcDTwXPdtKt9p92W4DKtjq2H5jHssC/M/105_0570-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 128023
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-JJQxrrh/0/KZbvq4hThc5hTQk58429wKvbCtKhVxc7MqQhxHqch/L/105_0570-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 265948
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-JJQxrrh/0/LMVvzPtk2CzJpN3CgCQTptSRtMvKgDHLwLPkVTmmP/XL/105_0570-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 539077
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-JJQxrrh/0/M44m3XvCwJTnjVhwrBH7x3qqB7xfM496KTKp9Q2w3/X2/105_0570-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-JJQxrrh/0/MHSZCnhk3nJ5zzv6Z3K8mB6nDMG3ktT5LMrHXKfwc/X3/105_0570-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-JJQxrrh/0/NWxjPq5KcGnvZbghjDfkKPMs7b3B6qvhDZKwRQxFM/X4/105_0570-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-JJQxrrh/0/LPsfQqs4xNCjkHNrgjjQVQJz2BHJwbcKZ6zdJpfxD/O/105_0570.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 580625,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/JJQxrrh-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/JJQxrrh-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0568.JPG",
+      "Date": "2008-04-12T18:22:45+00:00",
+      "Uri": "/api/v2/album/GLzbPc/image/PFJRKdz-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-PFJRKdz/0/#size#/105_0568-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-PFJRKdz/0/Kxpp76L8vs3f4hvKGR86DgTrFJhnP9HNbm9spnZpr/Ti/105_0568-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-PFJRKdz/0/MDvcW8vGRPGr6Qp8VnwrFKVtS6vQGshZHvq96zKVC/Th/105_0568-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-PFJRKdz/0/MXXDVBVqVg7vmthzj66nkW4KvHBgsd5JGj6tXSqm7/S/105_0568-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 45429
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-PFJRKdz/0/KfbqqM8qfcS6ZVBqVKh9bMSpxzkq5D92pFqSNRGPB/M/105_0568-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 102404
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-PFJRKdz/0/L4DcvPjw7RB64LVDFn6vLtfw7psdNrZvNzsgkDt79/L/105_0568-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 211529
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-PFJRKdz/0/MvSQKm7qQ22fBDvgdHggRrbKdmwK9dstk9nGrSwhz/XL/105_0568-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 454234
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-PFJRKdz/0/Ln2DNMCQ4QP6LVt2t4BWBCW4L3sb3KmfR3tCjxkLn/X2/105_0568-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-PFJRKdz/0/NDMTJ5MnfLmBQZRRg3RxDKx8nZtWgTdGLCP8kQcdv/X3/105_0568-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-PFJRKdz/0/L3xTVvZXcP6s2S2NhnmBJWZ84P4tNhDkqFmscNszd/X4/105_0568-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-PFJRKdz/0/Mgtt4SXp5G4QMFH9pk4sj7Ds2PSC76sGNqvR9W9ZR/O/105_0568.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 441851,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/PFJRKdz-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/PFJRKdz-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0574.JPG",
+      "Date": "2008-04-12T18:22:48+00:00",
+      "Uri": "/api/v2/album/GLzbPc/image/HCPpNxq-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-HCPpNxq/0/#size#/105_0574-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-HCPpNxq/0/LjHGvsj3vWBKkxSdK36TPC57x35XgwjD798XVspdr/Ti/105_0574-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-HCPpNxq/0/NcPCZJ385nFrPpn7xRDWhd5JLLcdCXPMMnKvdwvBd/Th/105_0574-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-HCPpNxq/0/KthdrGbJ9g7S99xFhTRjvVr3fwf9JV3tsRkQsbqgj/S/105_0574-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 34167
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-HCPpNxq/0/L6JLLSr9jrN5n7VKgDBjZqqgrcQF2NPQPJwVWTgtb/M/105_0574-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-HCPpNxq/0/LRczzRdnTkVWFTF5Q4ZQrT4XQHQbSRKKQcjk8ZZmG/L/105_0574-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 149935
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-HCPpNxq/0/LPH7rs5fFPXcrzXVJ54BbxjPhG3FcX8ZbDBdgDGbX/XL/105_0574-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 317873
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-HCPpNxq/0/LnfGqqqnSfsRWwxGqCSQfjHgRnssNvhCS2fGFZrHf/X2/105_0574-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-HCPpNxq/0/NLZG4Cr7j8LSG7DCd2Hhz2gnKQSRX95MnVqVxkb7w/X3/105_0574-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-HCPpNxq/0/Kct6d9pn63h3RPXtD67VX8XrZkfSknKrbXCrcf9Zs/X4/105_0574-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-HCPpNxq/0/MjDpCtZ3DhQRbDJQr7Xrrdd6GdpQB26jBDCGtgvts/O/105_0574.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 270725,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/HCPpNxq-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/HCPpNxq-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "105_0572.JPG",
+      "Date": "2008-04-12T18:22:48+00:00",
+      "Uri": "/api/v2/album/GLzbPc/image/5KtV5PP-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-5KtV5PP/0/#size#/105_0572-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-5KtV5PP/0/KKDzQ2rz2MxnVL9D5rCLN3gZDfzLXRsm6Br9vdHJB/Ti/105_0572-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-5KtV5PP/0/KpGfkvVt4PW8nBTDzNXT2SVmdhXBNc4SLNcXnK24v/Th/105_0572-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-5KtV5PP/0/LF5j96fB3mW9HfkSS3MWjfn2gWLvCGbGw4XMFjbF5/S/105_0572-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Size": 36231
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-5KtV5PP/0/KvPFBm67Xjmg4xW6vM3GGPMpjw6mmSsXtwT3q9Dt9/M/105_0572-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-5KtV5PP/0/KmHSTfNXSQs6R6Kqj7vWHcW4Mh52nhSJzW2FTzBW3/L/105_0572-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 168531
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-5KtV5PP/0/LVRnPFjTq3np3NPsxHwCgHDqTcZsD87sZWgQCP6Jr/XL/105_0572-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 349923
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-5KtV5PP/0/K7qGt8DJVV6rZpxKPwn8psf8sdfgsKWWRhgp8sbWX/X2/105_0572-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-5KtV5PP/0/MCzMBQr5VQWs4bhhSXtpBkxd7z943MVscBPvHvH6z/X3/105_0572-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-5KtV5PP/0/Mz5rCfC7pwrnXP7WV8Z39SxJBC8x7rKvrv9nSGrVf/X4/105_0572-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2005-CaplesLakeKayak/i-5KtV5PP/0/Mm7gRJQBzpMCL4Ldv3THSqvptm4j92dLcxrmdcZPV/O/105_0572.jpg",
+          "Ext": "jpg",
+          "Height": 1704,
+          "Width": 2272,
+          "Size": 307612,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/5KtV5PP-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/5KtV5PP-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    }
+  ]
+}

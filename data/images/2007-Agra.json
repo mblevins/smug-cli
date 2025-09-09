@@ -1,0 +1,2075 @@
+{
+  "UrlName": "2007-Agra",
+  "Name": "2007-Agra",
+  "Uri": "/api/v2/album/bnVnrs",
+  "Date": "2009-10-18T00:05:56+00:00",
+  "WebUri": "https://lmblevins.smugmug.com/Travel/2007-Agra",
+  "Images": [
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "002_DR.JPG",
+      "Date": "2009-10-18T00:06:15+00:00",
+      "Uri": "/api/v2/album/bnVnrs/image/v6b6hzJ-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-Agra/i-v6b6hzJ/0/#size#/002_DR-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-v6b6hzJ/0/NTbr2mwxS82djP8kKK2HsbssZDnXxq8xRsWXwX5FT/Ti/002_DR-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 67,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-v6b6hzJ/0/L3hF4rG2KM3bcHjM936S6G9rgHsfJgK6SsCwnJF2P/Th/002_DR-Th.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 150,
+          "Size": 9594
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-v6b6hzJ/0/M5gf6dHVKCLNFpzgtJGsddKFptxNZmQXCKZQNzn4B/S/002_DR-S.jpg",
+          "Ext": "jpg",
+          "Height": 267,
+          "Width": 400,
+          "Size": 39056
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-v6b6hzJ/0/NBsxMxXSH9G4dBHn5mBkh5vBQQ4q93rKVtDQwBFsj/M/002_DR-M.jpg",
+          "Ext": "jpg",
+          "Height": 400,
+          "Width": 600,
+          "Size": 76281
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-v6b6hzJ/0/KWKRPSRFg2f8ffvfX22sw7ksW6GZxdCLZsfwQCcJW/L/002_DR-L.jpg",
+          "Ext": "jpg",
+          "Height": 533,
+          "Width": 800,
+          "Size": 120220
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-v6b6hzJ/0/MbNZ2snLTN8jTfZGdJMXKvNwn5FRkRHdVp7wBR9FM/XL/002_DR-XL.jpg",
+          "Ext": "jpg",
+          "Height": 682,
+          "Width": 1024,
+          "Size": 182490
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-v6b6hzJ/0/K8pT5XSXtxHxhb32ks7f7hgNPNZqb8cxWP9Cd5HxX/X2/002_DR-X2.jpg",
+          "Ext": "jpg",
+          "Height": 853,
+          "Width": 1280,
+          "Size": 262491
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-v6b6hzJ/0/KwBxKzdBnjRBhxd3ndZBstj6bJVPJCzK6nS7kD95r/O/002_DR.jpg",
+          "Ext": "jpg",
+          "Height": 1024,
+          "Width": 1536,
+          "Size": 351368,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/v6b6hzJ-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/v6b6hzJ-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "003_DR.JPG",
+      "Date": "2009-10-18T00:06:25+00:00",
+      "Uri": "/api/v2/album/bnVnrs/image/tvcVK2W-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-Agra/i-tvcVK2W/0/#size#/003_DR-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-tvcVK2W/0/NQQ6hkcLBDXH8CVFvV7NcXwnzcwgKR4msNFTTZdhs/Ti/003_DR-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 67,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-tvcVK2W/0/LNZNCqBdKmnFRkFrnpQrKVL4bjrj6b5Dm9wxzv5gr/Th/003_DR-Th.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-tvcVK2W/0/MGHg8NLwfww6bRtLwHdXkz6mJQBVfM7hV7kW3h8bh/S/003_DR-S.jpg",
+          "Ext": "jpg",
+          "Height": 267,
+          "Width": 400,
+          "Size": 50807
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-tvcVK2W/0/MtM46gXTDrf9jR75RJLcCSxr8mfrVJpHQWR8VBjRh/M/003_DR-M.jpg",
+          "Ext": "jpg",
+          "Height": 400,
+          "Width": 600,
+          "Size": 97738
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-tvcVK2W/0/MMXw3g9kTrjqtrZ2hqQcdLQWXxjpv7JBTgHXRbdpW/L/003_DR-L.jpg",
+          "Ext": "jpg",
+          "Height": 533,
+          "Width": 800,
+          "Size": 156806
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-tvcVK2W/0/Lc4wtw6zx5NNTRsRK7bGbWhnMHMxd9PNz5f7TX8Fm/XL/003_DR-XL.jpg",
+          "Ext": "jpg",
+          "Height": 683,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-tvcVK2W/0/NGw5QNcnhtX35WmN3C99rnVnZHRt6HQgJhxTMvKGw/X2/003_DR-X2.jpg",
+          "Ext": "jpg",
+          "Height": 853,
+          "Width": 1280,
+          "Size": 332597
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-tvcVK2W/0/LnnvBKBffB38MxS5SkWBvrN9F8VcZHT3vPxbTdGDJ/O/003_DR.jpg",
+          "Ext": "jpg",
+          "Height": 1024,
+          "Width": 1536,
+          "Size": 453476,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/tvcVK2W-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/tvcVK2W-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "004_DR.JPG",
+      "Date": "2009-10-18T00:06:31+00:00",
+      "Uri": "/api/v2/album/bnVnrs/image/QSh45mT-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-Agra/i-QSh45mT/0/#size#/004_DR-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-QSh45mT/0/Kk2sf5rpZvDmmzCFHhxnRRgfwCn5Qx7MNz9Kjkn9b/Ti/004_DR-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 67,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-QSh45mT/0/LcLN5m4DFkzpHm858HJDmptw53DTS6SqRGKBSDkhd/Th/004_DR-Th.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-QSh45mT/0/NRM9PqxJXTwXcvfHMCzpDxbPQMZHMdj76FsnNKBWs/S/004_DR-S.jpg",
+          "Ext": "jpg",
+          "Height": 267,
+          "Width": 400,
+          "Size": 38562
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-QSh45mT/0/NDxKWCPmqQZPfTHH89K372kFtbCbZRRHj2ZRV8gHB/M/004_DR-M.jpg",
+          "Ext": "jpg",
+          "Height": 400,
+          "Width": 600,
+          "Size": 71925
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-QSh45mT/0/MN4z8GgVXn4fHVM4DJKMBRft6FS62KPdFCNVh5Lx2/L/004_DR-L.jpg",
+          "Ext": "jpg",
+          "Height": 533,
+          "Width": 800,
+          "Size": 111338
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-QSh45mT/0/KgPrrTdGxgZbCRdthdPFLQKrxKKjhc2nDdmq2Q6GW/XL/004_DR-XL.jpg",
+          "Ext": "jpg",
+          "Height": 683,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-QSh45mT/0/KxCWskhKJbcJFG9jCN5JhZdvb5TWL2QfJFhp27fth/X2/004_DR-X2.jpg",
+          "Ext": "jpg",
+          "Height": 853,
+          "Width": 1280,
+          "Size": 240528
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-QSh45mT/0/Kh6CQqtvZgCH7v6K4phJsZGgkHcCFhVFWB8rQJJsP/O/004_DR.jpg",
+          "Ext": "jpg",
+          "Height": 1024,
+          "Width": 1536,
+          "Size": 314113,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/QSh45mT-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/QSh45mT-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "005_DR.JPG",
+      "Date": "2009-10-18T00:06:38+00:00",
+      "Uri": "/api/v2/album/bnVnrs/image/xTXmjJt-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-Agra/i-xTXmjJt/0/#size#/005_DR-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-xTXmjJt/0/KqrWrJ2Dmf2S4mzJDNfcVdv65RrZvjNxW7n5vTs8N/Ti/005_DR-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 67,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-xTXmjJt/0/LdF25pGJ643Sh46tj3zZcVfWGV82XvCGjgj8VmR3Z/Th/005_DR-Th.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-xTXmjJt/0/Mvvbcd4g4zk7JDXf96KqsPwwvMBLv37H7zpLSKxK8/S/005_DR-S.jpg",
+          "Ext": "jpg",
+          "Height": 267,
+          "Width": 400,
+          "Size": 36627
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-xTXmjJt/0/MRXHRXf9JBtkkDNfgmTMHW8K2b6bTV4g3C3GmRV8W/M/005_DR-M.jpg",
+          "Ext": "jpg",
+          "Height": 400,
+          "Width": 600,
+          "Size": 67424
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-xTXmjJt/0/Lz8QMnq3F47fVMqrRJJwXBHMhx3NZ6HVqh8XVnrb5/L/005_DR-L.jpg",
+          "Ext": "jpg",
+          "Height": 533,
+          "Width": 800,
+          "Size": 105449
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-xTXmjJt/0/K2D9nfctnP56GkCgBstn6jmXkx24gd3TH8FKLSCSZ/XL/005_DR-XL.jpg",
+          "Ext": "jpg",
+          "Height": 683,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-xTXmjJt/0/NL5sG3XBVjPP98WT8nwNBFHD5Sp57kWjNNpnfbXL5/X2/005_DR-X2.jpg",
+          "Ext": "jpg",
+          "Height": 853,
+          "Width": 1280,
+          "Size": 230070
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-xTXmjJt/0/MtKCKFgb5V4mDrc75RSNqLDSfMfhrpZs3pX9KTtGp/O/005_DR.jpg",
+          "Ext": "jpg",
+          "Height": 1024,
+          "Width": 1536,
+          "Size": 307121,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/xTXmjJt-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/xTXmjJt-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "006_DR.JPG",
+      "Date": "2009-10-18T00:06:44+00:00",
+      "Uri": "/api/v2/album/bnVnrs/image/L5xcHPd-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-Agra/i-L5xcHPd/0/#size#/006_DR-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-L5xcHPd/0/Kzb6GGD8zFnFfMZ2qJxq46pGrzH4rw8T6h7WrKPjZ/Ti/006_DR-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 67,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-L5xcHPd/0/NMhZD7dCC2k2JwJtnQKwmRmvrrsrzGFsWsnjwKBtg/Th/006_DR-Th.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-L5xcHPd/0/MfVxMBzsqvpsBxMFWnbnpbh4RG72qRwLn4WTcJ2Ss/S/006_DR-S.jpg",
+          "Ext": "jpg",
+          "Height": 267,
+          "Width": 400,
+          "Size": 36166
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-L5xcHPd/0/KDMGxqx8pQdBGxNxfwwd744FqVkzf7rBDQ9jGGDD8/M/006_DR-M.jpg",
+          "Ext": "jpg",
+          "Height": 400,
+          "Width": 600,
+          "Size": 70387
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-L5xcHPd/0/LNQrjT53xcsnPDncXbC4wP6HLm8bGGh2xqKt4XQXx/L/006_DR-L.jpg",
+          "Ext": "jpg",
+          "Height": 533,
+          "Width": 800,
+          "Size": 112994
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-L5xcHPd/0/LcLZv8sPxFVmQGvv6P5jmxV2GCQ58Pcnw2dxtb3dv/XL/006_DR-XL.jpg",
+          "Ext": "jpg",
+          "Height": 683,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-L5xcHPd/0/NJD3drNVxvCkBkFktjDPGTPb47F8rWtrPQSJGWT9D/X2/006_DR-X2.jpg",
+          "Ext": "jpg",
+          "Height": 853,
+          "Width": 1280,
+          "Size": 251753
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-L5xcHPd/0/Krg7gWLdft2mJXCrdcNhpDZgbsf65ZBhhFmPqQCcC/O/006_DR.jpg",
+          "Ext": "jpg",
+          "Height": 1024,
+          "Width": 1536,
+          "Size": 344652,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/L5xcHPd-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/L5xcHPd-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "007_DR.JPG",
+      "Date": "2009-10-18T00:06:51+00:00",
+      "Uri": "/api/v2/album/bnVnrs/image/6VKSvmB-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-Agra/i-6VKSvmB/0/#size#/007_DR-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-6VKSvmB/0/KgRHhkx6G3cm32x47rNb38tNb54TNWHPHRB9Bv5Gw/Ti/007_DR-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 67,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-6VKSvmB/0/KtHd4JL9HdzwTP95WCDZRT2vvq9TLVBwSXkjdc47q/Th/007_DR-Th.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-6VKSvmB/0/LCdw7F2xPV8jS2P4NrGvvjh7rqBBB32z7ScqCNtw5/S/007_DR-S.jpg",
+          "Ext": "jpg",
+          "Height": 267,
+          "Width": 400,
+          "Size": 37845
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-6VKSvmB/0/NKjmQJ9pFz735g4hjNRNwDg8S2X3S3b2vxKfXjn68/M/007_DR-M.jpg",
+          "Ext": "jpg",
+          "Height": 400,
+          "Width": 600,
+          "Size": 71132
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-6VKSvmB/0/K4GnPRrQCLVMb2QqrT4sw8F452jzXX7nSw9bLQ3Cm/L/007_DR-L.jpg",
+          "Ext": "jpg",
+          "Height": 533,
+          "Width": 800,
+          "Size": 109257
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-6VKSvmB/0/M25BS8fnkPT7QpcCjCBr2SxckfM8HBQKrt6dNTRB6/XL/007_DR-XL.jpg",
+          "Ext": "jpg",
+          "Height": 683,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-6VKSvmB/0/MtHb9zzc24ZDD7t5QR2c6DkBWFScDD6DbWJjVSvDV/X2/007_DR-X2.jpg",
+          "Ext": "jpg",
+          "Height": 853,
+          "Width": 1280,
+          "Size": 228601
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-6VKSvmB/0/MXvfTDLM9N3hQL3LzvWt7JJKr6DFgrxN6hnWpHG2J/O/007_DR.jpg",
+          "Ext": "jpg",
+          "Height": 1024,
+          "Width": 1536,
+          "Size": 292347,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/6VKSvmB-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/6VKSvmB-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "008_DR.JPG",
+      "Date": "2009-10-18T00:06:57+00:00",
+      "Uri": "/api/v2/album/bnVnrs/image/bqkwJNd-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-Agra/i-bqkwJNd/0/#size#/008_DR-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-bqkwJNd/0/L6mpzrvk36Pf5NB2Zv2WM5mMVgZX89jHcVmv9pL7g/Ti/008_DR-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 67,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-bqkwJNd/0/KzBw9TBWnTvDj7ZK5XtsNT7cJrZ4T9BG56NWzcF7W/Th/008_DR-Th.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-bqkwJNd/0/LjbXXVvLn7jznTNWQzZSzDN3z4D5zL7wxP9CqD8GZ/S/008_DR-S.jpg",
+          "Ext": "jpg",
+          "Height": 267,
+          "Width": 400,
+          "Size": 33817
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-bqkwJNd/0/LwfK2Sn83dTHCSpJPVChgsB3kz9HqcCPPXwVWwqrM/M/008_DR-M.jpg",
+          "Ext": "jpg",
+          "Height": 400,
+          "Width": 600,
+          "Size": 61551
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-bqkwJNd/0/KMptFhFkQLRGbBSmg24kkwLcLcj6fGZSt978xcn38/L/008_DR-L.jpg",
+          "Ext": "jpg",
+          "Height": 533,
+          "Width": 800,
+          "Size": 95866
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-bqkwJNd/0/Mbt724d8P9HMMDRDR8t46f7DGW2rvGggcwNchZPCt/XL/008_DR-XL.jpg",
+          "Ext": "jpg",
+          "Height": 683,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-bqkwJNd/0/KSLFzdh7BNkLNrd7dZ7XWHpLPdT6SXb7h5VM4LkFm/X2/008_DR-X2.jpg",
+          "Ext": "jpg",
+          "Height": 853,
+          "Width": 1280,
+          "Size": 208414
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-bqkwJNd/0/MkghsWX9TVXMS9BNvSzZ9Xx75xRktXzCLjTMntRRv/O/008_DR.jpg",
+          "Ext": "jpg",
+          "Height": 1024,
+          "Width": 1536,
+          "Size": 258863,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/bqkwJNd-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/bqkwJNd-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "009_DR.JPG",
+      "Date": "2009-10-18T00:07:04+00:00",
+      "Uri": "/api/v2/album/bnVnrs/image/Vb8B26B-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-Agra/i-Vb8B26B/0/#size#/009_DR-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-Vb8B26B/0/MNhQg6PjSmRJ4VbkF6TsJ5g2WFcvb77btkGC2r8r8/Ti/009_DR-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 67,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-Vb8B26B/0/NKscc5VmHK6wBL9wx3mFb3F252zbvd4MprtZJJmRD/Th/009_DR-Th.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-Vb8B26B/0/MDP5QPKXMG9FNqcWLQDG5cGPschbbrpbMK2XSsW7W/S/009_DR-S.jpg",
+          "Ext": "jpg",
+          "Height": 267,
+          "Width": 400,
+          "Size": 40540
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-Vb8B26B/0/LvKjLbsX7JcTzCPBnfVQvHN4jz2rdk5CzQ8h9p6FP/M/009_DR-M.jpg",
+          "Ext": "jpg",
+          "Height": 400,
+          "Width": 600,
+          "Size": 76056
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-Vb8B26B/0/NLHSbqrTLBMWPh7fwCmbPS3H73s5VKcXNrVKqscV5/L/009_DR-L.jpg",
+          "Ext": "jpg",
+          "Height": 533,
+          "Width": 800,
+          "Size": 122125
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-Vb8B26B/0/MDbmpPGwJ5vfv7N696Zn5ZLc92gPvFxWPfLvn96cm/XL/009_DR-XL.jpg",
+          "Ext": "jpg",
+          "Height": 683,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-Vb8B26B/0/K3R8MmSvPnQ3vckxrdCMsJ8RmcNVbNRBP3N6Zh9KD/X2/009_DR-X2.jpg",
+          "Ext": "jpg",
+          "Height": 853,
+          "Width": 1280,
+          "Size": 265391
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-Vb8B26B/0/MrvMpz2jsLpFxkdDq8gGdkbJRpK7mXNnn9ChXBfz6/O/009_DR.jpg",
+          "Ext": "jpg",
+          "Height": 1024,
+          "Width": 1536,
+          "Size": 369599,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Vb8B26B-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Vb8B26B-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "010_DR.JPG",
+      "Date": "2009-10-18T00:07:12+00:00",
+      "Uri": "/api/v2/album/bnVnrs/image/trRH9Gj-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-Agra/i-trRH9Gj/0/#size#/010_DR-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-trRH9Gj/0/NQTfsQkFxhK6RmfQdCL9DPX4tJXX8jFdtDFN6vMvj/Ti/010_DR-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 67,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-trRH9Gj/0/KTTtGbMDTx8PXcgVxPCzWb5CcJzvdsLmDzsLKQTcH/Th/010_DR-Th.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-trRH9Gj/0/L3WK8bzBBGR6jLpvVjfGfJMbZDQkSTzfbRQpSxMbv/S/010_DR-S.jpg",
+          "Ext": "jpg",
+          "Height": 267,
+          "Width": 400,
+          "Size": 48863
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-trRH9Gj/0/LfpgkXnxTNKJZHKmSHnpNcpBrVkzgMMwsKmhbv4jq/M/010_DR-M.jpg",
+          "Ext": "jpg",
+          "Height": 400,
+          "Width": 600,
+          "Size": 95029
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-trRH9Gj/0/Mz3Nhx3JKc7GvXcHmLD38WbJNpmRxPXJn3hQZ5xKK/L/010_DR-L.jpg",
+          "Ext": "jpg",
+          "Height": 533,
+          "Width": 800,
+          "Size": 147315
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-trRH9Gj/0/KsM3tcTnHxL8CMGcQ67mdswT89qXnSSMPr2CnWcMB/XL/010_DR-XL.jpg",
+          "Ext": "jpg",
+          "Height": 683,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-trRH9Gj/0/MfgMP3CmJPDgdqFdH7LC2nmW3QqwKgK4H5Fx4HhC3/X2/010_DR-X2.jpg",
+          "Ext": "jpg",
+          "Height": 853,
+          "Width": 1280,
+          "Size": 312078
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-trRH9Gj/0/NJSrHGsgXq854KR4Vz85x8x2WgW57SS95WtvK427c/O/010_DR.jpg",
+          "Ext": "jpg",
+          "Height": 1024,
+          "Width": 1536,
+          "Size": 431059,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/trRH9Gj-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/trRH9Gj-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "011_DR.JPG",
+      "Date": "2009-10-18T00:07:19+00:00",
+      "Uri": "/api/v2/album/bnVnrs/image/RVKHfmC-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-Agra/i-RVKHfmC/0/#size#/011_DR-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-RVKHfmC/0/KbrsV26KjqbXmF62JVP7j9SQ9M5HSLmDw7nMkdmSg/Ti/011_DR-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 67,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-RVKHfmC/0/MmBHN88BtdbWGgQ4cJh5jgLQcR6WDCpKpqXGMHkqC/Th/011_DR-Th.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-RVKHfmC/0/MjPGbqZ3zpr5M5scggKc6G2tZZGXGwkB8GkSQnftM/S/011_DR-S.jpg",
+          "Ext": "jpg",
+          "Height": 267,
+          "Width": 400,
+          "Size": 42221
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-RVKHfmC/0/KxDfJbhtPSJ7QHfNFHkHpMSvmthJ5zT7p7gTkt8wg/M/011_DR-M.jpg",
+          "Ext": "jpg",
+          "Height": 400,
+          "Width": 600,
+          "Size": 79208
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-RVKHfmC/0/MPxvX8wcRqF3wdfjxsrwGKgXL6ZX8cWZsPqDbcndq/L/011_DR-L.jpg",
+          "Ext": "jpg",
+          "Height": 533,
+          "Width": 800,
+          "Size": 125480
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-RVKHfmC/0/KWn4jfvs7tKfKP4gGq5PkF9x62nkkWmMJwhnCH8Sb/XL/011_DR-XL.jpg",
+          "Ext": "jpg",
+          "Height": 683,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-RVKHfmC/0/M9VKQP7vRGgrSD7hwbqxdXfrwx83jbtpz7jPrw5K4/X2/011_DR-X2.jpg",
+          "Ext": "jpg",
+          "Height": 853,
+          "Width": 1280,
+          "Size": 267750
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-RVKHfmC/0/KZtcZSZfGGthGcVgWmSDZT8WJkPnd4ZJBC2hBqwdP/O/011_DR.jpg",
+          "Ext": "jpg",
+          "Height": 1024,
+          "Width": 1536,
+          "Size": 359149,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/RVKHfmC-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/RVKHfmC-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "012_DR.JPG",
+      "Date": "2009-10-18T00:07:30+00:00",
+      "Uri": "/api/v2/album/bnVnrs/image/cXkXwD7-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-Agra/i-cXkXwD7/0/#size#/012_DR-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-cXkXwD7/0/LWMctHV7BWZxkRRshXKZPfkwXzn6VmTm3kfMx9cbg/Ti/012_DR-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 67,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-cXkXwD7/0/NVp9S5jSGGFT3p88ZFvsZKRdBrHpL7NKf4c3bPMCf/Th/012_DR-Th.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-cXkXwD7/0/M44hJ2bxmFkXnRNz9HCthqRsgccRq2v4qHZwGq6GS/S/012_DR-S.jpg",
+          "Ext": "jpg",
+          "Height": 267,
+          "Width": 400,
+          "Size": 33197
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-cXkXwD7/0/LgVn7NsJMwHhTZb7PJ88Kkp4txvN98TSJhjsbfnwf/M/012_DR-M.jpg",
+          "Ext": "jpg",
+          "Height": 400,
+          "Width": 600,
+          "Size": 62414
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-cXkXwD7/0/LD5kh2kbTJMhC3h7jVw76qjhPVVbXPFK6LsCjC6zM/L/012_DR-L.jpg",
+          "Ext": "jpg",
+          "Height": 533,
+          "Width": 800,
+          "Size": 97611
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-cXkXwD7/0/NdT98k52VgVfNcGKW4dfTVCCJLsRkG6DQxZfGWHj7/XL/012_DR-XL.jpg",
+          "Ext": "jpg",
+          "Height": 683,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-cXkXwD7/0/LjKtPhrVgFLxbT7hLqczT5Lxvp4QV6tjj8cSsRrqR/X2/012_DR-X2.jpg",
+          "Ext": "jpg",
+          "Height": 853,
+          "Width": 1280,
+          "Size": 213074
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-cXkXwD7/0/MGB4V6MmCtXTKLVNbNr8MwBFpZZ5nxT5bnHgHjhC6/O/012_DR.jpg",
+          "Ext": "jpg",
+          "Height": 1024,
+          "Width": 1536,
+          "Size": 274134,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/cXkXwD7-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/cXkXwD7-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "013_DR.JPG",
+      "Date": "2009-10-18T00:07:39+00:00",
+      "Uri": "/api/v2/album/bnVnrs/image/tctpjkV-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-Agra/i-tctpjkV/0/#size#/013_DR-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-tctpjkV/0/MFwbnMB9GR9wCjXwmQxBMXKRNZ36KZgn89rdn23NZ/Ti/013_DR-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 67,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-tctpjkV/0/L795np2P55gxSmzn96Nw2MtNj2mWNn78Fkkqf8DCt/Th/013_DR-Th.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-tctpjkV/0/NfhbBVjSN96Mk2bJg4t9jrfFpc4LRpMDVTbJnpZX6/S/013_DR-S.jpg",
+          "Ext": "jpg",
+          "Height": 267,
+          "Width": 400,
+          "Size": 38906
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-tctpjkV/0/MNvHLDz2d6LqwVqxdXLPP57Mk2SmkmkkKJj7RWpxJ/M/013_DR-M.jpg",
+          "Ext": "jpg",
+          "Height": 400,
+          "Width": 600,
+          "Size": 72439
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-tctpjkV/0/KgNZpWpsFsqrRpPQM6vZT46hZPw3KnpJT6PpSC6pG/L/013_DR-L.jpg",
+          "Ext": "jpg",
+          "Height": 533,
+          "Width": 800,
+          "Size": 118761
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-tctpjkV/0/Ksmr5vBVmmVQDrwzrsdLxgzKfP38DpL84j9TVnTQT/XL/013_DR-XL.jpg",
+          "Ext": "jpg",
+          "Height": 683,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-tctpjkV/0/M7pg4VkqHxHwgZ4Zh7jk3Nr7cjSmMF4H9tMtvqrSQ/X2/013_DR-X2.jpg",
+          "Ext": "jpg",
+          "Height": 853,
+          "Width": 1280,
+          "Size": 278471
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-tctpjkV/0/K9xLCdtQzqgM66tMTN7DzhKmNPzQ5PpXm6b27TZsn/O/013_DR.jpg",
+          "Ext": "jpg",
+          "Height": 1024,
+          "Width": 1536,
+          "Size": 417153,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/tctpjkV-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/tctpjkV-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "014_DR.JPG",
+      "Date": "2009-10-18T00:07:44+00:00",
+      "Uri": "/api/v2/album/bnVnrs/image/9TSjTGz-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-Agra/i-9TSjTGz/0/#size#/014_DR-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-9TSjTGz/0/KZphxVkHbX6NvPp8DNj7SrqhpRvxN9cL65sQ2SMx5/Ti/014_DR-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 67,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-9TSjTGz/0/KwBq9XKr3k2b9s3FVrt4NjCFwjzwT72nSJDkg6JWB/Th/014_DR-Th.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-9TSjTGz/0/MfmQGqLT5QRWT9VJTJjDX8pbxZVmFr4bvKbwDW7WQ/S/014_DR-S.jpg",
+          "Ext": "jpg",
+          "Height": 267,
+          "Width": 400,
+          "Size": 31697
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-9TSjTGz/0/NXNbncTMFX5T3kr3HCjw9MPH4sgzB3XrGnKwV6qnb/M/014_DR-M.jpg",
+          "Ext": "jpg",
+          "Height": 400,
+          "Width": 600,
+          "Size": 59364
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-9TSjTGz/0/MLdFjVntk9hhdgKKwXMnjZ8ZKmBDBR9N2Zdr43X9B/L/014_DR-L.jpg",
+          "Ext": "jpg",
+          "Height": 533,
+          "Width": 800,
+          "Size": 92006
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-9TSjTGz/0/LvgtSKbtdspsXF92Zr6PTKpR4LvRC8StmW9QmxGMb/XL/014_DR-XL.jpg",
+          "Ext": "jpg",
+          "Height": 683,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-9TSjTGz/0/LLHkcQnKLZbVFPN9JKB669k8WgMcz8BGRFhK77q7h/X2/014_DR-X2.jpg",
+          "Ext": "jpg",
+          "Height": 853,
+          "Width": 1280,
+          "Size": 196145
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-9TSjTGz/0/Ks6XmzxjcpXbQFztzGm9MmW89jHhX3XBsPnmJVMWs/O/014_DR.jpg",
+          "Ext": "jpg",
+          "Height": 1024,
+          "Width": 1536,
+          "Size": 241068,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/9TSjTGz-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/9TSjTGz-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "015_DR.JPG",
+      "Date": "2009-10-18T00:07:51+00:00",
+      "Uri": "/api/v2/album/bnVnrs/image/kSfNFfR-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-Agra/i-kSfNFfR/0/#size#/015_DR-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-kSfNFfR/0/NZR9D5h8wX2mLC7b8J99qfxkQk8T9qkBNRnXkQ8qj/Ti/015_DR-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 67,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-kSfNFfR/0/KL2C3Pmm9tV7pnPmzj32kwR6BrkRbmSQPWMkMkBch/Th/015_DR-Th.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-kSfNFfR/0/MVTGD35gw8qj8zfNb9tkQLCt8hTpxK2dtDCwHxQD5/S/015_DR-S.jpg",
+          "Ext": "jpg",
+          "Height": 267,
+          "Width": 400,
+          "Size": 37399
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-kSfNFfR/0/MhnfPBj2PTDc3fVmMqJDhVLv4rNCvdMGrJkB3xNLp/M/015_DR-M.jpg",
+          "Ext": "jpg",
+          "Height": 400,
+          "Width": 600,
+          "Size": 70721
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-kSfNFfR/0/LxPrGgt5fdh7bx6DDmvqTQTwGtCB3SC9HgjgCPNB5/L/015_DR-L.jpg",
+          "Ext": "jpg",
+          "Height": 533,
+          "Width": 800,
+          "Size": 110833
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-kSfNFfR/0/MM5QHnVvDSKwPRDmzpmXX9hzv3Qd6tN7kn8SXnWMn/XL/015_DR-XL.jpg",
+          "Ext": "jpg",
+          "Height": 683,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-kSfNFfR/0/LF55xTkcsLNVBhhWTF4GXCshtMp2f8DtxhQNS3NRr/X2/015_DR-X2.jpg",
+          "Ext": "jpg",
+          "Height": 853,
+          "Width": 1280,
+          "Size": 240235
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-kSfNFfR/0/KfkkQS458hcDNTqgLpsKBwmnNt7bxfKzwfwVKZSTh/O/015_DR.jpg",
+          "Ext": "jpg",
+          "Height": 1024,
+          "Width": 1536,
+          "Size": 314926,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/kSfNFfR-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/kSfNFfR-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "016_DR.JPG",
+      "Date": "2009-10-18T00:07:57+00:00",
+      "Uri": "/api/v2/album/bnVnrs/image/86BWjpB-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-Agra/i-86BWjpB/0/#size#/016_DR-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-86BWjpB/0/Lg75sQL5vn8C3sdsNHLRj2ksSkVZRtS7tnVSqsjp3/Ti/016_DR-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 67,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-86BWjpB/0/LBQVmf4SLTTzSWxkrDGDSzz8dVhdChQ7Kxvw9JtrK/Th/016_DR-Th.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-86BWjpB/0/K8xZXTNKSsCShwDj3qnZGSFbzrfrZgrs7R4Rn2DjQ/S/016_DR-S.jpg",
+          "Ext": "jpg",
+          "Height": 267,
+          "Width": 400,
+          "Size": 35323
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-86BWjpB/0/M2t7h3BvBgzbvtVfVzZ8gVnLHPwfLFBqR2VGc9dKp/M/016_DR-M.jpg",
+          "Ext": "jpg",
+          "Height": 400,
+          "Width": 600,
+          "Size": 66983
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-86BWjpB/0/NKFVh4cpkB6CZD7J5sZTF2F7jjdxqN3MT2kmqNwTq/L/016_DR-L.jpg",
+          "Ext": "jpg",
+          "Height": 533,
+          "Width": 800,
+          "Size": 104245
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-86BWjpB/0/LppHzv59LX9WDmMr2h2PqP3XwfJWpW4cBPcgdxp9V/XL/016_DR-XL.jpg",
+          "Ext": "jpg",
+          "Height": 683,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-86BWjpB/0/KqxXCpH9DXZH979kps4SGg5HHVJXkvpXb6XPZK9zQ/X2/016_DR-X2.jpg",
+          "Ext": "jpg",
+          "Height": 853,
+          "Width": 1280,
+          "Size": 223114
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-86BWjpB/0/MdxbJgXwKwmrQ4B4shXdzqFNmTFxxSnMq7cSghFv6/O/016_DR.jpg",
+          "Ext": "jpg",
+          "Height": 1024,
+          "Width": 1536,
+          "Size": 287938,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/86BWjpB-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/86BWjpB-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "017_DR.JPG",
+      "Date": "2009-10-18T00:08:06+00:00",
+      "Uri": "/api/v2/album/bnVnrs/image/jqGJXLB-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-Agra/i-jqGJXLB/0/#size#/017_DR-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-jqGJXLB/0/LcrzFSRzXK7dpwFtjPX4SjCDjDsmVsspsbhx8fkP7/Ti/017_DR-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 67,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-jqGJXLB/0/MQq9ZwK8jP8WZsqBc6HNWW3GSsNzNMLcJX6vx9Vgc/Th/017_DR-Th.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-jqGJXLB/0/LjJRpvvX728ZhNqN37Twk5XXfBBMnF4DmM2QbTf2w/S/017_DR-S.jpg",
+          "Ext": "jpg",
+          "Height": 267,
+          "Width": 400,
+          "Size": 32819
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-jqGJXLB/0/KL8kVbvB64qRKc2scPsmg7N8RPcLXvzvqgK89wz6X/M/017_DR-M.jpg",
+          "Ext": "jpg",
+          "Height": 400,
+          "Width": 600,
+          "Size": 61608
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-jqGJXLB/0/Mpt8qGQGZf9j4H8TvfZKXxmVL6tZPsrxcBhgqkv56/L/017_DR-L.jpg",
+          "Ext": "jpg",
+          "Height": 533,
+          "Width": 800,
+          "Size": 96429
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-jqGJXLB/0/MSnhF8H8vcbQ2nW3vQNkWcqCKQp28JZ5ZxkzBdKjt/XL/017_DR-XL.jpg",
+          "Ext": "jpg",
+          "Height": 683,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-jqGJXLB/0/K3kgCwhgSCQV8QvNGTp6q9SqMrPkxGqzMMj29jdtN/X2/017_DR-X2.jpg",
+          "Ext": "jpg",
+          "Height": 853,
+          "Width": 1280,
+          "Size": 212330
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-jqGJXLB/0/Mzt8rJsGHCFfk4CX4PRn4Nbs8RVh2QTwNkMpGdMFw/O/017_DR.jpg",
+          "Ext": "jpg",
+          "Height": 1024,
+          "Width": 1536,
+          "Size": 266748,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/jqGJXLB-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/jqGJXLB-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "018_DR.JPG",
+      "Date": "2009-10-18T00:08:10+00:00",
+      "Uri": "/api/v2/album/bnVnrs/image/wDzKjwL-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-Agra/i-wDzKjwL/0/#size#/018_DR-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-wDzKjwL/0/LRqwDRxcczrPnHnxmfRDpS5PMcDzgHcQ74sZk6d24/Ti/018_DR-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 67,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-wDzKjwL/0/LgM6wTcWZJSsbjtG6MZ6R2dFLRk83N24kMVCDLnKS/Th/018_DR-Th.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-wDzKjwL/0/LHm59sVbd3W8VNpp5xSRsbDxq34Cdd5WN6TCPgVWM/S/018_DR-S.jpg",
+          "Ext": "jpg",
+          "Height": 267,
+          "Width": 400,
+          "Size": 24863
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-wDzKjwL/0/NLvNfZ4ZjtwVk7z5Dn5cxKPGKSzWN4Np3GxHpkcPw/M/018_DR-M.jpg",
+          "Ext": "jpg",
+          "Height": 400,
+          "Width": 600,
+          "Size": 46883
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-wDzKjwL/0/Mw9WFbmmrgb5xWjTnfmVRZNcSSDcRhzMGrmHQk8ns/L/018_DR-L.jpg",
+          "Ext": "jpg",
+          "Height": 533,
+          "Width": 800,
+          "Size": 73039
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-wDzKjwL/0/L43vRDzZK8Bs3vQ92fj72BbH97hmQL33rLWK8Xz2W/XL/018_DR-XL.jpg",
+          "Ext": "jpg",
+          "Height": 683,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-wDzKjwL/0/KF5Dxq3ZgBCDL6kKfjqbdSGFXSrskKRQ2j8TMsmCs/X2/018_DR-X2.jpg",
+          "Ext": "jpg",
+          "Height": 853,
+          "Width": 1280,
+          "Size": 159645
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-wDzKjwL/0/L9z7rbkkx95LzVGxfpLBvbD8L98qGF3thvdQtKKG3/O/018_DR.jpg",
+          "Ext": "jpg",
+          "Height": 1024,
+          "Width": 1536,
+          "Size": 196944,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/wDzKjwL-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/wDzKjwL-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "019_DR.JPG",
+      "Date": "2009-10-18T00:08:16+00:00",
+      "Uri": "/api/v2/album/bnVnrs/image/3T3PJ7w-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-Agra/i-3T3PJ7w/0/#size#/019_DR-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-3T3PJ7w/0/KdLvGRDSxncQFbkVszKjLRzqKK4JzRbv6Msm4HTms/Ti/019_DR-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 67,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-3T3PJ7w/0/K9sVK6R7qcvtjQcsX83s8K9TTHwSc4T58j3Fh5xhB/Th/019_DR-Th.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-3T3PJ7w/0/Knd8GctTTtgBzZ2v9bcrSBn6gkMvm37R9mNQ63bFx/S/019_DR-S.jpg",
+          "Ext": "jpg",
+          "Height": 267,
+          "Width": 400,
+          "Size": 30494
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-3T3PJ7w/0/KPDjcWD8gvjcbHVxmdNLKdWLmwW7cr3MFFjPFcZpv/M/019_DR-M.jpg",
+          "Ext": "jpg",
+          "Height": 400,
+          "Width": 600,
+          "Size": 57163
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-3T3PJ7w/0/LScfjQw2CpnrTZRHb79vW2zswnnQtc4F828nmphWh/L/019_DR-L.jpg",
+          "Ext": "jpg",
+          "Height": 533,
+          "Width": 800,
+          "Size": 87870
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-3T3PJ7w/0/NdsHGz68C2GxffNPjRNpwpv4dK9RmHCdBDVrjP25b/XL/019_DR-XL.jpg",
+          "Ext": "jpg",
+          "Height": 683,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-3T3PJ7w/0/K8nvg26LfSjZs7BVWM7756tGLDqv5LrWdGvCbvK3F/X2/019_DR-X2.jpg",
+          "Ext": "jpg",
+          "Height": 853,
+          "Width": 1280,
+          "Size": 186140
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-3T3PJ7w/0/NWvNpS4tNzjM7QJqRSmmR2VCK4Vg5pv9Cv25wPhdM/O/019_DR.jpg",
+          "Ext": "jpg",
+          "Height": 1024,
+          "Width": 1536,
+          "Size": 225643,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/3T3PJ7w-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/3T3PJ7w-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "020_DR.JPG",
+      "Date": "2009-10-18T00:08:23+00:00",
+      "Uri": "/api/v2/album/bnVnrs/image/Vn7Mjrs-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-Agra/i-Vn7Mjrs/0/#size#/020_DR-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-Vn7Mjrs/0/K6Jt7Pd9RnLFrbgdbc6V9RkSb2pFR8vHxZc8W49wK/Ti/020_DR-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 67,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-Vn7Mjrs/0/L6gjQm3zftFpdgkwhvqD5GZKgKhPn3vvG8XNqN6Zq/Th/020_DR-Th.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-Vn7Mjrs/0/K6j2nGTnmVV4LZHvwM36bMrDP3pV4bLVDcbGvZNcc/S/020_DR-S.jpg",
+          "Ext": "jpg",
+          "Height": 267,
+          "Width": 400,
+          "Size": 24867
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-Vn7Mjrs/0/NHK5P9J638qT87TPdZMx6KLGkSSVX86WrdtsRDVR5/M/020_DR-M.jpg",
+          "Ext": "jpg",
+          "Height": 400,
+          "Width": 600,
+          "Size": 45452
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-Vn7Mjrs/0/LjtMdrMmRZkMRKG2jwVVXmM33MZDHmr9pd59DBqXj/L/020_DR-L.jpg",
+          "Ext": "jpg",
+          "Height": 533,
+          "Width": 800,
+          "Size": 73043
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-Vn7Mjrs/0/KNRdQ5XR5mjBKqgxmwjkxbT75TT4fJzQMdZnRfMWV/XL/020_DR-XL.jpg",
+          "Ext": "jpg",
+          "Height": 683,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-Vn7Mjrs/0/LHnx4PvM8tWxcwbMQk3Z87QhWMvrgScnkjL5rp7BP/X2/020_DR-X2.jpg",
+          "Ext": "jpg",
+          "Height": 853,
+          "Width": 1280,
+          "Size": 166927
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-Vn7Mjrs/0/K7D39bPt9Wbn2n9KdRtnPjf98pG5frmPpdxp6KTK6/O/020_DR.jpg",
+          "Ext": "jpg",
+          "Height": 1024,
+          "Width": 1536,
+          "Size": 201304,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/Vn7Mjrs-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/Vn7Mjrs-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "021_DR.JPG",
+      "Date": "2009-10-18T00:08:29+00:00",
+      "Uri": "/api/v2/album/bnVnrs/image/bm4bVXB-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-Agra/i-bm4bVXB/0/#size#/021_DR-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-bm4bVXB/0/LjbcWvwVKVrJgcCWn4zWvZJs7CvNSfKN7zNhLzbxD/Ti/021_DR-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 67,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-bm4bVXB/0/KjRzXpBJLrNjTJ5J9P67fHHDzNNGdqFkgPBgm39qV/Th/021_DR-Th.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-bm4bVXB/0/KNgd7Jn4jrz9KjMvW2RDbSWGn57xZDWnz3S3GLrKH/S/021_DR-S.jpg",
+          "Ext": "jpg",
+          "Height": 267,
+          "Width": 400,
+          "Size": 26945
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-bm4bVXB/0/LZbNSnkwn64m3wKwsF8knjrXdB4Fc7F56NbQzBp26/M/021_DR-M.jpg",
+          "Ext": "jpg",
+          "Height": 400,
+          "Width": 600,
+          "Size": 48995
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-bm4bVXB/0/M5fvKFMnwdWmT7fQJvV4tjbm4ZmtVzLktGSbtFQwK/L/021_DR-L.jpg",
+          "Ext": "jpg",
+          "Height": 533,
+          "Width": 800,
+          "Size": 79013
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-bm4bVXB/0/NVb9DB9R9C9SLxTbh9xD2dCdtT6jszj655qRBCcXr/XL/021_DR-XL.jpg",
+          "Ext": "jpg",
+          "Height": 683,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-bm4bVXB/0/LLFGbVr44kpSmpxH3DRVhHr4rCMBkZRBBTbHp3Wvb/X2/021_DR-X2.jpg",
+          "Ext": "jpg",
+          "Height": 853,
+          "Width": 1280,
+          "Size": 177187
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-bm4bVXB/0/L8LvTkkTXpXMvkwKmq2skwBZRSfvs5fnSnSctnPQS/O/021_DR.jpg",
+          "Ext": "jpg",
+          "Height": 1024,
+          "Width": 1536,
+          "Size": 215569,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/bm4bVXB-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/bm4bVXB-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "022_DR.JPG",
+      "Date": "2009-10-18T00:08:35+00:00",
+      "Uri": "/api/v2/album/bnVnrs/image/gR7LCLX-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-Agra/i-gR7LCLX/0/#size#/022_DR-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-gR7LCLX/0/MgJwZxZTB6vhHG7TqDp4xHNLdL9tV93rtGRntSG7d/Ti/022_DR-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 67,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-gR7LCLX/0/LkpLRR7PwTjGCk9KwgLj8jNcRz44btfnZv2BXFsC8/Th/022_DR-Th.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-gR7LCLX/0/LxC3K5jz4T8nz67wQJChcczNqVKrpD8zW4GFjHgGT/S/022_DR-S.jpg",
+          "Ext": "jpg",
+          "Height": 267,
+          "Width": 400,
+          "Size": 31429
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-gR7LCLX/0/NKK6rhnphpm7D6XxfJz6843DpwLWvSRBQ5ZMcJRKN/M/022_DR-M.jpg",
+          "Ext": "jpg",
+          "Height": 400,
+          "Width": 600,
+          "Size": 56683
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-gR7LCLX/0/Kf8Pfztjg7nKLP7fmrxPG6QxbQdvtqZZLsXffcW59/L/022_DR-L.jpg",
+          "Ext": "jpg",
+          "Height": 533,
+          "Width": 800,
+          "Size": 89373
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-gR7LCLX/0/LXpBc87Q6RfjwKhHkDMWVj3FWHhvLRzFWSbQRjTp4/XL/022_DR-XL.jpg",
+          "Ext": "jpg",
+          "Height": 683,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-gR7LCLX/0/MM3DJShpHXsG4dXwbfqHRq3w28NCH2tdr5FkNc8P5/X2/022_DR-X2.jpg",
+          "Ext": "jpg",
+          "Height": 853,
+          "Width": 1280,
+          "Size": 193943
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-gR7LCLX/0/KnDbDkZCvWPmCjLMMnJpSrc7J339QZ7dXn4CGf9Fr/O/022_DR.jpg",
+          "Ext": "jpg",
+          "Height": 1024,
+          "Width": 1536,
+          "Size": 237132,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/gR7LCLX-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/gR7LCLX-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "023_DR.JPG",
+      "Date": "2009-10-18T00:08:43+00:00",
+      "Uri": "/api/v2/album/bnVnrs/image/nQxQVxc-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-Agra/i-nQxQVxc/0/#size#/023_DR-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-nQxQVxc/0/KZMzZmJGZDhHq3sNgcFDHpbkjg7NNdV6WKCr4xxWR/Ti/023_DR-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 67,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-nQxQVxc/0/NWWCzq4BWtZfHPzZnhVzRqFcKf6trSjm58DGfHKwd/Th/023_DR-Th.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-nQxQVxc/0/KsfvvNPS5S8Nv4LSwmh4jVDk2n53pbfgvMvCTmsbr/S/023_DR-S.jpg",
+          "Ext": "jpg",
+          "Height": 267,
+          "Width": 400,
+          "Size": 35841
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-nQxQVxc/0/K3pVZXFqPQzLQztRCwRh7RK37rHmHcbh3sZRTrmkj/M/023_DR-M.jpg",
+          "Ext": "jpg",
+          "Height": 400,
+          "Width": 600,
+          "Size": 68438
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-nQxQVxc/0/KMzrJBBH9LskKGHCNSzf2cPm5QRH4t3NHzbkpxgDp/L/023_DR-L.jpg",
+          "Ext": "jpg",
+          "Height": 533,
+          "Width": 800,
+          "Size": 106383
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-nQxQVxc/0/L87GBgXq2g3swcNfcfpqnG3gS7hjXTVWwSStZhLRQ/XL/023_DR-XL.jpg",
+          "Ext": "jpg",
+          "Height": 683,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-nQxQVxc/0/Lq4xXH5vK27QQFPkTW96fjRvxCq23cR5VsxpgsNHc/X2/023_DR-X2.jpg",
+          "Ext": "jpg",
+          "Height": 853,
+          "Width": 1280,
+          "Size": 230192
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-nQxQVxc/0/Nf4sKZ9TVnBHfmDTjJgCLvPXg3PHVPmKVhWmvr5Sh/O/023_DR.jpg",
+          "Ext": "jpg",
+          "Height": 1024,
+          "Width": 1536,
+          "Size": 294751,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/nQxQVxc-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/nQxQVxc-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "025_DR.JPG",
+      "Date": "2009-10-18T00:08:58+00:00",
+      "Uri": "/api/v2/album/bnVnrs/image/PXbnb4d-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-Agra/i-PXbnb4d/0/#size#/025_DR-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-PXbnb4d/0/NdN4rnBzpqTC48FSNL8sPW8gtNJZ3mW8HSkMzTJGz/Ti/025_DR-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 67,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-PXbnb4d/0/KFgBRftsd69mJXWNcqb38bgSGzKmbjxrxk2z54qS8/Th/025_DR-Th.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-PXbnb4d/0/LW33x3DpznLGdwCgkcSvf8LbXVbHRgdQVsjL3tsZh/S/025_DR-S.jpg",
+          "Ext": "jpg",
+          "Height": 267,
+          "Width": 400,
+          "Size": 33032
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-PXbnb4d/0/M8rrZfGnKZvb93sxrMh5bLB2FHpTB98ZNLWCrZZjf/M/025_DR-M.jpg",
+          "Ext": "jpg",
+          "Height": 400,
+          "Width": 600,
+          "Size": 60730
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-PXbnb4d/0/LHpXk3rJzJLpFdTkBTT5vJjFnB2KsSC5wkhhhHMpv/L/025_DR-L.jpg",
+          "Ext": "jpg",
+          "Height": 533,
+          "Width": 800,
+          "Size": 96665
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-PXbnb4d/0/MGsbR7t23FVzv2bHNpwJNVDxtBCp6QRLsLPP8Thbc/XL/025_DR-XL.jpg",
+          "Ext": "jpg",
+          "Height": 683,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-PXbnb4d/0/M7SX6ds7Vw6L5v9LBXD8qT4gM9wvHDNvR4mkbV6WG/X2/025_DR-X2.jpg",
+          "Ext": "jpg",
+          "Height": 853,
+          "Width": 1280,
+          "Size": 210770
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-PXbnb4d/0/MB2R2h87XfBzHbjtQjBkB38SZGGx6z5Tz74qNXmZr/O/025_DR.jpg",
+          "Ext": "jpg",
+          "Height": 1024,
+          "Width": 1536,
+          "Size": 265770,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/PXbnb4d-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/PXbnb4d-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "026_DR.JPG",
+      "Date": "2009-10-18T00:06:02+00:00",
+      "Uri": "/api/v2/album/bnVnrs/image/9LL749F-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2007-Agra/i-9LL749F/0/#size#/026_DR-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-9LL749F/0/M5mqQgqgxJ62DJ8r3FD8Kx8bjjsw7c33KgsDtgbrp/Ti/026_DR-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 67,
+          "Width": 100
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-9LL749F/0/MT6x35c6pVFCkrF6H4ZmCkNrqQQTZFSB4NkGtNXPK/Th/026_DR-Th.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 150
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-9LL749F/0/K27WwPTgqRRkcBcGdzV3GRtN2KWCJzwb7WMVBGxBj/S/026_DR-S.jpg",
+          "Ext": "jpg",
+          "Height": 267,
+          "Width": 400,
+          "Size": 44588
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-9LL749F/0/LBHbWZb5VZFZKR5R72WpTNT7rr8X5pQ8zxnNLG4w5/M/026_DR-M.jpg",
+          "Ext": "jpg",
+          "Height": 400,
+          "Width": 600,
+          "Size": 83537
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-9LL749F/0/MQqNS3MSvMr8xgq9kdjsxRJCDcqg7bc4k9x4G8RxH/L/026_DR-L.jpg",
+          "Ext": "jpg",
+          "Height": 533,
+          "Width": 800,
+          "Size": 128292
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-9LL749F/0/Mf9NGmW9Nj8cfGmBXvsr9HpQWPMGgNzknCMbMXLqV/XL/026_DR-XL.jpg",
+          "Ext": "jpg",
+          "Height": 683,
+          "Width": 1024
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-9LL749F/0/MGJFnFVWNs93SGSLxBQbNpSmQPBKNC8r6PN97fQ35/X2/026_DR-X2.jpg",
+          "Ext": "jpg",
+          "Height": 853,
+          "Width": 1280,
+          "Size": 268758
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2007-Agra/i-9LL749F/0/K9hgMT2sSZvQMFDP2r59szzH2WzMXZMw4zfVzKtmT/O/026_DR.jpg",
+          "Ext": "jpg",
+          "Height": 1024,
+          "Width": 1536,
+          "Size": 345274,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/9LL749F-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/9LL749F-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    }
+  ]
+}
