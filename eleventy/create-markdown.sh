@@ -22,13 +22,18 @@ fi
 
 for f in $inputdir/*.json; do
     of=trip-$(basename ${f%.json}).md
-    image_weburi=$(jq -r '.WebUri' $f)
-    uri=$(jq -r --arg uri $image_weburi '.[]|select(.smugmug==$uri)|.start' $trips_dir/*.json )
-    if [ -z $uri ]; then  
-        echo "Can't find matching weburi $image_weburi for in trips folder"
+    if [ -e $outputdir/$of ]; then
+        echo "$of already exists, skipping"
     else
-        date=$(jq -r --arg uri $image_weburi '.[]|select(.smugmug==$uri)|.start' $trips_dir/*.json )
-        tripit=$(jq -r --arg uri $image_weburi '.[]|select(.smugmug==$uri)|.tripit' $trips_dir/*.json )
-        uv run eleventy/eleventyfig.py $date $tripit < $f > $outputdir/$of
+        image_weburi=$(jq -r '.WebUri' $f)
+        uri=$(jq -r --arg uri $image_weburi '.[]|select(.smugmug==$uri)|.start' $trips_dir/*.json )
+        if [ -z $uri ]; then  
+            echo "Can't find matching weburi $image_weburi for in trips folder"
+        else
+            echo "Creating $of"
+            date=$(jq -r --arg uri $image_weburi '.[]|select(.smugmug==$uri)|.start' $trips_dir/*.json )
+            tripit=$(jq -r --arg uri $image_weburi '.[]|select(.smugmug==$uri)|.tripit' $trips_dir/*.json )
+            uv run eleventy/eleventyfig.py $date $tripit < $f > $outputdir/$of
+        fi
     fi
 done

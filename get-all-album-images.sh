@@ -34,8 +34,9 @@ names=$(jq -r '.Album[] | .UrlName' < $albumfile )
 for name in $names; do
     imagefile=data/images/${name}.json
     if [ -f $imagefile ]; then
-        echo "\"$imagefile\" exists, skipping"
+        echo Skipping "\"$imagefile\" (already exists)"
     else
+        echo Getting \"$imagefile\"
         uri=$(jq  -r --arg name $name '.Album[]|select(.UrlName==$name)|.Uri' < $albumfile)
         uv run src/smug-cli.py get-album-images --album_uri $uri > $imagefile
     fi

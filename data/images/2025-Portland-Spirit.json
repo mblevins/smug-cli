@@ -1,0 +1,2338 @@
+{
+  "UrlName": "2025-Portland-Spirit",
+  "Name": "2025-Portland-Spirit",
+  "Uri": "/api/v2/album/L28tdG",
+  "Date": "2025-10-03T15:48:44+00:00",
+  "WebUri": "https://lmblevins.smugmug.com/Travel/2025-Portland-Spirit",
+  "Images": [
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_2797.jpg",
+      "Date": "2025-10-03T17:21:44+00:00",
+      "Uri": "/api/v2/album/L28tdG/image/SmfBJXp-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-SmfBJXp/0/#size#/M_IMG_2797-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-SmfBJXp/0/K4QzLLmJrXX8xQQhH92JvbfdqLvSdppwRd4mxhPpb/Ti/M_IMG_2797-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-SmfBJXp/0/Kt5GMvkdB4HXc6B6z2zhfnPLBt3qPmgz9pPmrDkjX/Th/M_IMG_2797-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-SmfBJXp/0/Mg3K2HbwJZmjhq99KcpmKGvSmfzb46PCz47LCdndQ/S/M_IMG_2797-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-SmfBJXp/0/KbzwFBF7h5zhTcnrKP4JBmtdQH8JhPSwLnGGMbfRf/M/M_IMG_2797-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-SmfBJXp/0/L7ZD2CHdfMBmbJn7j29RfBQsMfFkLnRzr7vbKC8rg/L/M_IMG_2797-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 181917,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-SmfBJXp/0/MBQJf4jnk8r3Q7SQhnxFbmrjwDCzH33T5h8ZJnXVH/XL/M_IMG_2797-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 282134,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-SmfBJXp/0/Ks4KsMk8V2gpPCpWdNFfnFRfH4nPxwMM7VcgJcKxP/X2/M_IMG_2797-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-SmfBJXp/0/NgqpfT466z8nZSwphz5RpNQNmRLtncgjbj9bND9qs/X3/M_IMG_2797-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-SmfBJXp/0/LXxzmCr84fM5F2L4Rrgh26KcGMTLP9JBgGwGqkMW4/X4/M_IMG_2797-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-SmfBJXp/0/NfpmtKn7nmKLGKwDZ3Rss8ds78zcpMrJ9J4q9mFVQ/X5/M_IMG_2797-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-SmfBJXp/0/M6jg5ZBVTt7DhRTpsFDQNDVXKLP9jsRMps5T2Ln3x/4K/M_IMG_2797-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-SmfBJXp/0/LvFhrfphhqNNQWWDxCDvFkHcKSSFRBgJRkbqkWFn4/O/M_IMG_2797.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 3350050,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/SmfBJXp-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/SmfBJXp-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_2807.jpg",
+      "Date": "2025-10-03T17:21:45+00:00",
+      "Uri": "/api/v2/album/L28tdG/image/GLzXxSJ-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-GLzXxSJ/0/#size#/M_IMG_2807-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSize5K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-GLzXxSJ/0/K9Rh8NVJp6q5Gjcrk8htnhNx4rZzzF4Hx7nknkngz/Ti/M_IMG_2807-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-GLzXxSJ/0/Kck2n6mQ2588NzH9kQczthdr43LkL65hZWhXPCBfd/Th/M_IMG_2807-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-GLzXxSJ/0/NSQd2vKCfNBJ2h85kczsjbJZZDtScnChZZLLfFq9W/S/M_IMG_2807-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-GLzXxSJ/0/K2pcCb6fzd2KqmPZCcvR5jsRFFpzF79jp7VW388mH/M/M_IMG_2807-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-GLzXxSJ/0/LM9Vx88HVtgVhPWwxsGdFjx893qgbQgBXK3XN7Kw7/L/M_IMG_2807-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 88331,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-GLzXxSJ/0/M96B9L7HgrDkP9dxRfs3398QkhDQ2r364D54G7x5R/XL/M_IMG_2807-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 131849,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-GLzXxSJ/0/KLQpsTt4HsWqRpJMsn92z8Z97d3nW7GHmFVSgW2sL/X2/M_IMG_2807-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-GLzXxSJ/0/NSpDR3Zs6N7Mg65Nh7rFD5VDTQqgnVsmrJ9GKgmSL/X3/M_IMG_2807-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-GLzXxSJ/0/NXBJQwrg4L3PJRhSMtVXphmFrDwWMdbDdL9fzhpBR/X4/M_IMG_2807-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-GLzXxSJ/0/KhJ2t99mVTTXW2dZKDdxQg7mZcG2n5szf3JFSk27B/X5/M_IMG_2807-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-GLzXxSJ/0/LmpR78j5248HDF4LzKc6535Fj8GfDt4sghMSFS6RZ/4K/M_IMG_2807-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSize5K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-GLzXxSJ/0/NBzkx3T28ftcqV8m2DCxzfr3vPKpDhXcjmpQjj6RG/5K/M_IMG_2807-5K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 5120,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-GLzXxSJ/0/K626WxHnfZJh6RG7Z4scDtfVPKCQjbNf35Pb9jK47/O/M_IMG_2807.jpg",
+          "Ext": "jpg",
+          "Height": 4284,
+          "Width": 5712,
+          "Size": 4885371,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/GLzXxSJ-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/GLzXxSJ-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_2808.jpg",
+      "Date": "2025-10-03T17:21:39+00:00",
+      "Uri": "/api/v2/album/L28tdG/image/HwtHFwj-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-HwtHFwj/0/#size#/M_IMG_2808-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-HwtHFwj/0/NQwC6Mqbs4F6f7fshQCC8XT9TrtJnw3bKsLqVc96w/Ti/M_IMG_2808-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-HwtHFwj/0/LXGPVKNrBt4mmzXVLjPfsktxM4SPNKhMpP9TSTrND/Th/M_IMG_2808-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-HwtHFwj/0/KbDg5WvMkLshhWr6GxsKDmCWC7tzKDtZD72nZNt2d/S/M_IMG_2808-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-HwtHFwj/0/Mxn7fTnT6tSx9tG3C7nQ5xHHBZzHczhhgKwFWfh9n/M/M_IMG_2808-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-HwtHFwj/0/MhZC8H76mhRKVkk4kcX8MMGDW2xTc2PLDTs2rkr2M/L/M_IMG_2808-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 122482,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-HwtHFwj/0/L8wjG8KPQtM2s4K7ZpvCCDxMRDS9HJNBN6mfXqkL9/XL/M_IMG_2808-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 185825,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-HwtHFwj/0/M4sNQvHJHgm74Q2xQ8f3ztgRMG44TjSBW2RwTj67s/X2/M_IMG_2808-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-HwtHFwj/0/KbLXWs5MXVcscKpqvrV24GBSZmk33kndgnpKSgbmf/X3/M_IMG_2808-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-HwtHFwj/0/K8MbcnGBt7v7PZzmn6q7qVSpnZhrfWDhpZLnpgpsD/X4/M_IMG_2808-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-HwtHFwj/0/LjSB8GpSbMdmbrc6hH3sp5LzkV3f7k5HxSdR2hVsV/X5/M_IMG_2808-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-HwtHFwj/0/NBFbXvhfQFV8JRqrXCVrWJxQzdKbqBrmcdc4kmx6V/4K/M_IMG_2808-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-HwtHFwj/0/Mx9L7cDt85BtXFWSPQpJ3F6Hh2Lz4V5g48hsZXMCw/O/M_IMG_2808.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 2727787,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/HwtHFwj-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/HwtHFwj-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_2822.jpg",
+      "Date": "2025-10-03T17:21:40+00:00",
+      "Uri": "/api/v2/album/L28tdG/image/P9kjfzn-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-P9kjfzn/0/#size#/M_IMG_2822-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-P9kjfzn/0/K4Bzvh2zNz4QXvT9m9trGHZd4KS7M3nbZnmTMzfkW/Ti/M_IMG_2822-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-P9kjfzn/0/MvPdTBmCCLmvGs9mMV5KbCr9kzc37TjJ42pRBdbTL/Th/M_IMG_2822-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-P9kjfzn/0/LqJkskbcCkRC7tGtM8dmSVvfsMJkvq2RggNbgKHZW/S/M_IMG_2822-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-P9kjfzn/0/LJBqfKWfLWrC5WkDrD2bPqfVkWQzmg43497BF5cCh/M/M_IMG_2822-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-P9kjfzn/0/NF6p76wdPbnMZMd7bXMknZ2sXz87VHGdvGH7Qd7MM/L/M_IMG_2822-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 143951,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-P9kjfzn/0/L9s2cvLNrrh24WFrVdKQhK8nRMtKxWRq4f3V4jFQD/XL/M_IMG_2822-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 220469,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-P9kjfzn/0/LnhZqfDcXjFVrQVcjsDtJsrt2DWVj38N2Ks4PfKLn/X2/M_IMG_2822-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-P9kjfzn/0/MjcbnD48xrTqjrxvFSSDhPLxL29WW32gbhTz3pbtV/X3/M_IMG_2822-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-P9kjfzn/0/MN5h3WdGg9Xstn3rt3fSF3MH47PtsMfpbRqFzHzvR/X4/M_IMG_2822-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-P9kjfzn/0/MjVh9txZgTSNK9H6g7DzKRdDpj9r8XLbZhBwNgq4R/X5/M_IMG_2822-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-P9kjfzn/0/M6kmVWxGz4QdjVfqVN4mqKXM8XjHR4x7m8skdF7zG/O/M_IMG_2822.jpg",
+          "Ext": "jpg",
+          "Height": 2771,
+          "Width": 3695,
+          "Size": 2623356,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/P9kjfzn-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/P9kjfzn-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_2823.jpg",
+      "Date": "2025-10-03T17:21:42+00:00",
+      "Uri": "/api/v2/album/L28tdG/image/XMmc5Pr-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-XMmc5Pr/0/#size#/M_IMG_2823-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-XMmc5Pr/0/K89gLH2gjXGsFsNxDmBw9nBRqwkwNnQK5hwvNJwwN/Ti/M_IMG_2823-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-XMmc5Pr/0/NDD2bVqzwdSxtfxKtFQ6d8mtmHzpVwDQwnfwDcc58/Th/M_IMG_2823-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-XMmc5Pr/0/KxzPcGkxVn2Mh8H7nv5nvJdCkFSMvz39mBrGn8SnC/S/M_IMG_2823-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-XMmc5Pr/0/L8g33SVJNJ9DRkd3X4KLk5Rv7V6JFQ45SnbtBC34T/M/M_IMG_2823-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-XMmc5Pr/0/MvvBjZkV6bqFJ9rH6Vsn3Z4ZVJQdM9jMMsDnTmS4T/L/M_IMG_2823-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 211123,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-XMmc5Pr/0/Lf4wnhHHJZgjHNSQkLDKvzZqXFf6PBKLG6LttDP5k/XL/M_IMG_2823-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 332069,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-XMmc5Pr/0/L4j5VKRfgtGWTmcJ5DbkcFSNpJsftJ6d56XX46rNt/X2/M_IMG_2823-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-XMmc5Pr/0/Lc4LqBBJQkq7tQS9rn9Cm5hNVZnzWPqcj8xQg54sM/X3/M_IMG_2823-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-XMmc5Pr/0/LXk8pnNVZxfmNHK9Hdg2KrgVTCqVf9WNkHdjfgDcW/X4/M_IMG_2823-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-XMmc5Pr/0/MV5FTNZtDVs6wHQ6bzQP6vgTNMX6b5m9xhdCVbCJm/X5/M_IMG_2823-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-XMmc5Pr/0/LhdgPGSm5f9T4X55N4MXGFQQrLPVvRXXXM5K3ZxbC/O/M_IMG_2823.jpg",
+          "Ext": "jpg",
+          "Height": 2298,
+          "Width": 3064,
+          "Size": 2979123,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/XMmc5Pr-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/XMmc5Pr-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_2826.jpg",
+      "Date": "2025-10-03T17:21:37+00:00",
+      "Uri": "/api/v2/album/L28tdG/image/wQtP77S-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-wQtP77S/0/#size#/M_IMG_2826-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSize5K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-wQtP77S/0/K9FkW9VBndHjrMNdMSjg3WKDz7LZ8zGBp6QTkXcfG/Ti/M_IMG_2826-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-wQtP77S/0/KQQsmm8RzWKQT4Lht4FqRLLhHSkCP9JBpx96X5r9t/Th/M_IMG_2826-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-wQtP77S/0/McmP6kqT7Nr9Gtrzv3GWvRNjHH5HWDtqDRf9mtWHL/S/M_IMG_2826-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-wQtP77S/0/ND8xH5QVxZNZpsHnVF8PQbDZb69zqwWzrmMH5pRn7/M/M_IMG_2826-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-wQtP77S/0/LvDnDJJ9zkrXk6WJH44L42z3KsjxFrdzmFbnKnzcj/L/M_IMG_2826-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 123614,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-wQtP77S/0/LrLhcwnmPtcsRPTrtXgMRdbhN9PCpCsGPv3GWFsZd/XL/M_IMG_2826-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 185184,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-wQtP77S/0/K3XXdPLF3Lj4Gt8Mr2gv7gSPfF9f2jGCgLMDJhh22/X2/M_IMG_2826-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-wQtP77S/0/Mg7HFm8tVRJDSs82hsrTjp4C7nWH3Wx85TdQdMc6R/X3/M_IMG_2826-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-wQtP77S/0/MVhWWjSHqBTQJrtS5xV77cJWKCZzNWNbpGhBc9nfd/X4/M_IMG_2826-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-wQtP77S/0/LvNJh3fqr8Hr3FTTKcCrFK6WC3g4LfNS74wKVSz9V/X5/M_IMG_2826-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-wQtP77S/0/MvrXk4xT7TXCccrWcKXmwxSPPrMkVp5vsSRW67JfH/4K/M_IMG_2826-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSize5K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-wQtP77S/0/Kghgqx6sk6tZkPJ28Dbf2c4zmWZGpqh3xxp3rJF2k/5K/M_IMG_2826-5K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 5120,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-wQtP77S/0/LMtmH6XbXDnBw6CjvhjTNKFrjGJQZ39MLg6zVZcTj/O/M_IMG_2826.jpg",
+          "Ext": "jpg",
+          "Height": 4284,
+          "Width": 5712,
+          "Size": 5369569,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/wQtP77S-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/wQtP77S-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "46.173838888889",
+      "Longitude": "-123.09847222222",
+      "FileName": "L_IMG_6880.jpg",
+      "Date": "2025-10-03T17:21:36+00:00",
+      "Uri": "/api/v2/album/L28tdG/image/h9RVrhd-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-h9RVrhd/0/#size#/L_IMG_6880-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-h9RVrhd/0/NJWBwfGqJszjT3jTSxhdjpwvSTRGNphQZt9szXps9/Ti/L_IMG_6880-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-h9RVrhd/0/Mbz4T4HJScHQbxVdxM6bTKzcGKLBXGNxHQdB2f9p2/Th/L_IMG_6880-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-h9RVrhd/0/LSGjxSs6833Rbk6JrFHPPJnjvk7VpTZj8KxDWbhrM/S/L_IMG_6880-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-h9RVrhd/0/KZfGHHLGKTFFH3FXtJX6nrzfvSb3f5Ltg6QCKpd6d/M/L_IMG_6880-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-h9RVrhd/0/NC68NxcqvVgbJJSRWQ3ssBgCsph86VFQQWDq2NFZx/L/L_IMG_6880-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 136866,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-h9RVrhd/0/MJgn8Xk9H5hCzHhXPHNCGSr8ZcX4qDx6T9WSVqXDj/XL/L_IMG_6880-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 212723,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-h9RVrhd/0/M3sQ4T8xwLZ6mCRkpZ4rbntVWvFfdQBJzpS8TKsxp/X2/L_IMG_6880-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-h9RVrhd/0/KxgjmVqtJDKdJSfgZGc5tKFRPXM98dCLDh72PHQDG/X3/L_IMG_6880-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-h9RVrhd/0/MX7Cdb3D8H2PHpfP2Mb8LMsfj6L7cs2z3334vbvZC/X4/L_IMG_6880-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-h9RVrhd/0/MZQHQMfpdJzgPmVFkbbh944kT6dJMz6NxMqr9jfW8/X5/L_IMG_6880-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-h9RVrhd/0/LHrrrrrNzfB3jkWPf4TNgsBcLzLs6cjxh6t4cCNgG/4K/L_IMG_6880-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-h9RVrhd/0/LT9HWjwVZPHB3kzstsrcSrGZhVD79x5Z8d4w8r7ft/O/L_IMG_6880.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 3451576,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/h9RVrhd-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/h9RVrhd-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "46.174641666667",
+      "Longitude": "-123.09994444444",
+      "FileName": "L_IMG_6882.jpg",
+      "Date": "2025-10-03T17:21:33+00:00",
+      "Uri": "/api/v2/album/L28tdG/image/gsP2Xb5-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-gsP2Xb5/0/#size#/L_IMG_6882-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-gsP2Xb5/0/NHm9X7cCRpLq6KRJbx7wvVXKhdnnRXDLQq6WvvBRT/Ti/L_IMG_6882-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-gsP2Xb5/0/M23PMMcNQqsXj78jsWV32XgB8nQZXdn4ZgtPNmDHN/Th/L_IMG_6882-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-gsP2Xb5/0/LhgQ9X76X3BVWMZhTv9SpR44Q5Nx7SHZ4DPksFLTt/S/L_IMG_6882-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-gsP2Xb5/0/MsWjqDMp9LVLphFf67njXSzV2PJhsnw9fK4B5JFZ7/M/L_IMG_6882-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-gsP2Xb5/0/LmKmP2RFxttn52zfCS7rXPWvBGvxjJVQQNCmP6mXq/L/L_IMG_6882-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 174467,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-gsP2Xb5/0/LRkB596XdnM7SsnxDQChnqnMCzSFzVFTkR7WTdHxV/XL/L_IMG_6882-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 259979,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-gsP2Xb5/0/NZvRPxqDchTFmR4Mg8x2VzWDs75pjVSLncQZcNkGG/X2/L_IMG_6882-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-gsP2Xb5/0/K3BcSt93KvGq4CQWWR3sTfQ3VP4H4w2QvjRfXJxMn/X3/L_IMG_6882-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-gsP2Xb5/0/L8wwZ6wkzsSb2GSVkkCgJfLfSfB2xK5VKV7XGRn7W/X4/L_IMG_6882-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-gsP2Xb5/0/KLhMzN92ggNXvgWRwZtjVzmJKBF7Q9BcwdQxnCrMD/X5/L_IMG_6882-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-gsP2Xb5/0/LZqgbxGPgw7QFVLjxcZmhd2LGL84fb6cG67f5zxq9/4K/L_IMG_6882-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-gsP2Xb5/0/Kq6CHT3v9GRZDZWq7GdtJ2p2z2htm5XSzqNz6fDZD/O/L_IMG_6882.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 3458496,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/gsP2Xb5-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/gsP2Xb5-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_2828.jpg",
+      "Date": "2025-10-03T17:21:38+00:00",
+      "Uri": "/api/v2/album/L28tdG/image/6GdWVGX-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-6GdWVGX/0/#size#/M_IMG_2828-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-6GdWVGX/0/MWNC4KqNmMRrFXFwZSn9T6wN5fT2MXGhWT2LVhthz/Ti/M_IMG_2828-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-6GdWVGX/0/MMC5F3zQXjGGDKT82cWSfNvKchj4nZMNf9vMTgC2b/Th/M_IMG_2828-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-6GdWVGX/0/LG6dBCCDZVwvgXT9zdpZ3FKkJV33GdTWp3P8rK5RN/S/M_IMG_2828-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-6GdWVGX/0/LvvBXWRF7skFP2rdKChQqL4HMzQG9krhjdrpqdK3m/M/M_IMG_2828-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-6GdWVGX/0/KX8qHz6VRgCptss7grmbHnqRfqhqtWJGsdG9XBtwT/L/M_IMG_2828-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 139873,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-6GdWVGX/0/MLSmMDFkj6ChS3rnqnnP2bBzCzrpPSS7bZKznk3b6/XL/M_IMG_2828-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 215759,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-6GdWVGX/0/LDNRDLtGpHTNK5StfbPtLCPbxP9mpd66gbHG3TVH7/X2/M_IMG_2828-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-6GdWVGX/0/MjffVTTVQp8mqmw94ZCgqJgx2FnxGPfLgztvRZSgx/X3/M_IMG_2828-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-6GdWVGX/0/MdmjwcJvpc4KrSpdp2BBvsTgksv9kGv6wxdtX3cRg/X4/M_IMG_2828-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-6GdWVGX/0/K8W8Qpqk59wpxGFVdCRWbTjhT2F5vVwGL2nwDWrfw/X5/M_IMG_2828-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-6GdWVGX/0/LXNcGpxFK2pkTmsZ4WG3zPft6cJfDz5CgtjFnzBX2/4K/M_IMG_2828-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-6GdWVGX/0/KHPFm5mxCNmfvFWRQ59sHX4HD54fkzHGq6HCmN4zV/O/M_IMG_2828.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 2916113,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/6GdWVGX-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/6GdWVGX-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_2834.jpg",
+      "Date": "2025-10-03T17:21:36+00:00",
+      "Uri": "/api/v2/album/L28tdG/image/WJcRZ36-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-WJcRZ36/0/#size#/M_IMG_2834-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-WJcRZ36/0/MD6SVWqpZ52qmQxGn7df5WXqG5GkvngG8qRDmZzqj/Ti/M_IMG_2834-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-WJcRZ36/0/KLfc5GjTSV359zR98PhWMCpsPLPKChtQ7qFv3rMPb/Th/M_IMG_2834-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-WJcRZ36/0/K86mFbDgTx9rLSjTvGhhmrk9tQ9BS6tQtHcsC9PTH/S/M_IMG_2834-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-WJcRZ36/0/LMxRjD2QtxmmgfgGr8f7Ckxm9fQshHVGmKR2sQZGX/M/M_IMG_2834-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-WJcRZ36/0/NS5CzvCvmj7hkVVzcs3BWqF5ZrTNGsRdqCQwwhWdB/L/M_IMG_2834-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 159268,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-WJcRZ36/0/LC9DHSVp8Zddw6VM4zHbvLgchXTKSBQTf6zWmk6R2/XL/M_IMG_2834-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 242310,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-WJcRZ36/0/KjVbkQxQzdgsWJwXksbfqgMj3nHwfBpwtL6cvGbTN/X2/M_IMG_2834-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-WJcRZ36/0/Ktb4vcbmzDs4qsvpjtRzVdHxx8BH6HKNcHL6cxp4C/X3/M_IMG_2834-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-WJcRZ36/0/Lbb8LTx8MCtW5k2khc9J5VmdntzK9gPh7xL3T5P4P/X4/M_IMG_2834-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-WJcRZ36/0/MfwW3pHZQm4CJTx9vWdXJdMnQbsGVx3Jf9ZdmWhsj/X5/M_IMG_2834-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-WJcRZ36/0/KpDdnqsmh7pT9JZgDCbZDWfnbvBW3DC8469cfPGpL/4K/M_IMG_2834-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-WJcRZ36/0/KfVLp89WNDQBj7mttHs2fcsPNBBhsTBjVwCwVzpTj/O/M_IMG_2834.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 3578841,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/WJcRZ36-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/WJcRZ36-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_2837.jpg",
+      "Date": "2025-10-03T17:21:31+00:00",
+      "Uri": "/api/v2/album/L28tdG/image/mxv4jDw-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-mxv4jDw/0/#size#/M_IMG_2837-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-mxv4jDw/0/NSSKXMkm2B8fJ8ncdrCb3NWN6K7VRzNsTbnWkHj6x/Ti/M_IMG_2837-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-mxv4jDw/0/NXScBNnWGXbdT99FrjzjdPh3K69vWkQmdkCmBHZRb/Th/M_IMG_2837-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-mxv4jDw/0/Kz558b8qZsrGNzSJjkcP3zcsnnGdWnBvCqwjg4rDx/S/M_IMG_2837-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-mxv4jDw/0/MPcfC6vsV9LKpSMVkvNFK4rSHVT6bpPdNT3s3nB7g/M/M_IMG_2837-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 64101,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-mxv4jDw/0/MRPLvPpnTrb27b9nSvQZnCCPvg5G3FLrt6bKzqznZ/L/M_IMG_2837-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-mxv4jDw/0/MRrKwJS5RCtkp44WdPvdRhPVpkcw54wjkJ5WKPN52/XL/M_IMG_2837-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 151835,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-mxv4jDw/0/MmczGTkDtqSjJQKTh9pz89x6LvgJpxzFFtms3tn8p/X2/M_IMG_2837-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-mxv4jDw/0/NN5D5kf857bhhZ4sFFRwnqbhrWTm3shCgGtmffmHf/X3/M_IMG_2837-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-mxv4jDw/0/MLLs9xHCdzjM479hJjhB5GfrJ92HBK9ksQtLb63Zf/X4/M_IMG_2837-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-mxv4jDw/0/Kx9xcCtW8cJ7Tqjtcwk8S2Jx4mk8Qg8nrpGKzPZ3N/X5/M_IMG_2837-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-mxv4jDw/0/LqZHxBVJm4HsmZNRtn7fPTPJWDmFTWD2vBFB2NXf7/O/M_IMG_2837.jpg",
+          "Ext": "jpg",
+          "Height": 2225,
+          "Width": 2967,
+          "Size": 1270557,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/mxv4jDw-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/mxv4jDw-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_2839.jpg",
+      "Date": "2025-10-03T17:21:33+00:00",
+      "Uri": "/api/v2/album/L28tdG/image/mq5JXFB-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-mq5JXFB/0/#size#/M_IMG_2839-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-mq5JXFB/0/Nb8r4MxMjKWBLSCnfqhx3fTcb7kJjV7kmjCLXTfk7/Ti/M_IMG_2839-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-mq5JXFB/0/L82GBb3QktGrpMH7PVmCX2MdzWCLqzRC6c79KdWD6/Th/M_IMG_2839-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-mq5JXFB/0/MLd7pzXQqDDwQXjgLbHG7rQjFMDZnfNSqcdc4nFsB/S/M_IMG_2839-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-mq5JXFB/0/MFCC5G7GT37WQJctgthfgNLZrR8tpMKPQ3QLDbpkh/M/M_IMG_2839-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 93393,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-mq5JXFB/0/KpFCmQKTn9HWQKVk2zL64p45V7bTMSgRtNMbL2bKv/L/M_IMG_2839-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-mq5JXFB/0/NWmXDsqnr7JKvqdMP7gtcDjvQVsq7txZWcdmLgHpG/XL/M_IMG_2839-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 237263,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-mq5JXFB/0/L5pd4L4v736WVgLgkkLXpGVHzq2Vgh8TSdCfL76kM/X2/M_IMG_2839-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-mq5JXFB/0/LvX5ZGqxDqFMdJmHWmL7LkmssQ4gFL3cV5V7rZt6j/X3/M_IMG_2839-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-mq5JXFB/0/NcxdxxWdXBXv9wfD3S8xbTHTdjwPmcfVChLg3q3KP/X4/M_IMG_2839-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-mq5JXFB/0/L2FKMmjvg6qL3vJ7RG7NV4B5Z97xKcKBrZnFP6c22/X5/M_IMG_2839-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-mq5JXFB/0/MNFqDbwCGM3qWmg6F9bWxGPMtqzCWT278rGt8M4wH/4K/M_IMG_2839-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-mq5JXFB/0/KgVjPTv6FRZwZZf66td48GtCSSVbmgLHF5BGL4Zz7/O/M_IMG_2839.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 3639349,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/mq5JXFB-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/mq5JXFB-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "46.196136111111",
+      "Longitude": "-123.82585833333",
+      "FileName": "L_IMG_6887.jpg",
+      "Date": "2025-10-03T17:21:31+00:00",
+      "Uri": "/api/v2/album/L28tdG/image/xCLjPss-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-xCLjPss/0/#size#/L_IMG_6887-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-xCLjPss/0/NTNc8CkPqx3rCBNCWVr5JJgCwVJjZL4G8Kfbv9HRh/Ti/L_IMG_6887-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-xCLjPss/0/KVP3wkwXRVKPPQd5MKxp55DH97rB3kQWJZhpzPj5J/Th/L_IMG_6887-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-xCLjPss/0/M4tzS9WgVdSpc92B8M8LD3bjRgNd5Tbf37XBhW29x/S/L_IMG_6887-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-xCLjPss/0/KmZDZSHbB4kMvB3TVXxqqbpLv85XMJgnpB8c3F7Gw/M/L_IMG_6887-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 99193,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-xCLjPss/0/L5hSqvtHwpcDXZkhqP38cZn83w5JVw45Q2Rk2Nr6J/L/L_IMG_6887-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-xCLjPss/0/LgrrzdrQwKR3XkgpMTkXfcxh6Bcw3CdCmwVCS54cR/XL/L_IMG_6887-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 253811,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-xCLjPss/0/KpHFsHhFvgbkPHfsDRVL4rxx7MWpG8xtssqBbCRTL/X2/L_IMG_6887-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-xCLjPss/0/KQtk6nmcGNpwm4H3s6CL3p43LtQ5QHjbFGqGdK3n7/X3/L_IMG_6887-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-xCLjPss/0/K8kPzGhBZVkBssvf8Sb7B4tXLJ4WRw6ZFHDps3tzk/X4/L_IMG_6887-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-xCLjPss/0/NGSMbjRR7vZ4z8vPgHT7LGFt9nZd5xmG47WTqKm6R/X5/L_IMG_6887-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-xCLjPss/0/L8Zp8twXdhfFwL7g3fV5ZNFVdJL8R8w2wTXNZzzGM/4K/L_IMG_6887-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-xCLjPss/0/LXzPWCnDpmV5qPQh764rrn8JcZbpLP35zSNdkBRXV/O/L_IMG_6887.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 4146745,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/xCLjPss-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/xCLjPss-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "46.195855555556",
+      "Longitude": "-123.82876666667",
+      "FileName": "L_IMG_6890.jpg",
+      "Date": "2025-10-03T17:21:27+00:00",
+      "Uri": "/api/v2/album/L28tdG/image/skMwkkg-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-skMwkkg/0/#size#/L_IMG_6890-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-skMwkkg/0/NLw4NX98gxjHt3d3wR93jfj2jLCZbfLHV6v8B6JJj/Ti/L_IMG_6890-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-skMwkkg/0/M93FJ5Rht5PFKb2TBNk7T9Nfs2cWdh977kgWvx33G/Th/L_IMG_6890-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-skMwkkg/0/MTws5rnJt2dDMVLNGLKs6xWTzzLLh3b2tJhSW56N4/S/L_IMG_6890-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-skMwkkg/0/LKhxQqrkHX2WmNqP4JdFFLvw9n8BDTRzB3szQfCmW/M/L_IMG_6890-M.jpg",
+          "Ext": "jpg",
+          "Height": 449,
+          "Width": 337,
+          "Size": 56514,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-skMwkkg/0/NNxmLcNDWSVDSVkLNbmdq4jmqrcv7xDZNHNCWwWNT/L/L_IMG_6890-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-skMwkkg/0/MXW5jFHR9H29qbtxtMHmZQJLCrxzmdGqxPKzNnQK7/XL/L_IMG_6890-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 125199,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-skMwkkg/0/LCkRSgpr2FTCT4V7fq5rFLbJ5nqKHtbqgdvD64ZNQ/X2/L_IMG_6890-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-skMwkkg/0/LxHGjNC75cHBf9cJ3t7r42PLv7q7G5LHPm36jjk9M/X3/L_IMG_6890-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-skMwkkg/0/MDbz5VFV9j4pPjcwnMFnZKkHP6nmM3J5LDvn3QF2d/X4/L_IMG_6890-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-skMwkkg/0/NVBN74kJzkKzFFFzkHJnLJBX95j7F2QVg7c9Mz5b8/X5/L_IMG_6890-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1919,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-skMwkkg/0/Nb3wMVrJ7CLTGXnh9mktvBQP473FtG8JLjwLQTvJr/O/L_IMG_6890.jpg",
+          "Ext": "jpg",
+          "Height": 3141,
+          "Width": 2355,
+          "Size": 1492884,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/skMwkkg-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/skMwkkg-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "46.195069444444",
+      "Longitude": "-123.83663055556",
+      "FileName": "L_IMG_6893.jpg",
+      "Date": "2025-10-03T17:21:26+00:00",
+      "Uri": "/api/v2/album/L28tdG/image/wvCSL2H-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-wvCSL2H/0/#size#/L_IMG_6893-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-wvCSL2H/0/LrD7xcCVTSkVVTbGWt9F6mnnPPT59xrxf7tc86R5x/Ti/L_IMG_6893-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-wvCSL2H/0/MXV8VGCpB4bCSw2pckLw6Gwqq8kBNxTFn8VfprqRx/Th/L_IMG_6893-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-wvCSL2H/0/NWhVXd5KtmSTsTnkgDmGS5xhNrJGxmdWxmDvvhKMW/S/L_IMG_6893-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-wvCSL2H/0/KZkCFPkhsGR5MHhhpj49H6KBTdFBLch5h8BQRc4R9/M/L_IMG_6893-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 109888,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-wvCSL2H/0/LrZkN8Sk98dg2PFccJ93wZQz9rfmj4NX3q94J7T4b/L/L_IMG_6893-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-wvCSL2H/0/LHrk5825NghGNSzJfxrLJFzXp5DVZBTG2cxvPrpmR/XL/L_IMG_6893-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 263185,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-wvCSL2H/0/LdfQqTZs9mmX98wmSRrRXrGT9bLMX7mQ4svnFpPSV/X2/L_IMG_6893-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-wvCSL2H/0/Nb47BvJpV9nGLbhRt4nRb6VXZKGbR3LXG5TkHKWZt/X3/L_IMG_6893-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-wvCSL2H/0/KK4cGTm3Dp2VghH2jRtN2SxzQgbsJzjgx4S9hjHMn/X4/L_IMG_6893-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-wvCSL2H/0/Mz39h8FbMk3MvwM5WvHNpNww7mbfLqnvRjqNw4xvJ/X5/L_IMG_6893-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-wvCSL2H/0/MmTx8WJQ3NqfRDVJzjWHTBwHhwJd4z65WRxRJLDPx/4K/L_IMG_6893-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-wvCSL2H/0/MJqv9GHtHKmLr3fShszdLZpcJgNZfGN8GFV93XGvV/O/L_IMG_6893.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 3560061,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/wvCSL2H-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/wvCSL2H-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "0",
+      "Longitude": "0",
+      "FileName": "M_IMG_2843.jpg",
+      "Date": "2025-10-03T17:21:29+00:00",
+      "Uri": "/api/v2/album/L28tdG/image/8TvLxPc-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-8TvLxPc/0/#size#/M_IMG_2843-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSize5K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-8TvLxPc/0/MGjnBZJvTBFZ3gxSNDHhTstN8ZGR2Kff5wnD8XDNs/Ti/M_IMG_2843-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-8TvLxPc/0/MsKbpxh3CmksRWdss4gWT2RqMwF9dbrx2Cgx6gLMH/Th/M_IMG_2843-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-8TvLxPc/0/LLHxq7K4Nn2Qd2Pcn3Bz4HKRHbFBsQ9gXTgJ7MrXW/S/M_IMG_2843-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-8TvLxPc/0/MWwPDN9dPZhrRGsVxnNcRjCw9Z9zhskqWfQdWCZkP/M/M_IMG_2843-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Size": 130949,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-8TvLxPc/0/L6KxcLq5wqH4pFtmXCRfN8mrzNm33cNJwr5T5QWbB/L/M_IMG_2843-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-8TvLxPc/0/MWs47Q6Zh392v9dF44HTR9cbxx37kJxP7Cpd7G3T3/XL/M_IMG_2843-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 318546,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-8TvLxPc/0/MqfGqv56m6bsg9vsfWJF92krQkWkbNHkhRKstqBdL/X2/M_IMG_2843-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-8TvLxPc/0/LWVHTCsd5n95kG9fVSnBfGnWFdg5TkNPMHTqTNPd3/X3/M_IMG_2843-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-8TvLxPc/0/LH5ZMn3rGJv9dT4w4CXW53zzGpkS2Nkrd6LHRS97f/X4/M_IMG_2843-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-8TvLxPc/0/MDWJb9gP9CpbxtczktqLv4cMSvJg2c4nWXpRR5GHR/X5/M_IMG_2843-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-8TvLxPc/0/KPWBHh8LJ3LkChSq8Tvw4Sf7ZPq6RkCfJXjVLZ9k8/4K/M_IMG_2843-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSize5K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-8TvLxPc/0/Kh6CPLsrzk63b4z6hKcWSr7D9nz6qdmdHkbKhDPJV/5K/M_IMG_2843-5K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 5120,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-8TvLxPc/0/LMh988Nx7BRFR5ZjmVx8RGZBDv3DdmTghngDcjkff/O/M_IMG_2843.jpg",
+          "Ext": "jpg",
+          "Height": 4284,
+          "Width": 5712,
+          "Size": 7446616,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/8TvLxPc-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/8TvLxPc-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "46.193652777778",
+      "Longitude": "-123.84840277778",
+      "FileName": "L_IMG_6898.jpg",
+      "Date": "2025-10-03T17:21:28+00:00",
+      "Uri": "/api/v2/album/L28tdG/image/PCdjQx4-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-PCdjQx4/0/#size#/L_IMG_6898-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-PCdjQx4/0/M9GLZMKh96GFMxfBPLRQrZnbLtP3pqkdz4vDQnNqF/Ti/L_IMG_6898-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-PCdjQx4/0/L5pjS5h3XCw42Q8bmMHcrvZrR5DkCG4GCFHZpMd4R/Th/L_IMG_6898-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-PCdjQx4/0/NWSQND6F5378hp2WrFmzbRTrGkvTJkNzCLbPk2xQ5/S/L_IMG_6898-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-PCdjQx4/0/Lntrtw7bqMfrGH9hT3WHzq4SR7DB6pg8Zq5NP8L7g/M/L_IMG_6898-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-PCdjQx4/0/KZCqKFqtMf5K7tChw65J4ZQdnHTbwpgDvtdnRrwpb/L/L_IMG_6898-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Size": 129177,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-PCdjQx4/0/LJKWtFV5B784vnLP4d6F8H25WwMSVXLLCpmCkCQMD/XL/L_IMG_6898-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 201583,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-PCdjQx4/0/NMswpZzqC7cggm5kfGzvS7rGr3tdfX2t5f3nDbQGm/X2/L_IMG_6898-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-PCdjQx4/0/M2JmQBpQCGx38hshMdWqhnMFt5PhbMvWsRJ4jq8Z3/X3/L_IMG_6898-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-PCdjQx4/0/NR37S5NCMsNTWVJjPWxr3cgq7rgrt2FbFmnsCT2JH/X4/L_IMG_6898-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-PCdjQx4/0/MFhf6RFRMWQKwQw8SbkGMtM7fPXk8R2sztJnMzWMX/X5/L_IMG_6898-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-PCdjQx4/0/KQ4HF9q98C8jMXBGNSrw4km7mgfDQL4HWrhJCfVSk/4K/L_IMG_6898-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-PCdjQx4/0/LvchhbQnNQJ6ZdmM8LctpDZGnjD4nVMRmmLRf7MxF/O/L_IMG_6898.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 4819880,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/PCdjQx4-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/PCdjQx4-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "46.193255555556",
+      "Longitude": "-123.85143333333",
+      "FileName": "L_IMG_6899.jpg",
+      "Date": "2025-10-03T17:21:27+00:00",
+      "Uri": "/api/v2/album/L28tdG/image/W2XMPX3-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-W2XMPX3/0/#size#/L_IMG_6899-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-W2XMPX3/0/Nh3qDSLqfpxdn8GLR7VkCbpTJbrnNP8QWf8VMGTvB/Ti/L_IMG_6899-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-W2XMPX3/0/MWWsMCQxHQ92PrXr7hNHmVktnZz5Fptjdvxk4gczn/Th/L_IMG_6899-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-W2XMPX3/0/NjmJX3z4Vt7Fh8tpGQtThxBhqc3K7Qv8SDZdbdTrB/S/L_IMG_6899-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 225,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-W2XMPX3/0/MgSVPdQh3nnvj4m9sjxt2JnRX3Hnqq4q6PCn9bk42/M/L_IMG_6899-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 338,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-W2XMPX3/0/MwDhb7p6KjTscZHWbDtz5XsLxbvg9pQVwfn92mTX8/L/L_IMG_6899-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 450,
+          "Size": 121216,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-W2XMPX3/0/KxzHjhkSWLpRWS8mx4Tjc3MM9bBTzV95WFtsqPHv6/XL/L_IMG_6899-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 576,
+          "Size": 183611,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-W2XMPX3/0/Lv4M6rHK7FtQ9cH3gtZpDPdb8mgt8kH4BK9WBDnM3/X2/L_IMG_6899-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 720,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-W2XMPX3/0/LrtmzqBt3H8KmjpWzwfDfhsJ9WgFtkTGhjTQbH2CB/X3/L_IMG_6899-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 900,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-W2XMPX3/0/KVq5FLTxps8GWWdTTqJj93rS4Gtf9BNPRKHRdCfTJ/X4/L_IMG_6899-X4.jpg",
+          "Ext": "jpg",
+          "Height": 2048,
+          "Width": 1536,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-W2XMPX3/0/KRnBMfsM82f4Df6MzPtqcv5LbZhbC7qnpBqrHvH4X/X5/L_IMG_6899-X5.jpg",
+          "Ext": "jpg",
+          "Height": 2560,
+          "Width": 1920,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-W2XMPX3/0/NX8zTfKWnshsRcfFzjvZLtwgbB4PRS56jvD86Tcvv/4K/L_IMG_6899-4K.jpg",
+          "Ext": "jpg",
+          "Height": 3840,
+          "Width": 2880,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-W2XMPX3/0/MRk5WrJpbzXKqrT6b76CM42b8gdnrCSjbGQ8BrvFm/O/L_IMG_6899.jpg",
+          "Ext": "jpg",
+          "Height": 4032,
+          "Width": 3024,
+          "Size": 4043304,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/W2XMPX3-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/W2XMPX3-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    },
+    {
+      "Latitude": "46.193027777778",
+      "Longitude": "-123.85263888889",
+      "FileName": "L_IMG_6900.jpg",
+      "Date": "2025-10-03T17:21:24+00:00",
+      "Uri": "/api/v2/album/L28tdG/image/W5RFNm3-0",
+      "ImageSizeDetails": {
+        "ImageUrlTemplate": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-W5RFNm3/0/#size#/L_IMG_6900-#size#.jpg",
+        "UsableSizes": [
+          "ImageSizeTiny",
+          "ImageSizeThumb",
+          "ImageSizeSmall",
+          "ImageSizeMedium",
+          "ImageSizeLarge",
+          "ImageSizeXLarge",
+          "ImageSizeX2Large",
+          "ImageSizeX3Large",
+          "ImageSizeX4Large",
+          "ImageSizeX5Large",
+          "ImageSize4K",
+          "ImageSizeOriginal"
+        ],
+        "LargestImageSize": "ImageSizeOriginal",
+        "ImageSizeTiny": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-W5RFNm3/0/NdvJNjNZG7rTTF935VXf6WZqsgSKrNv6QsXqjVGwX/Ti/L_IMG_6900-Ti.jpg",
+          "Ext": "jpg",
+          "Height": 100,
+          "Width": 100,
+          "Watermarked": false
+        },
+        "ImageSizeThumb": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-W5RFNm3/0/MShMRDvTSK7c5L47bQ2Lvq3hKc8vw39NppkSXHPHK/Th/L_IMG_6900-Th.jpg",
+          "Ext": "jpg",
+          "Height": 150,
+          "Width": 150,
+          "Watermarked": false
+        },
+        "ImageSizeSmall": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-W5RFNm3/0/Lx95B6bPHZz7gvbRp87vm7VXTtdr6qKjLxFv4FpBV/S/L_IMG_6900-S.jpg",
+          "Ext": "jpg",
+          "Height": 300,
+          "Width": 400,
+          "Watermarked": false
+        },
+        "ImageSizeMedium": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-W5RFNm3/0/MGjb2TXTH6Hwn8N7NDg4DxwngcshNRQ3KfqNC4wdT/M/L_IMG_6900-M.jpg",
+          "Ext": "jpg",
+          "Height": 450,
+          "Width": 600,
+          "Watermarked": false
+        },
+        "ImageSizeLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-W5RFNm3/0/LkZqRVj2DsPSztTrft8M2b75cRHz6Kcqp9fJQJN3d/L/L_IMG_6900-L.jpg",
+          "Ext": "jpg",
+          "Height": 600,
+          "Width": 800,
+          "Size": 209805,
+          "Watermarked": false
+        },
+        "ImageSizeXLarge": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-W5RFNm3/0/Mjn2PKHs3ghwcQCMM2wH66NCN7K93p3SNw56pDJXM/XL/L_IMG_6900-XL.jpg",
+          "Ext": "jpg",
+          "Height": 768,
+          "Width": 1024,
+          "Size": 332622,
+          "Watermarked": false
+        },
+        "ImageSizeX2Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-W5RFNm3/0/Ks8rRwV89Qk9CfQ5KkVxjSmhtDLBnDzQD9qqNMTwm/X2/L_IMG_6900-X2.jpg",
+          "Ext": "jpg",
+          "Height": 960,
+          "Width": 1280,
+          "Watermarked": false
+        },
+        "ImageSizeX3Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-W5RFNm3/0/NTF5zN3Hchr26mPCWdGQcshkFWfZznCL6bT2k66b8/X3/L_IMG_6900-X3.jpg",
+          "Ext": "jpg",
+          "Height": 1200,
+          "Width": 1600,
+          "Watermarked": false
+        },
+        "ImageSizeX4Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-W5RFNm3/0/MPMgGkDBnPc4jtqGvGfDGKtC6pk43HCFCxmgxznQM/X4/L_IMG_6900-X4.jpg",
+          "Ext": "jpg",
+          "Height": 1536,
+          "Width": 2048,
+          "Watermarked": false
+        },
+        "ImageSizeX5Large": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-W5RFNm3/0/KpJNqfqXVSqQn5xX6ZD7865J4nx32wNHnvmTqXbzR/X5/L_IMG_6900-X5.jpg",
+          "Ext": "jpg",
+          "Height": 1920,
+          "Width": 2560,
+          "Watermarked": false
+        },
+        "ImageSize4K": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-W5RFNm3/0/LqvfWGszgTf8zMSgPftbwsmQqCtbtv5s8hdVtjhfD/4K/L_IMG_6900-4K.jpg",
+          "Ext": "jpg",
+          "Height": 2880,
+          "Width": 3840,
+          "Watermarked": false
+        },
+        "ImageSizeOriginal": {
+          "Url": "https://photos.smugmug.com/Travel/2025-Portland-Spirit/i-W5RFNm3/0/Lnkbrdb33v6nJJ8K8Sx6gmDGVQPTdKNDCSkSTjK3j/O/L_IMG_6900.jpg",
+          "Ext": "jpg",
+          "Height": 3024,
+          "Width": 4032,
+          "Size": 4946268,
+          "Watermarked": false
+        },
+        "Uri": "/api/v2/image/W5RFNm3-0!sizedetails",
+        "UriDescription": "Detailed size information for image",
+        "Uris": {
+          "ImageSizeCustom": {
+            "Uri": "/api/v2/image/W5RFNm3-0!sizecustom",
+            "Locator": "ImageSizeCustom",
+            "LocatorType": "Object",
+            "UriDescription": "Image size: custom",
+            "EndpointType": "ImageSizeCustom"
+          }
+        }
+      }
+    }
+  ]
+}

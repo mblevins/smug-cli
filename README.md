@@ -1,5 +1,5 @@
 # smug-cli
-Smugmug cli
+This is the README for Smugmug cli. See also [trip-data](https://github.com/mblevins/trip-data)
 
 This is a CLI written for some specific tasks, not general purpose. It is intended to be easy to add commands to. It runs on Linux, OSX and Windows using WSL. 
 
@@ -30,7 +30,9 @@ To run everything:
 bash get-all-album-images.sh
 ```
 
-Will get all the json files. Note, this assumes you're running uv to manage python
+This will get all the json files, skipping any that are already there. Note this assumes you're running uv to manage python
+
+If adding a new album, rather than getting images for an old trip, you'll need to delete data/albums.json to force a refresh, otherwise it will skip the new album.
 
 Since this takes a while and rarely change, the files are checked into git
 
